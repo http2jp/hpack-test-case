@@ -1,4 +1,5 @@
 [{
+  "context": "request",
   "wire": "gWMLZXhhbXBsZS5jb22DhGwPaHBhY2stdGVzdC1jYXNlagh4eHh4eHh4MWAHeC1oZWxsbwV3b3JsZA==",
   "header": {
     "Host": "example.com",
@@ -11,6 +12,7 @@
   },
 },
 {
+  "context": "request",
   "wire": "Rkp0ZXh0L2h0bWwsYXBwbGljYXRpb24veGh0bWwreG1sLGFwcGxpY2F0aW9uL3htbDtxPTAuOSxpbWFnZS93ZWJwLCovKjtxPTAuOEgRZ3ppcCxkZWZsYXRlLHNkY2hJF2VuLVVTLGVuO3E9MC44LGphO3E9MC42UAltYXgtYWdlPTBRCmtlZXAtYWxpdmVABGhvc3QSYmxvZy5zdW1tZXJ3aW5kLmpwTHdNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF84XzUpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8zMC4wLjE1OTkuNjkgU2FmYXJpLzUzNy4zNg==",
   "header": {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
