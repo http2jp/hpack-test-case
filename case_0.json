@@ -8,8 +8,8 @@
     "Scheme": "https",
     "Cookie": "xxxxxxx1",
     "User-Agent": "hpack-test-case",
-    "X-Hello": "world",
-  },
+    "X-Hello": "world"
+  }
 },
 {
   "context": "request",

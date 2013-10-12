@@ -8,7 +8,7 @@
 		"Method":     "GET",
 		"User-Agent": "hpack-test",
 		"Cookie":     "xxxxxxx1",
-		"X-Hello":    "world",
+		"X-Hello":    "world"
   }
 },
 {
@@ -20,6 +20,6 @@
 		"Path":       "/",
 		"Method":     "GET",
 		"User-Agent": "hpack-test",
-		"Cookie":     "xxxxxxx2",
+		"Cookie":     "xxxxxxx2"
   }
 }]
