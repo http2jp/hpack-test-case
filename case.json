@@ -1,0 +1,17 @@
+[{
+  wire: "gWMHanhjay5pb4OEbAhodHRwMmNhdGoIeHh4eHh4eDFgB3gtaGVsbG8Fd29ybGQ=",
+  header: {
+    "Scheme": "https",
+    "Host": "jxck.io",
+    "Path": "/",
+    "Method": "GET",
+    "User-Agent": "hpack-test-case",
+    "Cookie": "xxxxxxx1",
+    "X-Hello": "world",
+  },
+},
+{
+  wire:"",
+  header:{}
+}
+]
