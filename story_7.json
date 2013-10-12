@@ -1,0 +1,162 @@
+[
+  {
+    "context": "request",
+    "wire": "hIBDE3N0YXRpYy5hay5mYmNkbi5uZXREIS9yc3JjLnBocC92Mi95Yi9yL0dzTkpOd3VJLVVNLmdpZkxRTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTAuODsgcnY6MTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNi4wRiFpbWFnZS9wbmcsaW1hZ2UvKjtxPTAuOCwqLyo7cT0wLjVJDmVuLVVTLGVuO3E9MC41SA1nemlwLCBkZWZsYXRlUQprZWVwLWFsaXZlTRhodHRwOi8vd3d3LmZhY2Vib29rLmNvbS8=",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "static.ak.fbcdn.net",
+      "Path": "/rsrc.php/v2/yb/r/GsNJNwuI-UM.gif",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.facebook.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "n6FfASEvcnNyYy5waHAvdjIveVkvci91OGlBM2tYYjhZMS5jc3NfAxJ0ZXh0L2NzcywqLyo7cT0wLjE=",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "static.ak.fbcdn.net",
+      "Path": "/rsrc.php/v2/yY/r/u8iA3kXb8Y1.css",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "text/css,*/*;q=0.1",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.facebook.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "pl8IIS9yc3JjLnBocC92Mi95SS9yL3FBTlZUc0M1MmZwLmNzcw==",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "static.ak.fbcdn.net",
+      "Path": "/rsrc.php/v2/yI/r/qANVTsC52fp.css",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "text/css,*/*;q=0.1",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.facebook.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "p6hfCiEvcnNyYy5waHAvdjIveXQvci9GWmFNS3FBUmdDNi5wbmeh",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "static.ak.fbcdn.net",
+      "Path": "/rsrc.php/v2/yt/r/FZaMKqARgC6.png",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.facebook.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "qaFfCyAvcnNyYy5waHAvdjIveVovci9qbEtEb1gxNWtIRy5qc18JAyovKg==",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "static.ak.fbcdn.net",
+      "Path": "/rsrc.php/v2/yZ/r/jlKDoX15kHG.js",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "*/*",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.facebook.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "qqtfDCEvcnNyYy5waHAvdjIveU8vci9fTVJhcnBoY0NJcS5jc3On",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "static.ak.fbcdn.net",
+      "Path": "/rsrc.php/v2/yO/r/_MRarphcCIq.css",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "text/css,*/*;q=0.1",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.facebook.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "rKdfDiAvcnNyYy5waHAvdjIveVAvci9DUmtpRERXVGQxdS5qc6s=",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "static.ak.fbcdn.net",
+      "Path": "/rsrc.php/v2/yP/r/CRkiDDWTd1u.js",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "*/*",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.facebook.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "pa2rXw8hL3JzcmMucGhwL3YyL3lYL3gvUXE2TDFoYVFyWXIucG5noV8HO2h0dHA6Ly9zdGF0aWMuYWsuZmJjZG4ubmV0L3JzcmMucGhwL3YyL3lJL3IvcUFOVlRzQzUyZnAuY3Nz",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "static.ak.fbcdn.net",
+      "Path": "/rsrc.php/v2/yX/x/Qq6L1haQrYr.png",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://static.ak.fbcdn.net/rsrc.php/v2/yI/r/qANVTsC52fp.css"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "rqGvXxAgL3JzcmMucGhwL3YyL3lOL3IvRWFyYldvX21EVS0uanOrpQ==",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "static.ak.fbcdn.net",
+      "Path": "/rsrc.php/v2/yN/r/EarbWo_mDU-.js",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "*/*",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.facebook.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "sKulXxIhL3JzcmMucGhwL3YyL3k3L3gvOWp0N29WZEY3ejMucG5noV8RO2h0dHA6Ly9zdGF0aWMuYWsuZmJjZG4ubmV0L3JzcmMucGhwL3YyL3lPL3IvX01SYXJwaGNDSXEuY3Nz",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "static.ak.fbcdn.net",
+      "Path": "/rsrc.php/v2/y7/x/9jt7oVdF7z3.png",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://static.ak.fbcdn.net/rsrc.php/v2/yO/r/_MRarphcCIq.css"
+    }
+  }
+]

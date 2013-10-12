@@ -1,0 +1,159 @@
+[
+  {
+    "context": "request",
+    "wire": "hIBDCnRhb2Jhby5jb22DTFFNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMC44OyBydjoxNi4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE2LjBGP3RleHQvaHRtbCxhcHBsaWNhdGlvbi94aHRtbCt4bWwsYXBwbGljYXRpb24veG1sO3E9MC45LCovKjtxPTAuOEkOZW4tVVMsZW47cT0wLjVIDWd6aXAsIGRlZmxhdGVRCmtlZXAtYWxpdmU=",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "taobao.com",
+      "Path": "/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "nl8ADnd3dy50YW9iYW8uY29t",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "www.taobao.com",
+      "Path": "/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "g0QRL2luZGV4X2dsb2JhbC5waHA=",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "www.taobao.com",
+      "Path": "/index_global.php",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "oKSlXwYKYS50YmNkbi5jbl8HHC9wL2ZwLzIwMTFhL2Fzc2V0cy9zcGFjZS5naWZfAiFpbWFnZS9wbmcsaW1hZ2UvKjtxPTAuOCwqLyo7cT0wLjVNJmh0dHA6Ly93d3cudGFvYmFvLmNvbS9pbmRleF9nbG9iYWwucGhw",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "a.tbcdn.cn",
+      "Path": "/p/fp/2011a/assets/space.gif",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.taobao.com/index_global.php"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "p6iDXwoSdGV4dC9jc3MsKi8qO3E9MC4x",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "a.tbcdn.cn",
+      "Path": "/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "text/css,*/*;q=0.1",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.taobao.com/index_global.php"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "g18JDS9wL2ZwLzIwMTFoay8=",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "a.tbcdn.cn",
+      "Path": "/p/fp/2011hk/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "text/css,*/*;q=0.1",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.taobao.com/index_global.php"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "qquDXwwDKi8q",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "a.tbcdn.cn",
+      "Path": "/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "*/*",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.taobao.com/index_global.php"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "g18NJS9wL2ZwLzIwMTBjL2pzL2ZwLWRpcmVjdC1wcm9tby1taW4uanM=",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "a.tbcdn.cn",
+      "Path": "/p/fp/2010c/js/fp-direct-promo-min.js",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "*/*",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.taobao.com/index_global.php"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "pqytXwgTaW1nMDEudGFvYmFvY2RuLmNvbV8PJi90cHMvaTEvVDFmcVkyWGlsZlhYYWhzVmdjLTEwMDAtNDAuanBnqA==",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "img01.taobaocdn.com",
+      "Path": "/tps/i1/T1fqY2XilfXXahsVgc-1000-40.jpg",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.taobao.com/index_global.php"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "r18RJi90cHMvaTEvVDFyWml3WGd0ZlhYWFhYWFhYLTExMC0xMzUucG5n",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "img01.taobaocdn.com",
+      "Path": "/tps/i1/T1rZiwXgtfXXXXXXXX-110-135.png",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.taobao.com/index_global.php"
+    }
+  }
+]

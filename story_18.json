@@ -1,0 +1,164 @@
+[
+  {
+    "context": "request",
+    "wire": "hIBDCXlhaG9vLmNvbYNMUU1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwLjg7IHJ2OjE2LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTYuMEY/dGV4dC9odG1sLGFwcGxpY2F0aW9uL3hodG1sK3htbCxhcHBsaWNhdGlvbi94bWw7cT0wLjksKi8qO3E9MC44SQ5lbi1VUyxlbjtxPTAuNUgNZ3ppcCwgZGVmbGF0ZVEKa2VlcC1hbGl2ZQ==",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "yahoo.com",
+      "Path": "/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "noOgXwAKZC55aW1nLmNvbURCL2hkL2NoN25ld3MvN193b3JsZC8xMTAzXzA3MDBfbmF0X2VsZXBoYW50X3NtbF8xODk4Y2hqLTE4OThjaGwuanBnXwIhaW1hZ2UvcG5nLGltYWdlLyo7cT0wLjgsKi8qO3E9MC41TRlodHRwOi8vYXUueWFob28uY29tLz9wPXVz",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "d.yimg.com",
+      "Path": "/hd/ch7news/7_world/1103_0700_nat_elephant_sml_1898chj-1898chl.jpg",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://au.yahoo.com/?p=us"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "pKWmp18GDGF1LnlhaG9vLmNvbYOgShhCPTRtMnJxdTU4OWE1MDcmYj0zJnM9MXY=",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "au.yahoo.com",
+      "Path": "/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Cookie": "B=4m2rqu589a507&b=3&s=1v"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "qIOgqaRfBwovbWkveXdhLmpzXwgDKi8qpw==",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "d.yimg.com",
+      "Path": "/mi/ywa.js",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "*/*",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://au.yahoo.com/?p=us"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "pKpfChF5dWkueWFob29hcGlzLmNvbV8MBi9jb21ibw==",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "yui.yahooapis.com",
+      "Path": "/combo",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "*/*",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://au.yahoo.com/?p=us"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "q6ytXw4ac2VjdXJlLWF1Lmltcndvcmxkd2lkZS5jb21fDwovY2dpLWJpbi9tpg==",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "secure-au.imrworldwide.com",
+      "Path": "/cgi-bin/m",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://au.yahoo.com/?p=us"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "rq9fEBdjaGFydC5maW5hbmNlLnlhaG9vLmNvbV8ROC9pbnN0cnVtZW50LzEuMC8lNUVheGpvL2NoYXJ0O3JhbmdlPTVkL2ltYWdlO3NpemU9MTc5eDk4XwtkQj00bTJycXU1ODlhNTA3JmI9MyZzPTF2OyBzZXNzaW9uX3N0YXJ0X3RpbWU9MTM1MTk0NzI3NTE2MDsga192aXNpdD0xOyBwdXNoX3RpbWVfc3RhcnQ9MTM1MTk0NzI5NTE2MA==",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "chart.finance.yahoo.com",
+      "Path": "/instrument/1.0/%5Eaxjo/chart;range=5d/image;size=179x98",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://au.yahoo.com/?p=us",
+      "Cookie": "B=4m2rqu589a507&b=3&s=1v; session_start_time=1351947275160; k_visit=1; push_time_start=1351947295160"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "sV8TOC9pbnN0cnVtZW50LzEuMC8lNUVhb3JkL2NoYXJ0O3JhbmdlPTVkL2ltYWdlO3NpemU9MTc5eDk4",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "chart.finance.yahoo.com",
+      "Path": "/instrument/1.0/%5Eaord/chart;range=5d/image;size=179x98",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://au.yahoo.com/?p=us",
+      "Cookie": "B=4m2rqu589a507&b=3&s=1v; session_start_time=1351947275160; k_visit=1; push_time_start=1351947295160"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "s18VOS9pbnN0cnVtZW50LzEuMC9hdWR1c2Q9eC9jaGFydDtyYW5nZT01ZC9pbWFnZTtzaXplPTE3OXg5OA==",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "chart.finance.yahoo.com",
+      "Path": "/instrument/1.0/audusd=x/chart;range=5d/image;size=179x98",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://au.yahoo.com/?p=us",
+      "Cookie": "B=4m2rqu589a507&b=3&s=1v; session_start_time=1351947275160; k_visit=1; push_time_start=1351947295160"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "prCytF8SGGNtLmF1LnlhaG9vLm92ZXJ0dXJlLmNvbV8WDS9qc19mbGF0XzFfMC+r",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "cm.au.yahoo.overture.com",
+      "Path": "/js_flat_1_0/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "*/*",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://au.yahoo.com/?p=us"
+    }
+  }
+]

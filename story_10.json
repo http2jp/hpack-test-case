@@ -1,0 +1,160 @@
+[
+  {
+    "context": "request",
+    "wire": "hIBDB21zbi5jb22DTFFNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMC44OyBydjoxNi4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE2LjBGP3RleHQvaHRtbCxhcHBsaWNhdGlvbi94aHRtbCt4bWwsYXBwbGljYXRpb24veG1sO3E9MC45LCovKjtxPTAuOEkOZW4tVVMsZW47cT0wLjVIDWd6aXAsIGRlZmxhdGVRCmtlZXAtYWxpdmU=",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "msn.com",
+      "Path": "/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "nl8AC3d3dy5tc24uY29t",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "www.msn.com",
+      "Path": "/",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "g6CkXwYOYWRzMS5tc2Fkcy5uZXREFS9saWJyYXJ5L3ByaW1lZG5zLmdpZl8CIWltYWdlL3BuZyxpbWFnZS8qO3E9MC44LCovKjtxPTAuNU0TaHR0cDovL3d3dy5tc24uY29tLw==",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "ads1.msads.net",
+      "Path": "/library/primedns.gif",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.msn.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "paZfBxFjb2wuc3RqLnMtbXNuLmNvbV8IDS9wcmltZWRucy5naWY=",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "col.stj.s-msn.com",
+      "Path": "/primedns.gif",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.msn.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "qapfCxFibHUuc3RjLnMtbXNuLmNvbV8MGy9hcy93ZWEzL2kvZW4tdXMvbGF3LzM5LmdpZg==",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "blu.stc.s-msn.com",
+      "Path": "/as/wea3/i/en-us/law/39.gif",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.msn.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "q6ypqg==",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "col.stj.s-msn.com",
+      "Path": "/primedns.gif",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.msn.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "qapfDRFjb2wuc3RjLnMtbXNuLmNvbV8OHi9ici9zYy9pL2ZmL2FkY2hvaWNlc19naWYyLmdpZg==",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "col.stc.s-msn.com",
+      "Path": "/br/sc/i/ff/adchoices_gif2.gif",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.msn.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "ra5fDxNjb2wuc3RiMDAucy1tc24uY29tXxAmL2kvODAvNTNDQUM2QTEwQjYyNDg2ODJDRjIyMUIyNEE5Mi5naWY=",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "col.stb00.s-msn.com",
+      "Path": "/i/80/53CAC6A10B6248682CF221B24A92.gif",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.msn.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "r7BfERNjb2wuc3RiMDEucy1tc24uY29tXxInL2kvRTAvQTZDMzEyNjM1RUYwQTM1NTY2OEM4MjBFQjUzNDMuanBn",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "col.stb01.s-msn.com",
+      "Path": "/i/E0/A6C312635EF0A355668C820EB5343.jpg",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.msn.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "sbKvXxQoL2kvQkIvQjFGNjE5QTFBRDRENEFBNkIwNjQ4QkRCQkNERUVELmpwZw==",
+    "header": {
+      "Method": "GET",
+      "Scheme": "http",
+      "Host": "col.stb00.s-msn.com",
+      "Path": "/i/BB/B1F619A1AD4D4AA6B0648BDBBCDEED.jpg",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "Accept-Language": "en-US,en;q=0.5",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "Referer": "http://www.msn.com/"
+    }
+  }
+]
