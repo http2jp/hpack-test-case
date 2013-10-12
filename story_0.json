@@ -1,5 +1,5 @@
 [{
-  "type": "request",
+  "context": "request",
   "wire": "gIRDC3lhaG9vLmNvLmpwg0xRTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTAuODsgcnY6MTYuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNi4wRj90ZXh0L2h0bWwsYXBwbGljYXRpb24veGh0bWwreG1sLGFwcGxpY2F0aW9uL3htbDtxPTAuOSwqLyo7cT0wLjhJDmVuLVVTLGVuO3E9MC41SA1nemlwLCBkZWZsYXRlUQprZWVwLWFsaXZlShhCPTc2ajA5YTE4OWE2aDQmYj0zJnM9MGI=",
   "header": {
     "Scheme": "http",
@@ -15,7 +15,7 @@
   }
 },
 {
-  "type": "request",
+  "context": "request",
   "wire": "Qw93d3cueWFob28uY28uanCe",
   "header": {
     "Scheme": "http",
@@ -31,7 +31,7 @@
   }
 },
 {
-  "type": "request",
+  "context": "request",
   "wire": "QwlrLnlpbWcuanBEJC9pbWFnZXMvdG9wL3NwMi9jbHIvMS9jbHItMTIxMDI1LmNzc0YSdGV4dC9jc3MsKi8qO3E9MC4xTRdodHRwOi8vd3d3LnlhaG9vLmNvLmpwL4OgpKU=",
   "header": {
     "Scheme": "http",
@@ -47,7 +47,7 @@
   }
 },
 {
-  "type": "request",
+  "context": "request",
   "wire": "RBcvaW1hZ2VzL3RvcC9zcC9sb2dvLmdpZkYhaW1hZ2UvcG5nLGltYWdlLyo7cT0wLjgsKi8qO3E9MC41p6g=",
   "header": {
     "Scheme": "http",
@@ -63,7 +63,7 @@
   }
 },
 {
-  "type": "request",
+  "context": "request",
   "wire": "REAvaW1hZ2VzL2Jvb2tzdG9yZS9jb21tb24vc3BlY2lhbC8yMDEyLzA4MjlfMDUvYmFubmVyLzg0eDg0XzEuanBnqg==",
   "header": {
     "Scheme": "http",
