@@ -3,30 +3,30 @@
     "context": "request",
     "wire": "hIBDC3lhaG9vLmNvLmpwgw==",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "yahoo.co.jp",
-      "Path": "/"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "yahoo.co.jp",
+      ":path": "/"
     }
   },
   {
     "context": "request",
     "wire": "nl8AD3d3dy55YWhvby5jby5qcA==",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "www.yahoo.co.jp",
-      "Path": "/"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "www.yahoo.co.jp",
+      ":path": "/"
     }
   },
   {
     "context": "request",
     "wire": "g59fAQlrLnlpbWcuanBEJi9pbWFnZXMvdG9wL3NwMi9jbW4vbG9nby1ucy0xMzA1MjgucG5n",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "k.yimg.jp",
-      "Path": "/images/top/sp2/cmn/logo-ns-130528.png"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "k.yimg.jp",
+      ":path": "/images/top/sp2/cmn/logo-ns-130528.png"
     }
   }
 ]

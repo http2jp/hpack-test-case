@@ -3,160 +3,160 @@
     "context": "request",
     "wire": "hIBDCXlhbmRleC5ydYNMUU1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwLjg7IHJ2OjE2LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTYuMEY/dGV4dC9odG1sLGFwcGxpY2F0aW9uL3hodG1sK3htbCxhcHBsaWNhdGlvbi94bWw7cT0wLjksKi8qO3E9MC44SQ5lbi1VUyxlbjtxPTAuNUgNZ3ppcCwgZGVmbGF0ZVEKa2VlcC1hbGl2ZQ==",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "yandex.ru",
-      "Path": "/",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
-      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-      "Accept-Language": "en-US,en;q=0.5",
-      "Accept-Encoding": "gzip, deflate",
-      "Connection": "keep-alive"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "yandex.ru",
+      ":path": "/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive"
     }
   },
   {
     "context": "request",
     "wire": "nl8ADXd3dy55YW5kZXgucnU=",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "www.yandex.ru",
-      "Path": "/",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
-      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-      "Accept-Language": "en-US,en;q=0.5",
-      "Accept-Encoding": "gzip, deflate",
-      "Connection": "keep-alive"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "www.yandex.ru",
+      ":path": "/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive"
     }
   },
   {
     "context": "request",
     "wire": "g6CkXwYOeWFicy55YW5kZXgucnVEZy9jb3VudC9WbndfM3pGMmRrTzQwMDAyWmhsOEtHYTVLUEsyY21QZk1lWXBPMnpHMHZBZU91QWVmWklBZ29BMktBZTJmUE9PUDk2eXE0YmExZkRLR1FDMWhsRFZlUU44R2ZWRDE3ZTdfAiFpbWFnZS9wbmcsaW1hZ2UvKjtxPTAuOCwqLyo7cT0wLjVNFWh0dHA6Ly93d3cueWFuZGV4LnJ1L0oidD1wOyB5YW5kZXh1aWQ9NjQxMDQ1Mzc3MTM1MTk0OTQ1MQ==",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "yabs.yandex.ru",
-      "Path": "/count/Vnw_3zF2dkO40002Zhl8KGa5KPK2cmPfMeYpO2zG0vAeOuAefZIAgoA2KAe2fPOOP96yq4ba1fDKGQC1hlDVeQN8GfVD17e7",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
-      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
-      "Accept-Language": "en-US,en;q=0.5",
-      "Accept-Encoding": "gzip, deflate",
-      "Connection": "keep-alive",
-      "Referer": "http://www.yandex.ru/",
-      "Cookie": "t=p; yandexuid=6410453771351949451"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "yabs.yandex.ru",
+      ":path": "/count/Vnw_3zF2dkO40002Zhl8KGa5KPK2cmPfMeYpO2zG0vAeOuAefZIAgoA2KAe2fPOOP96yq4ba1fDKGQC1hlDVeQN8GfVD17e7",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yandex.ru/",
+      "cookie": "t=p; yandexuid=6410453771351949451"
     }
   },
   {
     "context": "request",
     "wire": "pl8IZC9jb3VudC9WbndfM21mdDh3cTQwMDAwWmhsOEtHYTVLUDZ5cTRiYTFmREtobERWZVFOOEdmVkQxN2EzPXFjT240OUsyY21QZk1jYlFhZ1haV2dZQWdvQTJLQU1NNjZJY0Q3VzM=",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "yabs.yandex.ru",
-      "Path": "/count/Vnw_3mft8wq40000Zhl8KGa5KP6yq4ba1fDKhlDVeQN8GfVD17a3=qcOn49K2cmPfMcbQagXZWgYAgoA2KAMM66IcD7W3",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
-      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
-      "Accept-Language": "en-US,en;q=0.5",
-      "Accept-Encoding": "gzip, deflate",
-      "Connection": "keep-alive",
-      "Referer": "http://www.yandex.ru/",
-      "Cookie": "t=p; yandexuid=6410453771351949451"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "yabs.yandex.ru",
+      ":path": "/count/Vnw_3mft8wq40000Zhl8KGa5KP6yq4ba1fDKhlDVeQN8GfVD17a3=qcOn49K2cmPfMcbQagXZWgYAgoA2KAMM66IcD7W3",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yandex.ru/",
+      "cookie": "t=p; yandexuid=6410453771351949451"
     }
   },
   {
     "context": "request",
     "wire": "paeoqapfBwl5YW5kZXguc3RfDCYvbGVnby9fL3BEdTlPV0FRS0IwczJKOUlvaktwaVNfRWhvLmljb6A=",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "yandex.st",
-      "Path": "/lego/_/pDu9OWAQKB0s2J9IojKpiS_Eho.ico",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
-      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-      "Accept-Language": "en-US,en;q=0.5",
-      "Accept-Encoding": "gzip, deflate",
-      "Connection": "keep-alive"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "yandex.st",
+      ":path": "/lego/_/pDu9OWAQKB0s2J9IojKpiS_Eho.ico",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive"
     }
   },
   {
     "context": "request",
     "wire": "rKBfDhwvd3d3LzEuMzU5L3d3dy9pL3lhbmRleDMucG5np6g=",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "yandex.st",
-      "Path": "/www/1.359/www/i/yandex3.png",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
-      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
-      "Accept-Language": "en-US,en;q=0.5",
-      "Accept-Encoding": "gzip, deflate",
-      "Connection": "keep-alive",
-      "Referer": "http://www.yandex.ru/"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "yandex.st",
+      ":path": "/www/1.359/www/i/yandex3.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yandex.ru/"
     }
   },
   {
     "context": "request",
     "wire": "rV8PFi9tb3JkYS1sb2dvL2kvbG9nby5wbmc=",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "yandex.st",
-      "Path": "/morda-logo/i/logo.png",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
-      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
-      "Accept-Language": "en-US,en;q=0.5",
-      "Accept-Encoding": "gzip, deflate",
-      "Connection": "keep-alive",
-      "Referer": "http://www.yandex.ru/"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "yandex.st",
+      ":path": "/morda-logo/i/logo.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yandex.ru/"
     }
   },
   {
     "context": "request",
     "wire": "q65fDQxtYy55YW5kZXgucnVfEA0vd2F0Y2gvNzIyNTQ1qQ==",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "mc.yandex.ru",
-      "Path": "/watch/722545",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
-      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
-      "Accept-Language": "en-US,en;q=0.5",
-      "Accept-Encoding": "gzip, deflate",
-      "Connection": "keep-alive",
-      "Referer": "http://www.yandex.ru/",
-      "Cookie": "t=p; yandexuid=6410453771351949451"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "mc.yandex.ru",
+      ":path": "/watch/722545",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yandex.ru/",
+      "cookie": "t=p; yandexuid=6410453771351949451"
     }
   },
   {
     "context": "request",
     "wire": "p6+wqatfEjEvd3d3LzEuMzU5L3d3dy9wYWdlcy1kZXNrdG9wL3d3dy1jc3MvX3d3dy1jc3MuY3NzXwkSdGV4dC9jc3MsKi8qO3E9MC4x",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "yandex.st",
-      "Path": "/www/1.359/www/pages-desktop/www-css/_www-css.css",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
-      "Accept": "text/css,*/*;q=0.1",
-      "Accept-Language": "en-US,en;q=0.5",
-      "Accept-Encoding": "gzip, deflate",
-      "Connection": "keep-alive",
-      "Referer": "http://www.yandex.ru/"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "yandex.st",
+      ":path": "/www/1.359/www/pages-desktop/www-css/_www-css.css",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/css,*/*;q=0.1",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yandex.ru/"
     }
   },
   {
     "context": "request",
     "wire": "sbJfEyYvd3d3L18vX3I3cHAtYi1oS29EYmd5R1l5MElCM3dsa25vLnBuZ6c=",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "yandex.st",
-      "Path": "/www/_/_r7pp-b-hKoDbgyGYy0IB3wlkno.png",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
-      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
-      "Accept-Language": "en-US,en;q=0.5",
-      "Accept-Encoding": "gzip, deflate",
-      "Connection": "keep-alive",
-      "Referer": "http://www.yandex.ru/"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "yandex.st",
+      ":path": "/www/_/_r7pp-b-hKoDbgyGYy0IB3wlkno.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yandex.ru/"
     }
   }
 ]

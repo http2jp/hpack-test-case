@@ -3,158 +3,158 @@
     "context": "request",
     "wire": "hIBDCmFtYXpvbi5jb22DTFFNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMC44OyBydjoxNi4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE2LjBGP3RleHQvaHRtbCxhcHBsaWNhdGlvbi94aHRtbCt4bWwsYXBwbGljYXRpb24veG1sO3E9MC45LCovKjtxPTAuOEkOZW4tVVMsZW47cT0wLjVIDWd6aXAsIGRlZmxhdGVRCmtlZXAtYWxpdmU=",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "amazon.com",
-      "Path": "/",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
-      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-      "Accept-Language": "en-US,en;q=0.5",
-      "Accept-Encoding": "gzip, deflate",
-      "Connection": "keep-alive"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "amazon.com",
+      ":path": "/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive"
     }
   },
   {
     "context": "request",
     "wire": "noOgXwAXZy1lY3guaW1hZ2VzLWFtYXpvbi5jb21EOy9pbWFnZXMvRy8wMS9nbm8vYmVhY29uL0JlYWNvblNwcml0ZS1VUy0wMS5fVjQwMTkwMzUzNV8ucG5nXwIhaW1hZ2UvcG5nLGltYWdlLyo7cT0wLjgsKi8qO3E9MC41TRZodHRwOi8vd3d3LmFtYXpvbi5jb20v",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "g-ecx.images-amazon.com",
-      "Path": "/images/G/01/gno/beacon/BeaconSprite-US-01._V401903535_.png",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
-      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
-      "Accept-Language": "en-US,en;q=0.5",
-      "Accept-Encoding": "gzip, deflate",
-      "Connection": "keep-alive",
-      "Referer": "http://www.amazon.com/"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "g-ecx.images-amazon.com",
+      ":path": "/images/G/01/gno/beacon/BeaconSprite-US-01._V401903535_.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.amazon.com/"
     }
   },
   {
     "context": "request",
     "wire": "pV8HPy9pbWFnZXMvRy8wMS94LWxvY2FsZS9jb21tb24vdHJhbnNwYXJlbnQtcGl4ZWwuX1YzODY5NDI0NjRfLmdpZg==",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "g-ecx.images-amazon.com",
-      "Path": "/images/G/01/x-locale/common/transparent-pixel._V386942464_.gif",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
-      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
-      "Accept-Language": "en-US,en;q=0.5",
-      "Accept-Encoding": "gzip, deflate",
-      "Connection": "keep-alive",
-      "Referer": "http://www.amazon.com/"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "g-ecx.images-amazon.com",
+      ":path": "/images/G/01/x-locale/common/transparent-pixel._V386942464_.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.amazon.com/"
     }
   },
   {
     "context": "request",
     "wire": "qF8KWC9pbWFnZXMvRy8wMS9pbWcxMi9vdGhlci9kaXNhc3Rlci1yZWxpZWYvMzAwLWNvbHVtbi9zYW5keS1yZWxpZWZfMzAweDc1Ll9WNDAwNjg5NDkxXy5wbmc=",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "g-ecx.images-amazon.com",
-      "Path": "/images/G/01/img12/other/disaster-relief/300-column/sandy-relief_300x75._V400689491_.png",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
-      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
-      "Accept-Language": "en-US,en;q=0.5",
-      "Accept-Encoding": "gzip, deflate",
-      "Connection": "keep-alive",
-      "Referer": "http://www.amazon.com/"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "g-ecx.images-amazon.com",
+      ":path": "/images/G/01/img12/other/disaster-relief/300-column/sandy-relief_300x75._V400689491_.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.amazon.com/"
     }
   },
   {
     "context": "request",
     "wire": "pKanqV8GDnd3dy5hbWF6b24uY29tg6A=",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "www.amazon.com",
-      "Path": "/",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
-      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-      "Accept-Language": "en-US,en;q=0.5",
-      "Accept-Encoding": "gzip, deflate",
-      "Connection": "keep-alive"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "www.amazon.com",
+      ":path": "/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive"
     }
   },
   {
     "context": "request",
     "wire": "qoOgpF8LPy9pbWFnZXMvRy8wMS94LWxvY2FsZS9jb21tb24vdHJhbnNwYXJlbnQtcGl4ZWwuX1YxOTIyMzQ2NzVfLmdpZqan",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "g-ecx.images-amazon.com",
-      "Path": "/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
-      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
-      "Accept-Language": "en-US,en;q=0.5",
-      "Accept-Encoding": "gzip, deflate",
-      "Connection": "keep-alive",
-      "Referer": "http://www.amazon.com/"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "g-ecx.images-amazon.com",
+      ":path": "/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.amazon.com/"
     }
   },
   {
     "context": "request",
     "wire": "q18NWy9pbWFnZXMvRy8wMS9pbWcxMi9zaG9lcy9zYWxlc19ldmVudHMvMTFfbm92LzEwMzBfQWNjZXNzb3JpZXNQUk9NT19HV3JpZ2h0Ll9WNDAwNjI2OTUwXy5naWY=",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "g-ecx.images-amazon.com",
-      "Path": "/images/G/01/img12/shoes/sales_events/11_nov/1030_AccessoriesPROMO_GWright._V400626950_.gif",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
-      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
-      "Accept-Language": "en-US,en;q=0.5",
-      "Accept-Encoding": "gzip, deflate",
-      "Connection": "keep-alive",
-      "Referer": "http://www.amazon.com/"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "g-ecx.images-amazon.com",
+      ":path": "/images/G/01/img12/shoes/sales_events/11_nov/1030_AccessoriesPROMO_GWright._V400626950_.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.amazon.com/"
     }
   },
   {
     "context": "request",
     "wire": "rF8OPi9pbWFnZXMvRy8wMS9BdXRvbW90aXZlL3JvdG9zL0R1cmFjZWxsNjAwXzEyMC5fVjE5MjIwNDc2NF8uanBn",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "g-ecx.images-amazon.com",
-      "Path": "/images/G/01/Automotive/rotos/Duracell600_120._V192204764_.jpg",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
-      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
-      "Accept-Language": "en-US,en;q=0.5",
-      "Accept-Encoding": "gzip, deflate",
-      "Connection": "keep-alive",
-      "Referer": "http://www.amazon.com/"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "g-ecx.images-amazon.com",
+      ":path": "/images/G/01/Automotive/rotos/Duracell600_120._V192204764_.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.amazon.com/"
     }
   },
   {
     "context": "request",
     "wire": "rV8PQy9pbWFnZXMvRy8wMS91aS9sb2FkSW5kaWNhdG9ycy9sb2FkSW5kaWNhdG9yLWxhcmdlLl9WMTkyMTk1NDgwXy5naWY=",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "g-ecx.images-amazon.com",
-      "Path": "/images/G/01/ui/loadIndicators/loadIndicator-large._V192195480_.gif",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
-      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
-      "Accept-Language": "en-US,en;q=0.5",
-      "Accept-Encoding": "gzip, deflate",
-      "Connection": "keep-alive",
-      "Referer": "http://www.amazon.com/"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "g-ecx.images-amazon.com",
+      ":path": "/images/G/01/ui/loadIndicators/loadIndicator-large._V192195480_.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.amazon.com/"
     }
   },
   {
     "context": "request",
     "wire": "pK5fDBVlY3guaW1hZ2VzLWFtYXpvbi5jb21fECEvaW1hZ2VzL0kvNDFIWi1ORC1TVUwuX1NMMTM1Xy5qcGc=",
     "header": {
-      "Method": "GET",
-      "Scheme": "http",
-      "Host": "ecx.images-amazon.com",
-      "Path": "/images/I/41HZ-ND-SUL._SL135_.jpg",
-      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
-      "Accept": "image/png,image/*;q=0.8,*/*;q=0.5",
-      "Accept-Language": "en-US,en;q=0.5",
-      "Accept-Encoding": "gzip, deflate",
-      "Connection": "keep-alive",
-      "Referer": "http://www.amazon.com/"
+      ":method": "GET",
+      "scheme": "http",
+      ":host": "ecx.images-amazon.com",
+      ":path": "/images/I/41HZ-ND-SUL._SL135_.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.amazon.com/"
     }
   }
 ]

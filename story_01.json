@@ -1,25 +1,27 @@
-[{
-  "context": "request",
-  "wire": "gWMLZXhhbXBsZS5jb22DhGwKaHBhY2stdGVzdGoIeHh4eHh4eDFgB3gtaGVsbG8Fd29ybGQ=",
-  "header": {
-		"Scheme":     "https",
-		"Host":       "example.com",
-		"Path":       "/",
-		"Method":     "GET",
-		"User-Agent": "hpack-test",
-		"Cookie":     "xxxxxxx1",
-		"X-Hello":    "world"
+[
+  {
+    "context": "request",
+    "wire": "gWMLZXhhbXBsZS5jb22DhGwKaHBhY2stdGVzdGoIeHh4eHh4eDFgB3gtaGVsbG8Fd29ybGQ=",
+    "header": {
+      "scheme": "https",
+      ":host": "example.com",
+      ":path": "/",
+      ":method": "GET",
+      "user-agent": "hpack-test",
+      "cookie": "xxxxxxx1",
+      "x-hello": "world"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "YwtleGFtcGxlLmNvbWwKaHBhY2stdGVzdGoIeHh4eHh4eDI",
+    "header": {
+      "scheme": "https",
+      ":host": "example.com",
+      ":path": "/",
+      ":method": "GET",
+      "user-agent": "hpack-test",
+      "cookie": "xxxxxxx2"
+    }
   }
-},
-{
-  "context": "request",
-  "wire": "YwtleGFtcGxlLmNvbWwKaHBhY2stdGVzdGoIeHh4eHh4eDI",
-  "header": {
-		"Scheme":     "https",
-		"Host":       "example.com",
-		"Path":       "/",
-		"Method":     "GET",
-		"User-Agent": "hpack-test",
-		"Cookie":     "xxxxxxx2"
-  }
-}]
+]
