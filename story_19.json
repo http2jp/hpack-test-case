@@ -4,7 +4,7 @@
     "wire": "hIBDCXlhbmRleC5ydYNMUU1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwLjg7IHJ2OjE2LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTYuMEY/dGV4dC9odG1sLGFwcGxpY2F0aW9uL3hodG1sK3htbCxhcHBsaWNhdGlvbi94bWw7cT0wLjksKi8qO3E9MC44SQ5lbi1VUyxlbjtxPTAuNUgNZ3ppcCwgZGVmbGF0ZVEKa2VlcC1hbGl2ZQ==",
     "header": {
       ":method": "GET",
-      "scheme": "http",
+      ":scheme": "http",
       ":host": "yandex.ru",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
@@ -19,7 +19,7 @@
     "wire": "nl8ADXd3dy55YW5kZXgucnU=",
     "header": {
       ":method": "GET",
-      "scheme": "http",
+      ":scheme": "http",
       ":host": "www.yandex.ru",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
@@ -34,7 +34,7 @@
     "wire": "g6CkXwYOeWFicy55YW5kZXgucnVEZy9jb3VudC9WbndfM3pGMmRrTzQwMDAyWmhsOEtHYTVLUEsyY21QZk1lWXBPMnpHMHZBZU91QWVmWklBZ29BMktBZTJmUE9PUDk2eXE0YmExZkRLR1FDMWhsRFZlUU44R2ZWRDE3ZTdfAiFpbWFnZS9wbmcsaW1hZ2UvKjtxPTAuOCwqLyo7cT0wLjVNFWh0dHA6Ly93d3cueWFuZGV4LnJ1L0oidD1wOyB5YW5kZXh1aWQ9NjQxMDQ1Mzc3MTM1MTk0OTQ1MQ==",
     "header": {
       ":method": "GET",
-      "scheme": "http",
+      ":scheme": "http",
       ":host": "yabs.yandex.ru",
       ":path": "/count/Vnw_3zF2dkO40002Zhl8KGa5KPK2cmPfMeYpO2zG0vAeOuAefZIAgoA2KAe2fPOOP96yq4ba1fDKGQC1hlDVeQN8GfVD17e7",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
@@ -51,7 +51,7 @@
     "wire": "pl8IZC9jb3VudC9WbndfM21mdDh3cTQwMDAwWmhsOEtHYTVLUDZ5cTRiYTFmREtobERWZVFOOEdmVkQxN2EzPXFjT240OUsyY21QZk1jYlFhZ1haV2dZQWdvQTJLQU1NNjZJY0Q3VzM=",
     "header": {
       ":method": "GET",
-      "scheme": "http",
+      ":scheme": "http",
       ":host": "yabs.yandex.ru",
       ":path": "/count/Vnw_3mft8wq40000Zhl8KGa5KP6yq4ba1fDKhlDVeQN8GfVD17a3=qcOn49K2cmPfMcbQagXZWgYAgoA2KAMM66IcD7W3",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
@@ -68,7 +68,7 @@
     "wire": "paeoqapfBwl5YW5kZXguc3RfDCYvbGVnby9fL3BEdTlPV0FRS0IwczJKOUlvaktwaVNfRWhvLmljb6A=",
     "header": {
       ":method": "GET",
-      "scheme": "http",
+      ":scheme": "http",
       ":host": "yandex.st",
       ":path": "/lego/_/pDu9OWAQKB0s2J9IojKpiS_Eho.ico",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
@@ -83,7 +83,7 @@
     "wire": "rKBfDhwvd3d3LzEuMzU5L3d3dy9pL3lhbmRleDMucG5np6g=",
     "header": {
       ":method": "GET",
-      "scheme": "http",
+      ":scheme": "http",
       ":host": "yandex.st",
       ":path": "/www/1.359/www/i/yandex3.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
@@ -99,7 +99,7 @@
     "wire": "rV8PFi9tb3JkYS1sb2dvL2kvbG9nby5wbmc=",
     "header": {
       ":method": "GET",
-      "scheme": "http",
+      ":scheme": "http",
       ":host": "yandex.st",
       ":path": "/morda-logo/i/logo.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
@@ -115,7 +115,7 @@
     "wire": "q65fDQxtYy55YW5kZXgucnVfEA0vd2F0Y2gvNzIyNTQ1qQ==",
     "header": {
       ":method": "GET",
-      "scheme": "http",
+      ":scheme": "http",
       ":host": "mc.yandex.ru",
       ":path": "/watch/722545",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
@@ -132,7 +132,7 @@
     "wire": "p6+wqatfEjEvd3d3LzEuMzU5L3d3dy9wYWdlcy1kZXNrdG9wL3d3dy1jc3MvX3d3dy1jc3MuY3NzXwkSdGV4dC9jc3MsKi8qO3E9MC4x",
     "header": {
       ":method": "GET",
-      "scheme": "http",
+      ":scheme": "http",
       ":host": "yandex.st",
       ":path": "/www/1.359/www/pages-desktop/www-css/_www-css.css",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
@@ -148,7 +148,7 @@
     "wire": "sbJfEyYvd3d3L18vX3I3cHAtYi1oS29EYmd5R1l5MElCM3dsa25vLnBuZ6c=",
     "header": {
       ":method": "GET",
-      "scheme": "http",
+      ":scheme": "http",
       ":host": "yandex.st",
       ":path": "/www/_/_r7pp-b-hKoDbgyGYy0IB3wlkno.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",

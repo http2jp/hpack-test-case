@@ -4,7 +4,7 @@
     "wire": "hIBDCnRhb2Jhby5jb22DTFFNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMC44OyBydjoxNi4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE2LjBGP3RleHQvaHRtbCxhcHBsaWNhdGlvbi94aHRtbCt4bWwsYXBwbGljYXRpb24veG1sO3E9MC45LCovKjtxPTAuOEkOZW4tVVMsZW47cT0wLjVIDWd6aXAsIGRlZmxhdGVRCmtlZXAtYWxpdmU=",
     "header": {
       ":method": "GET",
-      "scheme": "http",
+      ":scheme": "http",
       ":host": "taobao.com",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
@@ -19,7 +19,7 @@
     "wire": "nl8ADnd3dy50YW9iYW8uY29t",
     "header": {
       ":method": "GET",
-      "scheme": "http",
+      ":scheme": "http",
       ":host": "www.taobao.com",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
@@ -34,7 +34,7 @@
     "wire": "g0QRL2luZGV4X2dsb2JhbC5waHA=",
     "header": {
       ":method": "GET",
-      "scheme": "http",
+      ":scheme": "http",
       ":host": "www.taobao.com",
       ":path": "/index_global.php",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
@@ -49,7 +49,7 @@
     "wire": "oKSlXwYKYS50YmNkbi5jbl8HHC9wL2ZwLzIwMTFhL2Fzc2V0cy9zcGFjZS5naWZfAiFpbWFnZS9wbmcsaW1hZ2UvKjtxPTAuOCwqLyo7cT0wLjVNJmh0dHA6Ly93d3cudGFvYmFvLmNvbS9pbmRleF9nbG9iYWwucGhw",
     "header": {
       ":method": "GET",
-      "scheme": "http",
+      ":scheme": "http",
       ":host": "a.tbcdn.cn",
       ":path": "/p/fp/2011a/assets/space.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
@@ -65,7 +65,7 @@
     "wire": "p6iDXwoSdGV4dC9jc3MsKi8qO3E9MC4x",
     "header": {
       ":method": "GET",
-      "scheme": "http",
+      ":scheme": "http",
       ":host": "a.tbcdn.cn",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
@@ -81,7 +81,7 @@
     "wire": "g18JDS9wL2ZwLzIwMTFoay8=",
     "header": {
       ":method": "GET",
-      "scheme": "http",
+      ":scheme": "http",
       ":host": "a.tbcdn.cn",
       ":path": "/p/fp/2011hk/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
@@ -97,7 +97,7 @@
     "wire": "qquDXwwDKi8q",
     "header": {
       ":method": "GET",
-      "scheme": "http",
+      ":scheme": "http",
       ":host": "a.tbcdn.cn",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
@@ -113,7 +113,7 @@
     "wire": "g18NJS9wL2ZwLzIwMTBjL2pzL2ZwLWRpcmVjdC1wcm9tby1taW4uanM=",
     "header": {
       ":method": "GET",
-      "scheme": "http",
+      ":scheme": "http",
       ":host": "a.tbcdn.cn",
       ":path": "/p/fp/2010c/js/fp-direct-promo-min.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
@@ -129,7 +129,7 @@
     "wire": "pqytXwgTaW1nMDEudGFvYmFvY2RuLmNvbV8PJi90cHMvaTEvVDFmcVkyWGlsZlhYYWhzVmdjLTEwMDAtNDAuanBnqA==",
     "header": {
       ":method": "GET",
-      "scheme": "http",
+      ":scheme": "http",
       ":host": "img01.taobaocdn.com",
       ":path": "/tps/i1/T1fqY2XilfXXahsVgc-1000-40.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
@@ -145,7 +145,7 @@
     "wire": "r18RJi90cHMvaTEvVDFyWml3WGd0ZlhYWFhYWFhYLTExMC0xMzUucG5n",
     "header": {
       ":method": "GET",
-      "scheme": "http",
+      ":scheme": "http",
       ":host": "img01.taobaocdn.com",
       ":path": "/tps/i1/T1rZiwXgtfXXXXXXXX-110-135.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
