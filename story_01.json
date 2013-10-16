@@ -1,9 +1,9 @@
 [
   {
     "context": "request",
-    "wire": "gWMLZXhhbXBsZS5jb22DhGwKaHBhY2stdGVzdGoIeHh4eHh4eDFgB3gtaGVsbG8Fd29ybGQ=",
+    "wire": "gUMLZXhhbXBsZS5jb22DhEwKaHBhY2stdGVzdEoIeHh4eHh4eDFAB3gtaGVsbG8Fd29ybGQ=",
     "header": {
-      "scheme": "https",
+      ":scheme": "https",
       ":host": "example.com",
       ":path": "/",
       ":method": "GET",
@@ -14,9 +14,9 @@
   },
   {
     "context": "request",
-    "wire": "YwtleGFtcGxlLmNvbWwKaHBhY2stdGVzdGoIeHh4eHh4eDI",
+    "wire": "XwIIeHh4eHh4eDKgoQ==",
     "header": {
-      "scheme": "https",
+      ":scheme": "https",
       ":host": "example.com",
       ":path": "/",
       ":method": "GET",
