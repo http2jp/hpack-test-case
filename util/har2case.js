@@ -4,7 +4,7 @@ var fs   = require('fs'),
     path = require('path'),
     url  = require('url');
 
-var hpack = require('http2-hpack');
+var hpack = require('../../../node-http2-hpack/lib/hpack');
 var ctx = hpack.createRequestContext();
 
 if (process.argv.length < 3) {
@@ -32,7 +32,7 @@ for(var i=0; i<10; i++) {
     if (header.name == 'Host') {
       return;
     }
-    headers[header.name] = header.value
+    headers[header.name.toLowerCase()] = header.value
   });
 
   var buffer = ctx.compress(headers);
