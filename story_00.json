@@ -1,32 +1,21 @@
-[
-  {
-    "context": "request",
-    "wire": "hIBDC3lhaG9vLmNvLmpwgw==",
-    "header": {
-      ":method": "GET",
-      ":scheme": "http",
-      ":host": "yahoo.co.jp",
-      ":path": "/"
-    }
-  },
-  {
-    "context": "request",
-    "wire": "nl8AD3d3dy55YWhvby5jby5qcA==",
-    "header": {
-      ":method": "GET",
-      ":scheme": "http",
-      ":host": "www.yahoo.co.jp",
-      ":path": "/"
-    }
-  },
-  {
-    "context": "request",
-    "wire": "g59fAQlrLnlpbWcuanBEJi9pbWFnZXMvdG9wL3NwMi9jbW4vbG9nby1ucy0xMzA1MjgucG5n",
-    "header": {
-      ":method": "GET",
-      ":scheme": "http",
-      ":host": "k.yimg.jp",
-      ":path": "/images/top/sp2/cmn/logo-ns-130528.png"
-    }
-  }
-]
+[ { context: 'request',
+    wire: 'gocAhPZm2EeI9EZtaRLScXeH',
+    header: 
+     { ':method': 'GET',
+       ':scheme': 'http',
+       ':host': 'yahoo.co.jp',
+       ':path': '/' } },
+  { context: 'request',
+    wire: 'AovbbYnojNrSJaTi74M=',
+    header: 
+     { ':method': 'GET',
+       ':scheme': 'http',
+       ':host': 'www.yahoo.co.jp',
+       ':path': '/' } },
+  { context: 'request',
+    wire: 'AIT2ZthHh+RPRWmROLsDmQVojIYBFrgg44J0YC25NlZCU0xaD1kczL+DhA==',
+    header: 
+     { ':method': 'GET',
+       ':scheme': 'http',
+       ':host': 'k.yimg.jp',
+       ':path': '/images/top/sp2/cmn/logo-ns-130528.png' } } ]
