@@ -79,7 +79,7 @@
   },
   {
     "context": "request",
-    "wire": "hIOAgg==",
+    "wire": "hIOBgg==",
     "header": {
       ":method": "GET",
       ":scheme": "http",

@@ -1,173 +1,2657 @@
 [
   {
     "context": "request",
-    "wire": "gocDi9ttiejdY63iRLdPhwCHS1jBTFTWf4fkIulQtXMfPtzvb6qWtAUEL0f670JUyLYZ9XR8GRFfR3oT0fTw6P30GLdXcf/fRvc5Y/ob/7VEKJqiT9H+v79/j3/Lp6Fq5D0e4U8m/76OzN7dBA5yFIY57CWT9HgjFD1BRNUSfxiviPnEM46L6UOctSURU1geecdF/889F9KHOWpKIqawPPRfV5WlJZ0/0H9dXlaUlf8WjcvVTunAcVoiPTDBOf8YixZL+PDpFnV5WlJXF5n4eH0lrroslN06xxlr6vK0pKun+urytKSbKZ38/Dw+Hj9Pvd8Pnw+hrvl8Pz3W0e/5b53T/B333w==",
+    "wire": "gocDiPRGbWkS0nF3hz2+72+qlrQFBC9H+u9CVMi2GfV0fBkRX0d6E9H08Oj99Bikr6uh/P2GpIX/fR7hTyaBymKUxTdHBTxxb5gakhcXr4j5xDOOi+lDnLUlEVNYHnnHRf/PPRfShzlqSiKmsDz0X1eVpSWdP9B/XV5WlJX/FosWS/jw6RZ1eVpSURaKy9VO6ejAcVoiPwCHS1jBTFTWf4fkIulQtXMfKJLrtqp4lsQauxFOc+6+2bdC0t8=",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":authority": "www.youtube.com",
+      ":authority": "yahoo.co.jp",
       ":path": "/",
-      "connection": "keep-alive",
-      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-      "accept-encoding": "gzip,deflate,sdch",
-      "accept-language": "en-US,en;q=0.8",
-      "accept-charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.3",
-      "cookie": "VISITOR_INFO1_LIVE=5HLA4p4IpRA"
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b"
     }
   },
   {
     "context": "request",
-    "wire": "CYiBPSKtMiJbpwmZD0jAEwhepgbbbS5aqwGXniveps/WsiYQ/weOiPnEEwh0/0H9dXlaUhs/AZDOMXewA222J6N1jreJEt0DhYmMjQ==",
+    "wire": "CIvbbYnojNrSJaTi74k=",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":authority": "s.ytimg.com",
-      ":path": "/yts/cssbin/www-guide-vflAio4Bl.css",
-      "connection": "keep-alive",
-      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4",
-      "accept": "text/css,*/*;q=0.1",
-      "referer": "http://www.youtube.com/",
-      "accept-encoding": "gzip,deflate,sdch",
-      "accept-language": "en-US,en;q=0.8",
-      "accept-charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.3"
-    }
-  },
-  {
-    "context": "request",
-    "wire": "A5kPSMA4wvUwNttpctVYDLzxX/OvaHwwJxh/A4T+g/r/hIU=",
-    "header": {
-      ":method": "GET",
-      ":scheme": "http",
-      ":authority": "s.ytimg.com",
-      ":path": "/yts/jsbin/www-guide-vflYBwsId.js",
-      "connection": "keep-alive",
-      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4",
-      "accept": "*/*",
-      "referer": "http://www.youtube.com/",
-      "accept-encoding": "gzip,deflate,sdch",
-      "accept-language": "en-US,en;q=0.8",
-      "accept-charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.3"
-    }
-  },
-  {
-    "context": "request",
-    "wire": "ApgPSMATCF6mBtttKlrxl54rn/FDfjiRMIeFgoM=",
-    "header": {
-      ":method": "GET",
-      ":scheme": "http",
-      ":authority": "s.ytimg.com",
-      ":path": "/yts/cssbin/www-core-vfl4U5oJf.css",
-      "connection": "keep-alive",
-      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4",
-      "accept": "text/css,*/*;q=0.1",
-      "referer": "http://www.youtube.com/",
-      "accept-encoding": "gzip,deflate,sdch",
-      "accept-language": "en-US,en;q=0.8",
-      "accept-charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.3"
-    }
-  },
-  {
-    "context": "request",
-    "wire": "AIT2ORHPlw9IwDjC9TA222lS14y88V0zR9+UxOMPg4KG",
-    "header": {
-      ":method": "GET",
-      ":scheme": "http",
-      ":authority": "s.ytimg.com",
-      ":path": "/yts/jsbin/www-core-vfl63tHg3.js",
-      "connection": "keep-alive",
-      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4",
-      "accept": "*/*",
-      "referer": "http://www.youtube.com/",
-      "accept-encoding": "gzip,deflate,sdch",
-      "accept-language": "en-US,en;q=0.8",
-      "accept-charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.3"
-    }
-  },
-  {
-    "context": "request",
-    "wire": "AIT2ORHPlQ9IwBWmQOV5iuXniub1o/WP6JkrH4I=",
-    "header": {
-      ":method": "GET",
-      ":scheme": "http",
-      ":authority": "s.ytimg.com",
-      ":path": "/yts/img/pixel-vfl3z5WfW.gif",
-      "connection": "keep-alive",
-      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4",
-      "accept": "*/*",
-      "referer": "http://www.youtube.com/",
-      "accept-encoding": "gzip,deflate,sdch",
-      "accept-language": "en-US,en;q=0.8",
-      "accept-charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.3"
-    }
-  },
-  {
-    "context": "request",
-    "wire": "AIT2ORHPmQ9IwBWmQQUvNuoxiM9cvPFfyw1qhmRzMv+C",
-    "header": {
-      ":method": "GET",
-      ":scheme": "http",
-      ":authority": "s.ytimg.com",
-      ":path": "/yts/img/silhouette48-vflLdu7sh.png",
-      "connection": "keep-alive",
-      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4",
-      "accept": "*/*",
-      "referer": "http://www.youtube.com/",
-      "accept-encoding": "gzip,deflate,sdch",
-      "accept-language": "en-US,en;q=0.8",
-      "accept-charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.3"
-    }
-  },
-  {
-    "context": "request",
-    "wire": "AIT2ORHPnA9IwBWmQPHF4wzC9uHpcxqoDLzxXdSWXyiRzMuC",
-    "header": {
-      ":method": "GET",
-      ":scheme": "http",
-      ":authority": "s.ytimg.com",
-      ":path": "/yts/img/refresh/body_noise-vfl_60-qt.png",
-      "connection": "keep-alive",
-      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4",
-      "accept": "*/*",
-      "referer": "http://www.youtube.com/",
-      "accept-encoding": "gzip,deflate,sdch",
-      "accept-language": "en-US,en;q=0.8",
-      "accept-charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.3"
-    }
-  },
-  {
-    "context": "request",
-    "wire": "AIT2ORHPmg9IwBWmV6mBtttK8cXjDOXniv9ql0r2I5mXgg==",
-    "header": {
-      ":method": "GET",
-      ":scheme": "http",
-      ":authority": "s.ytimg.com",
-      ":path": "/yts/imgbin/www-refresh-vflXi-m8w.png",
-      "connection": "keep-alive",
-      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4",
-      "accept": "*/*",
-      "referer": "http://www.youtube.com/",
-      "accept-encoding": "gzip,deflate,sdch",
-      "accept-language": "en-US,en;q=0.8",
-      "accept-charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.3"
-    }
-  },
-  {
-    "context": "request",
-    "wire": "DI5GEuRMG63rFK1J5EYMfwLiD501UnBGCg05RJ6RzboNxvMwdUPW03mbqipY2zdTloja5PVgm7AcNXWm6uSX26w6uWSLZTdXLLK2U3VyXlaLOrlp6YWowuS8URVzG6bq5Rt/vqa/C2ayuY1c9lFc0556Zv+TD7NWFpzmmPWN86CmKXHD/v/Y2mmoNXXZTMX/oxtqmL/1MLSlOc02OE9d6UGPPPPXVNXSec2Eio8=",
-    "header": {
-      ":method": "GET",
-      ":scheme": "http",
-      ":authority": "ad-g.doubleclick.net",
-      ":path": "/N6762/adi/mkt.ythome_1x1/;sz=1x1;tile=3;plat=pc;dc_dedup=1;kcr=us;kga=-1;kgg=-1;klg=en;kmyd=ad_creative_3;kt=K;ord=3983184958342463",
-      "connection": "keep-alive",
-      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4",
+      ":authority": "www.yahoo.co.jp",
+      ":path": "/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-      "referer": "http://www.youtube.com/",
-      "accept-encoding": "gzip,deflate,sdch",
-      "accept-language": "en-US,en;q=0.8",
-      "accept-charset": "ISO-8859-1,utf-8;q=0.7,*;q=0.3",
-      "cookie": "id=221328eb4a0100fd||t=1351889630|et=730|cs=002213fd48bca1244487386241"
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIj2I1jm16o+n4fkT0VpkTi7CZcFaIyGARa4IOOCVvAwJW+UxzFPQRMIfwiOiPnEEwh0/0H9dXlaUhs/AZDOMXewA222J6Iza0iWk4uDhYaKjA==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "k.yimg.jp",
+      ":path": "/images/top/sp2/clr/1/clr-121025.css",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/css,*/*;q=0.1",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "A48FaIyGARa4IOBbcmkyVj8DmlaIyEHMy6VaIyEP66vK0pK+n+g/rq8rSko/hIU=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "k.yimg.jp",
+      ":path": "/images/top/sp/logo.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AqoFaIyGAXtbyhFrxBLdNGsCDhSpCwOUxwLWey4tAXoYwXhXP51z3GJxdl+D",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "k.yimg.jp",
+      ":path": "/images/bookstore/common/special/2012/0829_05/banner/84x84_1.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "B4304o80k9EZtaRLScXfAoIGqwSE/oP6/4yEhYo=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "yjaxc.yahoo.co.jp",
+      ":path": "/oi",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "igKeBWiMhgGwojmLwyFgvQsIvQyDkPFkboAlbdcIEyVjhoKDhI0=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "k.yimg.jp",
+      ":path": "/images/weather/general/transparent_s/clouds.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPnAVojIYBsKI5i8MhYL0LCL0Mg5DxZG6AQ1YTJWOC",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "k.yimg.jp",
+      ":path": "/images/weather/general/transparent_s/sun.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPqgVojIYBe1vKEWvEEt00awIOFKkLA5THAtZ7Li0BehjBeFc/nXPccnF2X4I=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "k.yimg.jp",
+      ":path": "/images/bookstore/common/special/2012/0829_05/banner/84x84_2.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPqwVojIYA546K10BLWRFkYBex4HKY4UF86CgWw9d0IteN0NXC9iI6vQsnF2WC",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "k.yimg.jp",
+      ":path": "/images/premium/contents/bnr/2012/50x50/0928_store_supernatural.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPqgVojIYBe1vKEWvEEt00awIOFKkLA5THAtZ7Li0BehjBeFc/nXPdMTi7L4I=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "k.yimg.jp",
+      ":path": "/images/bookstore/common/special/2012/0829_05/banner/84x84_3.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPqgVojIYBe1vKEWvEEt00awIOFKkLA5THAtZ7Li0BehjBeFc/nXPdQTi7L4I=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "k.yimg.jp",
+      ":path": "/images/bookstore/common/special/2012/0829_05/banner/84x84_5.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "CYhCieitMicXfwKnC/DmFBSloOBi1lrsnA5THMU9gaDqv1ofyZo2+PHHy09PWuVBMlY/g5I=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/500052/1080894/20121029/meulz5rknmobtjfqmyz8-a.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "i4qJlIGCjQ==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "yjaxc.yahoo.co.jp",
+      ":path": "/oi",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "ggCE9jkRz6YL8OYVFoLSBi1nOWwDlMcxTzhjjpsrbD0vbjt6Qxj5sQaVBMlY/46Ki4yV",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/70506/1082209/20121024/ffmwiwdybofwysftxna1-a.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPnAvw5h6Iza0OKOaIJep0Q9MUXc1Q1Qui6N7icYeLgo8=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/yahoo/javascript/yfa_visual5_tbp.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "lQCE9jkRz5gOKOaIJep0QxddeiA3X4XZIuoIUk5ycYeXgoU=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "www.yahoo.co.jp",
+      ":path": "/javascript/fp_base_bd_ga_5.0.42.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "hQCE9jkRz6EL8OYeiM2tDijmiCXqdEEwSBylpLWecFqvO2/G6+knGH+Cl5g=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/yahoo/javascript/csc/20060824/lib2obf_b6.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "lgCE9jkRz5cFaIyGARa4IOODnhG+6/KUxymMUjmZf5KCh44=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "k.yimg.jp",
+      ":path": "/images/top/sp2/pr/tb_bg-120110.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPnAVojIYBFrgg44a54Bm3QXIyG6/KUxymPMRzMv+C",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "k.yimg.jp",
+      ":path": "/images/top/sp2/uhd/homepage_bg-120123.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPlAVojIYBBSWsgF7W8oRa8TUkyVj/gg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "k.yimg.jp",
+      ":path": "/images/sicons/bookstore16.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPkQVojIYBBSWsgGjeahNSTJWPgg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "k.yimg.jp",
+      ":path": "/images/sicons/movie16.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPkAVojIYBBSWsgGSNBNSTJWOC",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "k.yimg.jp",
+      ":path": "/images/sicons/game16.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPmAVojIYBFrgg44J0YDlJuQtcpjmKWcjmZYI=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "k.yimg.jp",
+      ":path": "/images/top/sp2/cmn/pic_all-121004.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPkgVojIYBBSWsgGLXx1YJqSZKx4I=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "k.yimg.jp",
+      ":path": "/images/sicons/fortune16.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPmAVojIYBFrgg44DpkGCoIhEX3Ris5HMy/4I=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "k.yimg.jp",
+      ":path": "/images/top/sp2/emg/disaster_ttl2.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPmgVojIYBzVgLZYtcpMAeKQMcxgLNcJTE4uy/gg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "k.yimg.jp",
+      ":path": "/images/video-topics/rec/1211/03_e01.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPlwVojIYBFrgg44JW8DAlb5THMU9BHMy/HaLOMXewA5E9FaZE4uBWiMhgEWuCDjglbwMCVvlMcxT0ETCHg54=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "k.yimg.jp",
+      ":path": "/images/top/sp2/clr/1/clr-121025.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://k.yimg.jp/images/top/sp2/clr/1/clr-121025.css"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "ApkFaIyGARa4IOOCdHAlujrkLXKY5imORzMvn4KD",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "k.yimg.jp",
+      ":path": "/images/top/sp2/cmp/comp_all-121012.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPmgVojIYBFrgg44Qc2K1ZZxA5TGAxZjNJxdl/gg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "k.yimg.jp",
+      ":path": "/images/top/sp2/spotlight/2011/1031o.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "E4pg7QIknorTInF3AqEFaIyGARa5SYAcpjmMWaUpSlKayaWDs5SlLLHPXS8nF2WDpQ==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "news.c.yimg.jp",
+      ":path": "/images/topics/20121103-00000193-sph-000-thumb.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "lQCE9jkRz6UL8OYHPNUBi1lmmKBymOYxZgvypg2qF+SfIWJsd6U+fKVBOLsvgoM=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/2237/1080330/20121103/bg6so7sbgcqenc9py6xk-a.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "pwCE9jkRz4gMUc1Jawikt62pgpeipA==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "www.yahoo.co.jp",
+      ":path": "/favicon.ico",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "lwCE9jkRz5UFaIyGAQFOr1R9AdiHpxgKdXiTjD+fCKvOMXewAwQpfowdoE9EZtaRLScXBikIOa+MAYpzmsugL1DAPaaag1k009k/g6qrrw==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/images/security/pf/yjsecure.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "ogKJDjAPTijzSTjDrIOa",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "yjaxc.yahoo.co.jp",
+      ":path": "/js/yjaxc.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "B4/BCl+jB2gT0Rm1pEtJxd8CkAxSEHNfGAMU5zWXQF6hgH+yqS7s67aqeJbEGrsRTnPuvtm3QtLf1dH8+Pj9Pr8Ozw4df37t/bbhbx18dYTd/xw3047/r/f2ZN3/H0b+ufLxR/Kfgf7sy+qvz/fdN19/Ovfw/ZOyfx78i6x277tf3ldD+2Veh/Tt/PD++6XdztN/hIWkpq8=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "dailynews.yahoo.co.jp",
+      ":path": "/fc/sports/nippon_series/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.yahoo.co.jp/",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b; YJTOPICSFBREAD=d=juTus3MJdA6fAPKQn3MJyoWvkTaY6I2RngPiVKE3BMv8AFX.C4TMg0utwM_uXg_sKn7y2yDVFKE-&v=1"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gYICiwxSHGAY33OSTjD/pYaDq7Q=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "dailynews.yahoo.co.jp",
+      ":path": "/fc/js/fb_pc.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b; YJTOPICSFBREAD=d=juTus3MJdA6fAPKQn3MJyoWvkTaY6I2RngPiVKE3BMv8AFX.C4TMg0utwM_uXg_sKn7y2yDVFKE-&v=1"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "ub2gA6cL8OYVGpPYBi1TUmrA5THMU9gejvNPp6DyTc/XP0dgqHlrKgnF2X8/Mb7vb6qWtAUEL0f670JUyLYZ9XR8GRFfR3oT0fTw6P30GKSvq6H8/Yakhf99HuFPJoHKYpTFN0cFPHFvmBqSF62Fhoip",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/71629/1073618/20121029/ypxcyyekc_ruhypdisqu-a.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "CIdRPRWmROLvA40FaIyGAMHaAYpJkrH/PwmLFkv48OkWdXlaUlE/CIrL1U7p6MBxWiI/AIdLWMFMVNZ/h+Qi6VC1cx+Hpw==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/news/fc.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "BI4FaIyGAKS1gOzbFpMlY4U=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/icon/photo.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPjQVojIYBpmDB2gTJWP+C",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/mh/news.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "qQCE9jkRz6QL8OYTFAxaqjznA5THMU9gK871QXrZ6ZJ9fP1w5YsdGVBOLsuCiA==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/30/1077242/20121029/ixbislu9ygczxzdkfnpt-a.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "iACE9jkRz54FaIyGAMHaAYoSN7W8gYO0LuCEje1vK6qnzqpI5mWCqw==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/news/facebook/news_Facebook_76x76.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPkQVojIYA9DlYAYlBChquJOMPs4K3",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/rapid/1.5.0/ult.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPiwVojIYAwdjkyVj/NJpWiMhBzMulWiMhD+urytKSvp/oP66vK0pKP4O1",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/new2.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "ApsFaIyGARa5SYBsrkoGDCLXKTC5SWsunKRzMv+D",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/topics/wiki/nestopics_icon_40.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "rwCE9jkRz5kL8OYeiM2tDijmiCXqdEPTFF3NUNULoJxht4KDjg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/yahoo/javascript/yfa_visual5.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPpQvw5gayYDFqOc9QHKY5insDX09duTh8+MPX0Uf1yTGd0qCZKx+Egg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/193/1072227/20121029/uyzwkpexjszyi2zgct4p-a.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPpAvw5geyiwDFroMeoDlMcxinDBC+fOx1mO1kXqvRsjYZUEyVj4I=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/2959/1085127/20121102/dalvv9p9fw9tribawawe-a.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPpQvw5geyiwDFroMecDlMcxinC/1sf65MeOnpgjzvdOrO+VBMlY+C",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/2959/1085124/20121102/bz9rzgnremydaxbp4ihb-a.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "kQCE9jkRz6EFaIyGARa5SYBsrkoBwVFrwi1ykwuc+5amclaZXLORzMuCtA==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/topics/wiki/editor/topics_pr_linkimg_l2.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "EopbokST0VpkTi7/AsAFaXQVllRNVp8Ji9vhZn+h/wfc79Lqo+0ssvmcpZfQ1hZfKwoI0wA5THMYs0pSlKWic8sEMg5spSll5qHYnF2Xg5Q=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "lpt.c.yimg.jp",
+      ":path": "/im_sigg537mI30DS9hWeZeGpWl75Q---x200-y190-q90/amd/20121103-00000542-sanspo-000-view.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AopGmBEk9FaZE4u/As0FaXQVll79V93H5bZev19H/nt5f5Y35/VmUssvmcpZfQ000vlYUEaYAcpjmLMaUpSlorPXL6cbkte6LxZhKUpZaDU1FnKaXmodicXZf4OE",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "amd.c.yimg.jp",
+      ":path": "/im_siggHulEjLwgzPyrVDkZ9oNPng---x200-y133-q90/amd/20121031-00005828-yj_corptrend-000-51670401-view.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPzAVpdBWWT+/t+U3+OZ5M275/8Nw/nPP9n+0ssvmcpZfQ000vlYUEaYAcpjmMU0pSlLRXMWX043Ja90XizCUpSy0GqoNOUsvNQ7E4uy+C",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "amd.c.yimg.jp",
+      ":path": "/im_siggrMDL3ZpnqnwM4Z1FYvhX2Q---x200-y133-q90/amd/20121101-00005830-yj_corptrend-000-51751400-view.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "lwCE9jkRz5YFaIyGARa5SYAmEAVo5r43cxeciYQ/DY6I+cQTCHT/Qf11eVpSG4OFjg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/topics/css/import_ver2.css",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/css,*/*;q=0.1",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AqUFaIyGAJbpoL0iHGALVfAOPlqL/QEteIGJOQ4cfLUX+hNFMJxhAoT+g/r/g4Q=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/commerce/js/libs/jquery/core/1.4.2/jquery.min.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "B4hCieitMicXfwOcD01UHFwa54A1fpo5SQMQpDgrTINc8OzNnIjmZZKDhJ0=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/yui/jp/uhd/olympic/1.0.2/img/uhdChnk.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "nQCE9jkRz50FaIyGAMHaAczB6MuyYjmq6DnqiNxymOWw9JHMyyirzjF3sAFE9FaZE4uBWiMhgEWuUmAJhAFaOa+N3MXnImEPbgiI2nKY5ins/4OEqQ==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/news/v1/yn_gnavi_sprite_20120926.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/topics/css/import_ver2.css?date=20121029"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "BI304o80k9EZtaRLScXfA4IGq4erJ5Lrtqp4lsQauxFOc+6+2bdC0t+EhZei",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "yjaxc.yahoo.co.jp",
+      ":path": "/oi",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "yjaxc.yahoo.co.jp",
+      ":path": "/oi",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "ogKVBWiMhgEWuUmAQalSFhfFnf5kczL/mIWCg4SJrQ==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/topics/social/btnMx.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/topics/css/import_ver2.css?date=20121029"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPnQVojIYBFrlJgGyuSg9ItcpMLoOeqI3KS1kCOZl/gg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/topics/wiki/ytopics_sprite_icons.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/topics/css/import_ver2.css?date=20121029"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPoQVojIYBFrlJgGyuSg9ItcpMLoOeqI3XoTyye3VmECOZl4I=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/topics/wiki/ytopics_sprite_backgrounds.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/topics/css/import_ver2.css?date=20121029"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPlwVojIYBFrlJgGyuSgeK/FF/yHGJMlY/gg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/topics/wiki/relTabLeft.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/topics/css/import_ver2.css?date=20121029"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPmAVojIYBFrlJgGyuSgeK/FF/3VlnEmSsf4I=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/topics/wiki/relTabRight.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/topics/css/import_ver2.css?date=20121029"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPlwVojIYBFrlJgGyuSgv1WsY3LVCJMlY/gg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/topics/wiki/bullet_list.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/topics/css/import_ver2.css?date=20121029"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "jQCE9jkRz5cPTVQcXBrjEDEKQoK0yDWOPZmzkRzMv7OCi6k=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/yui/jp/uft/1.0.0/img/utfChnk.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "qQCE9jkRz5kFaIyGARa5SYBsrkoEJS3VkfFUVj15EczLjIKPtA==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/topics/wiki/accountTitleBg.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/topics/css/import_ver2.css?date=20121029"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPmgVojIYBFrlJgEGpUhYQc9URuUlvgyBqSOZlgg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/topics/social/sprite_icoSns16.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/topics/css/import_ver2.css?date=20121029"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPmAVojIYBFrlJgGyuSgi8WYeKorHryI5mX4I=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/topics/wiki/trendTitleBg.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/topics/css/import_ver2.css?date=20121029"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "kQCE9jkRz6EL8OYeiM2tDijmiCXqdEEwSBylpLWecFqvO2/G6+cnGH+TD6vOMXewAwQpfowdoE9EZtaRLScXBikIOa+MAYpzmsugL1DAPaaag1k009k/g5Cjrg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/yahoo/javascript/csc/20060824/lib2obf_b4.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "D4hGZPRWmROLvwOnC/DmBqZ5qJwMWuctVAHKY5jFME+Iohjz9Z6kw80t9MF81yoJxdl/pYSVlg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ah.yimg.jp",
+      ":path": "/bdv/164354/1084075/20121101/4feasfvz47csxcoydlvl-a.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "Ao1y0Rxa/QkdlRiLyJbpAogNlYZDGBOMP5iCg4UR/0tysLec3sNNQayeqYtM9VVNM8xqTlpLRP1dHK0xSTUEMUxDHmIaag1k9VE1Jj2WV2dXRlqMI3Kwt5mkm3mmoNZPVRNTRXPYaiqbq6LrtY6ItnmrmrmprIc05ZjUUFoIaag1k9VE5yGmoNZPVROchpqDWT1UTnIbq6LrtY6X2zzVzVzU1kOQxSGmoNZPVROfq6LrtY6ets81c1c1NZDTUGsnqonOQxDE1jomD7f9YKeKY/7/7rHRKWW/6wU8Ux/3/3WOidMLf9Mawf9/hIWo",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "platform.twitter.com",
+      ":path": "/widgets.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494",
+      "cookie": "pid=v3:1351947306477664316206054; k=10.35.101.123.1351947536129989; guest_id=v1%3A135194753658491573; __utma=43838368.2140315505.1351947542.1351947542.1351947542.1; __utmb=43838368.2.10.1351947542; __utmz=43838368.1351947542.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "tboEmQ2VhkMYBHYRjdfrGLWENNQaueuuk5M46L8/Lr7vb6qWtAUEL0f670JUyLYZ9XR8GRFfR3oT0fTw6P30GKSvq6H8/Yakhf99HuFPJoHKYpTFN0cFPHFvmBqSFx2viPnEM46L6UOctSURU1geecdF/889F9KHOWpKIqawPPRfV5WlJZ0/0H9dXlaUlf8/A4sWS/jw6RZ1eVpSUT8CisvVTunowHFaIj8Ah0tYwUxU1n+H5CLpULVzH4qh",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "platform.twitter.com",
+      ":path": "/widgets/tweet_button.1351848862.html",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494",
+      "cookie": "pid=v3:1351947306477664316206054; k=10.35.101.123.1351947536129989; guest_id=v1%3A135194753658491573; __utma=43838368.2140315505.1351947542.1351947542.1351947542.1; __utmb=43838368.2.10.1351947542; __utmz=43838368.1351947542.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "C41LWMFMSYoSN7W8iMGPB4oOKLvj9QQtZOMPo4aIi40=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "connect.facebook.net",
+      ":path": "/ja_JP/all.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "ApW/lDkhyiYIUv0YO0CeiM2tIlpOLv8ChQwGKFL/Dezrtqp4lsQauxFOc+6+2bdC0t/V0fz4+P0+vw7PDh1/fu39tuFvHXx1hN3/HDfTjv+v9/Zk3f8fRv658vFH8p+B/uzL6q/P9903X3869/D9k7J/HvyLrHbvu1/eV0P7ZV6H9O388P77pd3O03+EhQ==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "bkskapi.dailynews.yahoo.co.jp",
+      ":path": "/detail",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b; YJTOPICSFBREAD=d=juTus3MJdA6fAPKQn3MJyoWvkTaY6I2RngPiVKE3BMv8AFX.C4TMg0utwM_uXg_sKn7y2yDVFKE-&v=1"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "kAKaDZWGQxgGLVrbtdfrGLWENNQaueuuk5M46L+Kj4KDhKc=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "platform.twitter.com",
+      ":path": "/widgets/follow_button.1351848862.html",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494",
+      "cookie": "pid=v3:1351947306477664316206054; k=10.35.101.123.1351947536129989; guest_id=v1%3A135194753658491573; __utma=43838368.2140315505.1351947542.1351947542.1351947542.1; __utmb=43838368.2.10.1351947542; __utmz=43838368.1351947542.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "BIlxI7KjEXkS3T8ChAiTJWMMmlaIyEHMy6VaIyEP66vK0pK+n+g/rq8rSko/F6vOMXewActEcWv0JHZUYi8iW6BsrDIYwCOwjG6/WMWsIaag1c9ddJyZx0X/hY6VmA==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "p.twitter.com",
+      ":path": "/t.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://platform.twitter.com/widgets/tweet_button.1351848862.html",
+      "cookie": "pid=v3:1351947306477664316206054; k=10.35.101.123.1351947536129989; guest_id=v1%3A135194753658491573; __utma=43838368.2140315505.1351947542.1351947542.1351947542.1; __utmb=43838368.2.10.1351947542; __utmz=43838368.1351947542.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "BI1ODCIcokdlRiLyJbp/BIwDBq9cAS3VkScYNZ+thIWG",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "cdn.api.twitter.com",
+      ":path": "/1/urls/count.json",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://platform.twitter.com/widgets/tweet_button.1351848862.html",
+      "cookie": "pid=v3:1351947306477664316206054; k=10.35.101.123.1351947536129989; guest_id=v1%3A135194753658491573; __utma=43838368.2140315505.1351947542.1351947542.1351947542.1; __utmb=43838368.2.10.1351947542; __utmz=43838368.1351947542.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "Aoh5I7K0yIlunwKDDi2PhoOEl68=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "r.twimg.com",
+      ":path": "/jot",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://platform.twitter.com/widgets/tweet_button.1351848862.html"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "hACE9jkRz4wDBrAXwCGbdicYNZ+wBqzOMXewActEcWv0JHZUYi8iW6BsrDIYwDFq1t2uv1jFrCGmoNXPXXScmcdF/5mDhIeI",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "cdn.api.twitter.com",
+      ":path": "/1/users/show.json",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://platform.twitter.com/widgets/follow_button.1351848862.html",
+      "cookie": "pid=v3:1351947306477664316206054; k=10.35.101.123.1351947536129989; guest_id=v1%3A135194753658491573; __utma=43838368.2140315505.1351947542.1351947542.1351947542.1; __utmb=43838368.2.10.1351947542; __utmz=43838368.1351947542.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "igKFDEmSsf+Jg4ey",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "p.twitter.com",
+      ":path": "/f.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://platform.twitter.com/widgets/follow_button.1351848862.html",
+      "cookie": "pid=v3:1351947306477664316206054; k=10.35.101.123.1351947536129989; guest_id=v1%3A135194753658491573; __utma=43838368.2140315505.1351947542.1351947542.1351947542.1; __utmb=43838368.2.10.1351947542; __utmz=43838368.1351947542.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "hYSBi5o=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "r.twimg.com",
+      ":path": "/jot",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://platform.twitter.com/widgets/follow_button.1351848862.html"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "uQaMamDicxeqCsmES3T/u5g/FIMxqP8/F5BDnLUlEVNYDUwdK8fLUYR/h4mKjp4=",
+    "header": {
+      ":method": "POST",
+      ":scheme": "http",
+      ":authority": "ocsp.verisign.com",
+      ":path": "/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "content-length": "115",
+      "content-type": "application/ocsp-request"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "ngSPwQpfowdoE9EZtaRLScXfBIgMUc1Jawikt5CUg4SFhoec",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "dailynews.yahoo.co.jp",
+      ":path": "/favicon.ico",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b; YJTOPICSFBREAD=d=juTus3MJdA6fAPKQn3MJyoWvkTaY6I2RngPiVKE3BMv8AFX.C4TMg0utwM_uXg_sKn7y2yDVFKE-&v=1"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AodRPRWmROLvAo0FaIyGAJhAPTiciYQ/Eo6I+cQTCHT/Qf11eVpSGwyqzjF3sAMxRgtTBgT0Rm1pEtJxcGa/ai05THMYs0pSlKWic8sEMg5st6IDhYaUmA==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/css/yj2.css",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/css,*/*;q=0.1",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "A4sFaIyGAJWKHkyVj5WDhA==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/clear.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPlgVojIYAwdoAlt70MwUzIIIZBzSZKx+C",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/news/cobranding/sanspo.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPlQWq8GDtAOMGsDjB9yVohC41xicYfwWE/oP6/4OY",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/lib/news/json/jsr_class_1_1.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "CI7MUYLUwYE9EZtaRLScXQOCDNemsB6S67aqeJbEGrsRTnPuvtm3QtLfhIWIiw==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "headlines.yahoo.co.jp",
+      ":path": "/hl",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "iwKgBarwYO0Ag1KkL724arEHihcVaD4Ch6c7jXFl0UwnGH+FiYKDhKiy",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/lib/news/socialModule/realtimeSearch_1_0-min.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPmAWq8GDtAOPlqL/QOPlqL/QkR0ctERJxh4I=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/lib/news/jquery/jquery.template.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPngWq8GDtAINSpC+9uGqxDFCRva3lca6a40uimE4w/4I=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/lib/news/socialModule/facebook_1_3_1-min.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "BopGmBEk9FaZE4u/AsMFaXQVllz+bPdOaq79/58eFHjD4/XOrhw+0ssvmcpZfQ1hZfKwoI0wA5THMYs0pSlKWic8sEMg5spSllnl5qHYnF2XoIOJkA==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "amd.c.yimg.jp",
+      ":path": "/im_siggvNnG417_XZJF5TsJPh7FFQ---x200-y190-q90/amd/20121103-00000542-sanspo-000-4-view.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AohCieitMicXfwKlC/DmFRaC0gYtZzmKBymOYp5wLjinnPg/OtTy1ceb28dZUEyVj4OE",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/70506/1082210/20121024/0ffcv4drh8ir07jvroju-a.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPpQvw5hUak9gGLWc1dgHKY5insA7DRw9VJwr41C2OI+d6pUE4uy+C",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/71629/1082189/20121029/2n1tdzicd8j7eotfexbi-a.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "kwCE9jkRz5MFqvBg7QDj5ai/0Dj5ai/0Jxh/jYKEpA==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/lib/news/jquery/jquery.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPlQWq8GDtANlYZDGAbKwyGMLjXGJxh4I=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/lib/news/widgets/widgets_1_1.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "hQCE9jkRz6UL8OYHsosAxa6DHqA5THMYpwUtHE92F3q26y/jkpnlH0lQTJWPpoKPlg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/2959/1085127/20121102/ilaj2_d_zo_9bjginqty-a.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPpQvw5geyiwDFroMecDlMcxinDnzQu5ObYTH5XVN5KTyslQTJWP+C",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/2959/1085124/20121102/vval_chos32k_7okick9-a.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPpAvw5hMUDFqOaacDlMcxT2B5czpuXnxvegvk+h0KKNpUE4uy/4I=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/30/1072134/20121029/qv2c_lhjbra0qr5ps55w-a.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "mACE9jkRz5YFaIyGAMHaAczAmEA0RCIvlYO0CJhDl4KJqQ==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/news/v1/css/master-news.css",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/css,*/*;q=0.1",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "CY304o80k9EZtaRLScXfAoIGq5SRg5mb",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "yjaxc.yahoo.co.jp",
+      ":path": "/oi",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "mwCE9jkRz5gFaIyGAMHaAczAwdoXQalSF36xi1hMlY+sgRmlzjF3sAFE9FaZE4uBWiMhgDB2gHMwJhANEQiL5WDtAiYQ9vMxv4OEk5aa",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/news/v1/news_socialbutton.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/news/v1/css/master-news.css?v11"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "vsIEmwVojIYBoOCkB6aaqBWmQLUwf0rAbp/MxMlY/z82vu9vqpa0BQQvR/rvQlTIthn1dHwZEV9HehPR9PDo/fQYpK+rofz9hqSF/30e4U8mgcpilMU3RwU8cW+YGpIXhg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/media/ymui/img/lineWide_4x1.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/news/v1/css/master-news.css?v11"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "ApcFaIyGAMHaAczB6Mug56ojcpLWQI5mXz8NixZL+PDpFnV5WlJRPwyKy9VO6ejAcVoiPwCHS1jBTFTWf4fkIulQtXMfhg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/news/v1/yn_sprite_icons.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/news/v1/css/master-news.css?v11"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "BJgFaIyGAaDgpAemmqgVpkCUPe9sbjkczL+F",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/media/ymui/img/carrrot_2.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/news/v1/css/master-news.css?v11"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPnAVojIYBoOCkB6aaqBWmQOzbFvzHa6ejzNQTJWOC",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/media/ymui/img/photoNew_45x15.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/news/v1/css/master-news.css?v11"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPnAVojIYAwdoBzMEHPVEbr8vv4+AoenPrb5kczL+C",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/news/v1/sprite_bgRTSearchBox.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/news/v1/css/master-news.css?v11"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPmAVojIYAwdoBzMEHPVEblJb47KjEXkczL4I=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/news/v1/sprite_icoTwitter.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/news/v1/css/master-news.css?v11"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPmwVojIYAwdoBzMHoy6DnqiN16E8snt1ZgRzMv4I=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/news/v1/yn_sprite_background.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/news/v1/css/master-news.css?v11"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPkgVojIYAwdoBzMD0M5KZkRzMv4I=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/news/v1/ranking.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/news/v1/css/master-news.css?v11"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPlwVojIYAwdoBzMHoy7JiOaroOeqIkczLgg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/news/v1/yn_gnavi_sprite.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/news/v1/css/master-news.css?v11"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "k5KlqaKBkKy8",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "yjaxc.yahoo.co.jp",
+      ":path": "/oi",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "rACE9jkRz44PTVQcXBquIIe9uxMlYyaaVojIQczLpVojIQ/rq8rSkr6f6D+urytKSj+UlaSn",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/yui/jp/ult/arrow.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "Ap4FaIyGALVCKmZBFrVh6cUeaQ9OKPNMqsXo0EmcdF8Cr4j5xDOOi+lDnLUlEVNYHnnHRf/PPRfShzlqSiKmsDz0X1eVpSWdP9B/XV5WlJX/g4Q=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/listing/tool/yjaxc/yjaxc-iframe.html",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "F5N4oXFWgkgKHpzJ6Iza1DlQJxd/A4YOZgc2Ef+rg4Sy",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "realtime.search.yahooapis.jp",
+      ":path": "/v1/post",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "sgCE9jkRz5cFqvBg7QDZWGQxgEdhGN1+sYtYTOOi/4SCg6w=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/lib/news/widgets/tweet_button.html",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "mpmsF/+1A84xd7ABRPRWmROLgVojIYAtUIqZkEWtWHpxR5pD04o80yqxejQSZx0X7YPSW3OMXSTb5D8JD8PTijzST0Rm1pEtJxdIfg1Uk3CEk3ahg6NhcwdoFMeyiQ9KpJu05aq6i2UTTyHp2km7ZD0odlJN2mkPTGSbt4yHp1km7c4xdIeibfIeg/CQ9B+GYowWpgwJ6Iza0iWk4ukPQfhmuQ9E3BEh6Ju05THMYs0pSlKWic8sEMg5st6IDIel44yTducYukPRNvkPQfhIeg/DBCl+jB2gT0Rm1pEtJxdIeg/DFMh6D8IOa+MJD0H4MU5zWXQF6hhIeg/CQ9E3A01BrJpp7J5D0ixMk3b3fjsl+P1kPTByEj8MJJu2Q9PFUPMs5TyTdsh6Y+jhkm7ZD0pejZf4euSbt3Qek1ucYukm3yH4SH4enFHmknojNrSJaTi6Q/DjCQ/D04o80yqZEXsQuW9DGC8nGEk3BWmWr1yTducYukPRNvkPQfhIeg/BGZPRWmROLpD0H4K0RkMJD0H4K0kPQfgpjBejCQ9B+Eh6VaZORHOSbtvY810IXGumKWU9BScXZSHpStSeWr1yTducYukPRNvkPQfhIeg/B+BPRGbWkS0nF0h6D8L/VMh6D8IYQkPQfhZVTPXIeg/AecZD0TdtlVM9ch6D8P6zjF0h6Jt8h6D8JD0H4LVCKmZE9EZtaRLScXSHoPw9LnPbo2Q9B+C1QipmRTSHoPwkPRNwbIeibt+P1NNQX6qChQ==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "yjaxc.yahoo.co.jp",
+      ":path": "/oi",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/listing/tool/yjaxc/yjaxc-iframe.html?src0=http%3A%2F%2Fyjaxc.yahoo.co.jp%2Foi%3Fs%3Danemos_news01295%26i%3D2078709534%26w%3D%26apg%3D1%26t%3Dj%26u%3Dhttp%253A%252F%252Fheadlines.yahoo.co.jp%252Fhl%253Fa%253D20121103-00000542-sanspo-base%26ref%3Dhttp%253A%252F%252Fdailynews.yahoo.co.jp%252Ffc%252Fsports%252Fnippon_series%252F%253F1351933494%26enc%3DEUC-JP%26spaceId%3D%26jisx0402%3D%26type%3D%26crawlUrl%3D&src1=http%3A%2F%2Fyjaxc.yahoo.co.jp%2Fjs%2Fyjaxc-internal-banner.js%3Fimgurl%3Dhttp%253A%252F%252Fah.yimg.jp%252Fimages%252Fim%252Finnerad%252F%26imgpath%3Dbnr1_ss_1_300-250.jpg%26clickurl%3Dhttp%253A%252F%252Frd.yahoo.co.jp%252Fbzc%252Fsds%252F97648%252Fevt%253D97648%252F*http%253A%252F%252Flisting.yahoo.co.jp%252Fy_promo%252Flisting01%252F%253Fo%253DJP1350",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "rAKGCCQhm3b/ggKqzjF3sAMxRgtTBgT0Rm1pEtJxcGa/ai05THMYs0pSlKWic8sEMg5st6IDg5yd",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "headlines.yahoo.co.jp",
+      ":path": "/sc/show",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "BohGZPRWmROLvwOmC/DmBqZ5qJwMWstZ6AOUxzGKYM1KL6sf584X+ZcIlNyuylQTJWOLhA==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ah.yimg.jp",
+      ":path": "/bdv/164354/1080825/20121101/hii0znrxvsbx0dt01k_g-a.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AodRPRWmROLvApYFqvBg7QDZWGQxgCtEZDAI7CMSOZl/Bf/OAs4xd7ABRPRWmROLgWq8GDtANlYZDGAR2EY3X6xi1hM46L9t1ppqDWT2Grspmr3JbqyNrGsHcrC2OyoxF90dhGN1+sYtZcfctDMreKNzXqyUxC7njiLxfbnGLpJt8h+Eh+GYowWpgwJ6Iza0iWk4ukPwzXJNwRJN2nKY5jFmlKUpS0TnlghkHNlvRAdzxwU8Uxt3RHzjbJ3USddUm+uTunk698nXvk7ppKzSV9kndwk6+ySyaTuok67JOueTumkrNJ10yd00lZ5K98ndTJZVJvok7qZLOyTf2Sd08nXXJWWTu4SdfZJWaTuok6+6TfZJ3USddcnWWTumkrNJv7pO6ySyuTr4Sd1klc0m+uTumkrNJX2Sd1MnWaTr3yd1ElfXJZ2yd1Mldklk0ndwk6+ySuuTumkrPJ10Sd00lc0nXNJ3TSVnk6zSd00lZ5N88ndNJWeTrsk7ppK5pLO2Tumkrmk6+yTumkrmkrnk7uEnX2SV2SHLLIcv8/8k7ppK5pK+uTumkrmk30Sd00lc0nX2Sd00lZ5Ouzdq9ducYukm3yH4SH4ZijBamDAnojNrSJaTi6Q/DNck3BEk3acpjmMWaUpSlLROeWCGQc2W9EB/hIWG",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/lib/news/widgets/images/tweet.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/lib/news/widgets/tweet_button.html?_=1351949189638&count=none&id=twitter_tweet_button_2&lang=ja&original_referer=http%3A%2F%2Fheadlines.yahoo.co.jp%2Fhl%3Fa%3D20121103-00000542-sanspo-base&redirect=&text=%E5%B7%A8%E4%BA%BA%E3%81%8C%EF%BC%93%E5%B9%B4%E3%81%B6%E3%82%8A%E6%97%A5%E6%9C%AC%E4%B8%80%EF%BC%81%E5%BE%A9%E5%B8%B0%E3%81%AE%E9%98%BF%E9%83%A8%E3%81%8C%E6%B1%BA%E5%8B%9D%E6%89%93%EF%BC%88%E3%82%B5%E3%83%B3%E3%82%B1%E3%82%A4%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%EF%BC%89%20-%20Y!%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&url=http%3A%2F%2Fheadlines.yahoo.co.jp%2Fhl%3Fa%3D20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "ApgFqvBg7QDZWGQxgCtEZDAI7CMbuKCOZl+D",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/lib/news/widgets/images/tweet_ja.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/lib/news/widgets/tweet_button.html?_=1351949189638&count=none&id=twitter_tweet_button_2&lang=ja&original_referer=http%3A%2F%2Fheadlines.yahoo.co.jp%2Fhl%3Fa%3D20121103-00000542-sanspo-base&redirect=&text=%E5%B7%A8%E4%BA%BA%E3%81%8C%EF%BC%93%E5%B9%B4%E3%81%B6%E3%82%8A%E6%97%A5%E6%9C%AC%E4%B8%80%EF%BC%81%E5%BE%A9%E5%B8%B0%E3%81%AE%E9%98%BF%E9%83%A8%E3%81%8C%E6%B1%BA%E5%8B%9D%E6%89%93%EF%BC%88%E3%82%B5%E3%83%B3%E3%82%B1%E3%82%A4%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%EF%BC%89%20-%20Y!%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&url=http%3A%2F%2Fheadlines.yahoo.co.jp%2Fhl%3Fa%3D20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "io2HgYKP",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/lib/news/widgets/tweet_button.html",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "BIx2uOIvIknorTInF3+rkYaMjw==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "puffer.c.yimg.jp",
+      ":path": "/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "puffer.c.yimg.jp",
+      ":path": "/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "puffer.c.yimg.jp",
+      ":path": "/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "puffer.c.yimg.jp",
+      ":path": "/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AohCieitMicXfwKcBWiMhgCtAVpkrQHJOCtDFKY09h5iuTo8xOLsv42DhIs=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/images/im/imgim/pc2/im1001149230pcmr1.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/listing/tool/yjaxc/yjaxc-iframe.html?src0=http%3A%2F%2Fyjaxc.yahoo.co.jp%2Foi%3Fs%3Danemos_news01295%26i%3D2078709534%26w%3D%26apg%3D1%26t%3Dj%26u%3Dhttp%253A%252F%252Fheadlines.yahoo.co.jp%252Fhl%253Fa%253D20121103-00000542-sanspo-base%26ref%3Dhttp%253A%252F%252Fdailynews.yahoo.co.jp%252Ffc%252Fsports%252Fnippon_series%252F%253F1351933494%26enc%3DEUC-JP%26spaceId%3D%26jisx0402%3D%26type%3D%26crawlUrl%3D&src1=http%3A%2F%2Fyjaxc.yahoo.co.jp%2Fjs%2Fyjaxc-internal-banner.js%3Fimgurl%3Dhttp%253A%252F%252Fah.yimg.jp%252Fimages%252Fim%252Finnerad%252F%26imgpath%3Dbnr1_ss_1_300-250.jpg%26clickurl%3Dhttp%253A%252F%252Frd.yahoo.co.jp%252Fbzc%252Fsds%252F97648%252Fevt%253D97648%252F*http%253A%252F%252Flisting.yahoo.co.jp%252Fy_promo%252Flisting01%252F%253Fo%253DJP1350"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "Ao3V64EQ5RI7KjEXkS3TAowDBq9cAS3VkScYNZ8ThP6D+v+Jg4Q/CP9LcrC3nN7DTUGsnqmLTPVVTTPMak5aS0T9XRytMUk1BDFMQx5iGmoNZPVRNSY9lldnV0ZajCNysLeZpJt5pqDWT1UTU0Vz2Goqm6ui67WOiLZ5q5q5qayHNOWY1FBaCGmoNZPVROchpqDWT1UTnIaag1k9VE5yG6ui67WOl9s81c1c1NZDkMUhpqDWT1UTn6ui67WOnrbPNXNXNTWQ01BrJ6qJzkMQxNY6Jg+3/WCnimP+/+6x0Sllv+sFPFMf9/91jonTC3/TGsH/f4WGkZc=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "urls.api.twitter.com",
+      ":path": "/1/urls/count.json",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/lib/news/widgets/tweet_button.html?_=1351949189638&count=none&id=twitter_tweet_button_2&lang=ja&original_referer=http%3A%2F%2Fheadlines.yahoo.co.jp%2Fhl%3Fa%3D20121103-00000542-sanspo-base&redirect=&text=%E5%B7%A8%E4%BA%BA%E3%81%8C%EF%BC%93%E5%B9%B4%E3%81%B6%E3%82%8A%E6%97%A5%E6%9C%AC%E4%B8%80%EF%BC%81%E5%BE%A9%E5%B8%B0%E3%81%AE%E9%98%BF%E9%83%A8%E3%81%8C%E6%B1%BA%E5%8B%9D%E6%89%93%EF%BC%88%E3%82%B5%E3%83%B3%E3%82%B1%E3%82%A4%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%EF%BC%89%20-%20Y!%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&url=http%3A%2F%2Fheadlines.yahoo.co.jp%2Fhl%3Fa%3D20121103-00000542-sanspo-base",
+      "cookie": "pid=v3:1351947306477664316206054; k=10.35.101.123.1351947536129989; guest_id=v1%3A135194753658491573; __utma=43838368.2140315505.1351947542.1351947542.1351947542.1; __utmb=43838368.2.10.1351947542; __utmz=43838368.1351947542.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "pquKiT8fvu9vqpa0BQQvR/rvQlTIthn1dHwZEV9HehPR9PDo/fQYpK+rofz9hqSF/30e4U8mgcpilMU3RwU8cW+YGpIXmpKEhYaHjQ==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "puffer.c.yimg.jp",
+      ":path": "/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "B47MUYLUwYE9EZtaRLScXQeIDFHNSWsIpLc1ixZL+PDpFnV5WlJRNIrL1U7p6MBxWiI/AIdLWMFMVNZ/h+Qi6VC1cx8J/4cB67aqeJbEGrsRTnPuvtm3QtLf1dH8+Pz7v14dn07+/u+fjbhaWn0+Xw28Z+7jj2fj3993+b/H6+Pj2EvGnhtwH96+d139j+h8l9v9kw9+399v2/nll8eHv42E9/xX8/dp47frLkTOfMkPxX+bvHtx+6X+/bt4/L9PfD+2+fhr5q/SPx9a/rz7vxvv+P4Gzz+HKqz5N/X9vpivt4/r78vTr/Pyv8v15R+PXcjz8OSMPx9N3O03V0fz4/Pu/Xhw67cLcqD4z0Xz93Efj5eqOVNVPz5fn+a8Mae7v7aaeHf/nwx0d8PdMf02zcT/Pv5092/Grn7u35cfLlUP29396e7LnwTk3dztN5CRmA==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "headlines.yahoo.co.jp",
+      ":path": "/favicon.ico",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b; YJNEWSCOMMENT=d=06yLIwT4EjfCUHM_ZATPTTC.be6FwFeXux__KeWeqlDK.dHwKDQYqgJFHj9.HJlNGmTwWgk.h4h.sU8V_TDfRcrHwDjLWrrsKoxSuxiWaUP8PvEUAbJUe9xIk79LoWKr6tlDjWRkyBVLbqWqtJB_axSkadUO&v=1; YJNEWSFB=d=g52f45b4EjeJqzak676NkVYuFf6EMD66FMZIfmpIG32ywhp.ZRx6EAf7vGDLjqk7eQGKmGgvFcgo&v=1"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "BYIM15+ZhqE=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "headlines.yahoo.co.jp",
+      ":path": "/hl",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b; YJNEWSCOMMENT=d=06yLIwT4EjfCUHM_ZATPTTC.be6FwFeXux__KeWeqlDK.dHwKDQYqgJFHj9.HJlNGmTwWgk.h4h.sU8V_TDfRcrHwDjLWrrsKoxSuxiWaUP8PvEUAbJUe9xIk79LoWKr6tlDjWRkyBVLbqWqtJB_axSkadUO&v=1; YJNEWSFB=d=g52f45b4EjeJqzak676NkVYuFf6EMD66FMZIfmpIG32ywhp.ZRx6EAf7vGDLjqk7eQGKmGgvFcgo&v=1"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "kACE9jkRz40FaIyGARFOYXpYYnGHjRWdzjF3sAMxRgtTBgT0Rm1pEtJxcGa/am3RsW7o2r+DhImboQ==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/images/tech/bcn1.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=moto&t=l"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AqUL8OYTGPOBi1TT1HA5THMU9gacsk7esc13Z3uZ5+l0WNlQTJWPD5pWiMhBzMulWiMhD+urytKSvp/oP66vK0pKP4SQ",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/3124/1073472/20121029/mkgcwzthl_hbpnxy_tno-a.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=moto&t=l"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AqcL8OYVGpPYBi1T0GqA5THMU9gcvJtb8r9bkenLTz88Zk+WMqCZKx+D",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/71629/1074517/20121029/kqo8rgbu_aykmxxf3cqf-a.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=moto&t=l"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "mwCE9jkRz5gFaIyGAaDgpAemmqgVpkCUPe9sbqCOZl8Fpc4xd7ABRPRWmROLgVojIYAwdoBzMCYQDREIi+Vg7QImEPbzMb+Dhpc=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/media/ymui/img/carrrot_5.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://i.yimg.jp/images/news/v1/css/master-news.css?v11"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "lwKlC/DmB7KLAMWugx6gOUxzGKcEvgbLm71XVPcpbL8K/RcqCZKx/4eCg54=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/2959/1085127/20121102/crs1gvpzl74_ilnbd8yl-a.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=moto&t=l"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "ngCE9jkRz6IFaIyGAMHaAX+i1MGAczlMctgaIUwL2PC9j7pil87CkczLgpk=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/news/bylines/v201209/main/bnr/bnr_300x90.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=moto&t=l"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "EI304o80k9EZtaRLScXfAoIGq5cNkuu2qniWxBq7EU5z7r7Zt0LS34SJog==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "yjaxc.yahoo.co.jp",
+      ":path": "/oi",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=moto&t=l",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "ogKZBWiMhgDB2gEdlRiLwjtdBzbpilupKTi7L4qCg4SZ",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/news/twitter/tw_spo_300_60.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=moto&t=l"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "nQCE9jkRz6QL8OYGsmAxap5pygcpjmKewH5s1hzVns7Kzlnmh1nNkqCcXZeCpA==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/193/1074340/20121029/rhnusvihwpg9khhap9vn-a.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=moto&t=l"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPpgvw5gauk4GLXNTYYDlMcxZihjyr284evl6ZLdjtyQmjkuVBMlY/gg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/1862/1083691/20121030/fk8wxszqyglpfwkac5kl-a.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=moto&t=l"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "lpAMr4j5xDOOi+lDnLUlEVNYHnnHRf/PPRfShzlqSiKmsDz0X1eVpSWdP9B/XV5WlJX/koKNoA==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "headlines.yahoo.co.jp",
+      ":path": "/hl",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=moto&t=l",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b; YJNEWSCOMMENT=d=06yLIwT4EjfCUHM_ZATPTTC.be6FwFeXux__KeWeqlDK.dHwKDQYqgJFHj9.HJlNGmTwWgk.h4h.sU8V_TDfRcrHwDjLWrrsKoxSuxiWaUP8PvEUAbJUe9xIk79LoWKr6tlDjWRkyBVLbqWqtJB_axSkadUO&v=1; YJNEWSFB=d=g52f45b4EjeJqzak676NkVYuFf6EMD66FMZIfmpIG32ywhp.ZRx6EAf7vGDLjqk7eQGKmGgvFcgo&v=1"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "oAKmC/DmFRqT2AYtZzWFA5THMU9gXeefnnRryw5zQparJs9/lKgmSseOC53OMXewAzFGC1MGBPRGbWkS0nFwZr9qbYNSndG1f4ORk5SZ",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/71629/1082190/20121029/_xhxh5ukdv3s6oigo4bq-a.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=socc&t=l"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AqYL8OYVGpPYBi1UV1lA5THMU9gc4R5DHk/nNilV3rjxLjfKgnF2X4M=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/71629/1075880/20121029/vstketkrv3fci_zfj0fb-a.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=socc&t=l"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPpAvw5hMUDFqOcswHKY5insB/r5cvPPRHLlPe3k9eldV0qCcXZYI=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/30/1072203/20121029/rzqkxhmakk4bokrlm87_-a.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=socc&t=l"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "i4qgiYGRpA==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "yjaxc.yahoo.co.jp",
+      ":path": "/oi",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=socc&t=l",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "qgCE9jkRz5wFaIyGAMHaAaNw1WIaYHKY5ai2XZQFD05k4uy/koqLjKE=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "i.yimg.jp",
+      ":path": "/images/news/module/md20120709_gsearch.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=socc&t=l"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "DJZLWRFkSeihXhohiMheQcMhhqqIkYMfAqUERbpAKjBjWGN4CIVGxrxvEcLKROhM1eE9M1eFKaROKRnJxdl/gw==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "content.yieldmanager.edgesuite.net",
+      ":path": "/atoms/71/f8/fb/ee/71f8fbeed96e2ac38d4638d6c6e2ece4.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=socc&t=l"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "npiImYGClA==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "headlines.yahoo.co.jp",
+      ":path": "/hl",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=socc&t=l",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b; YJNEWSCOMMENT=d=06yLIwT4EjfCUHM_ZATPTTC.be6FwFeXux__KeWeqlDK.dHwKDQYqgJFHj9.HJlNGmTwWgk.h4h.sU8V_TDfRcrHwDjLWrrsKoxSuxiWaUP8PvEUAbJUe9xIk79LoWKr6tlDjWRkyBVLbqWqtJB_axSkadUO&v=1; YJNEWSFB=d=g52f45b4EjeJqzak676NkVYuFf6EMD66FMZIfmpIG32ywhp.ZRx6EAf7vGDLjqk7eQGKmGgvFcgo&v=1"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "pwCE9jkRz6UL8OYVGpPYBi1TUmrA5THMU9gRXg2fSjNOqOO0V2De+qVBOLsvlQedzjF3sAMxRgtTBgT0Rm1pEtJxcGa/am29EB3RtX+IipqboA==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/71629/1073618/20121029/tldo4m5hcuajwtl9ebr7-a.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=base&t=l"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AqUL8OYTUGnAxai11UAcpjmMU4YKm1xUvVnHazVdjH+mUJUE4uy/gw==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/3514/1070875/20121102/di3ufilunjw9ul9nrygs-a.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=base&t=l"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "kZCmj4GXqg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "yjaxc.yahoo.co.jp",
+      ":path": "/oi",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=base&t=l",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "BYpGmBEk9FaZE4u/AsMFaXQVll4eP24eHu8Keu7Vfl9v32k5ffrJlLLL5moLL6VzS+VhQRpgBymOYxZpSlKUtNdUvo3SUpSymljnrpeTi7L/mZGSk6g=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "amd.c.yimg.jp",
+      ":path": "/im_siggSTQFSGS6B_ulqQXD.kRB.g---x150-y83-q90/amd/20121103-00000687-yom-000-1-thumb.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=base&t=l"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "rACE9jkRz6UL8OYTFAxajlsoA5THMU9gXbevp6zYw9c/Lm3VNMdUc5UE4uy/goM=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/30/1072095/20121029/_wzyz3fszhqvouc6tuav-a.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=base&t=l"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "iACE9jkRz6YERbpADzAWYMTBVUB5izYmqqsrxKY1N9FicKJsb76Ma7K6picXZYKu",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "content.yieldmanager.edgesuite.net",
+      ":path": "/atoms/23/03/f1/77/2303f17798f0116b59cd53fbb5f89873.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=base&t=l"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "pZ+PoIGJmw==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "headlines.yahoo.co.jp",
+      ":path": "/hl",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=base&t=l",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b; YJNEWSCOMMENT=d=06yLIwT4EjfCUHM_ZATPTTC.be6FwFeXux__KeWeqlDK.dHwKDQYqgJFHj9.HJlNGmTwWgk.h4h.sU8V_TDfRcrHwDjLWrrsKoxSuxiWaUP8PvEUAbJUe9xIk79LoWKr6tlDjWRkyBVLbqWqtJB_axSkadUO&v=1; YJNEWSFB=d=g52f45b4EjeJqzak676NkVYuFf6EMD66FMZIfmpIG32ywhp.ZRx6EAf7vGDLjqk7eQGKmGgvFcgo&v=1"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "rgCE9jkRz6YL8OYVGpPYBi1T0GqA5THMU9geXppRC7HVrOW2Oc/PaktcqCZKx5wHnM4xd7ADMUYLUwYE9EZtaRLScXBmv2ptg5u6Nq+IkaGipw==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/71629/1074517/20121029/qym5s_fuonkwfh4vw608-a.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=spo&t=l"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "BohCieitMicXfwOnC/DmFRqT2AYtU1JpwOUxzFPYGzIcr1Px448fTy8uO3FnnNKgnF2XhA==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/71629/1073614/20121029/wnskbirfjfjyqqjwjnx3-a.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=spo&t=l"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "mZiul4GCnw==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "yjaxc.yahoo.co.jp",
+      ":path": "/oi",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=spo&t=l",
+      "cookie": "B=76j09a189a6h4&b=3&s=0b"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "ggCE9jkRz6UL8OYHsosAxa6DHnA5THMYpwqMOzzxzXj5XH9FeXpnx2lQTJWPoJiZmq8=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/2959/1085124/20121102/71ewr2thlfq_2yiqyhjw-a.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=spo&t=l"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPpQvw5hMUDFqOYtIHKY5insDNPqpFm1Pr6qm4w5erOfm2VBOLsv+C",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/30/1072106/20121029/hczia9w6zzi3jskznvxo-a.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=spo&t=l"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "AIT2ORHPpgvw5gekpawMWqqo9IHKY5insD11RejJeWENlOm287sUbSoJxdl/gg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ai.yimg.jp",
+      ":path": "/bdv/26008/1077726/20121029/zuabaglgdswip3wx_faw-a.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://headlines.yahoo.co.jp/hl?c=spo&t=l"
     }
   }
 ]
