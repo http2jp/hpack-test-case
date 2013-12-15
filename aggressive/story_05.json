@@ -1,11 +1,11 @@
 [
   {
     "context": "request",
-    "wire": "gocAhPZm2EeMyFpEvQrKC1QiRr8vhz2+72+qlrQFBC9H+u9CVMi2GfV0fBkRX0d6E9H08Oj99Bikr6uh/P2GpIX/fR7hTyaBymKUxTdHBTxxb5gakhcXr4j5xDOOi+lDnLUlEVNYHnnHRf/PPRfShzlqSiKmsDz0X1eVpSWdP9B/XV5WlJX/FosWS/jw6RZ1eVpSURaKy9VO6ejAcVoiPwCHS1jBTFTWf4fkIulQtXMfKJxK7r7d/Wfr/u+C58/d31d87PfR9f5+ss/Hvo3/",
+    "wire": "gocDjMhaRL0KygtUIka/L4c9vu9vqpa0BQQvR/rvQlTIthn1dHwZEV9HehPR9PDo/fQYpK+rofz9hqSF/30e4U8mgcpilMU3RwU8cW+YGpIXF6+I+cQzjovpQ5y1JRFTWB55x0X/zz0X0oc5akoiprA89F9XlaUlnT/Qf11eVpSV/xaLFkv48OkWdXlaUlEWisvVTunowHFaIj8Ah0tYwUxU1n+H5CLpULVzHyicSu6+3f1n6/7vgufP3d9XfOz30fX+frLPx76N/w==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "geo.craigslist.org",
+      ":authority": "geo.craigslist.org",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -21,7 +21,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "www.craigslist.org",
+      ":authority": "www.craigslist.org",
       ":path": "/about/sites/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -37,7 +37,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "www.craigslist.org",
+      ":authority": "www.craigslist.org",
       ":path": "/styles/countries.css",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/css,*/*;q=0.1",
@@ -54,7 +54,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "www.craigslist.org",
+      ":authority": "www.craigslist.org",
       ":path": "/js/formats.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -71,7 +71,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "www.craigslist.org",
+      ":authority": "www.craigslist.org",
       ":path": "/js/jquery-1.4.2.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -88,7 +88,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "www.craigslist.org",
+      ":authority": "www.craigslist.org",
       ":path": "/favicon.ico",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -104,7 +104,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "shoals.craigslist.org",
+      ":authority": "shoals.craigslist.org",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -121,7 +121,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "www.craigslist.org",
+      ":authority": "www.craigslist.org",
       ":path": "/styles/craigslist.css",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/css,*/*;q=0.1",
@@ -138,7 +138,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "www.craigslist.org",
+      ":authority": "www.craigslist.org",
       ":path": "/js/formats.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -155,7 +155,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "www.craigslist.org",
+      ":authority": "www.craigslist.org",
       ":path": "/js/homepage.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",

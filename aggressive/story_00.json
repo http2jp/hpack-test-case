@@ -5,7 +5,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yahoo.co.jp",
+      ":authority": "yahoo.co.jp",
       ":path": "/"
     }
   },
@@ -15,7 +15,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "www.yahoo.co.jp",
+      ":authority": "www.yahoo.co.jp",
       ":path": "/"
     }
   },
@@ -25,7 +25,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/top/sp2/cmn/logo-ns-130528.png"
     }
   }

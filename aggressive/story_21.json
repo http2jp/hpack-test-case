@@ -1,11 +1,11 @@
 [
   {
     "context": "request",
-    "wire": "gocAhPZm2EeI9EZtaRLScXeHPb7vb6qWtAUEL0f670JUyLYZ9XR8GRFfR3oT0fTw6P30GKSvq6H8/Yakhf99HuFPJoHKYpTFN0cFPHFvmBqSFxeviPnEM46L6UOctSURU1geecdF/889F9KHOWpKIqawPPRfV5WlJZ0/0H9dXlaUlf8WixZL+PDpFnV5WlJRForL1U7p6MBxWiI/AIdLWMFMVNZ/h+Qi6VC1cx8okuu2qniWxBq7EU5z7r7Zt0LS3w==",
+    "wire": "gocDiPRGbWkS0nF3hz2+72+qlrQFBC9H+u9CVMi2GfV0fBkRX0d6E9H08Oj99Bikr6uh/P2GpIX/fR7hTyaBymKUxTdHBTxxb5gakhcXr4j5xDOOi+lDnLUlEVNYHnnHRf/PPRfShzlqSiKmsDz0X1eVpSWdP9B/XV5WlJX/FosWS/jw6RZ1eVpSURaKy9VO6ejAcVoiPwCHS1jBTFTWf4fkIulQtXMfKJLrtqp4lsQauxFOc+6+2bdC0t8=",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yahoo.co.jp",
+      ":authority": "yahoo.co.jp",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -21,7 +21,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "www.yahoo.co.jp",
+      ":authority": "www.yahoo.co.jp",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -33,11 +33,11 @@
   },
   {
     "context": "request",
-    "wire": "AIT2ZthHh+RPRWmROLsJlwVojIYBFrgg44JW8DAlb5THMU9BEwh/CI6I+cQTCHT/Qf11eVpSGz8BkM4xd7ADbbYnojNrSJaTi4OFhoqM",
+    "wire": "AIj2I1jm16o+n4fkT0VpkTi7CZcFaIyGARa4IOOCVvAwJW+UxzFPQRMIfwiOiPnEEwh0/0H9dXlaUhs/AZDOMXewA222J6Iza0iWk4uDhYaKjA==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/top/sp2/clr/1/clr-121025.css",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/css,*/*;q=0.1",
@@ -53,7 +53,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/top/sp/logo.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -69,7 +69,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/bookstore/common/special/2012/0829_05/banner/84x84_1.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -85,7 +85,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yjaxc.yahoo.co.jp",
+      ":authority": "yjaxc.yahoo.co.jp",
       ":path": "/oi",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -102,7 +102,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/weather/general/transparent_s/clouds.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -118,7 +118,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/weather/general/transparent_s/sun.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -134,7 +134,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/bookstore/common/special/2012/0829_05/banner/84x84_2.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -150,7 +150,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/premium/contents/bnr/2012/50x50/0928_store_supernatural.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -166,7 +166,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/bookstore/common/special/2012/0829_05/banner/84x84_3.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -182,7 +182,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/bookstore/common/special/2012/0829_05/banner/84x84_5.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -198,7 +198,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/500052/1080894/20121029/meulz5rknmobtjfqmyz8-a.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -214,7 +214,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yjaxc.yahoo.co.jp",
+      ":authority": "yjaxc.yahoo.co.jp",
       ":path": "/oi",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -231,7 +231,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/70506/1082209/20121024/ffmwiwdybofwysftxna1-a.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -247,7 +247,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/yahoo/javascript/yfa_visual5_tbp.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -263,7 +263,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "www.yahoo.co.jp",
+      ":authority": "www.yahoo.co.jp",
       ":path": "/javascript/fp_base_bd_ga_5.0.42.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -280,7 +280,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/yahoo/javascript/csc/20060824/lib2obf_b6.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -296,7 +296,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/top/sp2/pr/tb_bg-120110.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -312,7 +312,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/top/sp2/uhd/homepage_bg-120123.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -328,7 +328,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/sicons/bookstore16.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -344,7 +344,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/sicons/movie16.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -360,7 +360,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/sicons/game16.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -376,7 +376,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/top/sp2/cmn/pic_all-121004.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -392,7 +392,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/sicons/fortune16.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -408,7 +408,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/top/sp2/emg/disaster_ttl2.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -424,7 +424,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/video-topics/rec/1211/03_e01.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -440,7 +440,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/top/sp2/clr/1/clr-121025.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -456,7 +456,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/top/sp2/cmp/comp_all-121012.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -472,7 +472,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/top/sp2/spotlight/2011/1031o.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -488,7 +488,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "news.c.yimg.jp",
+      ":authority": "news.c.yimg.jp",
       ":path": "/images/topics/20121103-00000193-sph-000-thumb.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -504,7 +504,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/2237/1080330/20121103/bg6so7sbgcqenc9py6xk-a.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -520,7 +520,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "www.yahoo.co.jp",
+      ":authority": "www.yahoo.co.jp",
       ":path": "/favicon.ico",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -536,7 +536,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/images/security/pf/yjsecure.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -552,7 +552,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yjaxc.yahoo.co.jp",
+      ":authority": "yjaxc.yahoo.co.jp",
       ":path": "/js/yjaxc.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -569,7 +569,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "dailynews.yahoo.co.jp",
+      ":authority": "dailynews.yahoo.co.jp",
       ":path": "/fc/sports/nippon_series/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -582,11 +582,11 @@
   },
   {
     "context": "request",
-    "wire": "gAKLDFIcYBjfc5JOMP+lhoOrtA==",
+    "wire": "gIICiwxSHGAY33OSTjD/pYaDq7Q=",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "dailynews.yahoo.co.jp",
+      ":authority": "dailynews.yahoo.co.jp",
       ":path": "/fc/js/fb_pc.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -599,11 +599,11 @@
   },
   {
     "context": "request",
-    "wire": "ur6gA6cL8OYVGpPYBi1TUmrA5THMU9gejvNPp6DyTc/XP0dgqHlrKgnF2X8/Mb7vb6qWtAUEL0f670JUyLYZ9XR8GRFfR3oT0fTw6P30GKSvq6H8/Yakhf99HuFPJoHKYpTFN0cFPHFvmBqSF62Fhoip",
+    "wire": "ub2gA6cL8OYVGpPYBi1TUmrA5THMU9gejvNPp6DyTc/XP0dgqHlrKgnF2X8/Mb7vb6qWtAUEL0f670JUyLYZ9XR8GRFfR3oT0fTw6P30GKSvq6H8/Yakhf99HuFPJoHKYpTFN0cFPHFvmBqSF62Fhoip",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/71629/1073618/20121029/ypxcyyekc_ruhypdisqu-a.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -619,7 +619,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/news/fc.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -635,7 +635,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/icon/photo.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -651,7 +651,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/mh/news.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -667,7 +667,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/30/1077242/20121029/ixbislu9ygczxzdkfnpt-a.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -683,7 +683,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/news/facebook/news_Facebook_76x76.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -699,7 +699,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/rapid/1.5.0/ult.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -715,7 +715,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/new2.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -731,7 +731,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/topics/wiki/nestopics_icon_40.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -747,7 +747,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/yahoo/javascript/yfa_visual5.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -763,7 +763,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/193/1072227/20121029/uyzwkpexjszyi2zgct4p-a.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -779,7 +779,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/2959/1085127/20121102/dalvv9p9fw9tribawawe-a.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -795,7 +795,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/2959/1085124/20121102/bz9rzgnremydaxbp4ihb-a.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -811,7 +811,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/topics/wiki/editor/topics_pr_linkimg_l2.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -827,7 +827,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "lpt.c.yimg.jp",
+      ":authority": "lpt.c.yimg.jp",
       ":path": "/im_sigg537mI30DS9hWeZeGpWl75Q---x200-y190-q90/amd/20121103-00000542-sanspo-000-view.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -843,7 +843,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "amd.c.yimg.jp",
+      ":authority": "amd.c.yimg.jp",
       ":path": "/im_siggHulEjLwgzPyrVDkZ9oNPng---x200-y133-q90/amd/20121031-00005828-yj_corptrend-000-51670401-view.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -859,7 +859,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "amd.c.yimg.jp",
+      ":authority": "amd.c.yimg.jp",
       ":path": "/im_siggrMDL3ZpnqnwM4Z1FYvhX2Q---x200-y133-q90/amd/20121101-00005830-yj_corptrend-000-51751400-view.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -875,7 +875,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/topics/css/import_ver2.css",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/css,*/*;q=0.1",
@@ -891,7 +891,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/commerce/js/libs/jquery/core/1.4.2/jquery.min.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -907,7 +907,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/yui/jp/uhd/olympic/1.0.2/img/uhdChnk.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -923,7 +923,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/news/v1/yn_gnavi_sprite_20120926.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -939,7 +939,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yjaxc.yahoo.co.jp",
+      ":authority": "yjaxc.yahoo.co.jp",
       ":path": "/oi",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -956,7 +956,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yjaxc.yahoo.co.jp",
+      ":authority": "yjaxc.yahoo.co.jp",
       ":path": "/oi",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -973,7 +973,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/topics/social/btnMx.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -989,7 +989,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/topics/wiki/ytopics_sprite_icons.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1005,7 +1005,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/topics/wiki/ytopics_sprite_backgrounds.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1021,7 +1021,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/topics/wiki/relTabLeft.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1037,7 +1037,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/topics/wiki/relTabRight.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1053,7 +1053,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/topics/wiki/bullet_list.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1069,7 +1069,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/yui/jp/uft/1.0.0/img/utfChnk.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1085,7 +1085,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/topics/wiki/accountTitleBg.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1101,7 +1101,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/topics/social/sprite_icoSns16.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1117,7 +1117,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/topics/wiki/trendTitleBg.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1133,7 +1133,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/yahoo/javascript/csc/20060824/lib2obf_b4.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -1149,7 +1149,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ah.yimg.jp",
+      ":authority": "ah.yimg.jp",
       ":path": "/bdv/164354/1084075/20121101/4feasfvz47csxcoydlvl-a.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1165,7 +1165,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "platform.twitter.com",
+      ":authority": "platform.twitter.com",
       ":path": "/widgets.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -1178,11 +1178,11 @@
   },
   {
     "context": "request",
-    "wire": "tboEmQ2VhkMYBHYRjdfrGLWENNQaueuuk5M46L8/L77vb6qWtAUEL0f670JUyLYZ9XR8GRFfR3oT0fTw6P30GKSvq6H8/Yakhf99HuFPJoHKYpTFN0cFPHFvmBqSFx2viPnEM46L6UOctSURU1geecdF/889F9KHOWpKIqawPPRfV5WlJZ0/0H9dXlaUlf8/BIsWS/jw6RZ1eVpSUT8DisvVTunowHFaIj8Ah0tYwUxU1n+H5CLpULVzH4qh",
+    "wire": "tboEmQ2VhkMYBHYRjdfrGLWENNQaueuuk5M46L8/Lr7vb6qWtAUEL0f670JUyLYZ9XR8GRFfR3oT0fTw6P30GKSvq6H8/Yakhf99HuFPJoHKYpTFN0cFPHFvmBqSFx2viPnEM46L6UOctSURU1geecdF/889F9KHOWpKIqawPPRfV5WlJZ0/0H9dXlaUlf8/A4sWS/jw6RZ1eVpSUT8CisvVTunowHFaIj8Ah0tYwUxU1n+H5CLpULVzH4qh",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "platform.twitter.com",
+      ":authority": "platform.twitter.com",
       ":path": "/widgets/tweet_button.1351848862.html",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -1199,7 +1199,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "connect.facebook.net",
+      ":authority": "connect.facebook.net",
       ":path": "/ja_JP/all.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -1215,7 +1215,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "bkskapi.dailynews.yahoo.co.jp",
+      ":authority": "bkskapi.dailynews.yahoo.co.jp",
       ":path": "/detail",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -1232,7 +1232,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "platform.twitter.com",
+      ":authority": "platform.twitter.com",
       ":path": "/widgets/follow_button.1351848862.html",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -1249,7 +1249,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "p.twitter.com",
+      ":authority": "p.twitter.com",
       ":path": "/t.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1266,7 +1266,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "cdn.api.twitter.com",
+      ":authority": "cdn.api.twitter.com",
       ":path": "/1/urls/count.json",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -1283,7 +1283,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "r.twimg.com",
+      ":authority": "r.twimg.com",
       ":path": "/jot",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1299,7 +1299,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "cdn.api.twitter.com",
+      ":authority": "cdn.api.twitter.com",
       ":path": "/1/users/show.json",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -1316,7 +1316,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "p.twitter.com",
+      ":authority": "p.twitter.com",
       ":path": "/f.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1333,7 +1333,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "r.twimg.com",
+      ":authority": "r.twimg.com",
       ":path": "/jot",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1345,11 +1345,11 @@
   },
   {
     "context": "request",
-    "wire": "uQaMamDicxeqCsmES3T/u5g/FIMxqP8/GJBDnLUlEVNYDUwdK8fLUYR/h4mKjp4=",
+    "wire": "uQaMamDicxeqCsmES3T/u5g/FIMxqP8/F5BDnLUlEVNYDUwdK8fLUYR/h4mKjp4=",
     "header": {
       ":method": "POST",
       ":scheme": "http",
-      ":host": "ocsp.verisign.com",
+      ":authority": "ocsp.verisign.com",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -1366,7 +1366,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "dailynews.yahoo.co.jp",
+      ":authority": "dailynews.yahoo.co.jp",
       ":path": "/favicon.ico",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1382,7 +1382,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/css/yj2.css",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/css,*/*;q=0.1",
@@ -1398,7 +1398,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/clear.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1414,7 +1414,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/news/cobranding/sanspo.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1430,7 +1430,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/lib/news/json/jsr_class_1_1.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -1446,7 +1446,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "headlines.yahoo.co.jp",
+      ":authority": "headlines.yahoo.co.jp",
       ":path": "/hl",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -1463,7 +1463,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/lib/news/socialModule/realtimeSearch_1_0-min.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -1479,7 +1479,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/lib/news/jquery/jquery.template.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -1495,7 +1495,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/lib/news/socialModule/facebook_1_3_1-min.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -1511,7 +1511,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "amd.c.yimg.jp",
+      ":authority": "amd.c.yimg.jp",
       ":path": "/im_siggvNnG417_XZJF5TsJPh7FFQ---x200-y190-q90/amd/20121103-00000542-sanspo-000-4-view.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1527,7 +1527,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/70506/1082210/20121024/0ffcv4drh8ir07jvroju-a.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1543,7 +1543,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/71629/1082189/20121029/2n1tdzicd8j7eotfexbi-a.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1559,7 +1559,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/lib/news/jquery/jquery.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -1575,7 +1575,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/lib/news/widgets/widgets_1_1.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -1591,7 +1591,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/2959/1085127/20121102/ilaj2_d_zo_9bjginqty-a.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1607,7 +1607,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/2959/1085124/20121102/vval_chos32k_7okick9-a.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1623,7 +1623,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/30/1072134/20121029/qv2c_lhjbra0qr5ps55w-a.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1639,7 +1639,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/news/v1/css/master-news.css",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/css,*/*;q=0.1",
@@ -1655,7 +1655,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yjaxc.yahoo.co.jp",
+      ":authority": "yjaxc.yahoo.co.jp",
       ":path": "/oi",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -1668,11 +1668,11 @@
   },
   {
     "context": "request",
-    "wire": "mwCE9jkRz5gFaIyGAMHaAczAwdoXQalSF36xi1hMlY+sGaXOMXewAUT0VpkTi4FaIyGAMHaAczAmEA0RCIvlYO0CJhD28zG/g4STlpo=",
+    "wire": "mwCE9jkRz5gFaIyGAMHaAczAwdoXQalSF36xi1hMlY+sgBmlzjF3sAFE9FaZE4uBWiMhgDB2gHMwJhANEQiL5WDtAiYQ9vMxv4OEk5aa",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/news/v1/news_socialbutton.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1684,11 +1684,11 @@
   },
   {
     "context": "request",
-    "wire": "gIICmwVojIYBoOCkB6aaqBWmQLUwf0rAbp/MxMlY/4M=",
+    "wire": "vsIEmwVojIYBoOCkB6aaqBWmQLUwf0rAbp/MxMlY/z82vu9vqpa0BQQvR/rvQlTIthn1dHwZEV9HehPR9PDo/fQYpK+rofz9hqSF/30e4U8mgcpilMU3RwU8cW+YGpIXhg==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/media/ymui/img/lineWide_4x1.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1700,11 +1700,11 @@
   },
   {
     "context": "request",
-    "wire": "vsIDlwVojIYAwdoBzMHoy6DnqiNyktZAjmZfPze+72+qlrQFBC9H+u9CVMi2GfV0fBkRX0d6E9H08Oj99Bikr6uh/P2GpIX/fR7hTyaBymKUxTdHBTxxb5gakheF",
+    "wire": "ApcFaIyGAMHaAczB6Mug56ojcpLWQI5mXz8NixZL+PDpFnV5WlJRPwyKy9VO6ejAcVoiPwCHS1jBTFTWf4fkIulQtXMfhg==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/news/v1/yn_sprite_icons.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1716,11 +1716,11 @@
   },
   {
     "context": "request",
-    "wire": "ApgFaIyGAaDgpAemmqgVpkCUPe9sbjkczL8/DosWS/jw6RZ1eVpSUT8NisvVTunowHFaIj8Ah0tYwUxU1n+H5CLpULVzH4Y=",
+    "wire": "BJgFaIyGAaDgpAemmqgVpkCUPe9sbjkczL+F",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/media/ymui/img/carrrot_2.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1732,11 +1732,11 @@
   },
   {
     "context": "request",
-    "wire": "BJwFaIyGAaDgpAemmqgVpkDs2xb8x2uno8zUEyVjhQ==",
+    "wire": "AIT2ORHPnAVojIYBoOCkB6aaqBWmQOzbFvzHa6ejzNQTJWOC",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/media/ymui/img/photoNew_45x15.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1752,7 +1752,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/news/v1/sprite_bgRTSearchBox.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1768,7 +1768,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/news/v1/sprite_icoTwitter.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1784,7 +1784,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/news/v1/yn_sprite_background.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1800,7 +1800,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/news/v1/ranking.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1816,7 +1816,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/news/v1/yn_gnavi_sprite.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1832,7 +1832,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yjaxc.yahoo.co.jp",
+      ":authority": "yjaxc.yahoo.co.jp",
       ":path": "/oi",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -1845,11 +1845,11 @@
   },
   {
     "context": "request",
-    "wire": "rACE9jkRz44PTVQcXBquIIe9uxMlY72TlKOm",
+    "wire": "rACE9jkRz44PTVQcXBquIIe9uxMlYyaaVojIQczLpVojIQ/rq8rSkr6f6D+urytKSj+UlaSn",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/yui/jp/ult/arrow.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1861,11 +1861,11 @@
   },
   {
     "context": "request",
-    "wire": "AIT2ORHPngVojIYAtUIqZkEWtWHpxR5pD04o80yqxejQSZx0XyeviPnEM46L6UOctSURU1geecdF/889F9KHOWpKIqawPPRfV5WlJZ0/0H9dXlaUlf+D",
+    "wire": "Ap4FaIyGALVCKmZBFrVh6cUeaQ9OKPNMqsXo0EmcdF8Cr4j5xDOOi+lDnLUlEVNYHnnHRf/PPRfShzlqSiKmsDz0X1eVpSWdP9B/XV5WlJX/g4Q=",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/listing/tool/yjaxc/yjaxc-iframe.html",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -1877,11 +1877,11 @@
   },
   {
     "context": "request",
-    "wire": "FpN4oXFWgkgKHpzJ6Iza1DlQJxd/A4YOZgc2Ef+qg4Sx",
+    "wire": "F5N4oXFWgkgKHpzJ6Iza1DlQJxd/A4YOZgc2Ef+rg4Sy",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "realtime.search.yahooapis.jp",
+      ":authority": "realtime.search.yahooapis.jp",
       ":path": "/v1/post",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -1893,11 +1893,11 @@
   },
   {
     "context": "request",
-    "wire": "sQCE9jkRz5cFqvBg7QDZWGQxgEdhGN1+sYtYTOOi/4SCg6s=",
+    "wire": "sgCE9jkRz5cFqvBg7QDZWGQxgEdhGN1+sYtYTOOi/4SCg6w=",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/lib/news/widgets/tweet_button.html",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -1909,11 +1909,11 @@
   },
   {
     "context": "request",
-    "wire": "mZirFv+1A84xd7ABRPRWmROLgVojIYAtUIqZkEWtWHpxR5pD04o80yqxejQSZx0X7YPSW3OMXSTb5D8JD8PTijzST0Rm1pEtJxdIfg1Uk3CEk3ahg6NhcwdoFMeyiQ9KpJu05aq6i2UTTyHp2km7ZD0odlJN2mkPTGSbt4yHp1km7c4xdIeibfIeg/CQ9B+GYowWpgwJ6Iza0iWk4ukPQfhmuQ9E3BEh6Ju05THMYs0pSlKWic8sEMg5st6IDIel44yTducYukPRNvkPQfhIeg/DBCl+jB2gT0Rm1pEtJxdIeg/DFMh6D8IOa+MJD0H4MU5zWXQF6hhIeg/CQ9E3A01BrJpp7J5D0ixMk3b3fjsl+P1kPTByEj8MJJu2Q9PFUPMs5TyTdsh6Y+jhkm7ZD0pejZf4euSbt3Qek1ucYukm3yH4SH4enFHmknojNrSJaTi6Q/DjCQ/D04o80yqZEXsQuW9DGC8nGEk3BWmWr1yTducYukPRNvkPQfhIeg/BGZPRWmROLpD0H4K0RkMJD0H4K0kPQfgpjBejCQ9B+Eh6VaZORHOSbtvY810IXGumKWU9BScXZSHpStSeWr1yTducYukPRNvkPQfhIeg/B+BPRGbWkS0nF0h6D8L/VMh6D8IYQkPQfhZVTPXIeg/AecZD0TdtlVM9ch6D8P6zjF0h6Jt8h6D8JD0H4LVCKmZE9EZtaRLScXSHoPw9LnPbo2Q9B+C1QipmRTSHoPwkPRNwbIeibt+P1NNQX6mChQ==",
+    "wire": "mpmsF/+1A84xd7ABRPRWmROLgVojIYAtUIqZkEWtWHpxR5pD04o80yqxejQSZx0X7YPSW3OMXSTb5D8JD8PTijzST0Rm1pEtJxdIfg1Uk3CEk3ahg6NhcwdoFMeyiQ9KpJu05aq6i2UTTyHp2km7ZD0odlJN2mkPTGSbt4yHp1km7c4xdIeibfIeg/CQ9B+GYowWpgwJ6Iza0iWk4ukPQfhmuQ9E3BEh6Ju05THMYs0pSlKWic8sEMg5st6IDIel44yTducYukPRNvkPQfhIeg/DBCl+jB2gT0Rm1pEtJxdIeg/DFMh6D8IOa+MJD0H4MU5zWXQF6hhIeg/CQ9E3A01BrJpp7J5D0ixMk3b3fjsl+P1kPTByEj8MJJu2Q9PFUPMs5TyTdsh6Y+jhkm7ZD0pejZf4euSbt3Qek1ucYukm3yH4SH4enFHmknojNrSJaTi6Q/DjCQ/D04o80yqZEXsQuW9DGC8nGEk3BWmWr1yTducYukPRNvkPQfhIeg/BGZPRWmROLpD0H4K0RkMJD0H4K0kPQfgpjBejCQ9B+Eh6VaZORHOSbtvY810IXGumKWU9BScXZSHpStSeWr1yTducYukPRNvkPQfhIeg/B+BPRGbWkS0nF0h6D8L/VMh6D8IYQkPQfhZVTPXIeg/AecZD0TdtlVM9ch6D8P6zjF0h6Jt8h6D8JD0H4LVCKmZE9EZtaRLScXSHoPw9LnPbo2Q9B+C1QipmRTSHoPwkPRNwbIeibt+P1NNQX6qChQ==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yjaxc.yahoo.co.jp",
+      ":authority": "yjaxc.yahoo.co.jp",
       ":path": "/oi",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -1926,11 +1926,11 @@
   },
   {
     "context": "request",
-    "wire": "qwKGCCQhm3b/AqrOMXewAzFGC1MGBPRGbWkS0nFwZr9qLTlMcxizSlKUpaJzywQyDmy3ogODm5w=",
+    "wire": "rAKGCCQhm3b/ggKqzjF3sAMxRgtTBgT0Rm1pEtJxcGa/ai05THMYs0pSlKWic8sEMg5st6IDg5yd",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "headlines.yahoo.co.jp",
+      ":authority": "headlines.yahoo.co.jp",
       ":path": "/sc/show",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -1943,11 +1943,11 @@
   },
   {
     "context": "request",
-    "wire": "BohGZPRWmROLvwOmC/DmBqZ5qJwMWstZ6AOUxzGKYM1KL6sf584X+ZcIlNyuylQTJWMJmlaIyEHMy6VaIyEP66vK0pK+n+g/rq8rSko/ha4=",
+    "wire": "BohGZPRWmROLvwOmC/DmBqZ5qJwMWstZ6AOUxzGKYM1KL6sf584X+ZcIlNyuylQTJWOLhA==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ah.yimg.jp",
+      ":authority": "ah.yimg.jp",
       ":path": "/bdv/164354/1080825/20121101/hii0znrxvsbx0dt01k_g-a.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1959,11 +1959,11 @@
   },
   {
     "context": "request",
-    "wire": "A4dRPRWmROLvA5YFqvBg7QDZWGQxgCtEZDAI7CMSOZl/Bv/OAs4xd7ABRPRWmROLgWq8GDtANlYZDGAR2EY3X6xi1hM46L9t1ppqDWT2Grspmr3JbqyNrGsHcrC2OyoxF90dhGN1+sYtZcfctDMreKNzXqyUxC7njiLxfbnGLpJt8h+Eh+GYowWpgwJ6Iza0iWk4ukPwzXJNwRJN2nKY5jFmlKUpS0TnlghkHNlvRAdzxwU8Uxt3RHzjbJ3USddUm+uTunk698nXvk7ppKzSV9kndwk6+ySyaTuok67JOueTumkrNJ10yd00lZ5K98ndTJZVJvok7qZLOyTf2Sd08nXXJWWTu4SdfZJWaTuok6+6TfZJ3USddcnWWTumkrNJv7pO6ySyuTr4Sd1klc0m+uTumkrNJX2Sd1MnWaTr3yd1ElfXJZ2yd1Mldklk0ndwk6+ySuuTumkrPJ10Sd00lc0nXNJ3TSVnk6zSd00lZ5N88ndNJWeTrsk7ppK5pLO2Tumkrmk6+yTumkrmkrnk7uEnX2SV2SHLLIcv8/8k7ppK5pK+uTumkrmk30Sd00lc0nX2Sd00lZ5Ouzdq9ducYukm3yH4SH4ZijBamDAnojNrSJaTi6Q/DNck3BEk3acpjmMWaUpSlLROeWCGQc2W9EB/hYaH",
+    "wire": "AodRPRWmROLvApYFqvBg7QDZWGQxgCtEZDAI7CMSOZl/Bf/OAs4xd7ABRPRWmROLgWq8GDtANlYZDGAR2EY3X6xi1hM46L9t1ppqDWT2Grspmr3JbqyNrGsHcrC2OyoxF90dhGN1+sYtZcfctDMreKNzXqyUxC7njiLxfbnGLpJt8h+Eh+GYowWpgwJ6Iza0iWk4ukPwzXJNwRJN2nKY5jFmlKUpS0TnlghkHNlvRAdzxwU8Uxt3RHzjbJ3USddUm+uTunk698nXvk7ppKzSV9kndwk6+ySyaTuok67JOueTumkrNJ10yd00lZ5K98ndTJZVJvok7qZLOyTf2Sd08nXXJWWTu4SdfZJWaTuok6+6TfZJ3USddcnWWTumkrNJv7pO6ySyuTr4Sd1klc0m+uTumkrNJX2Sd1MnWaTr3yd1ElfXJZ2yd1Mldklk0ndwk6+ySuuTumkrPJ10Sd00lc0nXNJ3TSVnk6zSd00lZ5N88ndNJWeTrsk7ppK5pLO2Tumkrmk6+yTumkrmkrnk7uEnX2SV2SHLLIcv8/8k7ppK5pK+uTumkrmk30Sd00lc0nX2Sd00lZ5Ouzdq9ducYukm3yH4SH4ZijBamDAnojNrSJaTi6Q/DNck3BEk3acpjmMWaUpSlLROeWCGQc2W9EB/hIWG",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/lib/news/widgets/images/tweet.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1979,7 +1979,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/lib/news/widgets/images/tweet_ja.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -1991,11 +1991,11 @@
   },
   {
     "context": "request",
-    "wire": "i46IgIKF",
+    "wire": "io2HgIKP",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/lib/news/widgets/tweet_button.html",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -2007,11 +2007,11 @@
   },
   {
     "context": "request",
-    "wire": "BIx2uOIvIknorTInF3+rh4aNkA==",
+    "wire": "BIx2uOIvIknorTInF3+rkYaMjw==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "puffer.c.yimg.jp",
+      ":authority": "puffer.c.yimg.jp",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2027,7 +2027,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "puffer.c.yimg.jp",
+      ":authority": "puffer.c.yimg.jp",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2043,7 +2043,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "puffer.c.yimg.jp",
+      ":authority": "puffer.c.yimg.jp",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2059,7 +2059,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "puffer.c.yimg.jp",
+      ":authority": "puffer.c.yimg.jp",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2071,11 +2071,11 @@
   },
   {
     "context": "request",
-    "wire": "AohCieitMicXfwKcBWiMhgCtAVpkrQHJOCtDFKY09h5iuTo8xOLsv46DhIw=",
+    "wire": "AohCieitMicXfwKcBWiMhgCtAVpkrQHJOCtDFKY09h5iuTo8xOLsv42DhIs=",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/images/im/imgim/pc2/im1001149230pcmr1.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2087,11 +2087,11 @@
   },
   {
     "context": "request",
-    "wire": "Ao3V64EQ5RI7KjEXkS3TAowDBq9cAS3VkScYNZ8LhP6D+v+JhT8J/0tysLec3sNNQayeqYtM9VVNM8xqTlpLRP1dHK0xSTUEMUxDHmIaag1k9VE1Jj2WV2dXRlqMI3Kwt5mkm3mmoNZPVRNTRXPYaiqbq6LrtY6ItnmrmrmprIc05ZjUUFoIaag1k9VE5yGmoNZPVROchpqDWT1UTnIbq6LrtY6X2zzVzVzU1kOQxSGmoNZPVROfq6LrtY6ets81c1c1NZDTUGsnqonOQxDE1jomD7f9YKeKY/7/7rHRKWW/6wU8Ux/3/3WOidMLf9Mawf9/hYaNkg==",
+    "wire": "Ao3V64EQ5RI7KjEXkS3TAowDBq9cAS3VkScYNZ8ThP6D+v+Jg4Q/CP9LcrC3nN7DTUGsnqmLTPVVTTPMak5aS0T9XRytMUk1BDFMQx5iGmoNZPVRNSY9lldnV0ZajCNysLeZpJt5pqDWT1UTU0Vz2Goqm6ui67WOiLZ5q5q5qayHNOWY1FBaCGmoNZPVROchpqDWT1UTnIaag1k9VE5yG6ui67WOl9s81c1c1NZDkMUhpqDWT1UTn6ui67WOnrbPNXNXNTWQ01BrJ6qJzkMQxNY6Jg+3/WCnimP+/+6x0Sllv+sFPFMf9/91jonTC3/TGsH/f4WGkZc=",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "urls.api.twitter.com",
+      ":authority": "urls.api.twitter.com",
       ":path": "/1/urls/count.json",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -2104,11 +2104,11 @@
   },
   {
     "context": "request",
-    "wire": "p6uKiY+Sg4SFhow=",
+    "wire": "pquKiT8fvu9vqpa0BQQvR/rvQlTIthn1dHwZEV9HehPR9PDo/fQYpK+rofz9hqSF/30e4U8mgcpilMU3RwU8cW+YGpIXmpKEhYaHjQ==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "puffer.c.yimg.jp",
+      ":authority": "puffer.c.yimg.jp",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2120,11 +2120,11 @@
   },
   {
     "context": "request",
-    "wire": "Bo7MUYLUwYE9EZtaRLScXQaIDFHNSWsIpLc/IL7vb6qWtAUEL0f670JUyLYZ9XR8GRFfR3oT0fTw6P30GKSvq6H8/Yakhf99HuFPJoHKYpTFN0cFPHFvmBqSF4CCgwb/hwHrtqp4lsQauxFOc+6+2bdC0t/V0fz4/Pu/Xh2fTv7+75+NuFpafT5fDbxn7uOPZ+Pf33f5v8fr4+PYS8aeG3Af3r53Xf2P6HyX2/2TD37f32/b+eWXx4e/jYT3/Ffz92njt+suRM58yQ/Ff5u8e3H7pf79u3j8v098P7b5+Gvmr9I/H1r+vPu/G+/4/gbPP4cqrPk39f2+mK+3j+vvy9Ov8/K/y/XlH49dyPPw5Iw/H03c7TdXR/Pj8+79eHDrtwtyoPjPRfP3cR+Pl6o5U1U/Pl+f5rwxp7u/tpp4d/+fDHR3w90x/TbNxP8+/nT3b8aufu7flx8uVQ/b3f3p7sufBOTd3O03jY6W",
+    "wire": "B47MUYLUwYE9EZtaRLScXQeIDFHNSWsIpLc1ixZL+PDpFnV5WlJRNIrL1U7p6MBxWiI/AIdLWMFMVNZ/h+Qi6VC1cx8J/4cB67aqeJbEGrsRTnPuvtm3QtLf1dH8+Pz7v14dn07+/u+fjbhaWn0+Xw28Z+7jj2fj3993+b/H6+Pj2EvGnhtwH96+d139j+h8l9v9kw9+399v2/nll8eHv42E9/xX8/dp47frLkTOfMkPxX+bvHtx+6X+/bt4/L9PfD+2+fhr5q/SPx9a/rz7vxvv+P4Gzz+HKqz5N/X9vpivt4/r78vTr/Pyv8v15R+PXcjz8OSMPx9N3O03V0fz4/Pu/Xhw67cLcqD4z0Xz93Efj5eqOVNVPz5fn+a8Mae7v7aaeHf/nwx0d8PdMf02zcT/Pv5092/Grn7u35cfLlUP29396e7LnwTk3dztN5CRmA==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "headlines.yahoo.co.jp",
+      ":authority": "headlines.yahoo.co.jp",
       ":path": "/favicon.ico",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2136,11 +2136,11 @@
   },
   {
     "context": "request",
-    "wire": "A4IM150yixZL+PDpFnV5WlJRMYrL1U7p6MBxWiI/AIdLWMFMVNZ/h+Qi6VC1cx+ah5c=",
+    "wire": "BYIM15+ZhqE=",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "headlines.yahoo.co.jp",
+      ":authority": "headlines.yahoo.co.jp",
       ":path": "/hl",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -2153,11 +2153,11 @@
   },
   {
     "context": "request",
-    "wire": "kASNBWiMhgERTmF6WGJxh40Vnc4xd7ADMUYLUwYE9EZtaRLScXBmv2pt0bFu6Nq/hoeKnKI=",
+    "wire": "kACE9jkRz40FaIyGARFOYXpYYnGHjRWdzjF3sAMxRgtTBgT0Rm1pEtJxcGa/am3RsW7o2r+DhImboQ==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/images/tech/bcn1.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -2169,11 +2169,11 @@
   },
   {
     "context": "request",
-    "wire": "AqUL8OYTGPOBi1TT1HA5THMU9gacsk7esc13Z3uZ5+l0WNlQTJWPmoOP",
+    "wire": "AqUL8OYTGPOBi1TT1HA5THMU9gacsk7esc13Z3uZ5+l0WNlQTJWPD5pWiMhBzMulWiMhD+urytKSvp/oP66vK0pKP4SQ",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/3124/1073472/20121029/mkgcwzthl_hbpnxy_tno-a.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2185,11 +2185,11 @@
   },
   {
     "context": "request",
-    "wire": "AIT2ORHPpwvw5hUak9gGLVPQaoDlMcxT2By8m1vyv1uR6ctPPzxmT5YyoJkrH4I=",
+    "wire": "AqcL8OYVGpPYBi1T0GqA5THMU9gcvJtb8r9bkenLTz88Zk+WMqCZKx+D",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/71629/1074517/20121029/kqo8rgbu_aykmxxf3cqf-a.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2201,11 +2201,11 @@
   },
   {
     "context": "request",
-    "wire": "mgCE9jkRz5gFaIyGAaDgpAemmqgVpkCUPe9sbqCOZl8Epc4xd7ABRPRWmROLgVojIYAwdoBzMCYQDREIi+Vg7QImEPbzMb+DhZY=",
+    "wire": "mwCE9jkRz5gFaIyGAaDgpAemmqgVpkCUPe9sbqCOZl8Fpc4xd7ABRPRWmROLgVojIYAwdoBzMCYQDREIi+Vg7QImEPbzMb+Dhpc=",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/media/ymui/img/carrrot_5.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2217,11 +2217,11 @@
   },
   {
     "context": "request",
-    "wire": "lgKlC/DmB7KLAMWugx6gOUxzGKcEvgbLm71XVPcpbL8K/RcqCZKx/4aCg50=",
+    "wire": "lwKlC/DmB7KLAMWugx6gOUxzGKcEvgbLm71XVPcpbL8K/RcqCZKx/4eCg54=",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/2959/1085127/20121102/crs1gvpzl74_ilnbd8yl-a.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2233,11 +2233,11 @@
   },
   {
     "context": "request",
-    "wire": "nQCE9jkRz6IFaIyGAMHaAX+i1MGAczlMctgaIUwL2PC9j7pil87CkczLgpg=",
+    "wire": "ngCE9jkRz6IFaIyGAMHaAX+i1MGAczlMctgaIUwL2PC9j7pil87CkczLgpk=",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/news/bylines/v201209/main/bnr/bnr_300x90.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2249,11 +2249,11 @@
   },
   {
     "context": "request",
-    "wire": "EI304o80k9EZtaRLScXfAoIGq5YPkuu2qniWxBq7EU5z7r7Zt0LS34Shog==",
+    "wire": "EI304o80k9EZtaRLScXfAoIGq5cNkuu2qniWxBq7EU5z7r7Zt0LS34SJog==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yjaxc.yahoo.co.jp",
+      ":authority": "yjaxc.yahoo.co.jp",
       ":path": "/oi",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -2266,11 +2266,11 @@
   },
   {
     "context": "request",
-    "wire": "oQKZBWiMhgDB2gEdlRiLwjtdBzbpilupKTi7L6OCg4SY",
+    "wire": "ogKZBWiMhgDB2gEdlRiLwjtdBzbpilupKTi7L4qCg4SZ",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/news/twitter/tw_spo_300_60.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2282,11 +2282,11 @@
   },
   {
     "context": "request",
-    "wire": "nACE9jkRz6QL8OYGsmAxap5pygcpjmKewH5s1hzVns7Kzlnmh1nNkqCcXZeCow==",
+    "wire": "nQCE9jkRz6QL8OYGsmAxap5pygcpjmKewH5s1hzVns7Kzlnmh1nNkqCcXZeCpA==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/193/1074340/20121029/rhnusvihwpg9khhap9vn-a.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2302,7 +2302,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/1862/1083691/20121030/fk8wxszqyglpfwkac5kl-a.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2314,11 +2314,11 @@
   },
   {
     "context": "request",
-    "wire": "lpIar4j5xDOOi+lDnLUlEVNYHnnHRf/PPRfShzlqSiKmsDz0X1eVpSWdP9B/XV5WlJX/lIKfpg==",
+    "wire": "lpAMr4j5xDOOi+lDnLUlEVNYHnnHRf/PPRfShzlqSiKmsDz0X1eVpSWdP9B/XV5WlJX/koKNoA==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "headlines.yahoo.co.jp",
+      ":authority": "headlines.yahoo.co.jp",
       ":path": "/hl",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -2331,11 +2331,11 @@
   },
   {
     "context": "request",
-    "wire": "nwKmC/DmFRqT2AYtZzWFA5THMU9gXeefnnRryw5zQparJs9/lKgmSsenC53OMXewAzFGC1MGBPRGbWkS0nFwZr9qbYNSndG1f4OQlZaZ",
+    "wire": "oAKmC/DmFRqT2AYtZzWFA5THMU9gXeefnnRryw5zQparJs9/lKgmSseOC53OMXewAzFGC1MGBPRGbWkS0nFwZr9qbYNSndG1f4ORk5SZ",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/71629/1082190/20121029/_xhxh5ukdv3s6oigo4bq-a.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2351,7 +2351,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/71629/1075880/20121029/vstketkrv3fci_zfj0fb-a.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2367,7 +2367,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/30/1072203/20121029/rzqkxhmakk4bokrlm87_-a.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2379,11 +2379,11 @@
   },
   {
     "context": "request",
-    "wire": "i4qfiYCjqg==",
+    "wire": "i4qgiYCRpA==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yjaxc.yahoo.co.jp",
+      ":authority": "yjaxc.yahoo.co.jp",
       ":path": "/oi",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -2396,11 +2396,11 @@
   },
   {
     "context": "request",
-    "wire": "qQCE9jkRz5wFaIyGAMHaAaNw1WIaYHKY5ai2XZQFD05k4uy/q4qLjKA=",
+    "wire": "qgCE9jkRz5wFaIyGAMHaAaNw1WIaYHKY5ai2XZQFD05k4uy/koqLjKE=",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i.yimg.jp",
+      ":authority": "i.yimg.jp",
       ":path": "/images/news/module/md20120709_gsearch.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2412,11 +2412,11 @@
   },
   {
     "context": "request",
-    "wire": "DJZLWRFkSeihXhohiMheQcMhhqqIkYMfAqUERbpAKjBjWGN4CIVGxrxvEcLKROhM1eE9M1eFKaROKRnJxdl/CJpWiMhBzMulWiMhD+urytKSvp/oP66vK0pKP4Q=",
+    "wire": "DJZLWRFkSeihXhohiMheQcMhhqqIkYMfAqUERbpAKjBjWGN4CIVGxrxvEcLKROhM1eE9M1eFKaROKRnJxdl/gw==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "content.yieldmanager.edgesuite.net",
+      ":authority": "content.yieldmanager.edgesuite.net",
       ":path": "/atoms/71/f8/fb/ee/71f8fbeed96e2ac38d4638d6c6e2ece4.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2428,11 +2428,11 @@
   },
   {
     "context": "request",
-    "wire": "n5uJnICCgw==",
+    "wire": "npiImYCClA==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "headlines.yahoo.co.jp",
+      ":authority": "headlines.yahoo.co.jp",
       ":path": "/hl",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -2445,11 +2445,11 @@
   },
   {
     "context": "request",
-    "wire": "pwKlC/DmFRqT2AYtU1JqwOUxzFPYEV4Nn0ozTqjjtFdg3vqlQTi7L4IInc4xd7ADMUYLUwYE9EZtaRLScXBmv2ptvRAd0bV/iYudnqE=",
+    "wire": "pwCE9jkRz6UL8OYVGpPYBi1TUmrA5THMU9gRXg2fSjNOqOO0V2De+qVBOLsvlQedzjF3sAMxRgtTBgT0Rm1pEtJxcGa/am29EB3RtX+IipqboA==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/71629/1073618/20121029/tldo4m5hcuajwtl9ebr7-a.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2465,7 +2465,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/3514/1070875/20121102/di3ufilunjw9ul9nrygs-a.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2477,11 +2477,11 @@
   },
   {
     "context": "request",
-    "wire": "kpGmkICEqg==",
+    "wire": "kZCmj4CXqg==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yjaxc.yahoo.co.jp",
+      ":authority": "yjaxc.yahoo.co.jp",
       ":path": "/oi",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -2494,11 +2494,11 @@
   },
   {
     "context": "request",
-    "wire": "BopGmBEk9FaZE4u/AsMFaXQVll4eP24eHu8Keu7Vfl9v32k5ffrJlLLL5moLL6VzS+VhQRpgBymOYxZpSlKUtNdUvo3SUpSymljnrpeTi7L/hpKTlKg=",
+    "wire": "BYpGmBEk9FaZE4u/AsMFaXQVll4eP24eHu8Keu7Vfl9v32k5ffrJlLLL5moLL6VzS+VhQRpgBymOYxZpSlKUtNdUvo3SUpSymljnrpeTi7L/mZGSk6g=",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "amd.c.yimg.jp",
+      ":authority": "amd.c.yimg.jp",
       ":path": "/im_siggSTQFSGS6B_ulqQXD.kRB.g---x150-y83-q90/amd/20121103-00000687-yom-000-1-thumb.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2514,7 +2514,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/30/1072095/20121029/_wzyz3fszhqvouc6tuav-a.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2526,11 +2526,11 @@
   },
   {
     "context": "request",
-    "wire": "iQCE9jkRz6YERbpADzAWYMTBVUB5izYmqqsrxKY1N9FicKJsb76Ma7K6picXZYKu",
+    "wire": "iACE9jkRz6YERbpADzAWYMTBVUB5izYmqqsrxKY1N9FicKJsb76Ma7K6picXZYKu",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "content.yieldmanager.edgesuite.net",
+      ":authority": "content.yieldmanager.edgesuite.net",
       ":path": "/atoms/23/03/f1/77/2303f17798f0116b59cd53fbb5f89873.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2542,11 +2542,11 @@
   },
   {
     "context": "request",
-    "wire": "pqKQo4CIig==",
+    "wire": "pZ+PoICJmw==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "headlines.yahoo.co.jp",
+      ":authority": "headlines.yahoo.co.jp",
       ":path": "/hl",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -2559,11 +2559,11 @@
   },
   {
     "context": "request",
-    "wire": "rgCE9jkRz6YL8OYVGpPYBi1T0GqA5THMU9geXppRC7HVrOW2Oc/PaktcqCZKx4kHnM4xd7ADMUYLUwYE9EZtaRLScXBmv2ptg5u6Nq+IkqSlqA==",
+    "wire": "rgCE9jkRz6YL8OYVGpPYBi1T0GqA5THMU9geXppRC7HVrOW2Oc/PaktcqCZKx5wHnM4xd7ADMUYLUwYE9EZtaRLScXBmv2ptg5u6Nq+IkaGipw==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/71629/1074517/20121029/qym5s_fuonkwfh4vw608-a.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2575,11 +2575,11 @@
   },
   {
     "context": "request",
-    "wire": "gAKnC/DmFRqT2AYtU1JpwOUxzFPYGzIcr1Px448fTy8uO3FnnNKgnF2Xgw==",
+    "wire": "BohCieitMicXfwOnC/DmFRqT2AYtU1JpwOUxzFPYGzIcr1Px448fTy8uO3FnnNKgnF2XhA==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/71629/1073614/20121029/wnskbirfjfjyqqjwjnx3-a.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2591,11 +2591,11 @@
   },
   {
     "context": "request",
-    "wire": "mZitl4CL",
+    "wire": "mZiul4CCnw==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yjaxc.yahoo.co.jp",
+      ":authority": "yjaxc.yahoo.co.jp",
       ":path": "/oi",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -2608,11 +2608,11 @@
   },
   {
     "context": "request",
-    "wire": "B4hCieitMicXfwKlC/DmB7KLAMWugx5wOUxzGKcKjDs88c14+Vx/RXl6Z8dpUEyVj42Zmpuv",
+    "wire": "ggCE9jkRz6UL8OYHsosAxa6DHnA5THMYpwqMOzzxzXj5XH9FeXpnx2lQTJWPoJiZmq8=",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/2959/1085124/20121102/71ewr2thlfq_2yiqyhjw-a.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2628,7 +2628,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/30/1072106/20121029/hczia9w6zzi3jskznvxo-a.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -2644,7 +2644,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ai.yimg.jp",
+      ":authority": "ai.yimg.jp",
       ":path": "/bdv/26008/1077726/20121029/zuabaglgdswip3wx_faw-a.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",

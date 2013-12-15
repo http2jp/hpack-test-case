@@ -1,11 +1,11 @@
 [
   {
     "context": "request",
-    "wire": "gocAhPZm2EeIZ6RVoMCJbp+HPb7vb6qWtAUEL0f670JUyLYZ9XR8GRFfR3oT0fTw6P30GKSvq6H8/Yakhf99HuFPJoHKYpTFN0cFPHFvmBqSFxeviPnEM46L6UOctSURU1geecdF/889F9KHOWpKIqawPPRfV5WlJZ0/0H9dXlaUlf8WixZL+PDpFnV5WlJRForL1U7p6MBxWiI/AIdLWMFMVNZ/h+Qi6VC1cx8=",
+    "wire": "gocDiGekVaDAiW6fhz2+72+qlrQFBC9H+u9CVMi2GfV0fBkRX0d6E9H08Oj99Bikr6uh/P2GpIX/fR7hTyaBymKUxTdHBTxxb5gakhcXr4j5xDOOi+lDnLUlEVNYHnnHRf/PPRfShzlqSiKmsDz0X1eVpSWdP9B/XV5WlJX/FosWS/jw6RZ1eVpSURaKy9VO6ejAcVoiPwCHS1jBTFTWf4fkIulQtXMf",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "nytimes.com",
+      ":authority": "nytimes.com",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -20,7 +20,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "t.pointroll.com",
+      ":authority": "t.pointroll.com",
       ":path": "/PointRoll/Track/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -37,7 +37,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "t.pointroll.com",
+      ":authority": "t.pointroll.com",
       ":path": "/PointRoll/Track/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -54,7 +54,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "graphics8.nytimes.com",
+      ":authority": "graphics8.nytimes.com",
       ":path": "/packages/css/multimedia/bundles/projects/2012/HPLiveDebateFlex.css",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/css,*/*;q=0.1",
@@ -71,7 +71,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "graphics8.nytimes.com",
+      ":authority": "graphics8.nytimes.com",
       ":path": "/js/app/common/slideshow/embeddedSlideshowBuilder.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -88,7 +88,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "graphics8.nytimes.com",
+      ":authority": "graphics8.nytimes.com",
       ":path": "/css/0.1/screen/slideshow/modules/slidingGallery.css",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/css,*/*;q=0.1",
@@ -105,7 +105,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "graphics8.nytimes.com",
+      ":authority": "graphics8.nytimes.com",
       ":path": "/adx/images/ADS/31/46/ad.314668/NYT_MBM_IPHON_LEFT_Oct11.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -122,7 +122,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "graphics8.nytimes.com",
+      ":authority": "graphics8.nytimes.com",
       ":path": "/packages/js/multimedia/bundles/projects/2012/HPLiveDebateFlex.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -139,7 +139,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "graphics8.nytimes.com",
+      ":authority": "graphics8.nytimes.com",
       ":path": "/packages/js/multimedia/data/FilmStripPromo/2012_election_filmstrip.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -156,7 +156,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "graphics8.nytimes.com",
+      ":authority": "graphics8.nytimes.com",
       ":path": "/packages/js/elections/2012/debates/videostrip/filmstrip.css",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/css,*/*;q=0.1",

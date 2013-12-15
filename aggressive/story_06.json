@@ -1,11 +1,11 @@
 [
   {
     "context": "request",
-    "wire": "gocAhPZm2EeGG9HoRLdPhz2+72+qlrQFBC9H+u9CVMi2GfV0fBkRX0d6E9H08Oj99Bikr6uh/P2GpIX/fR7hTyaBymKUxTdHBTxxb5gakhcXr4j5xDOOi+lDnLUlEVNYHnnHRf/PPRfShzlqSiKmsDz0X1eVpSWdP9B/XV5WlJX/FosWS/jw6RZ1eVpSURaKy9VO6ejAcVoiPwCHS1jBTFTWf4fkIulQtXMf",
+    "wire": "gocDhhvR6ES3T4c9vu9vqpa0BQQvR/rvQlTIthn1dHwZEV9HehPR9PDo/fQYpK+rofz9hqSF/30e4U8mgcpilMU3RwU8cW+YGpIXF6+I+cQzjovpQ5y1JRFTWB55x0X/zz0X0oc5akoiprA89F9XlaUlnT/Qf11eVpSV/xaLFkv48OkWdXlaUlEWisvVTunowHFaIj8Ah0tYwUxU1n+H5CLpULVzHw==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ebay.com",
+      ":authority": "ebay.com",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -20,7 +20,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "www.ebay.com",
+      ":authority": "www.ebay.com",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -31,11 +31,11 @@
   },
   {
     "context": "request",
-    "wire": "AIT2ZthHixvR6Swi16hgRLdPCJkNnSpayIsiGrltRhADlMcDGD4QbLTQTi7LB5pWiMhBzMulWiMhD+urytKSvp/oP66vK0pKPz8Ajs4xd7ADbbYg3o9CJboHhYmL",
+    "wire": "AIj2I1jm16o+n4sb0eksIteoYES3TwiZDZ0qWsiLIhq5bUYQA5THAxg+EGy00E4uyweaVojIQczLpVojIQ/rq8rSkr6f6D+urytKSj8/AI7OMXewA222IN6PQiW6B4WJiw==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ebay-stories.com",
+      ":authority": "ebay-stories.com",
       ":path": "/wp-content/uploads/2012/11/Iso-65.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -51,7 +51,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "rover.ebay.com",
+      ":authority": "rover.ebay.com",
       ":path": "/roversync/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -68,7 +68,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "p.ebaystatic.com",
+      ":authority": "p.ebaystatic.com",
       ":path": "/aw/pics/s.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -84,7 +84,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "p.ebaystatic.com",
+      ":authority": "p.ebaystatic.com",
       ":path": "/aw/pics/mops/2012_doodles/Holiday/DS3/ImgWeek_1_Penguin_Small_150x30.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -100,7 +100,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "p.ebaystatic.com",
+      ":authority": "p.ebaystatic.com",
       ":path": "/aw/pics/globalHeader/facebook/g12.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -116,7 +116,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "p.ebaystatic.com",
+      ":authority": "p.ebaystatic.com",
       ":path": "/aw/pics/globalHeader/twitter/g12.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -132,7 +132,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "p.ebaystatic.com",
+      ":authority": "p.ebaystatic.com",
       ":path": "/aw/pics/globalHeader/icon_mobile_gray_11x16.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -148,7 +148,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "srx.main.ebayrtm.com",
+      ":authority": "srx.main.ebayrtm.com",
       ":path": "/rtm",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",

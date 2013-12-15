@@ -1,11 +1,11 @@
 [
   {
     "context": "request",
-    "wire": "gocAhPZm2EeJcpkReMIkS3T/hz2+72+qlrQFBC9H+u9CVMi2GfV0fBkRX0d6E9H08Oj99Bikr6uh/P2GpIX/fR7hTyaBymKUxTdHBTxxb5gakhcXr4j5xDOOi+lDnLUlEVNYHnnHRf/PPRfShzlqSiKmsDz0X1eVpSWdP9B/XV5WlJX/FosWS/jw6RZ1eVpSURaKy9VO6ejAcVoiPwCHS1jBTFTWf4fkIulQtXMf",
+    "wire": "gocDiXKZEXjCJEt0/4c9vu9vqpa0BQQvR/rvQlTIthn1dHwZEV9HehPR9PDo/fQYpK+rofz9hqSF/30e4U8mgcpilMU3RwU8cW+YGpIXF6+I+cQzjovpQ5y1JRFTWB55x0X/zz0X0oc5akoiprA89F9XlaUlnT/Qf11eVpSV/xaLFkv48OkWdXlaUlEWisvVTunowHFaIj8Ah0tYwUxU1n+H5CLpULVzHw==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "pinterest.com",
+      ":authority": "pinterest.com",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -20,7 +20,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "media-cache-lt0.pinterest.com",
+      ":authority": "media-cache-lt0.pinterest.com",
       ":path": "/upload/164311086374323731_DhZSfIfc_b.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -37,7 +37,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "media-cache-lt0.pinterest.com",
+      ":authority": "media-cache-lt0.pinterest.com",
       ":path": "/upload/161637074097583855_SNjDRMKe_b.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -54,7 +54,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "media-cache-lt0.pinterest.com",
+      ":authority": "media-cache-lt0.pinterest.com",
       ":path": "/upload/273593746083022624_FCoEkXsC_b.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -71,7 +71,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "media-cache-lt0.pinterest.com",
+      ":authority": "media-cache-lt0.pinterest.com",
       ":path": "/upload/52917364342893663_qtPmJgkx_b.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -88,7 +88,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "media-cache-lt0.pinterest.com",
+      ":authority": "media-cache-lt0.pinterest.com",
       ":path": "/upload/116952921544035902_KyTWinzm_b.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -105,7 +105,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "media-cache-lt0.pinterest.com",
+      ":authority": "media-cache-lt0.pinterest.com",
       ":path": "/upload/283445370267774252_AttBMVfT_b.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -122,7 +122,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "media-cache-lt0.pinterest.com",
+      ":authority": "media-cache-lt0.pinterest.com",
       ":path": "/upload/237142736599025827_ufDEHdRe_b.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -139,7 +139,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "media-cache-lt0.pinterest.com",
+      ":authority": "media-cache-lt0.pinterest.com",
       ":path": "/upload/224194887669533381_UBmi659g_b.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -156,7 +156,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "media-cache-lt0.pinterest.com",
+      ":authority": "media-cache-lt0.pinterest.com",
       ":path": "/upload/274156696036479907_A1ezgnsj_b.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",

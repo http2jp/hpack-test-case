@@ -1,11 +1,11 @@
 [
   {
     "context": "request",
-    "wire": "gocAhPZm2EeH9EMwHzI/X4c9vu9vqpa0BQQvR/rvQlTIthn1dHwZEV9HehPR9PDo/fQYpK+rofz9hqSF/30e4U8mgcpilMU3RwU8cW+YGpIXF6+I+cQzjovpQ5y1JRFTWB55x0X/zz0X0oc5akoiprA89F9XlaUlnT/Qf11eVpSV/xaLFkv48OkWdXlaUlEWisvVTunowHFaIj8Ah0tYwUxU1n+H5CLpULVzHw==",
+    "wire": "gocDh/RDMB8yP1+HPb7vb6qWtAUEL0f670JUyLYZ9XR8GRFfR3oT0fTw6P30GKSvq6H8/Yakhf99HuFPJoHKYpTFN0cFPHFvmBqSFxeviPnEM46L6UOctSURU1geecdF/889F9KHOWpKIqawPPRfV5WlJZ0/0H9dXlaUlf8WixZL+PDpFnV5WlJRForL1U7p6MBxWiI/AIdLWMFMVNZ/h+Qi6VC1cx8=",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yandex.ru",
+      ":authority": "yandex.ru",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -20,7 +20,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "www.yandex.ru",
+      ":authority": "www.yandex.ru",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -31,11 +31,11 @@
   },
   {
     "context": "request",
-    "wire": "AIT2ZthHi/RF8CeiGYD5kfr/CNcEt1ZEPyza6b14Hw5fScpSn/zNdf9+5FH9/X+zp0+uPeP8d9D+vuLz3j9Nd44/58N+Td5/73ifH6/T6fWyn08p70Gx7f79327DZr7fyP2+dfux/PaaoasHmlaIyEHMy6VaIyEP66vK0pK+n+g/rq8rSko/PwCPzjF3sANttieiGYD5kfqHLZqNruro9EMwHz1VhbTOYs9E1VRpqDWT2T0G/4aKjA==",
+    "wire": "AIj2I1jm16o+n4v0RfAnohmA+ZH6/wjXBLdWRD8s2um9eB8OX0nKUp/8zXX/fuRR/f1/s6dPrj3j/HfQ/r7i894/TXeOP+fDfk3ef+94nx+v0+n1sp9PKe9Bse3+/d9uw2a+38j9vnX7sfz2mqGrB5pWiMhBzMulWiMhD+urytKSvp/oP66vK0pKPz8Aj84xd7ADbbYnohmA+ZH6hy2aja7q6PRDMB89VYW0zmLPRNVUaag1k9k9Bv+Giow=",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yabs.yandex.ru",
+      ":authority": "yabs.yandex.ru",
       ":path": "/count/Vnw_3zF2dkO40002Zhl8KGa5KPK2cmPfMeYpO2zG0vAeOuAefZIAgoA2KAe2fPOOP96yq4ba1fDKGQC1hlDVeQN8GfVD17e7",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -52,7 +52,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yabs.yandex.ru",
+      ":authority": "yabs.yandex.ru",
       ":path": "/count/Vnw_3mft8wq40000Zhl8KGa5KP6yq4ba1fDKhlDVeQN8GfVD17a3=qcOn49K2cmPfMcbQagXZWgYAgoA2KAMM66IcD7W3",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -69,7 +69,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yandex.st",
+      ":authority": "yandex.st",
       ":path": "/lego/_/pDu9OWAQKB0s2J9IojKpiS_Eho.ico",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -84,7 +84,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yandex.st",
+      ":authority": "yandex.st",
       ":path": "/www/1.359/www/i/yandex3.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -100,7 +100,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yandex.st",
+      ":authority": "yandex.st",
       ":path": "/morda-logo/i/logo.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -116,7 +116,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "mc.yandex.ru",
+      ":authority": "mc.yandex.ru",
       ":path": "/watch/722545",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -133,7 +133,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yandex.st",
+      ":authority": "yandex.st",
       ":path": "/www/1.359/www/pages-desktop/www-css/_www-css.css",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/css,*/*;q=0.1",
@@ -149,7 +149,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yandex.st",
+      ":authority": "yandex.st",
       ":path": "/www/_/_r7pp-b-hKoDbgyGYy0IB3wlkno.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",

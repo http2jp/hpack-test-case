@@ -1,11 +1,11 @@
 [
   {
     "context": "request",
-    "wire": "gocAhPZm2EeF8vIiW6eHPb7vb6qWtAUEL0f670JUyLYZ9XR8GRFfR3oT0fTw6P30GKSvq6H8/Yakhf99HuFPJoHKYpTFN0cFPHFvmBqSFxeviPnEM46L6UOctSURU1geecdF/889F9KHOWpKIqawPPRfV5WlJZ0/0H9dXlaUlf8WixZL+PDpFnV5WlJRForL1U7p6MBxWiI/AIdLWMFMVNZ/h+Qi6VC1cx8=",
+    "wire": "gocDhfLyIlunhz2+72+qlrQFBC9H+u9CVMi2GfV0fBkRX0d6E9H08Oj99Bikr6uh/P2GpIX/fR7hTyaBymKUxTdHBTxxb5gakhcXr4j5xDOOi+lDnLUlEVNYHnnHRf/PPRfShzlqSiKmsDz0X1eVpSWdP9B/XV5WlJX/FosWS/jw6RZ1eVpSURaKy9VO6ejAcVoiPwCHS1jBTFTWf4fkIulQtXMf",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "qq.com",
+      ":authority": "qq.com",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -20,7 +20,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "mat1.gtimg.com",
+      ":authority": "mat1.gtimg.com",
       ":path": "/www/images/qq2012/followme.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -36,7 +36,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "mat1.gtimg.com",
+      ":authority": "mat1.gtimg.com",
       ":path": "/www/images/qq2012/sosologo.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -52,7 +52,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "mat1.gtimg.com",
+      ":authority": "mat1.gtimg.com",
       ":path": "/www/images/qq2012/festival/da18search.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -68,7 +68,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "mat1.gtimg.com",
+      ":authority": "mat1.gtimg.com",
       ":path": "/www/images/qq2012/festival/da18bodybg05.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -84,7 +84,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "mat1.gtimg.com",
+      ":authority": "mat1.gtimg.com",
       ":path": "/www/images/qq2012/loginall_1.2.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -100,7 +100,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "mat1.gtimg.com",
+      ":authority": "mat1.gtimg.com",
       ":path": "/www/images/qq2012/aikanLoading1.1.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -116,7 +116,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "mat1.gtimg.com",
+      ":authority": "mat1.gtimg.com",
       ":path": "/joke/Koala/Qfast1.0.1.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -132,7 +132,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "mat1.gtimg.com",
+      ":authority": "mat1.gtimg.com",
       ":path": "/www/images/qq2012/mobileNews.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -148,7 +148,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "img1.gtimg.com",
+      ":authority": "img1.gtimg.com",
       ":path": "/v/pics/hv1/241/117/1186/77149726.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",

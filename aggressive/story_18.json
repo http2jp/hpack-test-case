@@ -1,11 +1,11 @@
 [
   {
     "context": "request",
-    "wire": "gocAhPZm2EeH9EZtaRLdP4c9vu9vqpa0BQQvR/rvQlTIthn1dHwZEV9HehPR9PDo/fQYpK+rofz9hqSF/30e4U8mgcpilMU3RwU8cW+YGpIXF6+I+cQzjovpQ5y1JRFTWB55x0X/zz0X0oc5akoiprA89F9XlaUlnT/Qf11eVpSV/xaLFkv48OkWdXlaUlEWisvVTunowHFaIj8Ah0tYwUxU1n+H5CLpULVzHw==",
+    "wire": "gocDh/RGbWkS3T+HPb7vb6qWtAUEL0f670JUyLYZ9XR8GRFfR3oT0fTw6P30GKSvq6H8/Yakhf99HuFPJoHKYpTFN0cFPHFvmBqSFxeviPnEM46L6UOctSURU1geecdF/889F9KHOWpKIqawPPRfV5WlJZ0/0H9dXlaUlf8WixZL+PDpFnV5WlJRForL1U7p6MBxWiI/AIdLWMFMVNZ/h+Qi6VC1cx8=",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yahoo.com",
+      ":authority": "yahoo.com",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -20,7 +20,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "d.yimg.com",
+      ":authority": "d.yimg.com",
       ":path": "/hd/ch7news/7_world/1103_0700_nat_elephant_sml_1898chj-1898chl.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -36,7 +36,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "au.yahoo.com",
+      ":authority": "au.yahoo.com",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -52,7 +52,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "d.yimg.com",
+      ":authority": "d.yimg.com",
       ":path": "/mi/ywa.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -68,7 +68,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yui.yahooapis.com",
+      ":authority": "yui.yahooapis.com",
       ":path": "/combo",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -84,7 +84,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "secure-au.imrworldwide.com",
+      ":authority": "secure-au.imrworldwide.com",
       ":path": "/cgi-bin/m",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -100,7 +100,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "chart.finance.yahoo.com",
+      ":authority": "chart.finance.yahoo.com",
       ":path": "/instrument/1.0/%5Eaxjo/chart;range=5d/image;size=179x98",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -117,7 +117,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "chart.finance.yahoo.com",
+      ":authority": "chart.finance.yahoo.com",
       ":path": "/instrument/1.0/%5Eaord/chart;range=5d/image;size=179x98",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -134,7 +134,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "chart.finance.yahoo.com",
+      ":authority": "chart.finance.yahoo.com",
       ":path": "/instrument/1.0/audusd=x/chart;range=5d/image;size=179x98",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -151,7 +151,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "cm.au.yahoo.overture.com",
+      ":authority": "cm.au.yahoo.overture.com",
       ":path": "/js_flat_1_0/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",

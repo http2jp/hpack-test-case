@@ -1,11 +1,11 @@
 [
   {
     "context": "request",
-    "wire": "gocAhPZm2EeIWpnIcFMIlumHPb7vb6qWtAUEL0f670JUyLYZ9XR8GRFfR3oT0fTw6P30GKSvq6H8/Yakhf99HuFPJoHKYpTFN0cFPHFvmBqSFxeviPnEM46L6UOctSURU1geecdF/889F9KHOWpKIqawPPRfV5WlJZ0/0H9dXlaUlf8WixZL+PDpFnV5WlJRForL1U7p6MBxWiI/AIdLWMFMVNZ/h+Qi6VC1cx8=",
+    "wire": "gocDiFqZyHBTCJbphz2+72+qlrQFBC9H+u9CVMi2GfV0fBkRX0d6E9H08Oj99Bikr6uh/P2GpIX/fR7hTyaBymKUxTdHBTxxb5gakhcXr4j5xDOOi+lDnLUlEVNYHnnHRf/PPRfShzlqSiKmsDz0X1eVpSWdP9B/XV5WlJX/FosWS/jw6RZ1eVpSURaKy9VO6ejAcVoiPwCHS1jBTFTWf4fkIulQtXMf",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "linkedin.com",
+      ":authority": "linkedin.com",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -20,7 +20,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "www.linkedin.com",
+      ":authority": "www.linkedin.com",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -31,11 +31,11 @@
   },
   {
     "context": "request",
-    "wire": "AIT2ZthHjIESRbOWBFqTgwiW6QiOCCcIAlrEoiCW6aNYHGEHhP6D+v8/AJHOMXewA222ItTOQ4KYRLdA/4WJiw==",
+    "wire": "AIj2I1jm16o+n4yBEkWzlgRak4MIlukIjggnCAJaxKIglumjWBxhB4T+g/r/PwCRzjF3sANttiLUzkOCmES3QP+FiYs=",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "s.c.lnkd.licdn.com",
+      ":authority": "s.c.lnkd.licdn.com",
       ":path": "/scds/concat/common/js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -51,7 +51,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "s.c.lnkd.licdn.com",
+      ":authority": "s.c.lnkd.licdn.com",
       ":path": "/scds/concat/common/css",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/css,*/*;q=0.1",
@@ -67,7 +67,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "s.c.lnkd.licdn.com",
+      ":authority": "s.c.lnkd.licdn.com",
       ":path": "/scds/concat/common/js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -83,7 +83,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "s.c.lnkd.licdn.com",
+      ":authority": "s.c.lnkd.licdn.com",
       ":path": "/scds/concat/common/css",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/css,*/*;q=0.1",
@@ -99,7 +99,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "s.c.lnkd.licdn.com",
+      ":authority": "s.c.lnkd.licdn.com",
       ":path": "/scds/concat/common/css",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/css,*/*;q=0.1",
@@ -115,7 +115,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "s.c.lnkd.licdn.com",
+      ":authority": "s.c.lnkd.licdn.com",
       ":path": "/scds/concat/common/js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -131,7 +131,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "www.linkedin.com",
+      ":authority": "www.linkedin.com",
       ":path": "/analytics/noauthtracker",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -149,7 +149,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "s.c.lnkd.licdn.com",
+      ":authority": "s.c.lnkd.licdn.com",
       ":path": "/scds/common/u/img/favicon_v3.ico",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",

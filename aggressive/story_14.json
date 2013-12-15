@@ -1,11 +1,11 @@
 [
   {
     "context": "request",
-    "wire": "gocAhPZm2EeIgpiCJboRLP+HPb7vb6qWtAUEL0f670JUyLYZ9XR8GRFfR3oT0fTw6P30GKSvq6H8/Yakhf99HuFPJoHKYpTFN0cFPHFvmBqSFxeviPnEM46L6UOctSURU1geecdF/889F9KHOWpKIqawPPRfV5WlJZ0/0H9dXlaUlf8WixZL+PDpFnV5WlJRForL1U7p6MBxWiI/AIdLWMFMVNZ/h+Qi6VC1cx8=",
+    "wire": "gocDiIKYgiW6ESz/hz2+72+qlrQFBC9H+u9CVMi2GfV0fBkRX0d6E9H08Oj99Bikr6uh/P2GpIX/fR7hTyaBymKUxTdHBTxxb5gakhcXr4j5xDOOi+lDnLUlEVNYHnnHRf/PPRfShzlqSiKmsDz0X1eVpSWdP9B/XV5WlJX/FosWS/jw6RZ1eVpSURaKy9VO6ejAcVoiPwCHS1jBTFTWf4fkIulQtXMf",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "sina.com.cn",
+      ":authority": "sina.com.cn",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -20,7 +20,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "www.sina.com.cn",
+      ":authority": "www.sina.com.cn",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -31,11 +31,11 @@
   },
   {
     "context": "request",
-    "wire": "AIT2ZthHi2DtAkFMQRLdCJZ/CJYOMArqA5THMU84HKY5q+xrMfFricYfB4T+g/r/PwCQzjF3sANttiQUxBEt0Ilgf4WJiw==",
+    "wire": "AIj2I1jm16o+n4tg7QJBTEES3QiWfwiWDjAK6gOUxzFPOBymOavsazHxa4nGHweE/oP6/z8AkM4xd7ADbbYkFMQRLdCJYH+FiYs=",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "news.sina.com.cn",
+      ":authority": "news.sina.com.cn",
       ":path": "/js/87/20121024/201218ConfTop.js",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -51,7 +51,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "int.dpool.sina.com.cn",
+      ":authority": "int.dpool.sina.com.cn",
       ":path": "/iplookup/iplookup.php",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -67,7 +67,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i3.sinaimg.cn",
+      ":authority": "i3.sinaimg.cn",
       ":path": "/video/2012/1103/U7805P167DT20121103211853.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -83,7 +83,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i3.sinaimg.cn",
+      ":authority": "i3.sinaimg.cn",
       ":path": "/home/2012/1102/U6041P30DT20121102122146.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -99,7 +99,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i3.sinaimg.cn",
+      ":authority": "i3.sinaimg.cn",
       ":path": "/home/deco/2009/0330/logo_home.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -115,7 +115,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "d1.sina.com.cn",
+      ":authority": "d1.sina.com.cn",
       ":path": "/shh/lechan/20121016sina/logo1.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -131,7 +131,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i0.sinaimg.cn",
+      ":authority": "i0.sinaimg.cn",
       ":path": "/home/2012/1103/U8551P30DT20121103063734.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -147,7 +147,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "i1.sinaimg.cn",
+      ":authority": "i1.sinaimg.cn",
       ":path": "/home/2012/1101/U6648P30DT20121101141432.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",

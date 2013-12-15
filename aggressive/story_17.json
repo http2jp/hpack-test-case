@@ -1,11 +1,11 @@
 [
   {
     "context": "request",
-    "wire": "gocAhPZm2EeI9EZtaRLScXeHPb7vb6qWtAUEL0f670JUyLYZ9XR8GRFfR3oT0fTw6P30GKSvq6H8/Yakhf99HuFPJoHKYpTFN0cFPHFvmBqSFxeviPnEM46L6UOctSURU1geecdF/889F9KHOWpKIqawPPRfV5WlJZ0/0H9dXlaUlf8WixZL+PDpFnV5WlJRForL1U7p6MBxWiI/AIdLWMFMVNZ/h+Qi6VC1cx8okuu2qniWxBq7EU5z7r7Zt0LS3w==",
+    "wire": "gocDiPRGbWkS0nF3hz2+72+qlrQFBC9H+u9CVMi2GfV0fBkRX0d6E9H08Oj99Bikr6uh/P2GpIX/fR7hTyaBymKUxTdHBTxxb5gakhcXr4j5xDOOi+lDnLUlEVNYHnnHRf/PPRfShzlqSiKmsDz0X1eVpSWdP9B/XV5WlJX/FosWS/jw6RZ1eVpSURaKy9VO6ejAcVoiPwCHS1jBTFTWf4fkIulQtXMfKJLrtqp4lsQauxFOc+6+2bdC0t8=",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yahoo.co.jp",
+      ":authority": "yahoo.co.jp",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -21,7 +21,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "www.yahoo.co.jp",
+      ":authority": "www.yahoo.co.jp",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -33,11 +33,11 @@
   },
   {
     "context": "request",
-    "wire": "AIT2ZthHh+RPRWmROLsJlwVojIYBFrgg44JW8DAlb5THMU9BEwh/CI6I+cQTCHT/Qf11eVpSGz8BkM4xd7ADbbYnojNrSJaTi4OFhoqM",
+    "wire": "AIj2I1jm16o+n4fkT0VpkTi7CZcFaIyGARa4IOOCVvAwJW+UxzFPQRMIfwiOiPnEEwh0/0H9dXlaUhs/AZDOMXewA222J6Iza0iWk4uDhYaKjA==",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/top/sp2/clr/1/clr-121025.css",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/css,*/*;q=0.1",
@@ -53,7 +53,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/top/sp/logo.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -69,7 +69,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/bookstore/common/special/2012/0829_05/banner/84x84_1.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -85,7 +85,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "yjaxc.yahoo.co.jp",
+      ":authority": "yjaxc.yahoo.co.jp",
       ":path": "/oi",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -102,7 +102,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/weather/general/transparent_s/clouds.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -118,7 +118,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/weather/general/transparent_s/sun.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -134,7 +134,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/bookstore/common/special/2012/0829_05/banner/84x84_2.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -150,7 +150,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "k.yimg.jp",
+      ":authority": "k.yimg.jp",
       ":path": "/images/premium/contents/bnr/2012/50x50/0928_store_supernatural.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",

@@ -1,11 +1,11 @@
 [
   {
     "context": "request",
-    "wire": "gocAhPZm2EeLFhNlclOHBSCNfl+HPb7vb6qWtAUEL0f670JUyLYZ9XR8GRFfR3oT0fTw6P30GKSvq6H8/Yakhf99HuFPJoHKYpTFN0cFPHFvmBqSFxeviPnEM46L6UOctSURU1geecdF/889F9KHOWpKIqawPPRfV5WlJZ0/0H9dXlaUlf8WixZL+PDpFnV5WlJRForL1U7p6MBxWiI/AIdLWMFMVNZ/h+Qi6VC1cx8o/z5Isi9C2NipI3X6p5DG03V0JWpPKL0J5KZlLAYQU1lo/Hk2n4K/Ce7Smwc/tihHL7L+OKvl6WL8M/n9ero0HBSP0rkomsBeS/VPIYyTbx84kQ+KkrHgI4XoTyli9CeSmZWmLJNvi9CeXV0aDgpH6VyUTWAvIrC3u765uMOKPL6+vw7/lt1+Kv74TI+SleP9jsI+vV0aDgpH6VyUTWAvJfqnkMZJt4+cSIfFSVjwEcL0J5StdFTWQtrkm3wzbt8=",
+    "wire": "gocDixYTZXJThwUgjX5fhz2+72+qlrQFBC9H+u9CVMi2GfV0fBkRX0d6E9H08Oj99Bikr6uh/P2GpIX/fR7hTyaBymKUxTdHBTxxb5gakhcXr4j5xDOOi+lDnLUlEVNYHnnHRf/PPRfShzlqSiKmsDz0X1eVpSWdP9B/XV5WlJX/FosWS/jw6RZ1eVpSURaKy9VO6ejAcVoiPwCHS1jBTFTWf4fkIulQtXMfKP8+SLIvQtjYqSN1+qeQxtN1dCVqTyi9CeSmZSwGEFNZaPx5Np+Cvwnu0psHP7YoRy+y/jir5eli/DP5/Xq6NBwUj9K5KJrAXkv1TyGMk28fOJEPipKx4COF6E8pYvQnkpmVpiyTb4vQnl1dGg4KR+lclE1gLyKwt7u+ubjDijy+vr8O/5bdfir++EyPkpXj/Y7CPr1dGg4KR+lclE1gLyX6p5DGSbePnEiHxUlY8BHC9CeUrXRU1kLa5Jt8M27f",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "en.wikipedia.org",
+      ":authority": "en.wikipedia.org",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -21,7 +21,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "en.wikipedia.org",
+      ":authority": "en.wikipedia.org",
       ":path": "/wiki/Main_Page",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -37,7 +37,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "bits.wikimedia.org",
+      ":authority": "bits.wikimedia.org",
       ":path": "/en.wikipedia.org/load.php",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/css,*/*;q=0.1",
@@ -54,7 +54,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "bits.wikimedia.org",
+      ":authority": "bits.wikimedia.org",
       ":path": "/en.wikipedia.org/load.php",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/css,*/*;q=0.1",
@@ -71,7 +71,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "bits.wikimedia.org",
+      ":authority": "bits.wikimedia.org",
       ":path": "/en.wikipedia.org/load.php",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -88,7 +88,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "bits.wikimedia.org",
+      ":authority": "bits.wikimedia.org",
       ":path": "/en.wikipedia.org/load.php",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -105,7 +105,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "bits.wikimedia.org",
+      ":authority": "bits.wikimedia.org",
       ":path": "/en.wikipedia.org/load.php",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",
@@ -122,7 +122,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "upload.wikimedia.org",
+      ":authority": "upload.wikimedia.org",
       ":path": "/wikipedia/en/c/ca/Kanthirava_cropped.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -140,7 +140,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "upload.wikimedia.org",
+      ":authority": "upload.wikimedia.org",
       ":path": "/wikipedia/commons/thumb/d/d2/Dancing_girl_ajanta_%28cropped%29.jpg/72px-Dancing_girl_ajanta_%28cropped%29.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -158,7 +158,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "bits.wikimedia.org",
+      ":authority": "bits.wikimedia.org",
       ":path": "/en.wikipedia.org/load.php",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "*/*",

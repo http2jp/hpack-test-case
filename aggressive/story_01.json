@@ -1,10 +1,10 @@
 [
   {
     "context": "request",
-    "wire": "hwCE9mbYR4gfNGjliRLdP4aFPYfNyE8pYjCPJIjz8/Pz8/PzNwCF85cxWtuE2a9eHw==",
+    "wire": "hwKIHzRo5YkS3T+GhT2HzchPKWIwjySI8/Pz8/Pz8zcAhfOXMVrbhNmvXh8=",
     "header": {
       ":scheme": "https",
-      ":host": "example.com",
+      ":authority": "example.com",
       ":path": "/",
       ":method": "GET",
       "user-agent": "hpack-test",
@@ -17,7 +17,7 @@
     "wire": "Aojz8/Pz8/PzP4KD",
     "header": {
       ":scheme": "https",
-      ":host": "example.com",
+      ":authority": "example.com",
       ":path": "/",
       ":method": "GET",
       "user-agent": "hpack-test",

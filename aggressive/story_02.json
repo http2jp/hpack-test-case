@@ -1,11 +1,11 @@
 [
   {
     "context": "request",
-    "wire": "gocAhPZm2EeHRoj1awiW6Yc9vu9vqpa0BQQvR/rvQlTIthn1dHwZEV9HehPR9PDo/fQYpK+rofz9hqSF/30e4U8mgcpilMU3RwU8cW+YGpIXF6+I+cQzjovpQ5y1JRFTWB55x0X/zz0X0oc5akoiprA89F9XlaUlnT/Qf11eVpSV/xaLFkv48OkWdXlaUlEWisvVTunowHFaIj8Ah0tYwUxU1n+H5CLpULVzHw==",
+    "wire": "gocDh0aI9WsIlumHPb7vb6qWtAUEL0f670JUyLYZ9XR8GRFfR3oT0fTw6P30GKSvq6H8/Yakhf99HuFPJoHKYpTFN0cFPHFvmBqSFxeviPnEM46L6UOctSURU1geecdF/889F9KHOWpKIqawPPRfV5WlJZ0/0H9dXlaUlf8WixZL+PDpFnV5WlJRForL1U7p6MBxWiI/AIdLWMFMVNZ/h+Qi6VC1cx8=",
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "amazon.com",
+      ":authority": "amazon.com",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -20,7 +20,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "g-ecx.images-amazon.com",
+      ":authority": "g-ecx.images-amazon.com",
       ":path": "/images/G/01/gno/beacon/BeaconSprite-US-01._V401903535_.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -36,7 +36,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "g-ecx.images-amazon.com",
+      ":authority": "g-ecx.images-amazon.com",
       ":path": "/images/G/01/x-locale/common/transparent-pixel._V386942464_.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -52,7 +52,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "g-ecx.images-amazon.com",
+      ":authority": "g-ecx.images-amazon.com",
       ":path": "/images/G/01/img12/other/disaster-relief/300-column/sandy-relief_300x75._V400689491_.png",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -68,7 +68,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "www.amazon.com",
+      ":authority": "www.amazon.com",
       ":path": "/",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -83,7 +83,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "g-ecx.images-amazon.com",
+      ":authority": "g-ecx.images-amazon.com",
       ":path": "/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -99,7 +99,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "g-ecx.images-amazon.com",
+      ":authority": "g-ecx.images-amazon.com",
       ":path": "/images/G/01/img12/shoes/sales_events/11_nov/1030_AccessoriesPROMO_GWright._V400626950_.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -115,7 +115,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "g-ecx.images-amazon.com",
+      ":authority": "g-ecx.images-amazon.com",
       ":path": "/images/G/01/Automotive/rotos/Duracell600_120._V192204764_.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -131,7 +131,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "g-ecx.images-amazon.com",
+      ":authority": "g-ecx.images-amazon.com",
       ":path": "/images/G/01/ui/loadIndicators/loadIndicator-large._V192195480_.gif",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
@@ -147,7 +147,7 @@
     "header": {
       ":method": "GET",
       ":scheme": "http",
-      ":host": "ecx.images-amazon.com",
+      ":authority": "ecx.images-amazon.com",
       ":path": "/images/I/41HZ-ND-SUL._SL135_.jpg",
       "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
       "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
