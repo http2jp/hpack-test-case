@@ -1,19 +1,27 @@
-[ { context: 'request',
-    wire: 'hwCE9mbYR4gfNGjliRLdP4aFPYfNyE8pYjCPJIjz8/Pz8/PzNwCF85cxWtuE2a9eHw==',
-    header: 
-     { ':scheme': 'https',
-       ':host': 'example.com',
-       ':path': '/',
-       ':method': 'GET',
-       'user-agent': 'hpack-test',
-       cookie: 'xxxxxxx1',
-       'x-hello': 'world' } },
-  { context: 'request',
-    wire: 'Aojz8/Pz8/PzP4KD',
-    header: 
-     { ':scheme': 'https',
-       ':host': 'example.com',
-       ':path': '/',
-       ':method': 'GET',
-       'user-agent': 'hpack-test',
-       cookie: 'xxxxxxx2' } } ]
+[
+  {
+    "context": "request",
+    "wire": "hwCE9mbYR4gfNGjliRLdP4aFPYfNyE8pYjCPJIjz8/Pz8/PzNwCF85cxWtuE2a9eHw==",
+    "header": {
+      ":scheme": "https",
+      ":host": "example.com",
+      ":path": "/",
+      ":method": "GET",
+      "user-agent": "hpack-test",
+      "cookie": "xxxxxxx1",
+      "x-hello": "world"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "Aojz8/Pz8/PzP4KD",
+    "header": {
+      ":scheme": "https",
+      ":host": "example.com",
+      ":path": "/",
+      ":method": "GET",
+      "user-agent": "hpack-test",
+      "cookie": "xxxxxxx2"
+    }
+  }
+]
