@@ -1,0 +1,164 @@
+[
+  {
+    "context": "request",
+    "wire": "gIKHAIj2I1jm16o+n4f0Rm1pEt0/hwCH1gL5UZCyP77vb6qWtAUEL0f670JUyLYZ9XR8GRFfR3oT0fTw6P30GKSvq6H8/Yakhf99HuFPJoHKYpTFN0cFPHFvmBqSFwCEQlIuj6+I+cQzjovpQ5y1JRFTWB55x0X/zz0X0oc5akoiprA89F9XlaUlnT/Qf11eVpSV/wCKQlIujKtDMtUZD4sWS/jw6RZ1eVpSUQCKQlIujKLEtwUzL4rL1U7p6MBxWiI/AIdLWMFMVNZ/h+Qi6VC1cx8=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "yahoo.com",
+      ":path": "/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gImIB4jAnorTIiW6fwetDPAE51MHaAVXbNevADGLNcWopbmIjcKxdmhkboaLuNXZWnPjKauytOaycXZfhwaaVojIQczLpVojIQ/rq8rSkr6f6D+urytKSj+GhYQAhXjiLxf/ks4xd7ABGpPRGbWkS3QPa63WHw==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "d.yimg.com",
+      ":path": "/hd/ch7news/7_world/1103_0700_nat_elephant_sml_1898chj-1898chl.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://au.yahoo.com/?p=us"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gI2MBIlGpPRGbWkS3T8EgQ+LBK+I+cQzjovpQ5y1JRFTWB55x0X/zz0X0oc5akoiprA89F9XlaUlnT/Qf11eVpSV/4qJiACES1vJQ5Prtn0O/y1orsRQWrdfbNuhabn/",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "au.yahoo.com",
+      ":path": "/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "cookie": "B=4m2rqu589a507&b=3&s=1v"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJGQBIjAnorTIiW6fwSHDRQemyCcYY8Eg/6D+o6NjIg=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "d.yimg.com",
+      ":path": "/mi/ywa.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://au.yahoo.com/?p=us"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJSTA4z01UT0Rm1qHKgRLdMDhAS3S9uSg5CPjoo=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "yui.yahooapis.com",
+      ":path": "/combo",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://au.yahoo.com/?p=us"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJaVApGAp1eMqNSK0fs168NlYCRLdAKHBOSpb1MDT5QFmlaIyEHMy6VaIyEP66vK0pK+n+g/rq8rSko/k5KRjQ==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "secure-au.imrworldwide.com",
+      ":path": "/cgi-bin/m",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://au.yahoo.com/?p=us"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJmYA5BOaHxJipiGJEnojNrSJbp/A6cFMhF+ugsiBiFCSjuR58WgnND49T0MyG2jAFaIyHqgr1G01VnnZX+Xg5WUk48LyOu2fQ7/LWiuxFBat19s26FpufV0QGEFNZdCKHxuirQbTTUGsnqPVQakvV0cruaoKjabq6HawzuirQboRQ+NppqDWT1HsoNSXw==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "chart.finance.yahoo.com",
+      ":path": "/instrument/1.0/%5Eaxjo/chart;range=5d/image;size=179x98",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://au.yahoo.com/?p=us",
+      "cookie": "B=4m2rqu589a507&b=3&s=1v; session_start_time=1351947275160; k_visit=1; push_time_start=1351947295160"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJybgwKmBTIRfroLIgYhQko7kNfgCc0Pj1PQzIbaMAVojIeqCvUbTVWedleZhZeWlZGC",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "chart.finance.yahoo.com",
+      ":path": "/instrument/1.0/%5Eaord/chart;range=5d/image;size=179x98",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://au.yahoo.com/?p=us",
+      "cookie": "B=4m2rqu589a507&b=3&s=1v; session_start_time=1351947275160; k_visit=1; push_time_start=1351947295160"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJ2chAGnBTIRfroLIgYhQRrhrDC3zBOaHx6noZkNtGAK0RkPVBXqNpqrPOyvmoaYl5aSgw==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "chart.finance.yahoo.com",
+      ":path": "/instrument/1.0/audusd=x/chart;range=5d/image;size=179x98",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://au.yahoo.com/?p=us",
+      "cookie": "B=4m2rqu589a507&b=3&s=1v; session_start_time=1351947275160; k_visit=1; push_time_start=1351947295160"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJ6dBZBOhEak9EZtaRvMXx1eJEt0AokOMLsVojca4oecCIP+g/qbmpmV",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "cm.au.yahoo.overture.com",
+      ":path": "/js_flat_1_0/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://au.yahoo.com/?p=us"
+    }
+  }
+]

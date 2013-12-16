@@ -1,0 +1,160 @@
+[
+  {
+    "context": "request",
+    "wire": "gIKHAIj2I1jm16o+n4dGiPVrCJbphwCH1gL5UZCyP77vb6qWtAUEL0f670JUyLYZ9XR8GRFfR3oT0fTw6P30GKSvq6H8/Yakhf99HuFPJoHKYpTFN0cFPHFvmBqSFwCEQlIuj6+I+cQzjovpQ5y1JRFTWB55x0X/zz0X0oc5akoiprA89F9XlaUlnT/Qf11eVpSV/wCKQlIujKtDMtUZD4sWS/jw6RZ1eVpSUQCKQlIujKLEtwUzL4rL1U7p6MBxWiI/AIdLWMFMVNZ/h+Qi6VC1cx8=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "amazon.com",
+      ":path": "/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gImIB5DKUU+ZFaIyGEqNEerWES3TB6kFaIyGAe4CmDJjQvFCWsDrFCWs8HPVEZfx4SlMS78zlNYWaiai4jmZf4cGmlaIyEHMy6VaIyEP66vK0pK+n+g/rq8rSko/hoWEAIV44i8X/4/OMXewA222IjRHq1hEt0A=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "g-ecx.images-amazon.com",
+      ":path": "/images/G/01/gno/beacon/BeaconSprite-US-01._V401903535_.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.amazon.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gI2MhAOrBWiMhgHuApg85VtShYglumjWBF6GQch4sjK5XmKyXfmaumyc89M9xMlY/4qDiIeGgg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "g-ecx.images-amazon.com",
+      ":path": "/images/G/01/x-locale/common/transparent-pixel._V386942464_.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.amazon.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gI6NhQG7BWiMhgHuApgVpkY4NjmLwwVBEIi+V4rUOITFLKlq9dGBBDMPSV4rUON0xS+dVBLvzOUtNdk9hriOZl+LhImIh4M=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "g-ecx.images-amazon.com",
+      ":path": "/images/G/01/img12/other/disaster-relief/300-column/sandy-relief_300x75._V400689491_.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.amazon.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gI+OBorbbYiNEerWES3TAoEPjQaviPnEM46L6UOctSURU1geecdF/889F9KHOWpKIqawPPRfV5WlJZ0/0H9dXlaUlf+Mi4o=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "www.amazon.com",
+      ":path": "/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJKRA5DKUU+ZFaIyGEqNEerWES3TA6oFaIyGAe4CmDzlW1KFiCW6aNYEXoZByHiyMrleYrJd+TWHPNPTVRcTJWOQA5pWiMhBzMulWiMhD+urytKSvp/oP66vK0pKP4+OjYk=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "g-ecx.images-amazon.com",
+      ":path": "/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.amazon.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJWUgwK/BWiMhgHuApgVpkY4QzaMAghYwuHmLIwAxrmN5gYsxbt6UjCDXqGH1+/07/pd7v09WWcSXfmcpaT02UFuJkrHkoKQj46K",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "g-ecx.images-amazon.com",
+      ":path": "/images/G/01/img12/shoes/sales_events/11_nov/1030_AccessoriesPROMO_GWright._V400626950_.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.amazon.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJaVhAGqBWiMhgHuApg36xbo2KuYg9sWwDt1ehIrXSUtxjlJd+TWHOWeqme4nF2Xk4ORkI+L",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "g-ecx.images-amazon.com",
+      ":path": "/images/G/01/Automotive/rotos/Duracell600_120._V192204764_.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.amazon.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJeWhQGuBWiMhgHuApg1UC2ow+DMFJRFr4AtqMPgzBSURa+VaH5CS78msOayiestxMlY/5SEkpGQjA==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "g-ecx.images-amazon.com",
+      ":path": "/images/G/01/ui/loadIndicators/loadIndicator-large._V192195480_.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.amazon.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJiXBo8U+ZFaIyGEqNEerWES3T8CmwVojIYB8AnN7/8l+fbL4fj5Eu8Pkaai4nF2X5aGlJOSjg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "ecx.images-amazon.com",
+      ":path": "/images/I/41HZ-ND-SUL._SL135_.jpg",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.amazon.com/"
+    }
+  }
+]

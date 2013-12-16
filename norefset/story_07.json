@@ -1,0 +1,162 @@
+[
+  {
+    "context": "request",
+    "wire": "gIKHAIj2I1jm16o+n42EURUkiORMb04MIwY/AIT2ORHPmQfB6SOzcHM4el4PD3Q+fx+e2vwl/HeTJWMAh9YC+VGQsj++72+qlrQFBC9H+u9CVMi2GfV0fBkRX0d6E9H08Oj99Bikr6uh/P2GpIX/fR7hTyaBymKUxTdHBTxxb5gakhcAhEJSLo+aVojIQczLpVojIQ/rq8rSkr6f6D+urytKSj8AikJSLoyrQzLVGQ+LFkv48OkWdXlaUlEAikJSLoyixLcFMy+Ky9VO6ejAcVoiPwCHS1jBTFTWf4fkIulQtXMfAIV44i8X/5HOMXewA222JihI3tbyIlugfw==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "static.ak.fbcdn.net",
+      ":path": "/rsrc.php/v2/yb/r/GsNJNwuI-UM.gif",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.facebook.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gIqJiAeYB8HpI7Nwczh6fwHhrWrfNy/d9f8MRMIfhwaOiPnEEwh0/0H9dXlaUhuGhYSD",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "static.ak.fbcdn.net",
+      ":path": "/rsrc.php/v2/yY/r/u8iA3kXb8Y1.css",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/css,*/*;q=0.1",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.facebook.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gIyLigKYB8HpI7Nwczh6fAHh5b/n+fGHZQfFxEwhiYKHhoWE",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "static.ak.fbcdn.net",
+      ":path": "/rsrc.php/v2/yI/r/qANVTsC52fp.css",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/css,*/*;q=0.1",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.facebook.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gI2MiwGZB8HpI7Nwczh6RB4cP8R3/35b/vl2UkczL4oDmlaIyEHMy6VaIyEP66vK0pK+n+g/rq8rSko/iYiHhg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "static.ak.fbcdn.net",
+      ":path": "/rsrc.php/v2/yt/r/FZaMKqARgC6.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.facebook.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gI+OjQKZB8HpI7Nwczh6f4Dw4r/vtb+zUcvf7icYf4wCg/6D+ouKiYg=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "static.ak.fbcdn.net",
+      ":path": "/rsrc.php/v2/yZ/r/jlKDoX15kHG.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.facebook.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJGQjwKYB8HpI7Nwczh6fQHhd3/dD3Zp7Ph5ETCHjgKOiPnEEwh0/0H9dXlaUhuNjIuK",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "static.ak.fbcdn.net",
+      ":path": "/rsrc.php/v2/yO/r/_MRarphcCIq.css",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/css,*/*;q=0.1",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.facebook.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJOSkQKYB8HpI7Nwczh6fUHh2ffkrt7f144G1JxhkAKD/oP6j46NjA==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "static.ak.fbcdn.net",
+      ":path": "/rsrc.php/v2/yP/r/CRkiDDWTd1u.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.facebook.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJWUkwKZB8HpI7Nwczh6fsPMPt5U/I2aPs/+PI5mX5ICmlaIyEHMy6VaIyEP66vK0pK+n+g/rq8rSko/kZCPDqnOMXewAhFEVJIjkTG9ODCMGIPg9JHZuDmcPT4A8PLf8/z4w7KD4uImEA==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "static.ak.fbcdn.net",
+      ":path": "/rsrc.php/v2/yX/x/Qq6L1haQrYr.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://static.ak.fbcdn.net/rsrc.php/v2/yI/r/qANVTsC52fp.css"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJiXlgOYB8HpI7Nwczh6fMHh3Iff+m3adv4lJxh/lQOD/oP6lJOSA5HOMXewA222JihI3tbyIlugfw==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "static.ak.fbcdn.net",
+      ":path": "/rsrc.php/v2/yN/r/EarbWo_mDU-.js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.facebook.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJuamQOYB8HpI7Nwczh6VB5hZxjU384cKvWYjmZfmAOaVojIQczLpVojIQ/rq8rSkr6f6D+urytKSj+XlpUDqc4xd7ACEURUkiORMb04MIwYg+D0kdm4OZw9PoDwu7/uh7s09nw8iJhD",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "static.ak.fbcdn.net",
+      ":path": "/rsrc.php/v2/y7/x/9jt7oVdF7z3.png",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://static.ak.fbcdn.net/rsrc.php/v2/yO/r/_MRarphcCIq.css"
+    }
+  }
+]

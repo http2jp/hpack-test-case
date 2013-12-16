@@ -1,0 +1,162 @@
+[
+  {
+    "context": "request",
+    "wire": "gIKHAIj2I1jm16o+n4hamchwUwiW6YcAh9YC+VGQsj++72+qlrQFBC9H+u9CVMi2GfV0fBkRX0d6E9H08Oj99Bikr6uh/P2GpIX/fR7hTyaBymKUxTdHBTxxb5gakhcAhEJSLo+viPnEM46L6UOctSURU1geecdF/889F9KHOWpKIqawPPRfV5WlJZ0/0H9dXlaUlf8AikJSLoyrQzLVGQ+LFkv48OkWdXlaUlEAikJSLoyixLcFMy+Ky9VO6ejAcVoiPwCHS1jBTFTWf4fkIulQtXMf",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "linkedin.com",
+      ":path": "/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gImIB4vbbYi1M5DgphEt04eGhYSDgg==",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "www.linkedin.com",
+      ":path": "/",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gIqJAYyBEkWzlgRak4MIlukIjggnCAJaxKIglumjWBxhiAeD/oP6h4aFAIV44i8X/5DOMXewA222ItTOQ4KYRLdA",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "s.c.lnkd.licdn.com",
+      ":path": "/scds/concat/common/js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.linkedin.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gI6NhAOPCCcIAlrEoiCW6aNYCYQ/iwOOiPnEEwh0/0H9dXlaUhuKiYiD",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "s.c.lnkd.licdn.com",
+      ":path": "/scds/concat/common/css",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/css,*/*;q=0.1",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.linkedin.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJCPhgKOCCcIAlrEoiCW6aNYHGGNAoP+g/qMi4qF",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "s.c.lnkd.licdn.com",
+      ":path": "/scds/concat/common/js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.linkedin.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJKRiAKPCCcIAlrEoiCW6aNYCYQ/jwKOiPnEEwh0/0H9dXlaUhuOjYyH",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "s.c.lnkd.licdn.com",
+      ":path": "/scds/concat/common/css",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/css,*/*;q=0.1",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.linkedin.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJSTioKQgY6NjIc=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "s.c.lnkd.licdn.com",
+      ":path": "/scds/concat/common/css",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/css,*/*;q=0.1",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.linkedin.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJSTigKOCCcIAlrEoiCW6aNYHGGRAoP+g/qQj46J",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "s.c.lnkd.licdn.com",
+      ":path": "/scds/concat/common/js",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "*/*",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.linkedin.com/"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJaVDIvbbYi1M5DgphEt0wOQBDEL9IqTAGNRrHOL0J5C/5QDr4j5xDOOi+lDnLUlEVNYHnnHRf/PPRfShzlqSiKmsDz0X1eVpSWdP9B/XV5WlJX/k5KRAIzzlePlqMIjhLsqOf+M/ff8vfGLvuPlqMI/jQCES1vJQ/9NvS1vJQ2//XO0+69A1z0IolrmHCWeiwst4pxlxLjNhRXTPMe//66uhYtuRrHO6LeQst/+vd4ePs/Hbf+uHB3y+WCfCnL3/Gr5/FE37/n3gmr9XZdu2sb/0xf6+WLavdcf+T8cfl75ff7DTUGsnrnNZ7J76ElxNMWyYxUWX00WX2VYV2UlGmfHDCmaig9N//11dHx8O7w8Ph9Pn8O23/6RxR5+wtJa6ZinppNQeyw9R7P/rq6OaoKjb/9c7Tbvd/9dXR+5fl8Jfh29lvYb",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "www.linkedin.com",
+      ":path": "/analytics/noauthtracker",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "x-requested-with": "XMLHttpRequest",
+      "referer": "http://www.linkedin.com/",
+      "cookie": "bcookie=\"v=2&bae845a5-83ed-4590-becf-f0f3d586432b\"; leo_auth_token=\"GST:UDbWFFpLLdcS6gHJ7NJa3XYRsc7W_gDwutbWnlWLfo7G_2Y4jfLH-H:1351948419:4b5c0f1309310a9b659b97d8960e64fdd635526b\"; JSESSIONID=\"ajax:0608630266152992729\"; visit=\"v=1&G\"; X-LI-IDC=C1"
+    }
+  },
+  {
+    "context": "request",
+    "wire": "gJuaBYyBEkWzlgRak4MIlukFlggnCAJbpo1gagrTIMUc1Jay7nMRSW+ZhZeWlZA=",
+    "header": {
+      ":method": "GET",
+      ":scheme": "http",
+      ":authority": "s.c.lnkd.licdn.com",
+      ":path": "/scds/common/u/img/favicon_v3.ico",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.5",
+      "accept-encoding": "gzip, deflate",
+      "connection": "keep-alive",
+      "referer": "http://www.linkedin.com/"
+    }
+  }
+]
