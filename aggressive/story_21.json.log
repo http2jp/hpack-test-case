@@ -1,0 +1,659 @@
+1 ----------------------------------------------------------------
+<<<Header table>>>
+[ 1] (s = 62) cookie: B=76j09a189a6h4&b=3&s=0b
+[ 2] (s = 52) connection: keep-alive
+[ 3] (s = 60) accept-encoding: gzip, deflate
+[ 4] (s = 61) accept-language: en-US,en;q=0.5
+[ 5] (s = 101) accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[ 6] (s = 123) user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+[ 7] (s = 38) :path: /
+[ 8] (s = 53) :authority: yahoo.co.jp
+[ 9] (s = 43) :scheme: http
+[ 10] (s = 42) :method: GET
+      Table size: 635
+
+<<<Reference set (old)>>>
+[1,2,3,4,5,6,7,8,9,10]
+
+<<<Reference set (new)>>>
+[]
+
+<<<Headers>>>
+:method: GET
+:scheme: http
+:authority: yahoo.co.jp
+:path: /
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+accept-language: en-US,en;q=0.5
+accept-encoding: gzip, deflate
+connection: keep-alive
+cookie: B=76j09a189a6h4&b=3&s=0b
+
+Base64 wire: gocDiPRGbWkS0nF3hz2+72+qlrQFBC9H+u9CVMi2GfV0fBkRX0d6E9H08Oj99Bikr6uh/P2GpIX/fR7hTyaBymKUxTdHBTxxb5gakhcXr4j5xDOOi+lDnLUlEVNYHnnHRf/PPRfShzlqSiKmsDz0X1eVpSWdP9B/XV5WlJX/FosWS/jw6RZ1eVpSURaKy9VO6ejAcVoiPwCHS1jBTFTWf4fkIulQtXMfKJLrtqp4lsQauxFOc+6+2bdC0t8=
+Wire: 82870388f4466d6912d27177873dbeef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a921717af88f9c4338e8be9439cb5251153581e79c745ffcf3d17d287396a4a22a6b03cf45f5795a5259d3fd07f5d5e569495ff168b164bf8f0e91675795a5251168acbd54ee9e8c0715a223f00874b58c14c54d67f87e422e950b5731f2892ebb6aa7896c41abb114e73eebed9b742d2df
+Representation: [Indexed 2,Indexed 7,Literal Add (Idx 3) "yahoo.co.jp",Indexed 7,Literal Add (Idx 61) "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0",Literal Add (Idx 23) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",Literal Add (Idx 22) "en-US,en;q=0.5",Literal Add (Idx 22) "gzip, deflate",Literal Add (Lit "connection") "keep-alive",Literal Add (Idx 40) "B=76j09a189a6h4&b=3&s=0b"]
+
+2 ----------------------------------------------------------------
+<<<Header table>>>
+[ 1] (s = 57) :authority: www.yahoo.co.jp
+[ 2] (s = 62) cookie: B=76j09a189a6h4&b=3&s=0b
+[ 3] (s = 52) connection: keep-alive
+[ 4] (s = 60) accept-encoding: gzip, deflate
+[ 5] (s = 61) accept-language: en-US,en;q=0.5
+[ 6] (s = 101) accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[ 7] (s = 123) user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+[ 8] (s = 38) :path: /
+[ 9] (s = 53) :authority: yahoo.co.jp
+[ 10] (s = 43) :scheme: http
+[ 11] (s = 42) :method: GET
+      Table size: 692
+
+<<<Reference set (old)>>>
+[1,2,3,4,5,6,7,8,10,11]
+
+<<<Reference set (new)>>>
+[]
+
+<<<Headers>>>
+:authority: www.yahoo.co.jp
+:method: GET
+:scheme: http
+:path: /
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+accept-language: en-US,en;q=0.5
+accept-encoding: gzip, deflate
+connection: keep-alive
+cookie: B=76j09a189a6h4&b=3&s=0b
+
+Base64 wire: CIvbbYnojNrSJaTi74k=
+Wire: 088bdb6d89e88cdad225a4e2ef89
+Representation: [Literal Add (Idx 8) "www.yahoo.co.jp",Indexed 9]
+
+3 ----------------------------------------------------------------
+<<<Header table>>>
+[ 1] (s = 62) referer: http://www.yahoo.co.jp/
+[ 2] (s = 56) accept: text/css,*/*;q=0.1
+[ 3] (s = 73) :path: /images/top/sp2/clr/1/clr-121025.css
+[ 4] (s = 51) :authority: k.yimg.jp
+[ 5] (s = 57) :authority: www.yahoo.co.jp
+[ 6] (s = 62) cookie: B=76j09a189a6h4&b=3&s=0b
+[ 7] (s = 52) connection: keep-alive
+[ 8] (s = 60) accept-encoding: gzip, deflate
+[ 9] (s = 61) accept-language: en-US,en;q=0.5
+[ 10] (s = 101) accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[ 11] (s = 123) user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+[ 12] (s = 38) :path: /
+[ 13] (s = 53) :authority: yahoo.co.jp
+[ 14] (s = 43) :scheme: http
+[ 15] (s = 42) :method: GET
+      Table size: 934
+
+<<<Reference set (old)>>>
+[1,2,3,4,7,8,9,11,14,15]
+
+<<<Reference set (new)>>>
+[]
+
+<<<Headers>>>
+:authority: k.yimg.jp
+:path: /images/top/sp2/clr/1/clr-121025.css
+accept: text/css,*/*;q=0.1
+referer: http://www.yahoo.co.jp/
+:method: GET
+:scheme: http
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+accept-language: en-US,en;q=0.5
+accept-encoding: gzip, deflate
+connection: keep-alive
+
+Base64 wire: AIj2I1jm16o+n4fkT0VpkTi7CZcFaIyGARa4IOOCVvAwJW+UxzFPQRMIfwiOiPnEEwh0/0H9dXlaUhs/AZDOMXewA222J6Iza0iWk4uDhYaKjA==
+Wire: 0088f62358e6d7aa3e9f87e44f45699138bb099705688c860116b820e38256f030256f94c7314f4113087f088e88f9c4130874ff41fd75795a521b3f0190ce3177b0036db627a2336b4896938b8385868a8c
+Representation: [Literal Add (Lit ":authority") "k.yimg.jp",Literal Add (Idx 9) "/images/top/sp2/clr/1/clr-121025.css",Literal Add (Idx 8) "text/css,*/*;q=0.1",Literal Add (Idx 64) "http://www.yahoo.co.jp/",Indexed 5,Indexed 6,Indexed 10,Indexed 12]
+
+4 ----------------------------------------------------------------
+<<<Header table>>>
+[ 1] (s = 71) accept: image/png,image/*;q=0.8,*/*;q=0.5
+[ 2] (s = 60) :path: /images/top/sp/logo.gif
+[ 3] (s = 62) referer: http://www.yahoo.co.jp/
+[ 4] (s = 56) accept: text/css,*/*;q=0.1
+[ 5] (s = 73) :path: /images/top/sp2/clr/1/clr-121025.css
+[ 6] (s = 51) :authority: k.yimg.jp
+[ 7] (s = 57) :authority: www.yahoo.co.jp
+[ 8] (s = 62) cookie: B=76j09a189a6h4&b=3&s=0b
+[ 9] (s = 52) connection: keep-alive
+[ 10] (s = 60) accept-encoding: gzip, deflate
+[ 11] (s = 61) accept-language: en-US,en;q=0.5
+[ 12] (s = 101) accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[ 13] (s = 123) user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+[ 14] (s = 38) :path: /
+[ 15] (s = 53) :authority: yahoo.co.jp
+[ 16] (s = 43) :scheme: http
+[ 17] (s = 42) :method: GET
+      Table size: 1065
+
+<<<Reference set (old)>>>
+[1,2,3,6,9,10,11,13,16,17]
+
+<<<Reference set (new)>>>
+[]
+
+<<<Headers>>>
+:path: /images/top/sp/logo.gif
+accept: image/png,image/*;q=0.8,*/*;q=0.5
+:method: GET
+:scheme: http
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+accept-language: en-US,en;q=0.5
+accept-encoding: gzip, deflate
+connection: keep-alive
+:authority: k.yimg.jp
+referer: http://www.yahoo.co.jp/
+
+Base64 wire: A48FaIyGARa4IOBbcmkyVj8DmlaIyEHMy6VaIyEP66vK0pK+n+g/rq8rSko/hIU=
+Wire: 038f05688c860116b820e05b726932563f039a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f8485
+Representation: [Literal Add (Idx 3) "/images/top/sp/logo.gif",Literal Add (Idx 3) "image/png,image/*;q=0.8,*/*;q=0.5",Indexed 4,Indexed 5]
+
+5 ----------------------------------------------------------------
+<<<Header table>>>
+[ 1] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_1.jpg
+[ 2] (s = 71) accept: image/png,image/*;q=0.8,*/*;q=0.5
+[ 3] (s = 60) :path: /images/top/sp/logo.gif
+[ 4] (s = 62) referer: http://www.yahoo.co.jp/
+[ 5] (s = 56) accept: text/css,*/*;q=0.1
+[ 6] (s = 73) :path: /images/top/sp2/clr/1/clr-121025.css
+[ 7] (s = 51) :authority: k.yimg.jp
+[ 8] (s = 57) :authority: www.yahoo.co.jp
+[ 9] (s = 62) cookie: B=76j09a189a6h4&b=3&s=0b
+[ 10] (s = 52) connection: keep-alive
+[ 11] (s = 60) accept-encoding: gzip, deflate
+[ 12] (s = 61) accept-language: en-US,en;q=0.5
+[ 13] (s = 101) accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[ 14] (s = 123) user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+[ 15] (s = 38) :path: /
+[ 16] (s = 53) :authority: yahoo.co.jp
+[ 17] (s = 43) :scheme: http
+[ 18] (s = 42) :method: GET
+      Table size: 1166
+
+<<<Reference set (old)>>>
+[1,2,4,7,10,11,12,14,17,18]
+
+<<<Reference set (new)>>>
+[]
+
+<<<Headers>>>
+:path: /images/bookstore/common/special/2012/0829_05/banner/84x84_1.jpg
+:method: GET
+:scheme: http
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+accept-language: en-US,en;q=0.5
+accept-encoding: gzip, deflate
+connection: keep-alive
+:authority: k.yimg.jp
+referer: http://www.yahoo.co.jp/
+accept: image/png,image/*;q=0.8,*/*;q=0.5
+
+Base64 wire: AqoFaIyGAXtbyhFrxBLdNGsCDhSpCwOUxwLWey4tAXoYwXhXP51z3GJxdl+D
+Wire: 02aa05688c86017b5bca116bc412dd346b020e14a90b0394c702d67b2e2d017a18c178573f9d73dc6271765f83
+Representation: [Literal Add (Idx 2) "/images/bookstore/common/special/2012/0829_05/banner/84x84_1.jpg",Indexed 3]
+
+6 ----------------------------------------------------------------
+<<<Header table>>>
+[ 1] (s = 41) accept: */*
+[ 2] (s = 40) :path: /oi
+[ 3] (s = 59) :authority: yjaxc.yahoo.co.jp
+[ 4] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_1.jpg
+[ 5] (s = 71) accept: image/png,image/*;q=0.8,*/*;q=0.5
+[ 6] (s = 60) :path: /images/top/sp/logo.gif
+[ 7] (s = 62) referer: http://www.yahoo.co.jp/
+[ 8] (s = 56) accept: text/css,*/*;q=0.1
+[ 9] (s = 73) :path: /images/top/sp2/clr/1/clr-121025.css
+[ 10] (s = 51) :authority: k.yimg.jp
+[ 11] (s = 57) :authority: www.yahoo.co.jp
+[ 12] (s = 62) cookie: B=76j09a189a6h4&b=3&s=0b
+[ 13] (s = 52) connection: keep-alive
+[ 14] (s = 60) accept-encoding: gzip, deflate
+[ 15] (s = 61) accept-language: en-US,en;q=0.5
+[ 16] (s = 101) accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[ 17] (s = 123) user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+[ 18] (s = 38) :path: /
+[ 19] (s = 53) :authority: yahoo.co.jp
+[ 20] (s = 43) :scheme: http
+[ 21] (s = 42) :method: GET
+      Table size: 1306
+
+<<<Reference set (old)>>>
+[12,1,2,3,7,13,14,15,17,20,21]
+
+<<<Reference set (new)>>>
+[]
+
+<<<Headers>>>
+:authority: yjaxc.yahoo.co.jp
+:path: /oi
+accept: */*
+cookie: B=76j09a189a6h4&b=3&s=0b
+:method: GET
+:scheme: http
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+accept-language: en-US,en;q=0.5
+accept-encoding: gzip, deflate
+connection: keep-alive
+referer: http://www.yahoo.co.jp/
+
+Base64 wire: B4304o80k9EZtaRLScXfAoIGqwSE/oP6/4yEhYo=
+Wire: 078df4e28f3493d119b5a44b49c5df028206ab0484fe83faff8c84858a
+Representation: [Literal Add (Idx 7) "yjaxc.yahoo.co.jp",Literal Add (Idx 2) "/oi",Literal Add (Idx 4) "*/*",Indexed 12,Indexed 4,Indexed 5,Indexed 10]
+
+7 ----------------------------------------------------------------
+<<<Header table>>>
+[ 1] (s = 85) :path: /images/weather/general/transparent_s/clouds.gif
+[ 2] (s = 41) accept: */*
+[ 3] (s = 40) :path: /oi
+[ 4] (s = 59) :authority: yjaxc.yahoo.co.jp
+[ 5] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_1.jpg
+[ 6] (s = 71) accept: image/png,image/*;q=0.8,*/*;q=0.5
+[ 7] (s = 60) :path: /images/top/sp/logo.gif
+[ 8] (s = 62) referer: http://www.yahoo.co.jp/
+[ 9] (s = 56) accept: text/css,*/*;q=0.1
+[ 10] (s = 73) :path: /images/top/sp2/clr/1/clr-121025.css
+[ 11] (s = 51) :authority: k.yimg.jp
+[ 12] (s = 57) :authority: www.yahoo.co.jp
+[ 13] (s = 62) cookie: B=76j09a189a6h4&b=3&s=0b
+[ 14] (s = 52) connection: keep-alive
+[ 15] (s = 60) accept-encoding: gzip, deflate
+[ 16] (s = 61) accept-language: en-US,en;q=0.5
+[ 17] (s = 101) accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[ 18] (s = 123) user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+[ 19] (s = 38) :path: /
+[ 20] (s = 53) :authority: yahoo.co.jp
+[ 21] (s = 43) :scheme: http
+[ 22] (s = 42) :method: GET
+      Table size: 1391
+
+<<<Reference set (old)>>>
+[6,1,11,8,14,15,16,18,21,22]
+
+<<<Reference set (new)>>>
+[]
+
+<<<Headers>>>
+:authority: k.yimg.jp
+:path: /images/weather/general/transparent_s/clouds.gif
+accept: image/png,image/*;q=0.8,*/*;q=0.5
+:method: GET
+:scheme: http
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+accept-language: en-US,en;q=0.5
+accept-encoding: gzip, deflate
+connection: keep-alive
+referer: http://www.yahoo.co.jp/
+
+Base64 wire: igKeBWiMhgGwojmLwyFgvQsIvQyDkPFkboAlbdcIEyVjhoKDhI0=
+Wire: 8a029e05688c8601b0a2398bc32160bd0b08bd0c8390f1646e80256dd708132563868283848d
+Representation: [Indexed 10,Literal Add (Idx 2) "/images/weather/general/transparent_s/clouds.gif",Indexed 6,Indexed 2,Indexed 3,Indexed 4,Indexed 13]
+
+8 ----------------------------------------------------------------
+<<<Header table>>>
+[ 1] (s = 82) :path: /images/weather/general/transparent_s/sun.gif
+[ 2] (s = 85) :path: /images/weather/general/transparent_s/clouds.gif
+[ 3] (s = 41) accept: */*
+[ 4] (s = 40) :path: /oi
+[ 5] (s = 59) :authority: yjaxc.yahoo.co.jp
+[ 6] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_1.jpg
+[ 7] (s = 71) accept: image/png,image/*;q=0.8,*/*;q=0.5
+[ 8] (s = 60) :path: /images/top/sp/logo.gif
+[ 9] (s = 62) referer: http://www.yahoo.co.jp/
+[ 10] (s = 56) accept: text/css,*/*;q=0.1
+[ 11] (s = 73) :path: /images/top/sp2/clr/1/clr-121025.css
+[ 12] (s = 51) :authority: k.yimg.jp
+[ 13] (s = 57) :authority: www.yahoo.co.jp
+[ 14] (s = 62) cookie: B=76j09a189a6h4&b=3&s=0b
+[ 15] (s = 52) connection: keep-alive
+[ 16] (s = 60) accept-encoding: gzip, deflate
+[ 17] (s = 61) accept-language: en-US,en;q=0.5
+[ 18] (s = 101) accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[ 19] (s = 123) user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+[ 20] (s = 38) :path: /
+[ 21] (s = 53) :authority: yahoo.co.jp
+[ 22] (s = 43) :scheme: http
+[ 23] (s = 42) :method: GET
+      Table size: 1473
+
+<<<Reference set (old)>>>
+[1,7,12,9,15,16,17,19,22,23]
+
+<<<Reference set (new)>>>
+[]
+
+<<<Headers>>>
+:path: /images/weather/general/transparent_s/sun.gif
+:method: GET
+:scheme: http
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+accept-language: en-US,en;q=0.5
+accept-encoding: gzip, deflate
+connection: keep-alive
+referer: http://www.yahoo.co.jp/
+:authority: k.yimg.jp
+accept: image/png,image/*;q=0.8,*/*;q=0.5
+
+Base64 wire: AIT2ORHPnAVojIYBsKI5i8MhYL0LCL0Mg5DxZG6AQ1YTJWOC
+Wire: 0084f63911cf9c05688c8601b0a2398bc32160bd0b08bd0c8390f1646e80435613256382
+Representation: [Literal Add (Lit ":path") "/images/weather/general/transparent_s/sun.gif",Indexed 2]
+
+9 ----------------------------------------------------------------
+<<<Header table>>>
+[ 1] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_2.jpg
+[ 2] (s = 82) :path: /images/weather/general/transparent_s/sun.gif
+[ 3] (s = 85) :path: /images/weather/general/transparent_s/clouds.gif
+[ 4] (s = 41) accept: */*
+[ 5] (s = 40) :path: /oi
+[ 6] (s = 59) :authority: yjaxc.yahoo.co.jp
+[ 7] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_1.jpg
+[ 8] (s = 71) accept: image/png,image/*;q=0.8,*/*;q=0.5
+[ 9] (s = 60) :path: /images/top/sp/logo.gif
+[ 10] (s = 62) referer: http://www.yahoo.co.jp/
+[ 11] (s = 56) accept: text/css,*/*;q=0.1
+[ 12] (s = 73) :path: /images/top/sp2/clr/1/clr-121025.css
+[ 13] (s = 51) :authority: k.yimg.jp
+[ 14] (s = 57) :authority: www.yahoo.co.jp
+[ 15] (s = 62) cookie: B=76j09a189a6h4&b=3&s=0b
+[ 16] (s = 52) connection: keep-alive
+[ 17] (s = 60) accept-encoding: gzip, deflate
+[ 18] (s = 61) accept-language: en-US,en;q=0.5
+[ 19] (s = 101) accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[ 20] (s = 123) user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+[ 21] (s = 38) :path: /
+[ 22] (s = 53) :authority: yahoo.co.jp
+[ 23] (s = 43) :scheme: http
+[ 24] (s = 42) :method: GET
+      Table size: 1574
+
+<<<Reference set (old)>>>
+[1,8,13,10,16,17,18,20,23,24]
+
+<<<Reference set (new)>>>
+[]
+
+<<<Headers>>>
+:path: /images/bookstore/common/special/2012/0829_05/banner/84x84_2.jpg
+:method: GET
+:scheme: http
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+accept-language: en-US,en;q=0.5
+accept-encoding: gzip, deflate
+connection: keep-alive
+referer: http://www.yahoo.co.jp/
+:authority: k.yimg.jp
+accept: image/png,image/*;q=0.8,*/*;q=0.5
+
+Base64 wire: AIT2ORHPqgVojIYBe1vKEWvEEt00awIOFKkLA5THAtZ7Li0BehjBeFc/nXPccnF2X4I=
+Wire: 0084f63911cfaa05688c86017b5bca116bc412dd346b020e14a90b0394c702d67b2e2d017a18c178573f9d73dc7271765f82
+Representation: [Literal Add (Lit ":path") "/images/bookstore/common/special/2012/0829_05/banner/84x84_2.jpg",Indexed 2]
+
+10 ----------------------------------------------------------------
+<<<Header table>>>
+[ 1] (s = 104) :path: /images/premium/contents/bnr/2012/50x50/0928_store_supernatural.jpg
+[ 2] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_2.jpg
+[ 3] (s = 82) :path: /images/weather/general/transparent_s/sun.gif
+[ 4] (s = 85) :path: /images/weather/general/transparent_s/clouds.gif
+[ 5] (s = 41) accept: */*
+[ 6] (s = 40) :path: /oi
+[ 7] (s = 59) :authority: yjaxc.yahoo.co.jp
+[ 8] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_1.jpg
+[ 9] (s = 71) accept: image/png,image/*;q=0.8,*/*;q=0.5
+[ 10] (s = 60) :path: /images/top/sp/logo.gif
+[ 11] (s = 62) referer: http://www.yahoo.co.jp/
+[ 12] (s = 56) accept: text/css,*/*;q=0.1
+[ 13] (s = 73) :path: /images/top/sp2/clr/1/clr-121025.css
+[ 14] (s = 51) :authority: k.yimg.jp
+[ 15] (s = 57) :authority: www.yahoo.co.jp
+[ 16] (s = 62) cookie: B=76j09a189a6h4&b=3&s=0b
+[ 17] (s = 52) connection: keep-alive
+[ 18] (s = 60) accept-encoding: gzip, deflate
+[ 19] (s = 61) accept-language: en-US,en;q=0.5
+[ 20] (s = 101) accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[ 21] (s = 123) user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+[ 22] (s = 38) :path: /
+[ 23] (s = 53) :authority: yahoo.co.jp
+[ 24] (s = 43) :scheme: http
+[ 25] (s = 42) :method: GET
+      Table size: 1678
+
+<<<Reference set (old)>>>
+[1,9,14,11,17,18,19,21,24,25]
+
+<<<Reference set (new)>>>
+[]
+
+<<<Headers>>>
+:path: /images/premium/contents/bnr/2012/50x50/0928_store_supernatural.jpg
+:method: GET
+:scheme: http
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+accept-language: en-US,en;q=0.5
+accept-encoding: gzip, deflate
+connection: keep-alive
+referer: http://www.yahoo.co.jp/
+:authority: k.yimg.jp
+accept: image/png,image/*;q=0.8,*/*;q=0.5
+
+Base64 wire: AIT2ORHPqwVojIYA546K10BLWRFkYBex4HKY4UF86CgWw9d0IteN0NXC9iI6vQsnF2WC
+Wire: 0084f63911cfab05688c8600e78e8ad7404b5911646017b1e07298e1417ce82816c3d77422d78dd0d5c2f6223abd0b27176582
+Representation: [Literal Add (Lit ":path") "/images/premium/contents/bnr/2012/50x50/0928_store_supernatural.jpg",Indexed 2]
+
+11 ----------------------------------------------------------------
+<<<Header table>>>
+[ 1] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_3.jpg
+[ 2] (s = 104) :path: /images/premium/contents/bnr/2012/50x50/0928_store_supernatural.jpg
+[ 3] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_2.jpg
+[ 4] (s = 82) :path: /images/weather/general/transparent_s/sun.gif
+[ 5] (s = 85) :path: /images/weather/general/transparent_s/clouds.gif
+[ 6] (s = 41) accept: */*
+[ 7] (s = 40) :path: /oi
+[ 8] (s = 59) :authority: yjaxc.yahoo.co.jp
+[ 9] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_1.jpg
+[ 10] (s = 71) accept: image/png,image/*;q=0.8,*/*;q=0.5
+[ 11] (s = 60) :path: /images/top/sp/logo.gif
+[ 12] (s = 62) referer: http://www.yahoo.co.jp/
+[ 13] (s = 56) accept: text/css,*/*;q=0.1
+[ 14] (s = 73) :path: /images/top/sp2/clr/1/clr-121025.css
+[ 15] (s = 51) :authority: k.yimg.jp
+[ 16] (s = 57) :authority: www.yahoo.co.jp
+[ 17] (s = 62) cookie: B=76j09a189a6h4&b=3&s=0b
+[ 18] (s = 52) connection: keep-alive
+[ 19] (s = 60) accept-encoding: gzip, deflate
+[ 20] (s = 61) accept-language: en-US,en;q=0.5
+[ 21] (s = 101) accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[ 22] (s = 123) user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+[ 23] (s = 38) :path: /
+[ 24] (s = 53) :authority: yahoo.co.jp
+[ 25] (s = 43) :scheme: http
+[ 26] (s = 42) :method: GET
+      Table size: 1779
+
+<<<Reference set (old)>>>
+[1,10,15,12,18,19,20,22,25,26]
+
+<<<Reference set (new)>>>
+[]
+
+<<<Headers>>>
+:path: /images/bookstore/common/special/2012/0829_05/banner/84x84_3.jpg
+:method: GET
+:scheme: http
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+accept-language: en-US,en;q=0.5
+accept-encoding: gzip, deflate
+connection: keep-alive
+referer: http://www.yahoo.co.jp/
+:authority: k.yimg.jp
+accept: image/png,image/*;q=0.8,*/*;q=0.5
+
+Base64 wire: AIT2ORHPqgVojIYBe1vKEWvEEt00awIOFKkLA5THAtZ7Li0BehjBeFc/nXPdMTi7L4I=
+Wire: 0084f63911cfaa05688c86017b5bca116bc412dd346b020e14a90b0394c702d67b2e2d017a18c178573f9d73dd3138bb2f82
+Representation: [Literal Add (Lit ":path") "/images/bookstore/common/special/2012/0829_05/banner/84x84_3.jpg",Indexed 2]
+
+12 ----------------------------------------------------------------
+<<<Header table>>>
+[ 1] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_5.jpg
+[ 2] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_3.jpg
+[ 3] (s = 104) :path: /images/premium/contents/bnr/2012/50x50/0928_store_supernatural.jpg
+[ 4] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_2.jpg
+[ 5] (s = 82) :path: /images/weather/general/transparent_s/sun.gif
+[ 6] (s = 85) :path: /images/weather/general/transparent_s/clouds.gif
+[ 7] (s = 41) accept: */*
+[ 8] (s = 40) :path: /oi
+[ 9] (s = 59) :authority: yjaxc.yahoo.co.jp
+[ 10] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_1.jpg
+[ 11] (s = 71) accept: image/png,image/*;q=0.8,*/*;q=0.5
+[ 12] (s = 60) :path: /images/top/sp/logo.gif
+[ 13] (s = 62) referer: http://www.yahoo.co.jp/
+[ 14] (s = 56) accept: text/css,*/*;q=0.1
+[ 15] (s = 73) :path: /images/top/sp2/clr/1/clr-121025.css
+[ 16] (s = 51) :authority: k.yimg.jp
+[ 17] (s = 57) :authority: www.yahoo.co.jp
+[ 18] (s = 62) cookie: B=76j09a189a6h4&b=3&s=0b
+[ 19] (s = 52) connection: keep-alive
+[ 20] (s = 60) accept-encoding: gzip, deflate
+[ 21] (s = 61) accept-language: en-US,en;q=0.5
+[ 22] (s = 101) accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[ 23] (s = 123) user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+[ 24] (s = 38) :path: /
+[ 25] (s = 53) :authority: yahoo.co.jp
+[ 26] (s = 43) :scheme: http
+[ 27] (s = 42) :method: GET
+      Table size: 1880
+
+<<<Reference set (old)>>>
+[1,11,16,13,19,20,21,23,26,27]
+
+<<<Reference set (new)>>>
+[]
+
+<<<Headers>>>
+:path: /images/bookstore/common/special/2012/0829_05/banner/84x84_5.jpg
+:method: GET
+:scheme: http
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+accept-language: en-US,en;q=0.5
+accept-encoding: gzip, deflate
+connection: keep-alive
+referer: http://www.yahoo.co.jp/
+:authority: k.yimg.jp
+accept: image/png,image/*;q=0.8,*/*;q=0.5
+
+Base64 wire: AIT2ORHPqgVojIYBe1vKEWvEEt00awIOFKkLA5THAtZ7Li0BehjBeFc/nXPdQTi7L4I=
+Wire: 0084f63911cfaa05688c86017b5bca116bc412dd346b020e14a90b0394c702d67b2e2d017a18c178573f9d73dd4138bb2f82
+Representation: [Literal Add (Lit ":path") "/images/bookstore/common/special/2012/0829_05/banner/84x84_5.jpg",Indexed 2]
+
+13 ----------------------------------------------------------------
+<<<Header table>>>
+[ 1] (s = 92) :path: /bdv/500052/1080894/20121029/meulz5rknmobtjfqmyz8-a.gif
+[ 2] (s = 52) :authority: ai.yimg.jp
+[ 3] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_5.jpg
+[ 4] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_3.jpg
+[ 5] (s = 104) :path: /images/premium/contents/bnr/2012/50x50/0928_store_supernatural.jpg
+[ 6] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_2.jpg
+[ 7] (s = 82) :path: /images/weather/general/transparent_s/sun.gif
+[ 8] (s = 85) :path: /images/weather/general/transparent_s/clouds.gif
+[ 9] (s = 41) accept: */*
+[ 10] (s = 40) :path: /oi
+[ 11] (s = 59) :authority: yjaxc.yahoo.co.jp
+[ 12] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_1.jpg
+[ 13] (s = 71) accept: image/png,image/*;q=0.8,*/*;q=0.5
+[ 14] (s = 60) :path: /images/top/sp/logo.gif
+[ 15] (s = 62) referer: http://www.yahoo.co.jp/
+[ 16] (s = 56) accept: text/css,*/*;q=0.1
+[ 17] (s = 73) :path: /images/top/sp2/clr/1/clr-121025.css
+[ 18] (s = 51) :authority: k.yimg.jp
+[ 19] (s = 57) :authority: www.yahoo.co.jp
+[ 20] (s = 62) cookie: B=76j09a189a6h4&b=3&s=0b
+[ 21] (s = 52) connection: keep-alive
+[ 22] (s = 60) accept-encoding: gzip, deflate
+[ 23] (s = 61) accept-language: en-US,en;q=0.5
+[ 24] (s = 101) accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[ 25] (s = 123) user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+[ 26] (s = 38) :path: /
+[ 27] (s = 53) :authority: yahoo.co.jp
+[ 28] (s = 43) :scheme: http
+[ 29] (s = 42) :method: GET
+      Table size: 2024
+
+<<<Reference set (old)>>>
+[1,2,13,15,21,22,23,25,28,29]
+
+<<<Reference set (new)>>>
+[]
+
+<<<Headers>>>
+:authority: ai.yimg.jp
+:path: /bdv/500052/1080894/20121029/meulz5rknmobtjfqmyz8-a.gif
+:method: GET
+:scheme: http
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+accept-language: en-US,en;q=0.5
+accept-encoding: gzip, deflate
+connection: keep-alive
+referer: http://www.yahoo.co.jp/
+accept: image/png,image/*;q=0.8,*/*;q=0.5
+
+Base64 wire: CYhCieitMicXfwKnC/DmFBSloOBi1lrsnA5THMU9gaDqv1ofyZo2+PHHy09PWuVBMlY/g5I=
+Wire: 09884289e8ad3227177f02a70bf0e61414a5a0e062d65aec9c0e531cc53d81a0eabf5a1fc99a36f8f1c7cb4f4f5ae54132563f8392
+Representation: [Literal Add (Idx 9) "ai.yimg.jp",Literal Add (Idx 2) "/bdv/500052/1080894/20121029/meulz5rknmobtjfqmyz8-a.gif",Indexed 3,Indexed 18]
+
+14 ----------------------------------------------------------------
+<<<Header table>>>
+[ 1] (s = 92) :path: /bdv/500052/1080894/20121029/meulz5rknmobtjfqmyz8-a.gif
+[ 2] (s = 52) :authority: ai.yimg.jp
+[ 3] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_5.jpg
+[ 4] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_3.jpg
+[ 5] (s = 104) :path: /images/premium/contents/bnr/2012/50x50/0928_store_supernatural.jpg
+[ 6] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_2.jpg
+[ 7] (s = 82) :path: /images/weather/general/transparent_s/sun.gif
+[ 8] (s = 85) :path: /images/weather/general/transparent_s/clouds.gif
+[ 9] (s = 41) accept: */*
+[ 10] (s = 40) :path: /oi
+[ 11] (s = 59) :authority: yjaxc.yahoo.co.jp
+[ 12] (s = 101) :path: /images/bookstore/common/special/2012/0829_05/banner/84x84_1.jpg
+[ 13] (s = 71) accept: image/png,image/*;q=0.8,*/*;q=0.5
+[ 14] (s = 60) :path: /images/top/sp/logo.gif
+[ 15] (s = 62) referer: http://www.yahoo.co.jp/
+[ 16] (s = 56) accept: text/css,*/*;q=0.1
+[ 17] (s = 73) :path: /images/top/sp2/clr/1/clr-121025.css
+[ 18] (s = 51) :authority: k.yimg.jp
+[ 19] (s = 57) :authority: www.yahoo.co.jp
+[ 20] (s = 62) cookie: B=76j09a189a6h4&b=3&s=0b
+[ 21] (s = 52) connection: keep-alive
+[ 22] (s = 60) accept-encoding: gzip, deflate
+[ 23] (s = 61) accept-language: en-US,en;q=0.5
+[ 24] (s = 101) accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+[ 25] (s = 123) user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0
+[ 26] (s = 38) :path: /
+[ 27] (s = 53) :authority: yahoo.co.jp
+[ 28] (s = 43) :scheme: http
+[ 29] (s = 42) :method: GET
+      Table size: 2024
+
+<<<Reference set (old)>>>
+[13,2]
+
+<<<Reference set (new)>>>
+[]
+
+<<<Headers>>>
+:authority: yjaxc.yahoo.co.jp
+:path: /oi
+accept: */*
+cookie: B=76j09a189a6h4&b=3&s=0b
+:authority: ai.yimg.jp
+accept: image/png,image/*;q=0.8,*/*;q=0.5
+
+Base64 wire: i4qJlICCjQ==
+Wire: 8b8a899480828d
+Representation: [Indexed 11,Indexed 10,Indexed 9,Indexed 20,Indexed 0,Indexed 2,Indexed 13]
+
+Failed
