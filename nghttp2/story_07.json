@@ -1,0 +1,162 @@
+[
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://www.facebook.com/", 
+      ":authority": "static.ak.fbcdn.net", 
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/rsrc.php/v2/yb/r/GsNJNwuI-UM.gif"
+    }, 
+    "wire": "gocDjYRRFSSI5ExvTgwjBj9HmQfB6SOzcHM4el4PD3Q+fx+e2vwl/HeTJWM8vu9vqpa0BQQvR/rvQlTIthn1dHwZEV9HehPR9PDo/fQYpK+rofz9hqSF/30e4U8mgcpilMU3RwU8cW+YGpIXFppWiMhBzMulWiMhD+urytKSvp/oP66vK0pKPxWLFkv48OkWdXlaUlEVisvVTunowHFaIj8Ah0tYwUxU1n+H5CLpULVzHzqRzjF3sANttiYoSN7W8iJboH8="
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://www.facebook.com/", 
+      ":authority": "static.ak.fbcdn.net", 
+      "accept": "text/css,*/*;q=0.1", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/rsrc.php/v2/yY/r/u8iA3kXb8Y1.css"
+    }, 
+    "wire": "TZgHwekjs3BzOHp/AeGtat83L931/wxEwh8Fjoj5xBMIdP9B/XV5WlIbhg=="
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://www.facebook.com/", 
+      ":authority": "static.ak.fbcdn.net", 
+      "accept": "text/css,*/*;q=0.1", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/rsrc.php/v2/yI/r/qANVTsC52fp.css"
+    }, 
+    "wire": "TpgHwekjs3BzOHp8AeHlv+f58YdlB8XETCE="
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://www.facebook.com/", 
+      ":authority": "static.ak.fbcdn.net", 
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/rsrc.php/v2/yt/r/FZaMKqARgC6.png"
+    }, 
+    "wire": "TpkHwekjs3BzOHpEHhw/xHf/flv++XZSRzMvhoE="
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://www.facebook.com/", 
+      ":authority": "static.ak.fbcdn.net", 
+      "accept": "*/*", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/rsrc.php/v2/yZ/r/jlKDoX15kHG.js"
+    }, 
+    "wire": "TpkHwekjs3BzOHp/gPDiv++1v7NRy9/uJxh/AQMqLyqH"
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://www.facebook.com/", 
+      ":authority": "static.ak.fbcdn.net", 
+      "accept": "text/css,*/*;q=0.1", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/rsrc.php/v2/yO/r/_MRarphcCIq.css"
+    }, 
+    "wire": "T5gHwekjs3BzOHp9AeF3f90Pdmns+HkRMIeCgQ=="
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://www.facebook.com/", 
+      ":authority": "static.ak.fbcdn.net", 
+      "accept": "*/*", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/rsrc.php/v2/yP/r/CRkiDDWTd1u.js"
+    }, 
+    "wire": "T5gHwekjs3BzOHp9QeHZ9+Su3t/XjgbUnGGBgg=="
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://static.ak.fbcdn.net/rsrc.php/v2/yI/r/qANVTsC52fp.css", 
+      ":authority": "static.ak.fbcdn.net", 
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/rsrc.php/v2/yX/x/Qq6L1haQrYr.png"
+    }, 
+    "wire": "T5kHwekjs3BzOHp+w8w+3lT8jZo+z/48jmZfhwOpzjF3sAIRRFSSI5ExvTgwjBiD4PSR2bg5nD0+APDy3/P8+MOyg+LiJhCChA=="
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://www.facebook.com/", 
+      ":authority": "static.ak.fbcdn.net", 
+      "accept": "*/*", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/rsrc.php/v2/yN/r/EarbWo_mDU-.js"
+    }, 
+    "wire": "UJgHwekjs3BzOHp8weHch9/6bdp2/iUnGH+ChIGI"
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://static.ak.fbcdn.net/rsrc.php/v2/yO/r/_MRarphcCIq.css", 
+      ":authority": "static.ak.fbcdn.net", 
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/rsrc.php/v2/y7/x/9jt7oVdF7z3.png"
+    }, 
+    "wire": "UJgHwekjs3BzOHpUHmFnGNTfzhwq9ZiOZl+IAanOMXewAhFEVJIjkTG9ODCMGIPg9JHZuDmcPT6A8Lu/7oe7NPZ8PIiYQ4OF"
+  }
+]

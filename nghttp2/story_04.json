@@ -1,0 +1,161 @@
+[
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      ":authority": "baidu.com", 
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/"
+    }, 
+    "wire": "gocDh70Kw1Ilun+HPb7vb6qWtAUEL0f670JUyLYZ9XR8GRFfR3oT0fTw6P30GKSvq6H8/Yakhf99HuFPJoHKYpTFN0cFPHFvmBqSFxeviPnEM46L6UOctSURU1geecdF/889F9KHOWpKIqawPPRfV5WlJZ0/0H9dXlaUlf8WixZL+PDpFnV5WlJRForL1U7p6MBxWiI/AIdLWMFMVNZ/h+Qi6VC1cx8="
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      ":authority": "baidu.com", 
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/favicon.ico"
+    }, 
+    "wire": "RogMUc1Jawikt4Y="
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      ":authority": "www.baidu.com", 
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/"
+    }, 
+    "wire": "B4nbbYl6FYakS3SHiA=="
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://www.baidu.com/", 
+      "cookie": "BAIDUID=B6136AC10EBE0A8FCD216EB64C4C1A5C:FG=1", 
+      ":authority": "www.baidu.com", 
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/img/baidu_sylogo1.gif"
+    }, 
+    "wire": "R48FaZBehWGt0PRbcmmJkrEFmlaIyEHMy6VaIyEP66vK0pK+n+g/rq8rSko/PY/OMXewA222JehWGpEt0D8rqOvf8O38fDtt66TTU7+wxe7r7i76+HZ2nNT3ddM/ZP2G30dns4e603+Iig=="
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://www.baidu.com/", 
+      "cookie": "BAIDUID=B6136AC10EBE0A8FCD216EB64C4C1A5C:FG=1", 
+      ":authority": "www.baidu.com", 
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/cache/global/img/gs.gif"
+    }, 
+    "wire": "SpAEoTmIZLbehYK0yDKBMlY/"
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://www.baidu.com/", 
+      ":authority": "s1.bdstatic.com", 
+      "accept": "*/*", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/r/www/cache/global/js/tangram-1.3.4c1.0.js"
+    }, 
+    "wire": "BIqBiX4QiiKkkS3TS5wHhttsCUJzEMltvQsOMAihmT0aSmJMSdJiFJxhBAMqLyqDhYY="
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://www.baidu.com/", 
+      ":authority": "s1.bdstatic.com", 
+      "accept": "*/*", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/r/www/cache/global/js/home-1.8.js"
+    }, 
+    "wire": "TJYHhttsCUJzEMltvQsOMAzboMpiVk4w"
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://www.baidu.com/", 
+      ":authority": "s1.bdstatic.com", 
+      "accept": "*/*", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/r/www/cache/user/js/u-1.3.4.js"
+    }, 
+    "wire": "TJQHhttsCUJzENYC8OMA1lMSYk5OMA=="
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://www.baidu.com/", 
+      ":authority": "s1.bdstatic.com", 
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/r/www/img/i-1.0.0.png"
+    }, 
+    "wire": "TI8HhttsCtMgVKYhSFI5mX+FgQ=="
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "cookie": "BAIDUID=B6136AC10EBE0A8FCD216EB64C4C1A5C:FG=1", 
+      ":authority": "www.baidu.com", 
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/favicon.ico"
+    }, 
+    "wire": "hkyIDFHNSWsIpLeKg4KEhQ=="
+  }
+]

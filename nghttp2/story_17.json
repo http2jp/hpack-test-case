@@ -1,0 +1,163 @@
+[
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "cookie": "B=76j09a189a6h4&b=3&s=0b", 
+      ":authority": "yahoo.co.jp", 
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/"
+    }, 
+    "wire": "gocDiPRGbWkS0nF3hz2+72+qlrQFBC9H+u9CVMi2GfV0fBkRX0d6E9H08Oj99Bikr6uh/P2GpIX/fR7hTyaBymKUxTdHBTxxb5gakhcXr4j5xDOOi+lDnLUlEVNYHnnHRf/PPRfShzlqSiKmsDz0X1eVpSWdP9B/XV5WlJX/FosWS/jw6RZ1eVpSURaKy9VO6ejAcVoiPwCHS1jBTFTWf4fkIulQtXMfKJLrtqp4lsQauxFOc+6+2bdC0t8="
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "cookie": "B=76j09a189a6h4&b=3&s=0b", 
+      ":authority": "www.yahoo.co.jp", 
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/"
+    }, 
+    "wire": "CIvbbYnojNrSJaTi74k="
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://www.yahoo.co.jp/", 
+      ":authority": "k.yimg.jp", 
+      "accept": "text/css,*/*;q=0.1", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/images/top/sp2/clr/1/clr-121025.css"
+    }, 
+    "wire": "AYfkT0VpkTi7SZcFaIyGARa4IOOCVvAwJW+UxzFPQRMIfweOiPnEEwh0/0H9dXlaUhs/AJDOMXewA222J6Iza0iWk4uDhIWJiw=="
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://www.yahoo.co.jp/", 
+      ":authority": "k.yimg.jp", 
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/images/top/sp/logo.gif"
+    }, 
+    "wire": "S48FaIyGARa4IOBbcmkyVj8CmlaIyEHMy6VaIyEP66vK0pK+n+g/rq8rSko/gw=="
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://www.yahoo.co.jp/", 
+      ":authority": "k.yimg.jp", 
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/images/bookstore/common/special/2012/0829_05/banner/84x84_1.jpg"
+    }, 
+    "wire": "TKoFaIyGAXtbyhFrxBLdNGsCDhSpCwOUxwLWey4tAXoYwXhXP51z3GJxdl8="
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://www.yahoo.co.jp/", 
+      "cookie": "B=76j09a189a6h4&b=3&s=0b", 
+      ":authority": "yjaxc.yahoo.co.jp", 
+      "accept": "*/*", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/oi"
+    }, 
+    "wire": "BI304o80k9EZtaRLScXfTYIGqwIDKi8qiIOG"
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://www.yahoo.co.jp/", 
+      ":authority": "k.yimg.jp", 
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/images/weather/general/transparent_s/clouds.gif"
+    }, 
+    "wire": "hk6eBWiMhgGwojmLwyFgvQsIvQyDkPFkboAlbdcIEyVjg4GCiA=="
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://www.yahoo.co.jp/", 
+      ":authority": "k.yimg.jp", 
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/images/weather/general/transparent_s/sun.gif"
+    }, 
+    "wire": "TpwFaIyGAbCiOYvDIWC9Cwi9DIOQ8WRugENWEyVj"
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://www.yahoo.co.jp/", 
+      ":authority": "k.yimg.jp", 
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/images/bookstore/common/special/2012/0829_05/banner/84x84_2.jpg"
+    }, 
+    "wire": "TqoFaIyGAXtbyhFrxBLdNGsCDhSpCwOUxwLWey4tAXoYwXhXP51z3HJxdl8="
+  }, 
+  {
+    "context": "request", 
+    "header": {
+      ":scheme": "http", 
+      ":method": "GET", 
+      "accept-encoding": "gzip, deflate", 
+      "accept-language": "en-US,en;q=0.5", 
+      "referer": "http://www.yahoo.co.jp/", 
+      ":authority": "k.yimg.jp", 
+      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
+      "connection": "keep-alive", 
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
+      ":path": "/images/premium/contents/bnr/2012/50x50/0928_store_supernatural.jpg"
+    }, 
+    "wire": "TqsFaIyGAOeOitdAS1kRZGAXseBymOFBfOgoFsPXdCLXjdDVwvYiOr0LJxdl"
+  }
+]
