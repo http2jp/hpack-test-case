@@ -2,8 +2,9 @@
 
 ## Version
 
-HPACK draft-03
+HPACK draft-05
 
+http://tools.ietf.org/html/draft-ietf-httpbis-header-compression-05
 
 ## How to use
 
