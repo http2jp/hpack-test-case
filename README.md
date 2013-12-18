@@ -4,7 +4,8 @@
 
 HPACK draft-05
 
-http://tools.ietf.org/html/draft-ietf-httpbis-header-compression-05
+http://tools.ietf.org/html/draft-ietf-httpbis-header-compression
+
 
 ## How to use
 
@@ -26,11 +27,12 @@ each json in story-#{n}.json are story case. each wire shares context.
 its describes continuous request/response.
 
 
-## Contributer
+## Contributor
 
 - jxck
 - summerwind
-
+- kazu-yamamoto
+- tatsuhiro-t
 
 ## License
 
