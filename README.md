@@ -1,21 +1,41 @@
 # hpack-test-case
 
-## Version
-
-HPACK draft-05
+## Draft
 
 http://tools.ietf.org/html/draft-ietf-httpbis-header-compression
 
 
 ## How to use
 
-each file has a json arry.
 each json has
-- context: describes the case is request header or response header
-- wire: describes encoded wire data in base64
-- header: describes decoded http header
 
-input wire value to your HPACK decoder, and decoded result should has header values name/value pair.
+- draft:   draft version number of implementation.
+- header_table_size : current header table size.
+- context: the case is request header or response header.
+- cases:   test cases.
+- wire:    encoded wire data in base64.
+- header:  decoded http header in array.
+
+
+```js
+{
+  "draft": 5,
+  "header_table_size": 4096,
+  "context": "request",
+  "cases": [
+    {
+      "wire": "gocDiPRGbWkS0nF3hw==",
+      "headers": [
+        [ ":method", "GET" ],
+        [ ":scheme", "http" ],
+        [ ":authority", "yahoo.co.jp" ],
+        [ ":path", "/" ]
+      ]
+    },
+    .....
+  ]
+}
+```
 
 
 ## File Name
@@ -33,6 +53,7 @@ its describes continuous request/response.
 - summerwind
 - kazu-yamamoto
 - tatsuhiro-t
+
 
 ## License
 
