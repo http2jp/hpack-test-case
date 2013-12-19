@@ -10,25 +10,29 @@ http://tools.ietf.org/html/draft-ietf-httpbis-header-compression
 each json has
 
 - draft:   draft version number of implementation.
-- header_table_size : current header table size.
-- context: the case is request header or response header.
+- context: "request" or "response",
+- description: about encode strategy or so.
 - cases:   test cases.
-- wire:    encoded wire data in base64.
-- header:  decoded http header in array.
+  - header_table_size : current header table size.
+  - wire:    encoded wire data in hex string.
+  - header:  decoded http header in array.
+  - header_table_size : current header table size.
 
+test your encoder/decoder using cases and wire.
 
 ```js
 {
   "draft": 5,
-  "header_table_size": 4096,
   "context": "request",
+  "description": "Encoded request headers with Literal without index only."
   "cases": [
     {
-      "wire": "gocDiPRGbWkS0nF3hw==",
+      "header_table_size": 4096,
+      "wire": "676f63446950524762576b53306e463368773d3d",
       "headers": [
         [ ":method", "GET" ],
         [ ":scheme", "http" ],
-        [ ":authority", "yahoo.co.jp" ],
+        [ ":authority", "example.com" ],
         [ ":path", "/" ]
       ]
     },
@@ -36,7 +40,6 @@ each json has
   ]
 }
 ```
-
 
 ## File Name
 
