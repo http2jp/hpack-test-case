@@ -1,159 +1,455 @@
-[
-  {
-    "context": "request", 
-    "header": {
-      ":scheme": "http", 
-      ":method": "GET", 
-      "accept-encoding": "gzip, deflate", 
-      "accept-language": "en-US,en;q=0.5", 
-      ":authority": "taobao.com", 
-      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", 
-      "connection": "keep-alive", 
-      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
-      ":path": "/"
+{
+  "description": "Encoded by nghttp2. The basic encoding strategy is described in http://lists.w3.org/Archives/Public/ietf-http-wg/2013JulSep/1135.html We use huffman encoding only if it produces strictly shorter byte string than original. We make some headers not indexing at all, but this does not always result in less bits on the wire.", 
+  "draft": 5, 
+  "context": "request", 
+  "cases": [
+    {
+      "wire": "828703878a1b7a1a44b74f873dbeef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a921717af88f9c4338e8be9439cb5251153581e79c745ffcf3d17d287396a4a22a6b03cf45f5795a5259d3fd07f5d5e569495ff168b164bf8f0e91675795a5251168acbd54ee9e8c0715a223f00874b58c14c54d67f87e422e950b5731f", 
+      "header_table_size": 4096, 
+      "headers": [
+        [
+          ":method", 
+          "GET"
+        ], 
+        [
+          ":scheme", 
+          "http"
+        ], 
+        [
+          ":authority", 
+          "taobao.com"
+        ], 
+        [
+          ":path", 
+          "/"
+        ], 
+        [
+          "user-agent", 
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0"
+        ], 
+        [
+          "accept", 
+          "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+        ], 
+        [
+          "accept-language", 
+          "en-US,en;q=0.5"
+        ], 
+        [
+          "accept-encoding", 
+          "gzip, deflate"
+        ], 
+        [
+          "connection", 
+          "keep-alive"
+        ]
+      ]
     }, 
-    "wire": "gocDh4obehpEt0+HPb7vb6qWtAUEL0f670JUyLYZ9XR8GRFfR3oT0fTw6P30GKSvq6H8/Yakhf99HuFPJoHKYpTFN0cFPHFvmBqSFxeviPnEM46L6UOctSURU1geecdF/889F9KHOWpKIqawPPRfV5WlJZ0/0H9dXlaUlf8WixZL+PDpFnV5WlJRForL1U7p6MBxWiI/AIdLWMFMVNZ/h+Qi6VC1cx8="
-  }, 
-  {
-    "context": "request", 
-    "header": {
-      ":scheme": "http", 
-      ":method": "GET", 
-      "accept-encoding": "gzip, deflate", 
-      "accept-language": "en-US,en;q=0.5", 
-      ":authority": "www.taobao.com", 
-      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", 
-      "connection": "keep-alive", 
-      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
-      ":path": "/"
+    {
+      "wire": "078adb6d891436f434896e9f88", 
+      "header_table_size": 4096, 
+      "headers": [
+        [
+          ":method", 
+          "GET"
+        ], 
+        [
+          ":scheme", 
+          "http"
+        ], 
+        [
+          ":authority", 
+          "www.taobao.com"
+        ], 
+        [
+          ":path", 
+          "/"
+        ], 
+        [
+          "user-agent", 
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0"
+        ], 
+        [
+          "accept", 
+          "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+        ], 
+        [
+          "accept-language", 
+          "en-US,en;q=0.5"
+        ], 
+        [
+          "accept-encoding", 
+          "gzip, deflate"
+        ], 
+        [
+          "connection", 
+          "keep-alive"
+        ]
+      ]
     }, 
-    "wire": "B4rbbYkUNvQ0iW6fiA=="
-  }, 
-  {
-    "context": "request", 
-    "header": {
-      ":scheme": "http", 
-      ":method": "GET", 
-      "accept-encoding": "gzip, deflate", 
-      "accept-language": "en-US,en;q=0.5", 
-      ":authority": "www.taobao.com", 
-      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", 
-      "connection": "keep-alive", 
-      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
-      ":path": "/index_global.php"
+    {
+      "wire": "478c053301f3bb25b6f42c8ecddf87", 
+      "header_table_size": 4096, 
+      "headers": [
+        [
+          ":method", 
+          "GET"
+        ], 
+        [
+          ":scheme", 
+          "http"
+        ], 
+        [
+          ":authority", 
+          "www.taobao.com"
+        ], 
+        [
+          ":path", 
+          "/index_global.php"
+        ], 
+        [
+          "user-agent", 
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0"
+        ], 
+        [
+          "accept", 
+          "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+        ], 
+        [
+          "accept-language", 
+          "en-US,en;q=0.5"
+        ], 
+        [
+          "accept-encoding", 
+          "gzip, deflate"
+        ], 
+        [
+          "connection", 
+          "keep-alive"
+        ]
+      ]
     }, 
-    "wire": "R4wFMwHzuyW29CyOzd+H"
-  }, 
-  {
-    "context": "request", 
-    "header": {
-      ":scheme": "http", 
-      ":method": "GET", 
-      "accept-encoding": "gzip, deflate", 
-      "accept-language": "en-US,en;q=0.5", 
-      "referer": "http://www.taobao.com/index_global.php", 
-      ":authority": "a.tbcdn.cn", 
-      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
-      "connection": "keep-alive", 
-      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
-      ":path": "/p/fp/2011a/assets/space.gif"
+    {
+      "wire": "018741237a706112cf489107062e0394c640221018c020e4244992b1069a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f3e9ace3177b0036db62450dbd0d225ba029980f9dd92db7a164766ef8488", 
+      "header_table_size": 4096, 
+      "headers": [
+        [
+          ":method", 
+          "GET"
+        ], 
+        [
+          ":scheme", 
+          "http"
+        ], 
+        [
+          ":authority", 
+          "a.tbcdn.cn"
+        ], 
+        [
+          ":path", 
+          "/p/fp/2011a/assets/space.gif"
+        ], 
+        [
+          "user-agent", 
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0"
+        ], 
+        [
+          "accept", 
+          "image/png,image/*;q=0.8,*/*;q=0.5"
+        ], 
+        [
+          "accept-language", 
+          "en-US,en;q=0.5"
+        ], 
+        [
+          "accept-encoding", 
+          "gzip, deflate"
+        ], 
+        [
+          "connection", 
+          "keep-alive"
+        ], 
+        [
+          "referer", 
+          "http://www.taobao.com/index_global.php"
+        ]
+      ]
     }, 
-    "wire": "AYdBI3pwYRLPSJEHBi4DlMZAIhAYwCDkJEmSsQaaVojIQczLpVojIQ/rq8rSkr6f6D+urytKSj8+ms4xd7ADbbYkUNvQ0iW6ApmA+d2S23oWR2bvhIg="
-  }, 
-  {
-    "context": "request", 
-    "header": {
-      ":scheme": "http", 
-      ":method": "GET", 
-      "accept-encoding": "gzip, deflate", 
-      "accept-language": "en-US,en;q=0.5", 
-      "referer": "http://www.taobao.com/index_global.php", 
-      ":authority": "a.tbcdn.cn", 
-      "accept": "text/css,*/*;q=0.1", 
-      "connection": "keep-alive", 
-      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
-      ":path": "/"
+    {
+      "wire": "8a028e88f9c4130874ff41fd75795a521b83", 
+      "header_table_size": 4096, 
+      "headers": [
+        [
+          ":method", 
+          "GET"
+        ], 
+        [
+          ":scheme", 
+          "http"
+        ], 
+        [
+          ":authority", 
+          "a.tbcdn.cn"
+        ], 
+        [
+          ":path", 
+          "/"
+        ], 
+        [
+          "user-agent", 
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0"
+        ], 
+        [
+          "accept", 
+          "text/css,*/*;q=0.1"
+        ], 
+        [
+          "accept-language", 
+          "en-US,en;q=0.5"
+        ], 
+        [
+          "accept-encoding", 
+          "gzip, deflate"
+        ], 
+        [
+          "connection", 
+          "keep-alive"
+        ], 
+        [
+          "referer", 
+          "http://www.taobao.com/index_global.php"
+        ]
+      ]
     }, 
-    "wire": "igKOiPnEEwh0/0H9dXlaUhuD"
-  }, 
-  {
-    "context": "request", 
-    "header": {
-      ":scheme": "http", 
-      ":method": "GET", 
-      "accept-encoding": "gzip, deflate", 
-      "accept-language": "en-US,en;q=0.5", 
-      "referer": "http://www.taobao.com/index_global.php", 
-      ":authority": "a.tbcdn.cn", 
-      "accept": "text/css,*/*;q=0.1", 
-      "connection": "keep-alive", 
-      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
-      ":path": "/p/fp/2011hk/"
+    {
+      "wire": "4b8907062e0394c6cf907f8b", 
+      "header_table_size": 4096, 
+      "headers": [
+        [
+          ":method", 
+          "GET"
+        ], 
+        [
+          ":scheme", 
+          "http"
+        ], 
+        [
+          ":authority", 
+          "a.tbcdn.cn"
+        ], 
+        [
+          ":path", 
+          "/p/fp/2011hk/"
+        ], 
+        [
+          "user-agent", 
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0"
+        ], 
+        [
+          "accept", 
+          "text/css,*/*;q=0.1"
+        ], 
+        [
+          "accept-language", 
+          "en-US,en;q=0.5"
+        ], 
+        [
+          "accept-encoding", 
+          "gzip, deflate"
+        ], 
+        [
+          "connection", 
+          "keep-alive"
+        ], 
+        [
+          "referer", 
+          "http://www.taobao.com/index_global.php"
+        ]
+      ]
     }, 
-    "wire": "S4kHBi4DlMbPkH+L"
-  }, 
-  {
-    "context": "request", 
-    "header": {
-      ":scheme": "http", 
-      ":method": "GET", 
-      "accept-encoding": "gzip, deflate", 
-      "accept-language": "en-US,en;q=0.5", 
-      "referer": "http://www.taobao.com/index_global.php", 
-      ":authority": "a.tbcdn.cn", 
-      "accept": "*/*", 
-      "connection": "keep-alive", 
-      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
-      ":path": "/"
+    {
+      "wire": "8b01032a2f2a82", 
+      "header_table_size": 4096, 
+      "headers": [
+        [
+          ":method", 
+          "GET"
+        ], 
+        [
+          ":scheme", 
+          "http"
+        ], 
+        [
+          ":authority", 
+          "a.tbcdn.cn"
+        ], 
+        [
+          ":path", 
+          "/"
+        ], 
+        [
+          "user-agent", 
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0"
+        ], 
+        [
+          "accept", 
+          "*/*"
+        ], 
+        [
+          "accept-language", 
+          "en-US,en;q=0.5"
+        ], 
+        [
+          "accept-encoding", 
+          "gzip, deflate"
+        ], 
+        [
+          "connection", 
+          "keep-alive"
+        ], 
+        [
+          "referer", 
+          "http://www.taobao.com/index_global.php"
+        ]
+      ]
     }, 
-    "wire": "iwEDKi8qgg=="
-  }, 
-  {
-    "context": "request", 
-    "header": {
-      ":scheme": "http", 
-      ":method": "GET", 
-      "accept-encoding": "gzip, deflate", 
-      "accept-language": "en-US,en;q=0.5", 
-      "referer": "http://www.taobao.com/index_global.php", 
-      ":authority": "a.tbcdn.cn", 
-      "accept": "*/*", 
-      "connection": "keep-alive", 
-      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
-      ":path": "/p/fp/2010c/js/fp-direct-promo-min.js"
+    {
+      "wire": "4c9807062e0394c548718062e97053c53195cf6e8d9745309c618c", 
+      "header_table_size": 4096, 
+      "headers": [
+        [
+          ":method", 
+          "GET"
+        ], 
+        [
+          ":scheme", 
+          "http"
+        ], 
+        [
+          ":authority", 
+          "a.tbcdn.cn"
+        ], 
+        [
+          ":path", 
+          "/p/fp/2010c/js/fp-direct-promo-min.js"
+        ], 
+        [
+          "user-agent", 
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0"
+        ], 
+        [
+          "accept", 
+          "*/*"
+        ], 
+        [
+          "accept-language", 
+          "en-US,en;q=0.5"
+        ], 
+        [
+          "accept-encoding", 
+          "gzip, deflate"
+        ], 
+        [
+          "connection", 
+          "keep-alive"
+        ], 
+        [
+          "referer", 
+          "http://www.taobao.com/index_global.php"
+        ]
+      ]
     }, 
-    "wire": "TJgHBi4DlMVIcYBi6XBTxTGVz26Nl0UwnGGM"
-  }, 
-  {
-    "context": "request", 
-    "header": {
-      ":scheme": "http", 
-      ":method": "GET", 
-      "accept-encoding": "gzip, deflate", 
-      "accept-language": "en-US,en;q=0.5", 
-      "referer": "http://www.taobao.com/index_global.php", 
-      ":authority": "img01.taobaocdn.com", 
-      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
-      "connection": "keep-alive", 
-      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
-      ":path": "/tps/i1/T1fqY2XilfXXahsVgc-1000-40.jpg"
+    {
+      "wire": "058d569914c48a1b7a1a9c1844b74f4d9c08ba00a30789b1f2fe1ff6a5e3fbfda3387e724ca6294b2ce5271765858286", 
+      "header_table_size": 4096, 
+      "headers": [
+        [
+          ":method", 
+          "GET"
+        ], 
+        [
+          ":scheme", 
+          "http"
+        ], 
+        [
+          ":authority", 
+          "img01.taobaocdn.com"
+        ], 
+        [
+          ":path", 
+          "/tps/i1/T1fqY2XilfXXahsVgc-1000-40.jpg"
+        ], 
+        [
+          "user-agent", 
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0"
+        ], 
+        [
+          "accept", 
+          "image/png,image/*;q=0.8,*/*;q=0.5"
+        ], 
+        [
+          "accept-language", 
+          "en-US,en;q=0.5"
+        ], 
+        [
+          "accept-encoding", 
+          "gzip, deflate"
+        ], 
+        [
+          "connection", 
+          "keep-alive"
+        ], 
+        [
+          "referer", 
+          "http://www.taobao.com/index_global.php"
+        ]
+      ]
     }, 
-    "wire": "BY1WmRTEiht6GpwYRLdPTZwIugCjB4mx8v4f9qXj+/2jOH5yTKYpSyzlJxdlhYKG"
-  }, 
-  {
-    "context": "request", 
-    "header": {
-      ":scheme": "http", 
-      ":method": "GET", 
-      "accept-encoding": "gzip, deflate", 
-      "accept-language": "en-US,en;q=0.5", 
-      "referer": "http://www.taobao.com/index_global.php", 
-      ":authority": "img01.taobaocdn.com", 
-      "accept": "image/png,image/*;q=0.8,*/*;q=0.5", 
-      "connection": "keep-alive", 
-      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0", 
-      ":path": "/tps/i1/T1rZiwXgtfXXXXXXXX-110-135.png"
-    }, 
-    "wire": "TZ4IugCjB4mf/itv3lHH9/v9/v9/v9/uUxiymmoI5mU="
-  }
-]
+    {
+      "wire": "4d9e08ba00a307899ffe2b6fde51c7f7fbfdfeff7fbfdfee5318b29a6a08e665", 
+      "header_table_size": 4096, 
+      "headers": [
+        [
+          ":method", 
+          "GET"
+        ], 
+        [
+          ":scheme", 
+          "http"
+        ], 
+        [
+          ":authority", 
+          "img01.taobaocdn.com"
+        ], 
+        [
+          ":path", 
+          "/tps/i1/T1rZiwXgtfXXXXXXXX-110-135.png"
+        ], 
+        [
+          "user-agent", 
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20100101 Firefox/16.0"
+        ], 
+        [
+          "accept", 
+          "image/png,image/*;q=0.8,*/*;q=0.5"
+        ], 
+        [
+          "accept-language", 
+          "en-US,en;q=0.5"
+        ], 
+        [
+          "accept-encoding", 
+          "gzip, deflate"
+        ], 
+        [
+          "connection", 
+          "keep-alive"
+        ], 
+        [
+          "referer", 
+          "http://www.taobao.com/index_global.php"
+        ]
+      ]
+    }
+  ]
+}
