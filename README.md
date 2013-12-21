@@ -10,13 +10,12 @@ http://tools.ietf.org/html/draft-ietf-httpbis-header-compression
 each json has
 
 - draft:   draft version number of implementation.
-- context: "request" or "response",
+- context: "request" or "response".
 - description: about encode strategy or so.
 - cases:   test cases.
   - header_table_size : current header table size.
   - wire:    encoded wire data in hex string.
   - header:  decoded http header in array.
-  - header_table_size : current header table size.
 
 test your encoder/decoder using cases and wire.
 
