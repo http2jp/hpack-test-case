@@ -1,11 +1,11 @@
 {
-  "description": "Encoded by nghttp2. The basic encoding strategy is described in http://lists.w3.org/Archives/Public/ietf-http-wg/2013JulSep/1135.html We use huffman encoding only if it produces strictly shorter byte string than original. We make some headers not indexing at all, but this does not always result in less bits on the wire.", 
-  "draft": 5, 
   "context": "request", 
+  "draft": 5, 
+  "description": "Encoded by nghttp2. The basic encoding strategy is described in http://lists.w3.org/Archives/Public/ietf-http-wg/2013JulSep/1135.html We use huffman encoding only if it produces strictly shorter byte string than original. We make some headers not indexing at all, but this does not always result in less bits on the wire.", 
   "cases": [
     {
-      "wire": "82870388f4466d6912d2717787", 
       "header_table_size": 4096, 
+      "wire": "82870388f4466d6912d2717787", 
       "headers": [
         [
           ":method", 
@@ -26,8 +26,8 @@
       ]
     }, 
     {
-      "wire": "028bdb6d89e88cdad225a4e2ef83", 
       "header_table_size": 4096, 
+      "wire": "028bdb6d89e88cdad225a4e2ef83", 
       "headers": [
         [
           ":method", 
@@ -48,8 +48,8 @@
       ]
     }, 
     {
-      "wire": "0187e44f45699138bb439905688c860116b820e38274602db9365642534c5a0f591cccbf8283", 
       "header_table_size": 4096, 
+      "wire": "0187e44f45699138bb439905688c860116b820e38274602db9365642534c5a0f591cccbf8283", 
       "headers": [
         [
           ":method", 

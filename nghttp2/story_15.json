@@ -1,11 +1,11 @@
 {
-  "description": "Encoded by nghttp2. The basic encoding strategy is described in http://lists.w3.org/Archives/Public/ietf-http-wg/2013JulSep/1135.html We use huffman encoding only if it produces strictly shorter byte string than original. We make some headers not indexing at all, but this does not always result in less bits on the wire.", 
-  "draft": 5, 
   "context": "request", 
+  "draft": 5, 
+  "description": "Encoded by nghttp2. The basic encoding strategy is described in http://lists.w3.org/Archives/Public/ietf-http-wg/2013JulSep/1135.html We use huffman encoding only if it produces strictly shorter byte string than original. We make some headers not indexing at all, but this does not always result in less bits on the wire.", 
   "cases": [
     {
-      "wire": "828703878a1b7a1a44b74f873dbeef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a921717af88f9c4338e8be9439cb5251153581e79c745ffcf3d17d287396a4a22a6b03cf45f5795a5259d3fd07f5d5e569495ff168b164bf8f0e91675795a5251168acbd54ee9e8c0715a223f00874b58c14c54d67f87e422e950b5731f", 
       "header_table_size": 4096, 
+      "wire": "828703878a1b7a1a44b74f873dbeef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a921717af88f9c4338e8be9439cb5251153581e79c745ffcf3d17d287396a4a22a6b03cf45f5795a5259d3fd07f5d5e569495ff168b164bf8f0e91675795a5251168acbd54ee9e8c0715a223f00874b58c14c54d67f87e422e950b5731f", 
       "headers": [
         [
           ":method", 
@@ -46,8 +46,8 @@
       ]
     }, 
     {
-      "wire": "078adb6d891436f434896e9f88", 
       "header_table_size": 4096, 
+      "wire": "078adb6d891436f434896e9f88", 
       "headers": [
         [
           ":method", 
@@ -88,8 +88,8 @@
       ]
     }, 
     {
-      "wire": "478c053301f3bb25b6f42c8ecddf87", 
       "header_table_size": 4096, 
+      "wire": "478c053301f3bb25b6f42c8ecddf87", 
       "headers": [
         [
           ":method", 
@@ -130,8 +130,8 @@
       ]
     }, 
     {
-      "wire": "018741237a706112cf489107062e0394c640221018c020e4244992b1069a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f3e9ace3177b0036db62450dbd0d225ba029980f9dd92db7a164766ef8488", 
       "header_table_size": 4096, 
+      "wire": "018741237a706112cf489107062e0394c640221018c020e4244992b1069a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f3e9ace3177b0036db62450dbd0d225ba029980f9dd92db7a164766ef8488", 
       "headers": [
         [
           ":method", 
@@ -176,8 +176,8 @@
       ]
     }, 
     {
-      "wire": "8a028e88f9c4130874ff41fd75795a521b83", 
       "header_table_size": 4096, 
+      "wire": "8a028e88f9c4130874ff41fd75795a521b83", 
       "headers": [
         [
           ":method", 
@@ -222,8 +222,8 @@
       ]
     }, 
     {
-      "wire": "4b8907062e0394c6cf907f8b", 
       "header_table_size": 4096, 
+      "wire": "4b8907062e0394c6cf907f8b", 
       "headers": [
         [
           ":method", 
@@ -268,8 +268,8 @@
       ]
     }, 
     {
-      "wire": "8b01032a2f2a82", 
       "header_table_size": 4096, 
+      "wire": "8b01032a2f2a82", 
       "headers": [
         [
           ":method", 
@@ -314,8 +314,8 @@
       ]
     }, 
     {
-      "wire": "4c9807062e0394c548718062e97053c53195cf6e8d9745309c618c", 
       "header_table_size": 4096, 
+      "wire": "4c9807062e0394c548718062e97053c53195cf6e8d9745309c618c", 
       "headers": [
         [
           ":method", 
@@ -360,8 +360,8 @@
       ]
     }, 
     {
-      "wire": "058d569914c48a1b7a1a9c1844b74f4d9c08ba00a30789b1f2fe1ff6a5e3fbfda3387e724ca6294b2ce5271765858286", 
       "header_table_size": 4096, 
+      "wire": "058d569914c48a1b7a1a9c1844b74f4d9c08ba00a30789b1f2fe1ff6a5e3fbfda3387e724ca6294b2ce5271765858286", 
       "headers": [
         [
           ":method", 
@@ -406,8 +406,8 @@
       ]
     }, 
     {
-      "wire": "4d9e08ba00a307899ffe2b6fde51c7f7fbfdfeff7fbfdfee5318b29a6a08e665", 
       "header_table_size": 4096, 
+      "wire": "4d9e08ba00a307899ffe2b6fde51c7f7fbfdfeff7fbfdfee5318b29a6a08e665", 
       "headers": [
         [
           ":method", 
