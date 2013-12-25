@@ -15,7 +15,7 @@ each json has
 - cases:   test cases.
   - header_table_size : current header table size.
   - wire:    encoded wire data in hex string.
-  - header:  decoded http header in array.
+  - header:  decoded http header in hash.
 
 test your encoder/decoder using cases and wire.
 
@@ -27,12 +27,13 @@ test your encoder/decoder using cases and wire.
   "cases": [
     {
       "header_table_size": 4096,
-      "wire": "676f63446950524762576b53306e463368773d3d",
+      "wire": "1234567890abcdef",
       "headers": [
-        [ ":method", "GET" ],
-        [ ":scheme", "http" ],
-        [ ":authority", "example.com" ],
-        [ ":path", "/" ]
+        { ":method", "GET" },
+        { ":scheme", "http" },
+        { ":authority", "example.com" },
+        { ":path", "/" },
+        { "x-my-header", "value1,value2" },
       ]
     },
     .....
