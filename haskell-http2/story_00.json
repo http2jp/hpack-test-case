@@ -1,32 +1,73 @@
-[
-  {
+{
     "context": "request",
-    "wire": "gIKHAIj2I1jm16o+n4j0Rm1pEtJxd4c=",
-    "header": {
-      ":method": "GET",
-      ":scheme": "http",
-      ":authority": "yahoo.co.jp",
-      ":path": "/"
-    }
-  },
-  {
-    "context": "request",
-    "wire": "gISDAovbbYnojNrSJaTi74I=",
-    "header": {
-      ":method": "GET",
-      ":scheme": "http",
-      ":authority": "www.yahoo.co.jp",
-      ":path": "/"
-    }
-  },
-  {
-    "context": "request",
-    "wire": "gIWEAYfkT0VpkTi7A5kFaIyGARa4IOOCdGAtuTZWQlNMWg9ZHMy/",
-    "header": {
-      ":method": "GET",
-      ":scheme": "http",
-      ":authority": "k.yimg.jp",
-      ":path": "/images/top/sp2/cmn/logo-ns-130528.png"
-    }
-  }
-]
+    "cases": [
+        {
+            "headers": [
+                [
+                    ":method",
+                    "GET"
+                ],
+                [
+                    ":scheme",
+                    "http"
+                ],
+                [
+                    ":authority",
+                    "yahoo.co.jp"
+                ],
+                [
+                    ":path",
+                    "/"
+                ]
+            ],
+            "wire": "8082870088f62358e6d7aa3e9f88f4466d6912d2717787",
+            "header_table_size": 4096
+        },
+        {
+            "headers": [
+                [
+                    ":method",
+                    "GET"
+                ],
+                [
+                    ":scheme",
+                    "http"
+                ],
+                [
+                    ":authority",
+                    "www.yahoo.co.jp"
+                ],
+                [
+                    ":path",
+                    "/"
+                ]
+            ],
+            "wire": "808483028bdb6d89e88cdad225a4e2ef82",
+            "header_table_size": 4096
+        },
+        {
+            "headers": [
+                [
+                    ":method",
+                    "GET"
+                ],
+                [
+                    ":scheme",
+                    "http"
+                ],
+                [
+                    ":authority",
+                    "k.yimg.jp"
+                ],
+                [
+                    ":path",
+                    "/images/top/sp2/cmn/logo-ns-130528.png"
+                ]
+            ],
+            "wire": "8085840187e44f45699138bb039905688c860116b820e38274602db9365642534c5a0f591cccbf",
+            "header_table_size": 4096
+        }
+    ],
+    "description": "Encoded by the http2 library in Haskell. First clear the reference set and encode all headers",
+    "draft": 5
+}
