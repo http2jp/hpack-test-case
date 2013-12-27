@@ -9568,7 +9568,7 @@
                     "connection": "keep-alive"
                 }
             ],
-            "wire": "80a9a8068cce1d33d7f87f37e55636619f0085c317f0b5ff81ff06824ccc0688b5fd237f086c40ff0592a5f9c40280f1bf9818918121a85b45613d0e98",
+            "wire": "80a9a8068cce1d33d7f87f37e55636619f0085c317f0b5ff8006824ccc0688b5fd237f086c40ff0592a5f9c40280f1bf9818918121a85b45613d0e98",
             "header_table_size": 4096
         },
         {
