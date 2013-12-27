@@ -7,66 +7,54 @@
       "header_table_size": 4096,
       "wire": "82870388f4466d6912d2717787",
       "headers": [
-        [
-          ":method",
-          "GET"
-        ],
-        [
-          ":scheme",
-          "http"
-        ],
-        [
-          ":authority",
-          "yahoo.co.jp"
-        ],
-        [
-          ":path",
-          "/"
-        ]
+        {
+          ":method": "GET"
+        },
+        {
+          ":scheme": "http"
+        },
+        {
+          ":authority": "yahoo.co.jp"
+        },
+        {
+          ":path": "/"
+        }
       ]
     },
     {
       "header_table_size": 4096,
       "wire": "028bdb6d89e88cdad225a4e2ef83",
       "headers": [
-        [
-          ":method",
-          "GET"
-        ],
-        [
-          ":scheme",
-          "http"
-        ],
-        [
-          ":authority",
-          "www.yahoo.co.jp"
-        ],
-        [
-          ":path",
-          "/"
-        ]
+        {
+          ":method": "GET"
+        },
+        {
+          ":scheme": "http"
+        },
+        {
+          ":authority": "www.yahoo.co.jp"
+        },
+        {
+          ":path": "/"
+        }
       ]
     },
     {
       "header_table_size": 4096,
       "wire": "0088f62358e6d7aa3e9f87e44f45699138bb039905688c860116b820e38274602db9365642534c5a0f591cccbf8384",
       "headers": [
-        [
-          ":method",
-          "GET"
-        ],
-        [
-          ":scheme",
-          "http"
-        ],
-        [
-          ":authority",
-          "k.yimg.jp"
-        ],
-        [
-          ":path",
-          "/images/top/sp2/cmn/logo-ns-130528.png"
-        ]
+        {
+          ":method": "GET"
+        },
+        {
+          ":scheme": "http"
+        },
+        {
+          ":authority": "k.yimg.jp"
+        },
+        {
+          ":path": "/images/top/sp2/cmn/logo-ns-130528.png"
+        }
       ]
     }
   ]
