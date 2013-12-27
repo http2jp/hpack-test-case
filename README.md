@@ -23,7 +23,7 @@ test your encoder/decoder using cases and wire.
 {
   "draft": 5,
   "context": "request",
-  "description": "Encoded request headers with Literal without index only."
+  "description": "Encoded request headers with Literal without index only.",
   "cases": [
     {
       "header_table_size": 4096,
@@ -33,7 +33,7 @@ test your encoder/decoder using cases and wire.
         { ":scheme": "http" },
         { ":authority": "example.com" },
         { ":path": "/" },
-        { "x-my-header": "value1,value2" },
+        { "x-my-header": "value1,value2" }
       ]
     },
     .....
