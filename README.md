@@ -29,11 +29,11 @@ test your encoder/decoder using cases and wire.
       "header_table_size": 4096,
       "wire": "1234567890abcdef",
       "headers": [
-        { ":method", "GET" },
-        { ":scheme", "http" },
-        { ":authority", "example.com" },
-        { ":path", "/" },
-        { "x-my-header", "value1,value2" },
+        { ":method": "GET" },
+        { ":scheme": "http" },
+        { ":authority": "example.com" },
+        { ":path": "/" },
+        { "x-my-header": "value1,value2" },
       ]
     },
     .....
