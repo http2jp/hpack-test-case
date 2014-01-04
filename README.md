@@ -5,7 +5,21 @@
 http://tools.ietf.org/html/draft-ietf-httpbis-header-compression
 
 
-## How to use
+## Directory
+
+```raw-data``` has original story of header data in json.
+
+other directories has encoded result of each implementations.
+you can interoperability test your implementation with each implemntations.
+
+
+## File Name
+
+each json in story-#{n}.json are story case. each wire shares context.
+its describes continuous request/response.
+
+
+## JSON Format
 
 each json has
 
@@ -41,13 +55,9 @@ test your encoder/decoder using cases and wire.
 }
 ```
 
-## File Name
+## Original Data
 
-each json in case-#{n}.json are individual case. each wire dosen't share context.
-its describes single request/response.
-
-each json in story-#{n}.json are story case. each wire shares context.
-its describes continuous request/response.
+These Header Data are converted from https://github.com/http2/http_samples
 
 
 ## Contributor
