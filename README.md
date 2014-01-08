@@ -7,31 +7,45 @@ http://tools.ietf.org/html/draft-ietf-httpbis-header-compression
 
 ## Directory
 
-```raw-data``` has original story of header data in json.
+The ```raw-data``` directory has original stories of header data in
+json.
 
-other directories has encoded result of each implementations.
-you can interoperability test your implementation with each implemntations.
+Other than ```raw-data``` directory, the HPACK implementations have
+their own directories to store the result of its encoder.
 
+You can perform interoperability testing for your implementation with
+them.
 
 ## File Name
 
-each json in story-#{n}.json are story case. each wire shares context.
-its describes continuous request/response.
-
+Each json in story-#{n}.json is story case and shares compression
+context. Each story is either series of requests or responses.
 
 ## JSON Format
 
-each json has
+Each json has:
 
-- draft:   draft version number of implementation.
+- draft:   HPACK draft version number of implementation.
 - context: "request" or "response".
-- description: about encode strategy or so.
+- description: general description of encoding strategy or implementation.
 - cases:   test cases.
-  - header_table_size : current header table size.
+  - header_table_size : header table size adjusted before encoding/decoding the header set.
   - wire:    encoded wire data in hex string.
-  - header:  decoded http header in hash.
+  - headers:  decoded http header in hash.
 
-test your encoder/decoder using cases and wire.
+To test the decoder implementation, for each story file, for each case
+in ```cases``` in the order they appear, decode compressed header
+block in ```wire``` and verify the result against the header set in
+```headers```. Please note that elements in ```cases``` share the same
+compression context.
+
+To test the encoder implementation, generate json story files by
+encoding header sets in ```headers```. Using json files in
+```raw-data``` is handy. Then use your decoder to verify that it can
+successfully decode the compressed header block. If you can play with
+other HPACK decoder implementations, try decoding your encoded data
+with them. If there is any mismatch, then there must be a bug in
+somewhere either encoder or decoder, or both.
 
 ```js
 {
