@@ -9147,5 +9147,5 @@
     }
   ],
   "draft": 5,
-  "description": "Encoded by node-http2-protocol"
+  "description": "Encoded by node-http2-protocol. Encoder wrapper script: https://gist.github.com/molnarg/8375095"
 }
