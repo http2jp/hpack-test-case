@@ -1,0 +1,58 @@
+{
+    "context": "request",
+    "cases": [
+        {
+            "headers": [
+                {
+                    ":scheme": "https"
+                },
+                {
+                    ":authority": "example.com"
+                },
+                {
+                    ":path": "/"
+                },
+                {
+                    ":method": "GET"
+                },
+                {
+                    "user-agent": "hpack-test"
+                },
+                {
+                    "cookie": "xxxxxxx1"
+                },
+                {
+                    "x-hello": "world"
+                }
+            ],
+            "wire": "8087000a3a617574686f726974790b6578616d706c652e636f6d8685000a757365722d6167656e740a687061636b2d746573740006636f6f6b69650878787878787878310007782d68656c6c6f05776f726c64",
+            "header_table_size": 4096
+        },
+        {
+            "headers": [
+                {
+                    ":scheme": "https"
+                },
+                {
+                    ":authority": "example.com"
+                },
+                {
+                    ":path": "/"
+                },
+                {
+                    ":method": "GET"
+                },
+                {
+                    "user-agent": "hpack-test"
+                },
+                {
+                    "cookie": "xxxxxxx2"
+                }
+            ],
+            "wire": "80878685848302087878787878787832",
+            "header_table_size": 4096
+        }
+    ],
+    "description": "Encoded by the http2 library in Haskell. First clear the reference set and encode all headers",
+    "draft": 5
+}
