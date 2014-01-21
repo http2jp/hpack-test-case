@@ -9,7 +9,7 @@
 # The table is laid out so that we can see that how input header set
 # in one json file is compressed in each compressor.
 #
-import sys, json, os, re
+import sys, json, os, re, argparse
 
 class Stat:
 
@@ -32,8 +32,17 @@ def format_result(r):
                                      r.complen, r.srclen)
 
 if __name__ == '__main__':
-    entries = [(os.path.basename(re.sub(r'/+$', '', p)), p) \
-               for p in sys.argv[1:]]
+    ap = argparse.ArgumentParser(description='''\
+Generate HPACK compression ratio table in reStructuredText.
+
+An output is written to stdout.
+''')
+    ap.add_argument('dir', nargs='+',
+                    help='A directory containing JSON files')
+
+    args = ap.parse_args()
+
+    entries = [(os.path.basename(re.sub(r'/+$', '', p)), p) for p in args.dir]
     maxnamelen = 0
     maxstorynamelen = 0
     res = {}
@@ -53,6 +62,15 @@ if __name__ == '__main__':
             maxnamelen = max(maxnamelen, len(format_result(rv)))
     stories = list(stories)
     stories.sort()
+
+    overall = []
+    for name, _ in entries:
+        r = Stat(0, 0)
+        for _, stat in res[name].items():
+            r.srclen += stat.srclen
+            r.complen += stat.complen
+        overall.append(r)
+        maxnamelen = max(maxnamelen, len(format_result(r)))
 
     storynameformat = '{{:{}}} '.format(maxstorynamelen)
     nameformat = '{{:{}}} '.format(maxnamelen)
@@ -104,5 +122,10 @@ Z
                 raise Exception('Bad srclen')
             sys.stdout.write(nameformat.format(format_result(stats[story])))
         sys.stdout.write('\n')
+
+    sys.stdout.write(storynameformat.format('Overall'))
+    for r in overall:
+        sys.stdout.write(nameformat.format(format_result(r)))
+    sys.stdout.write('\n')
 
     write_border()
