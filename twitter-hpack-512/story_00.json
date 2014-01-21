@@ -16,7 +16,7 @@
           ":path": "/"
         }
       ],
-      "header_table_size": 4096,
+      "header_table_size": 512,
       "wire": "82870388f4466d6912d2717787"
     },
     {
@@ -34,7 +34,7 @@
           ":path": "/"
         }
       ],
-      "header_table_size": 4096,
+      "header_table_size": 512,
       "wire": "028bdb6d89e88cdad225a4e2ef83"
     },
     {
@@ -52,7 +52,7 @@
           ":path": "/images/top/sp2/cmn/logo-ns-130528.png"
         }
       ],
-      "header_table_size": 4096,
+      "header_table_size": 512,
       "wire": "0187e44f45699138bb039905688c860116b820e38274602db9365642534c5a0f591cccbf8384"
     }
   ],
