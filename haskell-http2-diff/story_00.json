@@ -17,6 +17,7 @@
                 }
             ],
             "wire": "8287030b7961686f6f2e636f2e6a7087",
+            "seqno": 0,
             "header_table_size": 4096
         },
         {
@@ -35,6 +36,7 @@
                 }
             ],
             "wire": "020f7777772e7961686f6f2e636f2e6a7083",
+            "seqno": 1,
             "header_table_size": 4096
         },
         {
@@ -53,9 +55,10 @@
                 }
             ],
             "wire": "01096b2e79696d672e6a7043262f696d616765732f746f702f7370322f636d6e2f6c6f676f2d6e732d3133303532382e706e678283",
+            "seqno": 2,
             "header_table_size": 4096
         }
     ],
-    "description": "Encoded by the http2 library in Haskell. First clear the reference set and encode all headers",
+    "description": "http2 in Haskell: Diff - index=yes, reference set=yes, huffman=no",
     "draft": 5
 }

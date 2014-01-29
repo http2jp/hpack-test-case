@@ -32,6 +32,7 @@
                 }
             ],
             "wire": "8082870387bd0ac35225ba7f873dbeef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a921717af88f9c4338e8be9439cb5251153581e79c745ffcf3d17d287396a4a22a6b03cf45f5795a5259d3fd07f5d5e569495ff168b164bf8f0e91675795a5251168acbd54ee9e8c0715a223f00874b58c14c54d67f87e422e950b5731f",
+            "seqno": 0,
             "header_table_size": 4096
         },
         {
@@ -65,6 +66,7 @@
                 }
             ],
             "wire": "8089888746880c51cd496b08a4b78584838281",
+            "seqno": 1,
             "header_table_size": 4096
         },
         {
@@ -98,6 +100,7 @@
                 }
             ],
             "wire": "8089880789db6d897a1586a44b74878685848382",
+            "seqno": 2,
             "header_table_size": 4096
         },
         {
@@ -137,6 +140,7 @@
                 }
             ],
             "wire": "808a8981478f0569905e8561add0f45b72698992b186059a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f8584833d8fce3177b0036db625e8561a912dd03f2ba8ebdff0edfc7c3b6deba4d353bfb0c5eeebee2efaf876769cd4f775d33f64fd86df4767b387bad37f",
+            "seqno": 3,
             "header_table_size": 4096
         },
         {
@@ -176,6 +180,7 @@
                 }
             ],
             "wire": "808d8c844a9004a1398864b6de8582b4c8328132563f89838786858281",
+            "seqno": 4,
             "header_table_size": 4096
         },
         {
@@ -212,6 +217,7 @@
                 }
             ],
             "wire": "808d8c048a81897e108a22a4912dd34b9c0786db6c09427310c96dbd0b0e3008a1993d1a4a624c49d262149c618a0483fe83fa89888784",
+            "seqno": 5,
             "header_table_size": 4096
         },
         {
@@ -248,6 +254,7 @@
                 }
             ],
             "wire": "808f8e824c960786db6c09427310c96dbd0b0e300cdba0ca62564e308b8189888784",
+            "seqno": 6,
             "header_table_size": 4096
         },
         {
@@ -284,6 +291,7 @@
                 }
             ],
             "wire": "808f8e824c940786db6c09427310d602f0e300d65312624e4e308b8189888784",
+            "seqno": 7,
             "header_table_size": 4096
         },
         {
@@ -320,6 +328,7 @@
                 }
             ],
             "wire": "808f8e824c8f0786db6c0ad32054a621485239997f8b8589888784",
+            "seqno": 8,
             "header_table_size": 4096
         },
         {
@@ -356,9 +365,10 @@
                 }
             ],
             "wire": "808f8e864c880c51cd496b08a4b78b8a89888783",
+            "seqno": 9,
             "header_table_size": 4096
         }
     ],
-    "description": "Encoded by the http2 library in Haskell. First clear the reference set and encode all headers",
+    "description": "http2 in Haskell: LinearH - index=yes, reference set=no, huffman=yes",
     "draft": 5
 }
