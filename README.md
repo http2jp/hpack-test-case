@@ -29,6 +29,7 @@ Each json has:
 - context: "request" or "response".
 - description: general description of encoding strategy or implementation.
 - cases:   test cases.
+  - seqno: a sequence number. 0 origin.
   - header_table_size : header table size adjusted before encoding/decoding the header set.
   - wire:    encoded wire data in hex string.
   - headers:  decoded http header in hash.
@@ -54,6 +55,7 @@ somewhere either encoder or decoder, or both.
   "description": "Encoded request headers with Literal without index only.",
   "cases": [
     {
+      "seqno": 0,
       "header_table_size": 4096,
       "wire": "1234567890abcdef",
       "headers": [
