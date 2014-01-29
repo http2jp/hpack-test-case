@@ -26,6 +26,7 @@
                 }
             ],
             "wire": "808702881f3468e58912dd3f86853d87cdc84f2962308f2488f3f3f3f3f3f3f3370085f397315adb84d9af5e1f",
+            "seqno": 0,
             "header_table_size": 4096
         },
         {
@@ -50,9 +51,10 @@
                 }
             ],
             "wire": "8087868584830288f3f3f3f3f3f3f33f",
+            "seqno": 1,
             "header_table_size": 4096
         }
     ],
-    "description": "Encoded by the http2 library in Haskell. First clear the reference set and encode all headers",
+    "description": "http2 in Haskell: LinearH - index=yes, reference set=no, huffman=yes",
     "draft": 5
 }
