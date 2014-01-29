@@ -37,7 +37,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b"
         }
-      ]
+      ],
+      "seqno": 0
     },
     {
       "header_table_size": 4096,
@@ -73,7 +74,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b"
         }
-      ]
+      ],
+      "seqno": 1
     },
     {
       "header_table_size": 4096,
@@ -109,7 +111,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 2
     },
     {
       "header_table_size": 4096,
@@ -145,7 +148,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 3
     },
     {
       "header_table_size": 4096,
@@ -181,7 +185,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 4
     },
     {
       "header_table_size": 4096,
@@ -220,7 +225,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b"
         }
-      ]
+      ],
+      "seqno": 5
     },
     {
       "header_table_size": 4096,
@@ -256,7 +262,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 6
     },
     {
       "header_table_size": 4096,
@@ -292,7 +299,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 7
     },
     {
       "header_table_size": 4096,
@@ -328,7 +336,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 8
     },
     {
       "header_table_size": 4096,
@@ -364,7 +373,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 9
     }
   ]
 }

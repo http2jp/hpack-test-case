@@ -19,7 +19,8 @@
         {
           ":path": "/"
         }
-      ]
+      ],
+      "seqno": 0
     },
     {
       "header_table_size": 4096,
@@ -37,7 +38,8 @@
         {
           ":path": "/"
         }
-      ]
+      ],
+      "seqno": 1
     },
     {
       "header_table_size": 4096,
@@ -55,7 +57,8 @@
         {
           ":path": "/images/top/sp2/cmn/logo-ns-130528.png"
         }
-      ]
+      ],
+      "seqno": 2
     }
   ]
 }

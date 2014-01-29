@@ -34,7 +34,8 @@
         {
           "connection": "keep-alive"
         }
-      ]
+      ],
+      "seqno": 0
     },
     {
       "header_table_size": 4096,
@@ -67,7 +68,8 @@
         {
           "connection": "keep-alive"
         }
-      ]
+      ],
+      "seqno": 1
     },
     {
       "header_table_size": 4096,
@@ -103,7 +105,8 @@
         {
           "referer": "http://www.linkedin.com/"
         }
-      ]
+      ],
+      "seqno": 2
     },
     {
       "header_table_size": 4096,
@@ -139,7 +142,8 @@
         {
           "referer": "http://www.linkedin.com/"
         }
-      ]
+      ],
+      "seqno": 3
     },
     {
       "header_table_size": 4096,
@@ -175,7 +179,8 @@
         {
           "referer": "http://www.linkedin.com/"
         }
-      ]
+      ],
+      "seqno": 4
     },
     {
       "header_table_size": 4096,
@@ -211,7 +216,8 @@
         {
           "referer": "http://www.linkedin.com/"
         }
-      ]
+      ],
+      "seqno": 5
     },
     {
       "header_table_size": 4096,
@@ -247,7 +253,8 @@
         {
           "referer": "http://www.linkedin.com/"
         }
-      ]
+      ],
+      "seqno": 6
     },
     {
       "header_table_size": 4096,
@@ -283,7 +290,8 @@
         {
           "referer": "http://www.linkedin.com/"
         }
-      ]
+      ],
+      "seqno": 7
     },
     {
       "header_table_size": 4096,
@@ -325,7 +333,8 @@
         {
           "cookie": "bcookie=\"v=2&bae845a5-83ed-4590-becf-f0f3d586432b\"; leo_auth_token=\"GST:UDbWFFpLLdcS6gHJ7NJa3XYRsc7W_gDwutbWnlWLfo7G_2Y4jfLH-H:1351948419:4b5c0f1309310a9b659b97d8960e64fdd635526b\"; JSESSIONID=\"ajax:0608630266152992729\"; visit=\"v=1&G\"; X-LI-IDC=C1"
         }
-      ]
+      ],
+      "seqno": 8
     },
     {
       "header_table_size": 4096,
@@ -361,7 +370,8 @@
         {
           "referer": "http://www.linkedin.com/"
         }
-      ]
+      ],
+      "seqno": 9
     }
   ]
 }

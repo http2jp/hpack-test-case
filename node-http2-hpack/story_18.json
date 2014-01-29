@@ -34,7 +34,8 @@
         {
           "connection": "keep-alive"
         }
-      ]
+      ],
+      "seqno": 0
     },
     {
       "header_table_size": 4096,
@@ -70,7 +71,8 @@
         {
           "referer": "http://au.yahoo.com/?p=us"
         }
-      ]
+      ],
+      "seqno": 1
     },
     {
       "header_table_size": 4096,
@@ -106,7 +108,8 @@
         {
           "cookie": "B=4m2rqu589a507&b=3&s=1v"
         }
-      ]
+      ],
+      "seqno": 2
     },
     {
       "header_table_size": 4096,
@@ -142,7 +145,8 @@
         {
           "referer": "http://au.yahoo.com/?p=us"
         }
-      ]
+      ],
+      "seqno": 3
     },
     {
       "header_table_size": 4096,
@@ -178,7 +182,8 @@
         {
           "referer": "http://au.yahoo.com/?p=us"
         }
-      ]
+      ],
+      "seqno": 4
     },
     {
       "header_table_size": 4096,
@@ -214,7 +219,8 @@
         {
           "referer": "http://au.yahoo.com/?p=us"
         }
-      ]
+      ],
+      "seqno": 5
     },
     {
       "header_table_size": 4096,
@@ -253,7 +259,8 @@
         {
           "cookie": "B=4m2rqu589a507&b=3&s=1v; session_start_time=1351947275160; k_visit=1; push_time_start=1351947295160"
         }
-      ]
+      ],
+      "seqno": 6
     },
     {
       "header_table_size": 4096,
@@ -292,7 +299,8 @@
         {
           "cookie": "B=4m2rqu589a507&b=3&s=1v; session_start_time=1351947275160; k_visit=1; push_time_start=1351947295160"
         }
-      ]
+      ],
+      "seqno": 7
     },
     {
       "header_table_size": 4096,
@@ -331,7 +339,8 @@
         {
           "cookie": "B=4m2rqu589a507&b=3&s=1v; session_start_time=1351947275160; k_visit=1; push_time_start=1351947295160"
         }
-      ]
+      ],
+      "seqno": 8
     },
     {
       "header_table_size": 4096,
@@ -367,7 +376,8 @@
         {
           "referer": "http://au.yahoo.com/?p=us"
         }
-      ]
+      ],
+      "seqno": 9
     }
   ]
 }

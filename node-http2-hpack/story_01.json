@@ -28,7 +28,8 @@
         {
           "x-hello": "world"
         }
-      ]
+      ],
+      "seqno": 0
     },
     {
       "header_table_size": 4096,
@@ -52,7 +53,8 @@
         {
           "cookie": "xxxxxxx2"
         }
-      ]
+      ],
+      "seqno": 1
     }
   ]
 }

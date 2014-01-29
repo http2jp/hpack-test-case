@@ -34,7 +34,8 @@
         {
           "connection": "keep-alive"
         }
-      ]
+      ],
+      "seqno": 0
     },
     {
       "header_table_size": 4096,
@@ -67,7 +68,8 @@
         {
           "connection": "keep-alive"
         }
-      ]
+      ],
+      "seqno": 1
     },
     {
       "header_table_size": 4096,
@@ -103,7 +105,8 @@
         {
           "referer": "http://www.ebay.com/"
         }
-      ]
+      ],
+      "seqno": 2
     },
     {
       "header_table_size": 4096,
@@ -142,7 +145,8 @@
         {
           "cookie": "ebay=%5Esbf%3D%23%5E; dp1=bpbf/%238000000000005276504d^u1p/QEBfX0BAX19AQA**5276504d^; cssg=c67883f113a0a56964e646c6ffaa1abe; s=CgAD4ACBQlm5NYzY3ODgzZjExM2EwYTU2OTY0ZTY0NmM2ZmZhYTFhYmUBSgAYUJZuTTUwOTUxY2NkLjAuMS4zLjE1MS4zLjAuMeN+7JE*; nonsession=CgAFMABhSdlBNNTA5NTFjY2QuMC4xLjEuMTQ5LjMuMC4xAMoAIFn7Hk1jNjc4ODNmMTEzYTBhNTY5NjRlNjQ2YzZmZmFhMWFjMQDLAAFQlSPVMX8u5Z8*"
         }
-      ]
+      ],
+      "seqno": 3
     },
     {
       "header_table_size": 4096,
@@ -178,7 +182,8 @@
         {
           "referer": "http://www.ebay.com/"
         }
-      ]
+      ],
+      "seqno": 4
     },
     {
       "header_table_size": 4096,
@@ -214,7 +219,8 @@
         {
           "referer": "http://www.ebay.com/"
         }
-      ]
+      ],
+      "seqno": 5
     },
     {
       "header_table_size": 4096,
@@ -250,7 +256,8 @@
         {
           "referer": "http://www.ebay.com/"
         }
-      ]
+      ],
+      "seqno": 6
     },
     {
       "header_table_size": 4096,
@@ -286,7 +293,8 @@
         {
           "referer": "http://www.ebay.com/"
         }
-      ]
+      ],
+      "seqno": 7
     },
     {
       "header_table_size": 4096,
@@ -322,7 +330,8 @@
         {
           "referer": "http://www.ebay.com/"
         }
-      ]
+      ],
+      "seqno": 8
     },
     {
       "header_table_size": 4096,
@@ -358,7 +367,8 @@
         {
           "referer": "http://www.ebay.com/"
         }
-      ]
+      ],
+      "seqno": 9
     }
   ]
 }

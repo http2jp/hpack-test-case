@@ -37,7 +37,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b"
         }
-      ]
+      ],
+      "seqno": 0
     },
     {
       "header_table_size": 4096,
@@ -73,7 +74,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b"
         }
-      ]
+      ],
+      "seqno": 1
     },
     {
       "header_table_size": 4096,
@@ -109,7 +111,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 2
     },
     {
       "header_table_size": 4096,
@@ -145,7 +148,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 3
     },
     {
       "header_table_size": 4096,
@@ -181,7 +185,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 4
     },
     {
       "header_table_size": 4096,
@@ -220,7 +225,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b"
         }
-      ]
+      ],
+      "seqno": 5
     },
     {
       "header_table_size": 4096,
@@ -256,7 +262,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 6
     },
     {
       "header_table_size": 4096,
@@ -292,7 +299,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 7
     },
     {
       "header_table_size": 4096,
@@ -328,7 +336,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 8
     },
     {
       "header_table_size": 4096,
@@ -364,7 +373,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 9
     },
     {
       "header_table_size": 4096,
@@ -400,7 +410,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 10
     },
     {
       "header_table_size": 4096,
@@ -436,7 +447,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 11
     },
     {
       "header_table_size": 4096,
@@ -472,7 +484,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 12
     },
     {
       "header_table_size": 4096,
@@ -511,7 +524,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b"
         }
-      ]
+      ],
+      "seqno": 13
     },
     {
       "header_table_size": 4096,
@@ -547,7 +561,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 14
     },
     {
       "header_table_size": 4096,
@@ -583,7 +598,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 15
     },
     {
       "header_table_size": 4096,
@@ -622,7 +638,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b"
         }
-      ]
+      ],
+      "seqno": 16
     },
     {
       "header_table_size": 4096,
@@ -658,7 +675,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 17
     },
     {
       "header_table_size": 4096,
@@ -694,7 +712,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 18
     },
     {
       "header_table_size": 4096,
@@ -730,7 +749,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 19
     },
     {
       "header_table_size": 4096,
@@ -766,7 +786,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 20
     },
     {
       "header_table_size": 4096,
@@ -802,7 +823,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 21
     },
     {
       "header_table_size": 4096,
@@ -838,7 +860,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 22
     },
     {
       "header_table_size": 4096,
@@ -874,7 +897,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 23
     },
     {
       "header_table_size": 4096,
@@ -910,7 +934,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 24
     },
     {
       "header_table_size": 4096,
@@ -946,7 +971,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 25
     },
     {
       "header_table_size": 4096,
@@ -982,7 +1008,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 26
     },
     {
       "header_table_size": 4096,
@@ -1018,7 +1045,8 @@
         {
           "referer": "http://k.yimg.jp/images/top/sp2/clr/1/clr-121025.css"
         }
-      ]
+      ],
+      "seqno": 27
     },
     {
       "header_table_size": 4096,
@@ -1054,7 +1082,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 28
     },
     {
       "header_table_size": 4096,
@@ -1090,7 +1119,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 29
     },
     {
       "header_table_size": 4096,
@@ -1126,7 +1156,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 30
     },
     {
       "header_table_size": 4096,
@@ -1162,7 +1193,8 @@
         {
           "referer": "http://www.yahoo.co.jp/"
         }
-      ]
+      ],
+      "seqno": 31
     },
     {
       "header_table_size": 4096,
@@ -1198,7 +1230,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b"
         }
-      ]
+      ],
+      "seqno": 32
     },
     {
       "header_table_size": 4096,
@@ -1234,7 +1267,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 33
     },
     {
       "header_table_size": 4096,
@@ -1273,7 +1307,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b"
         }
-      ]
+      ],
+      "seqno": 34
     },
     {
       "header_table_size": 4096,
@@ -1312,7 +1347,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b; YJTOPICSFBREAD=d=juTus3MJdA6fAPKQn3MJyoWvkTaY6I2RngPiVKE3BMv8AFX.C4TMg0utwM_uXg_sKn7y2yDVFKE-&v=1"
         }
-      ]
+      ],
+      "seqno": 35
     },
     {
       "header_table_size": 4096,
@@ -1351,7 +1387,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b; YJTOPICSFBREAD=d=juTus3MJdA6fAPKQn3MJyoWvkTaY6I2RngPiVKE3BMv8AFX.C4TMg0utwM_uXg_sKn7y2yDVFKE-&v=1"
         }
-      ]
+      ],
+      "seqno": 36
     },
     {
       "header_table_size": 4096,
@@ -1387,7 +1424,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 37
     },
     {
       "header_table_size": 4096,
@@ -1423,7 +1461,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 38
     },
     {
       "header_table_size": 4096,
@@ -1459,7 +1498,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 39
     },
     {
       "header_table_size": 4096,
@@ -1495,7 +1535,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 40
     },
     {
       "header_table_size": 4096,
@@ -1531,7 +1572,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 41
     },
     {
       "header_table_size": 4096,
@@ -1567,7 +1609,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 42
     },
     {
       "header_table_size": 4096,
@@ -1603,7 +1646,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 43
     },
     {
       "header_table_size": 4096,
@@ -1639,7 +1683,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 44
     },
     {
       "header_table_size": 4096,
@@ -1675,7 +1720,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 45
     },
     {
       "header_table_size": 4096,
@@ -1711,7 +1757,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 46
     },
     {
       "header_table_size": 4096,
@@ -1747,7 +1794,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 47
     },
     {
       "header_table_size": 4096,
@@ -1783,7 +1831,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 48
     },
     {
       "header_table_size": 4096,
@@ -1819,7 +1868,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 49
     },
     {
       "header_table_size": 4096,
@@ -1855,7 +1905,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 50
     },
     {
       "header_table_size": 4096,
@@ -1891,7 +1942,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 51
     },
     {
       "header_table_size": 4096,
@@ -1927,7 +1979,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 52
     },
     {
       "header_table_size": 4096,
@@ -1963,7 +2016,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 53
     },
     {
       "header_table_size": 4096,
@@ -1999,7 +2053,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 54
     },
     {
       "header_table_size": 4096,
@@ -2035,7 +2090,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 55
     },
     {
       "header_table_size": 4096,
@@ -2071,7 +2127,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 56
     },
     {
       "header_table_size": 4096,
@@ -2107,7 +2164,8 @@
         {
           "referer": "http://i.yimg.jp/images/topics/css/import_ver2.css?date=20121029"
         }
-      ]
+      ],
+      "seqno": 57
     },
     {
       "header_table_size": 4096,
@@ -2146,7 +2204,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b"
         }
-      ]
+      ],
+      "seqno": 58
     },
     {
       "header_table_size": 4096,
@@ -2185,7 +2244,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b"
         }
-      ]
+      ],
+      "seqno": 59
     },
     {
       "header_table_size": 4096,
@@ -2221,7 +2281,8 @@
         {
           "referer": "http://i.yimg.jp/images/topics/css/import_ver2.css?date=20121029"
         }
-      ]
+      ],
+      "seqno": 60
     },
     {
       "header_table_size": 4096,
@@ -2257,7 +2318,8 @@
         {
           "referer": "http://i.yimg.jp/images/topics/css/import_ver2.css?date=20121029"
         }
-      ]
+      ],
+      "seqno": 61
     },
     {
       "header_table_size": 4096,
@@ -2293,7 +2355,8 @@
         {
           "referer": "http://i.yimg.jp/images/topics/css/import_ver2.css?date=20121029"
         }
-      ]
+      ],
+      "seqno": 62
     },
     {
       "header_table_size": 4096,
@@ -2329,7 +2392,8 @@
         {
           "referer": "http://i.yimg.jp/images/topics/css/import_ver2.css?date=20121029"
         }
-      ]
+      ],
+      "seqno": 63
     },
     {
       "header_table_size": 4096,
@@ -2365,7 +2429,8 @@
         {
           "referer": "http://i.yimg.jp/images/topics/css/import_ver2.css?date=20121029"
         }
-      ]
+      ],
+      "seqno": 64
     },
     {
       "header_table_size": 4096,
@@ -2401,7 +2466,8 @@
         {
           "referer": "http://i.yimg.jp/images/topics/css/import_ver2.css?date=20121029"
         }
-      ]
+      ],
+      "seqno": 65
     },
     {
       "header_table_size": 4096,
@@ -2437,7 +2503,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 66
     },
     {
       "header_table_size": 4096,
@@ -2473,7 +2540,8 @@
         {
           "referer": "http://i.yimg.jp/images/topics/css/import_ver2.css?date=20121029"
         }
-      ]
+      ],
+      "seqno": 67
     },
     {
       "header_table_size": 4096,
@@ -2509,7 +2577,8 @@
         {
           "referer": "http://i.yimg.jp/images/topics/css/import_ver2.css?date=20121029"
         }
-      ]
+      ],
+      "seqno": 68
     },
     {
       "header_table_size": 4096,
@@ -2545,7 +2614,8 @@
         {
           "referer": "http://i.yimg.jp/images/topics/css/import_ver2.css?date=20121029"
         }
-      ]
+      ],
+      "seqno": 69
     },
     {
       "header_table_size": 4096,
@@ -2581,7 +2651,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 70
     },
     {
       "header_table_size": 4096,
@@ -2617,7 +2688,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 71
     },
     {
       "header_table_size": 4096,
@@ -2656,7 +2728,8 @@
         {
           "cookie": "pid=v3:1351947306477664316206054; k=10.35.101.123.1351947536129989; guest_id=v1%3A135194753658491573; __utma=43838368.2140315505.1351947542.1351947542.1351947542.1; __utmb=43838368.2.10.1351947542; __utmz=43838368.1351947542.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
         }
-      ]
+      ],
+      "seqno": 72
     },
     {
       "header_table_size": 4096,
@@ -2695,7 +2768,8 @@
         {
           "cookie": "pid=v3:1351947306477664316206054; k=10.35.101.123.1351947536129989; guest_id=v1%3A135194753658491573; __utma=43838368.2140315505.1351947542.1351947542.1351947542.1; __utmb=43838368.2.10.1351947542; __utmz=43838368.1351947542.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
         }
-      ]
+      ],
+      "seqno": 73
     },
     {
       "header_table_size": 4096,
@@ -2731,7 +2805,8 @@
         {
           "referer": "http://dailynews.yahoo.co.jp/fc/sports/nippon_series/?1351933494"
         }
-      ]
+      ],
+      "seqno": 74
     },
     {
       "header_table_size": 4096,
@@ -2770,7 +2845,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b; YJTOPICSFBREAD=d=juTus3MJdA6fAPKQn3MJyoWvkTaY6I2RngPiVKE3BMv8AFX.C4TMg0utwM_uXg_sKn7y2yDVFKE-&v=1"
         }
-      ]
+      ],
+      "seqno": 75
     },
     {
       "header_table_size": 4096,
@@ -2809,7 +2885,8 @@
         {
           "cookie": "pid=v3:1351947306477664316206054; k=10.35.101.123.1351947536129989; guest_id=v1%3A135194753658491573; __utma=43838368.2140315505.1351947542.1351947542.1351947542.1; __utmb=43838368.2.10.1351947542; __utmz=43838368.1351947542.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
         }
-      ]
+      ],
+      "seqno": 76
     },
     {
       "header_table_size": 4096,
@@ -2848,7 +2925,8 @@
         {
           "cookie": "pid=v3:1351947306477664316206054; k=10.35.101.123.1351947536129989; guest_id=v1%3A135194753658491573; __utma=43838368.2140315505.1351947542.1351947542.1351947542.1; __utmb=43838368.2.10.1351947542; __utmz=43838368.1351947542.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
         }
-      ]
+      ],
+      "seqno": 77
     },
     {
       "header_table_size": 4096,
@@ -2887,7 +2965,8 @@
         {
           "cookie": "pid=v3:1351947306477664316206054; k=10.35.101.123.1351947536129989; guest_id=v1%3A135194753658491573; __utma=43838368.2140315505.1351947542.1351947542.1351947542.1; __utmb=43838368.2.10.1351947542; __utmz=43838368.1351947542.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
         }
-      ]
+      ],
+      "seqno": 78
     },
     {
       "header_table_size": 4096,
@@ -2923,7 +3002,8 @@
         {
           "referer": "http://platform.twitter.com/widgets/tweet_button.1351848862.html"
         }
-      ]
+      ],
+      "seqno": 79
     },
     {
       "header_table_size": 4096,
@@ -2962,7 +3042,8 @@
         {
           "cookie": "pid=v3:1351947306477664316206054; k=10.35.101.123.1351947536129989; guest_id=v1%3A135194753658491573; __utma=43838368.2140315505.1351947542.1351947542.1351947542.1; __utmb=43838368.2.10.1351947542; __utmz=43838368.1351947542.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
         }
-      ]
+      ],
+      "seqno": 80
     },
     {
       "header_table_size": 4096,
@@ -3001,7 +3082,8 @@
         {
           "cookie": "pid=v3:1351947306477664316206054; k=10.35.101.123.1351947536129989; guest_id=v1%3A135194753658491573; __utma=43838368.2140315505.1351947542.1351947542.1351947542.1; __utmb=43838368.2.10.1351947542; __utmz=43838368.1351947542.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
         }
-      ]
+      ],
+      "seqno": 81
     },
     {
       "header_table_size": 4096,
@@ -3037,7 +3119,8 @@
         {
           "referer": "http://platform.twitter.com/widgets/follow_button.1351848862.html"
         }
-      ]
+      ],
+      "seqno": 82
     },
     {
       "header_table_size": 4096,
@@ -3076,7 +3159,8 @@
         {
           "content-type": "application/ocsp-request"
         }
-      ]
+      ],
+      "seqno": 83
     },
     {
       "header_table_size": 4096,
@@ -3112,7 +3196,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b; YJTOPICSFBREAD=d=juTus3MJdA6fAPKQn3MJyoWvkTaY6I2RngPiVKE3BMv8AFX.C4TMg0utwM_uXg_sKn7y2yDVFKE-&v=1"
         }
-      ]
+      ],
+      "seqno": 84
     },
     {
       "header_table_size": 4096,
@@ -3148,7 +3233,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 85
     },
     {
       "header_table_size": 4096,
@@ -3184,7 +3270,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 86
     },
     {
       "header_table_size": 4096,
@@ -3220,7 +3307,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 87
     },
     {
       "header_table_size": 4096,
@@ -3256,7 +3344,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 88
     },
     {
       "header_table_size": 4096,
@@ -3295,7 +3384,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b"
         }
-      ]
+      ],
+      "seqno": 89
     },
     {
       "header_table_size": 4096,
@@ -3331,7 +3421,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 90
     },
     {
       "header_table_size": 4096,
@@ -3367,7 +3458,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 91
     },
     {
       "header_table_size": 4096,
@@ -3403,7 +3495,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 92
     },
     {
       "header_table_size": 4096,
@@ -3439,7 +3532,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 93
     },
     {
       "header_table_size": 4096,
@@ -3475,7 +3569,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 94
     },
     {
       "header_table_size": 4096,
@@ -3511,7 +3606,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 95
     },
     {
       "header_table_size": 4096,
@@ -3547,7 +3643,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 96
     },
     {
       "header_table_size": 4096,
@@ -3583,7 +3680,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 97
     },
     {
       "header_table_size": 4096,
@@ -3619,7 +3717,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 98
     },
     {
       "header_table_size": 4096,
@@ -3655,7 +3754,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 99
     },
     {
       "header_table_size": 4096,
@@ -3691,7 +3791,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 100
     },
     {
       "header_table_size": 4096,
@@ -3727,7 +3828,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 101
     },
     {
       "header_table_size": 4096,
@@ -3766,7 +3868,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b"
         }
-      ]
+      ],
+      "seqno": 102
     },
     {
       "header_table_size": 4096,
@@ -3802,7 +3905,8 @@
         {
           "referer": "http://i.yimg.jp/images/news/v1/css/master-news.css?v11"
         }
-      ]
+      ],
+      "seqno": 103
     },
     {
       "header_table_size": 4096,
@@ -3838,7 +3942,8 @@
         {
           "referer": "http://i.yimg.jp/images/news/v1/css/master-news.css?v11"
         }
-      ]
+      ],
+      "seqno": 104
     },
     {
       "header_table_size": 4096,
@@ -3874,7 +3979,8 @@
         {
           "referer": "http://i.yimg.jp/images/news/v1/css/master-news.css?v11"
         }
-      ]
+      ],
+      "seqno": 105
     },
     {
       "header_table_size": 4096,
@@ -3910,7 +4016,8 @@
         {
           "referer": "http://i.yimg.jp/images/news/v1/css/master-news.css?v11"
         }
-      ]
+      ],
+      "seqno": 106
     },
     {
       "header_table_size": 4096,
@@ -3946,7 +4053,8 @@
         {
           "referer": "http://i.yimg.jp/images/news/v1/css/master-news.css?v11"
         }
-      ]
+      ],
+      "seqno": 107
     },
     {
       "header_table_size": 4096,
@@ -3982,7 +4090,8 @@
         {
           "referer": "http://i.yimg.jp/images/news/v1/css/master-news.css?v11"
         }
-      ]
+      ],
+      "seqno": 108
     },
     {
       "header_table_size": 4096,
@@ -4018,7 +4127,8 @@
         {
           "referer": "http://i.yimg.jp/images/news/v1/css/master-news.css?v11"
         }
-      ]
+      ],
+      "seqno": 109
     },
     {
       "header_table_size": 4096,
@@ -4054,7 +4164,8 @@
         {
           "referer": "http://i.yimg.jp/images/news/v1/css/master-news.css?v11"
         }
-      ]
+      ],
+      "seqno": 110
     },
     {
       "header_table_size": 4096,
@@ -4090,7 +4201,8 @@
         {
           "referer": "http://i.yimg.jp/images/news/v1/css/master-news.css?v11"
         }
-      ]
+      ],
+      "seqno": 111
     },
     {
       "header_table_size": 4096,
@@ -4126,7 +4238,8 @@
         {
           "referer": "http://i.yimg.jp/images/news/v1/css/master-news.css?v11"
         }
-      ]
+      ],
+      "seqno": 112
     },
     {
       "header_table_size": 4096,
@@ -4165,7 +4278,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b"
         }
-      ]
+      ],
+      "seqno": 113
     },
     {
       "header_table_size": 4096,
@@ -4201,7 +4315,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 114
     },
     {
       "header_table_size": 4096,
@@ -4237,7 +4352,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 115
     },
     {
       "header_table_size": 4096,
@@ -4273,7 +4389,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 116
     },
     {
       "header_table_size": 4096,
@@ -4309,7 +4426,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 117
     },
     {
       "header_table_size": 4096,
@@ -4348,7 +4466,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b"
         }
-      ]
+      ],
+      "seqno": 118
     },
     {
       "header_table_size": 4096,
@@ -4387,7 +4506,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b"
         }
-      ]
+      ],
+      "seqno": 119
     },
     {
       "header_table_size": 4096,
@@ -4423,7 +4543,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 120
     },
     {
       "header_table_size": 4096,
@@ -4459,7 +4580,8 @@
         {
           "referer": "http://i.yimg.jp/lib/news/widgets/tweet_button.html?_=1351949189638&count=none&id=twitter_tweet_button_2&lang=ja&original_referer=http%3A%2F%2Fheadlines.yahoo.co.jp%2Fhl%3Fa%3D20121103-00000542-sanspo-base&redirect=&text=%E5%B7%A8%E4%BA%BA%E3%81%8C%EF%BC%93%E5%B9%B4%E3%81%B6%E3%82%8A%E6%97%A5%E6%9C%AC%E4%B8%80%EF%BC%81%E5%BE%A9%E5%B8%B0%E3%81%AE%E9%98%BF%E9%83%A8%E3%81%8C%E6%B1%BA%E5%8B%9D%E6%89%93%EF%BC%88%E3%82%B5%E3%83%B3%E3%82%B1%E3%82%A4%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%EF%BC%89%20-%20Y!%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&url=http%3A%2F%2Fheadlines.yahoo.co.jp%2Fhl%3Fa%3D20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 121
     },
     {
       "header_table_size": 4096,
@@ -4495,7 +4617,8 @@
         {
           "referer": "http://i.yimg.jp/lib/news/widgets/tweet_button.html?_=1351949189638&count=none&id=twitter_tweet_button_2&lang=ja&original_referer=http%3A%2F%2Fheadlines.yahoo.co.jp%2Fhl%3Fa%3D20121103-00000542-sanspo-base&redirect=&text=%E5%B7%A8%E4%BA%BA%E3%81%8C%EF%BC%93%E5%B9%B4%E3%81%B6%E3%82%8A%E6%97%A5%E6%9C%AC%E4%B8%80%EF%BC%81%E5%BE%A9%E5%B8%B0%E3%81%AE%E9%98%BF%E9%83%A8%E3%81%8C%E6%B1%BA%E5%8B%9D%E6%89%93%EF%BC%88%E3%82%B5%E3%83%B3%E3%82%B1%E3%82%A4%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%EF%BC%89%20-%20Y!%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&url=http%3A%2F%2Fheadlines.yahoo.co.jp%2Fhl%3Fa%3D20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 122
     },
     {
       "header_table_size": 4096,
@@ -4531,7 +4654,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 123
     },
     {
       "header_table_size": 4096,
@@ -4567,7 +4691,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 124
     },
     {
       "header_table_size": 4096,
@@ -4603,7 +4728,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 125
     },
     {
       "header_table_size": 4096,
@@ -4639,7 +4765,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 126
     },
     {
       "header_table_size": 4096,
@@ -4675,7 +4802,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 127
     },
     {
       "header_table_size": 4096,
@@ -4711,7 +4839,8 @@
         {
           "referer": "http://i.yimg.jp/images/listing/tool/yjaxc/yjaxc-iframe.html?src0=http%3A%2F%2Fyjaxc.yahoo.co.jp%2Foi%3Fs%3Danemos_news01295%26i%3D2078709534%26w%3D%26apg%3D1%26t%3Dj%26u%3Dhttp%253A%252F%252Fheadlines.yahoo.co.jp%252Fhl%253Fa%253D20121103-00000542-sanspo-base%26ref%3Dhttp%253A%252F%252Fdailynews.yahoo.co.jp%252Ffc%252Fsports%252Fnippon_series%252F%253F1351933494%26enc%3DEUC-JP%26spaceId%3D%26jisx0402%3D%26type%3D%26crawlUrl%3D&src1=http%3A%2F%2Fyjaxc.yahoo.co.jp%2Fjs%2Fyjaxc-internal-banner.js%3Fimgurl%3Dhttp%253A%252F%252Fah.yimg.jp%252Fimages%252Fim%252Finnerad%252F%26imgpath%3Dbnr1_ss_1_300-250.jpg%26clickurl%3Dhttp%253A%252F%252Frd.yahoo.co.jp%252Fbzc%252Fsds%252F97648%252Fevt%253D97648%252F*http%253A%252F%252Flisting.yahoo.co.jp%252Fy_promo%252Flisting01%252F%253Fo%253DJP1350"
         }
-      ]
+      ],
+      "seqno": 128
     },
     {
       "header_table_size": 4096,
@@ -4750,7 +4879,8 @@
         {
           "cookie": "pid=v3:1351947306477664316206054; k=10.35.101.123.1351947536129989; guest_id=v1%3A135194753658491573; __utma=43838368.2140315505.1351947542.1351947542.1351947542.1; __utmb=43838368.2.10.1351947542; __utmz=43838368.1351947542.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
         }
-      ]
+      ],
+      "seqno": 129
     },
     {
       "header_table_size": 4096,
@@ -4786,7 +4916,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?a=20121103-00000542-sanspo-base"
         }
-      ]
+      ],
+      "seqno": 130
     },
     {
       "header_table_size": 4096,
@@ -4822,7 +4953,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b; YJNEWSCOMMENT=d=06yLIwT4EjfCUHM_ZATPTTC.be6FwFeXux__KeWeqlDK.dHwKDQYqgJFHj9.HJlNGmTwWgk.h4h.sU8V_TDfRcrHwDjLWrrsKoxSuxiWaUP8PvEUAbJUe9xIk79LoWKr6tlDjWRkyBVLbqWqtJB_axSkadUO&v=1; YJNEWSFB=d=g52f45b4EjeJqzak676NkVYuFf6EMD66FMZIfmpIG32ywhp.ZRx6EAf7vGDLjqk7eQGKmGgvFcgo&v=1"
         }
-      ]
+      ],
+      "seqno": 131
     },
     {
       "header_table_size": 4096,
@@ -4861,7 +4993,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b; YJNEWSCOMMENT=d=06yLIwT4EjfCUHM_ZATPTTC.be6FwFeXux__KeWeqlDK.dHwKDQYqgJFHj9.HJlNGmTwWgk.h4h.sU8V_TDfRcrHwDjLWrrsKoxSuxiWaUP8PvEUAbJUe9xIk79LoWKr6tlDjWRkyBVLbqWqtJB_axSkadUO&v=1; YJNEWSFB=d=g52f45b4EjeJqzak676NkVYuFf6EMD66FMZIfmpIG32ywhp.ZRx6EAf7vGDLjqk7eQGKmGgvFcgo&v=1"
         }
-      ]
+      ],
+      "seqno": 132
     },
     {
       "header_table_size": 4096,
@@ -4897,7 +5030,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=moto&t=l"
         }
-      ]
+      ],
+      "seqno": 133
     },
     {
       "header_table_size": 4096,
@@ -4933,7 +5067,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=moto&t=l"
         }
-      ]
+      ],
+      "seqno": 134
     },
     {
       "header_table_size": 4096,
@@ -4969,7 +5104,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=moto&t=l"
         }
-      ]
+      ],
+      "seqno": 135
     },
     {
       "header_table_size": 4096,
@@ -5005,7 +5141,8 @@
         {
           "referer": "http://i.yimg.jp/images/news/v1/css/master-news.css?v11"
         }
-      ]
+      ],
+      "seqno": 136
     },
     {
       "header_table_size": 4096,
@@ -5041,7 +5178,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=moto&t=l"
         }
-      ]
+      ],
+      "seqno": 137
     },
     {
       "header_table_size": 4096,
@@ -5077,7 +5215,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=moto&t=l"
         }
-      ]
+      ],
+      "seqno": 138
     },
     {
       "header_table_size": 4096,
@@ -5116,7 +5255,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b"
         }
-      ]
+      ],
+      "seqno": 139
     },
     {
       "header_table_size": 4096,
@@ -5152,7 +5292,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=moto&t=l"
         }
-      ]
+      ],
+      "seqno": 140
     },
     {
       "header_table_size": 4096,
@@ -5188,7 +5329,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=moto&t=l"
         }
-      ]
+      ],
+      "seqno": 141
     },
     {
       "header_table_size": 4096,
@@ -5224,7 +5366,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=moto&t=l"
         }
-      ]
+      ],
+      "seqno": 142
     },
     {
       "header_table_size": 4096,
@@ -5263,7 +5406,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b; YJNEWSCOMMENT=d=06yLIwT4EjfCUHM_ZATPTTC.be6FwFeXux__KeWeqlDK.dHwKDQYqgJFHj9.HJlNGmTwWgk.h4h.sU8V_TDfRcrHwDjLWrrsKoxSuxiWaUP8PvEUAbJUe9xIk79LoWKr6tlDjWRkyBVLbqWqtJB_axSkadUO&v=1; YJNEWSFB=d=g52f45b4EjeJqzak676NkVYuFf6EMD66FMZIfmpIG32ywhp.ZRx6EAf7vGDLjqk7eQGKmGgvFcgo&v=1"
         }
-      ]
+      ],
+      "seqno": 143
     },
     {
       "header_table_size": 4096,
@@ -5299,7 +5443,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=socc&t=l"
         }
-      ]
+      ],
+      "seqno": 144
     },
     {
       "header_table_size": 4096,
@@ -5335,7 +5480,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=socc&t=l"
         }
-      ]
+      ],
+      "seqno": 145
     },
     {
       "header_table_size": 4096,
@@ -5371,7 +5517,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=socc&t=l"
         }
-      ]
+      ],
+      "seqno": 146
     },
     {
       "header_table_size": 4096,
@@ -5410,7 +5557,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b"
         }
-      ]
+      ],
+      "seqno": 147
     },
     {
       "header_table_size": 4096,
@@ -5446,7 +5594,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=socc&t=l"
         }
-      ]
+      ],
+      "seqno": 148
     },
     {
       "header_table_size": 4096,
@@ -5482,7 +5631,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=socc&t=l"
         }
-      ]
+      ],
+      "seqno": 149
     },
     {
       "header_table_size": 4096,
@@ -5521,7 +5671,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b; YJNEWSCOMMENT=d=06yLIwT4EjfCUHM_ZATPTTC.be6FwFeXux__KeWeqlDK.dHwKDQYqgJFHj9.HJlNGmTwWgk.h4h.sU8V_TDfRcrHwDjLWrrsKoxSuxiWaUP8PvEUAbJUe9xIk79LoWKr6tlDjWRkyBVLbqWqtJB_axSkadUO&v=1; YJNEWSFB=d=g52f45b4EjeJqzak676NkVYuFf6EMD66FMZIfmpIG32ywhp.ZRx6EAf7vGDLjqk7eQGKmGgvFcgo&v=1"
         }
-      ]
+      ],
+      "seqno": 150
     },
     {
       "header_table_size": 4096,
@@ -5557,7 +5708,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=base&t=l"
         }
-      ]
+      ],
+      "seqno": 151
     },
     {
       "header_table_size": 4096,
@@ -5593,7 +5745,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=base&t=l"
         }
-      ]
+      ],
+      "seqno": 152
     },
     {
       "header_table_size": 4096,
@@ -5632,7 +5785,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b"
         }
-      ]
+      ],
+      "seqno": 153
     },
     {
       "header_table_size": 4096,
@@ -5668,7 +5822,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=base&t=l"
         }
-      ]
+      ],
+      "seqno": 154
     },
     {
       "header_table_size": 4096,
@@ -5704,7 +5859,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=base&t=l"
         }
-      ]
+      ],
+      "seqno": 155
     },
     {
       "header_table_size": 4096,
@@ -5740,7 +5896,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=base&t=l"
         }
-      ]
+      ],
+      "seqno": 156
     },
     {
       "header_table_size": 4096,
@@ -5779,7 +5936,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b; YJNEWSCOMMENT=d=06yLIwT4EjfCUHM_ZATPTTC.be6FwFeXux__KeWeqlDK.dHwKDQYqgJFHj9.HJlNGmTwWgk.h4h.sU8V_TDfRcrHwDjLWrrsKoxSuxiWaUP8PvEUAbJUe9xIk79LoWKr6tlDjWRkyBVLbqWqtJB_axSkadUO&v=1; YJNEWSFB=d=g52f45b4EjeJqzak676NkVYuFf6EMD66FMZIfmpIG32ywhp.ZRx6EAf7vGDLjqk7eQGKmGgvFcgo&v=1"
         }
-      ]
+      ],
+      "seqno": 157
     },
     {
       "header_table_size": 4096,
@@ -5815,7 +5973,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=spo&t=l"
         }
-      ]
+      ],
+      "seqno": 158
     },
     {
       "header_table_size": 4096,
@@ -5851,7 +6010,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=spo&t=l"
         }
-      ]
+      ],
+      "seqno": 159
     },
     {
       "header_table_size": 4096,
@@ -5890,7 +6050,8 @@
         {
           "cookie": "B=76j09a189a6h4&b=3&s=0b"
         }
-      ]
+      ],
+      "seqno": 160
     },
     {
       "header_table_size": 4096,
@@ -5926,7 +6087,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=spo&t=l"
         }
-      ]
+      ],
+      "seqno": 161
     },
     {
       "header_table_size": 4096,
@@ -5962,7 +6124,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=spo&t=l"
         }
-      ]
+      ],
+      "seqno": 162
     },
     {
       "header_table_size": 4096,
@@ -5998,7 +6161,8 @@
         {
           "referer": "http://headlines.yahoo.co.jp/hl?c=spo&t=l"
         }
-      ]
+      ],
+      "seqno": 163
     }
   ]
 }

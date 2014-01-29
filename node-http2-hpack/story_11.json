@@ -34,7 +34,8 @@
         {
           "connection": "keep-alive"
         }
-      ]
+      ],
+      "seqno": 0
     },
     {
       "header_table_size": 4096,
@@ -73,7 +74,8 @@
         {
           "cookie": "PRbu=EzZdduhgq; PRgo=BBBAAFMnA; PRti4CD975E46CAEA=B"
         }
-      ]
+      ],
+      "seqno": 1
     },
     {
       "header_table_size": 4096,
@@ -112,7 +114,8 @@
         {
           "cookie": "PRbu=EzZdduhgq; PRgo=BBBAAFMnA; PRti4CD975E46CAEA=B"
         }
-      ]
+      ],
+      "seqno": 2
     },
     {
       "header_table_size": 4096,
@@ -151,7 +154,8 @@
         {
           "cookie": "RMID=007f010022166047bee9002b; adxcs=-"
         }
-      ]
+      ],
+      "seqno": 3
     },
     {
       "header_table_size": 4096,
@@ -190,7 +194,8 @@
         {
           "cookie": "RMID=007f010022166047bee9002b; adxcs=-"
         }
-      ]
+      ],
+      "seqno": 4
     },
     {
       "header_table_size": 4096,
@@ -229,7 +234,8 @@
         {
           "cookie": "RMID=007f010022166047bee9002b; adxcs=-"
         }
-      ]
+      ],
+      "seqno": 5
     },
     {
       "header_table_size": 4096,
@@ -268,7 +274,8 @@
         {
           "cookie": "RMID=007f010022166047bee9002b; adxcs=-"
         }
-      ]
+      ],
+      "seqno": 6
     },
     {
       "header_table_size": 4096,
@@ -307,7 +314,8 @@
         {
           "cookie": "RMID=007f010022166047bee9002b; adxcs=-"
         }
-      ]
+      ],
+      "seqno": 7
     },
     {
       "header_table_size": 4096,
@@ -346,7 +354,8 @@
         {
           "cookie": "RMID=007f010022166047bee9002b; adxcs=-"
         }
-      ]
+      ],
+      "seqno": 8
     },
     {
       "header_table_size": 4096,
@@ -385,7 +394,8 @@
         {
           "cookie": "RMID=007f010022166047bee9002b; adxcs=-"
         }
-      ]
+      ],
+      "seqno": 9
     }
   ]
 }

@@ -37,7 +37,8 @@
         {
           "referer": "http://www.facebook.com/"
         }
-      ]
+      ],
+      "seqno": 0
     },
     {
       "header_table_size": 4096,
@@ -73,7 +74,8 @@
         {
           "referer": "http://www.facebook.com/"
         }
-      ]
+      ],
+      "seqno": 1
     },
     {
       "header_table_size": 4096,
@@ -109,7 +111,8 @@
         {
           "referer": "http://www.facebook.com/"
         }
-      ]
+      ],
+      "seqno": 2
     },
     {
       "header_table_size": 4096,
@@ -145,7 +148,8 @@
         {
           "referer": "http://www.facebook.com/"
         }
-      ]
+      ],
+      "seqno": 3
     },
     {
       "header_table_size": 4096,
@@ -181,7 +185,8 @@
         {
           "referer": "http://www.facebook.com/"
         }
-      ]
+      ],
+      "seqno": 4
     },
     {
       "header_table_size": 4096,
@@ -217,7 +222,8 @@
         {
           "referer": "http://www.facebook.com/"
         }
-      ]
+      ],
+      "seqno": 5
     },
     {
       "header_table_size": 4096,
@@ -253,7 +259,8 @@
         {
           "referer": "http://www.facebook.com/"
         }
-      ]
+      ],
+      "seqno": 6
     },
     {
       "header_table_size": 4096,
@@ -289,7 +296,8 @@
         {
           "referer": "http://static.ak.fbcdn.net/rsrc.php/v2/yI/r/qANVTsC52fp.css"
         }
-      ]
+      ],
+      "seqno": 7
     },
     {
       "header_table_size": 4096,
@@ -325,7 +333,8 @@
         {
           "referer": "http://www.facebook.com/"
         }
-      ]
+      ],
+      "seqno": 8
     },
     {
       "header_table_size": 4096,
@@ -361,7 +370,8 @@
         {
           "referer": "http://static.ak.fbcdn.net/rsrc.php/v2/yO/r/_MRarphcCIq.css"
         }
-      ]
+      ],
+      "seqno": 9
     }
   ]
 }

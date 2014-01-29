@@ -37,7 +37,8 @@
         {
           "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A"
         }
-      ]
+      ],
+      "seqno": 0
     },
     {
       "header_table_size": 4096,
@@ -73,7 +74,8 @@
         {
           "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A"
         }
-      ]
+      ],
+      "seqno": 1
     },
     {
       "header_table_size": 4096,
@@ -112,7 +114,8 @@
         {
           "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A"
         }
-      ]
+      ],
+      "seqno": 2
     },
     {
       "header_table_size": 4096,
@@ -151,7 +154,8 @@
         {
           "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A"
         }
-      ]
+      ],
+      "seqno": 3
     },
     {
       "header_table_size": 4096,
@@ -190,7 +194,8 @@
         {
           "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A"
         }
-      ]
+      ],
+      "seqno": 4
     },
     {
       "header_table_size": 4096,
@@ -226,7 +231,8 @@
         {
           "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A"
         }
-      ]
+      ],
+      "seqno": 5
     },
     {
       "header_table_size": 4096,
@@ -265,7 +271,8 @@
         {
           "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A"
         }
-      ]
+      ],
+      "seqno": 6
     },
     {
       "header_table_size": 4096,
@@ -304,7 +311,8 @@
         {
           "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A; cl_def_lang=en; cl_def_hp=shoals"
         }
-      ]
+      ],
+      "seqno": 7
     },
     {
       "header_table_size": 4096,
@@ -343,7 +351,8 @@
         {
           "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A; cl_def_lang=en; cl_def_hp=shoals"
         }
-      ]
+      ],
+      "seqno": 8
     },
     {
       "header_table_size": 4096,
@@ -382,7 +391,8 @@
         {
           "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A; cl_def_lang=en; cl_def_hp=shoals"
         }
-      ]
+      ],
+      "seqno": 9
     }
   ]
 }

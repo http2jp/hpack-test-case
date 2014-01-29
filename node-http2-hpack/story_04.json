@@ -34,7 +34,8 @@
         {
           "connection": "keep-alive"
         }
-      ]
+      ],
+      "seqno": 0
     },
     {
       "header_table_size": 4096,
@@ -67,7 +68,8 @@
         {
           "connection": "keep-alive"
         }
-      ]
+      ],
+      "seqno": 1
     },
     {
       "header_table_size": 4096,
@@ -100,7 +102,8 @@
         {
           "connection": "keep-alive"
         }
-      ]
+      ],
+      "seqno": 2
     },
     {
       "header_table_size": 4096,
@@ -139,7 +142,8 @@
         {
           "cookie": "BAIDUID=B6136AC10EBE0A8FCD216EB64C4C1A5C:FG=1"
         }
-      ]
+      ],
+      "seqno": 3
     },
     {
       "header_table_size": 4096,
@@ -178,7 +182,8 @@
         {
           "cookie": "BAIDUID=B6136AC10EBE0A8FCD216EB64C4C1A5C:FG=1"
         }
-      ]
+      ],
+      "seqno": 4
     },
     {
       "header_table_size": 4096,
@@ -214,7 +219,8 @@
         {
           "referer": "http://www.baidu.com/"
         }
-      ]
+      ],
+      "seqno": 5
     },
     {
       "header_table_size": 4096,
@@ -250,7 +256,8 @@
         {
           "referer": "http://www.baidu.com/"
         }
-      ]
+      ],
+      "seqno": 6
     },
     {
       "header_table_size": 4096,
@@ -286,7 +293,8 @@
         {
           "referer": "http://www.baidu.com/"
         }
-      ]
+      ],
+      "seqno": 7
     },
     {
       "header_table_size": 4096,
@@ -322,7 +330,8 @@
         {
           "referer": "http://www.baidu.com/"
         }
-      ]
+      ],
+      "seqno": 8
     },
     {
       "header_table_size": 4096,
@@ -358,7 +367,8 @@
         {
           "cookie": "BAIDUID=B6136AC10EBE0A8FCD216EB64C4C1A5C:FG=1"
         }
-      ]
+      ],
+      "seqno": 9
     }
   ]
 }
