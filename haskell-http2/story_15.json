@@ -32,6 +32,7 @@
                 }
             ],
             "wire": "8082870088f62358e6d7aa3e9f878a1b7a1a44b74f870087d602f95190b23fbeef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a9217008442522e8faf88f9c4338e8be9439cb5251153581e79c745ffcf3d17d287396a4a22a6b03cf45f5795a5259d3fd07f5d5e569495ff008a42522e8cab4332d5190f8b164bf8f0e91675795a5251008a42522e8ca2c4b705332f8acbd54ee9e8c0715a223f00874b58c14c54d67f87e422e950b5731f",
+            "seqno": 0,
             "header_table_size": 4096
         },
         {
@@ -65,6 +66,7 @@
                 }
             ],
             "wire": "808988078adb6d891436f434896e9f878685848382",
+            "seqno": 1,
             "header_table_size": 4096
         },
         {
@@ -98,6 +100,7 @@
                 }
             ],
             "wire": "808a8981078c053301f3bb25b6f42c8ecddf8786858483",
+            "seqno": 2,
             "header_table_size": 4096
         },
         {
@@ -134,6 +137,7 @@
                 }
             ],
             "wire": "808b8a028741237a706112cf029107062e0394c640221018c020e4244992b189089a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f888786008578e22f17ff9ace3177b0036db62450dbd0d225ba029980f9dd92db7a164766ef",
+            "seqno": 3,
             "header_table_size": 4096
         },
         {
@@ -170,6 +174,7 @@
                 }
             ],
             "wire": "808f8e8403810f8c038e88f9c4130874ff41fd75795a521b8b8a8983",
+            "seqno": 4,
             "header_table_size": 4096
         },
         {
@@ -206,6 +211,7 @@
                 }
             ],
             "wire": "80919086028907062e0394c6cf907f8e828c8b8a84",
+            "seqno": 5,
             "header_table_size": 4096
         },
         {
@@ -242,6 +248,7 @@
                 }
             ],
             "wire": "8092918701810f8f0383fe83fa8e8d8c86",
+            "seqno": 6,
             "header_table_size": 4096
         },
         {
@@ -278,6 +285,7 @@
                 }
             ],
             "wire": "80949389029807062e0394c548718062e97053c53195cf6e8d9745309c6191828f8e8d87",
+            "seqno": 7,
             "header_table_size": 4096
         },
         {
@@ -314,6 +322,7 @@
                 }
             ],
             "wire": "8095940a8d569914c48a1b7a1a9c1844b74f029c08ba00a30789b1f2fe1ff6a5e3fbfda3387e724ca6294b2ce527176593049a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f9291908a",
+            "seqno": 8,
             "header_table_size": 4096
         },
         {
@@ -350,6 +359,7 @@
                 }
             ],
             "wire": "80989783029e08ba00a307899ffe2b6fde51c7f7fbfdfeff7fbfdfee5318b29a6a08e66595829392918b",
+            "seqno": 9,
             "header_table_size": 4096
         }
     ],
