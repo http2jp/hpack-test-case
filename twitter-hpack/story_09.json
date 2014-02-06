@@ -2,6 +2,7 @@
   "draft": 5,
   "cases": [
     {
+      "seqno": 0,
       "headers": [
         {
           ":method": "GET"
@@ -35,6 +36,7 @@
       "wire": "828703885a99c870530896e9873dbeef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a921717af88f9c4338e8be9439cb5251153581e79c745ffcf3d17d287396a4a22a6b03cf45f5795a5259d3fd07f5d5e569495ff168b164bf8f0e91675795a5251168acbd54ee9e8c0715a223f00874b58c14c54d67f87e422e950b5731f"
     },
     {
+      "seqno": 1,
       "headers": [
         {
           ":method": "GET"
@@ -68,6 +70,7 @@
       "wire": "078bdb6d88b53390e0a6112dd388"
     },
     {
+      "seqno": 2,
       "headers": [
         {
           ":method": "GET"
@@ -104,6 +107,7 @@
       "wire": "018c811245b396045a93830896e9088e082708025ac4a22096e9a3581c6107032a2f2a3f0090ce3177b0036db622d4ce43829844b74085898b"
     },
     {
+      "seqno": 3,
       "headers": [
         {
           ":method": "GET"
@@ -140,6 +144,7 @@
       "wire": "038f082708025ac4a22096e9a35809843f038e88f9c4130874ff41fd75795a521b8485"
     },
     {
+      "seqno": 4,
       "headers": [
         {
           ":method": "GET"
@@ -176,6 +181,7 @@
       "wire": "85848182"
     },
     {
+      "seqno": 5,
       "headers": [
         {
           ":method": "GET"
@@ -212,6 +218,7 @@
       "wire": "82818485"
     },
     {
+      "seqno": 6,
       "headers": [
         {
           ":method": "GET"
@@ -248,6 +255,7 @@
       "wire": ""
     },
     {
+      "seqno": 7,
       "headers": [
         {
           ":method": "GET"
@@ -284,6 +292,7 @@
       "wire": "85848182"
     },
     {
+      "seqno": 8,
       "headers": [
         {
           ":method": "GET"
@@ -326,6 +335,7 @@
       "wire": "87029004310bf48a93006351ac738bd09e42ff8c008cf395e3e5a8c22384bb2a39ff8cfdf7fcbdf18bbee3e5a8c23f31ff4dbd2d6f250dbffd73b4fbaf40d73d08a25ae61c259e8b0b2de29c65c4b8cd8515d33cc7bfffaeae858b6e46b1cee8b790b2dffebdde1e3ecfc76dffae1c1df2f9609f0a72f7fc6af9fc5137eff9f7826afd5d976edac6ffd317faf962dabdd71ff93f1c7e5ef97dfec34d41ac9eb9cd67b27be8497134c5b26315165f4d165f65585765251a67c70c299a8a0f4dfffd75747c7c3bbc3c3e1f4f9fc3b6dffe91c51e7ec2d25ae998a7a693507b2c3d47b3ffaeae8e6a82a36fff5ced36ef77ff5d5d1fb97e5f097e1dbd96f61b878889"
     },
     {
+      "seqno": 9,
       "headers": [
         {
           ":method": "GET"
