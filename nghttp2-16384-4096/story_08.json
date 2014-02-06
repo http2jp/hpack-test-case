@@ -4,6 +4,7 @@
   "description": "Encoded by nghttp2. The basic encoding strategy is described in http://lists.w3.org/Archives/Public/ietf-http-wg/2013JulSep/1135.html We use huffman encoding only if it produces strictly shorter byte string than original. We make some headers not indexing at all, but this does not always result in less bits on the wire.", 
   "cases": [
     {
+      "seqno": 0,
       "wire": "82870387c56a4f27912dd3873dbeef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a921717af88f9c4338e8be9439cb5251153581e79c745ffcf3d17d287396a4a22a6b03cf45f5795a5259d3fd07f5d5e569495ff168b164bf8f0e91675795a5251168acbd54ee9e8c0715a223f00874b58c14c54d67f87e422e950b5731f", 
       "header_table_size": 16384, 
       "headers": [
@@ -37,6 +38,7 @@
       ]
     }, 
     {
+      "seqno": 1,
       "wire": "078adb6d898ad49e4f225ba729a9ebfdda9b2c7d3c5d5d88a98ddd7db36e85be53f5742da942d5ea88a9acb4592eb0926ebd6124dd7ac389", 
       "header_table_size": 16384, 
       "headers": [
@@ -73,6 +75,7 @@
       ]
     }, 
     {
+      "seqno": 2,
       "wire": "028ed604461017f31793d119b5a44b7449022f6107032a2f2a3f008fce3177b0036db6262b52793c896e8104edebb67d0eff2d68aec4505ab75f6cdba169b9f57472bb9aa0a8da6eae8eff0ecb6369a6a0d64f54c62fefaba3b3df6efcbafecbfbfdb2dfdbb76fc37efbfb7c37eff73fe196fed76bf0dfbdaf56fdff2effb65bf7c0bf0dfbeaececdfbfe25efcb7f5b66eae8d530b6f6221697f85868a8c", 
       "header_table_size": 16384, 
       "headers": [
@@ -112,6 +115,7 @@
       ]
     }, 
     {
+      "seqno": 3,
       "wire": "864c9905688c86010cd0f19639aa12a92d6425839ea8891ccc89ce9f039a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f86828485", 
       "header_table_size": 16384, 
       "headers": [
@@ -151,6 +155,7 @@
       ]
     }, 
     {
+      "seqno": 4,
       "wire": "4d9305688c86018ad49e4f960e7aa22473322739ff", 
       "header_table_size": 16384, 
       "headers": [
@@ -190,6 +195,7 @@
       ]
     }, 
     {
+      "seqno": 5,
       "wire": "4d8b0c568621770f316449930702c1ebfdda9b2c7d3c5d5d88a98ddd7db36e85be53f5742da942d5ea88a9acb4592eb0926ebd6124dd7ac3aba3d36460e314a535149a6b2ba6ab2d3594535d545139bf87", 
       "header_table_size": 16384, 
       "headers": [
@@ -229,6 +235,7 @@
       ]
     }, 
     {
+      "seqno": 6,
       "wire": "068ff4221885fa4549813d119b5a44b74f4f850c5c92397f8684828389", 
       "header_table_size": 16384, 
       "headers": [
@@ -268,6 +275,7 @@
       ]
     }, 
     {
+      "seqno": 7,
       "wire": "0188c09e8ad32225ba7f5097048841bab820dd5d7642c17a22385d8bd19682c893260f8285", 
       "header_table_size": 16384, 
       "headers": [
@@ -304,6 +312,7 @@
       ]
     }, 
     {
+      "seqno": 8,
       "wire": "0189c85a4f4466d6912dd351022f6285868288", 
       "header_table_size": 16384, 
       "headers": [
@@ -343,6 +352,7 @@
       ]
     }, 
     {
+      "seqno": 9,
       "wire": "8b51950766d8b600c441096e9a359009ec9cb61a69a7387f8f04ff9b01ebfdda9b2c7d3c5d5d88a98ddd7db36e85be53f5742da942d5ea88a9acb4592eb0926ebd6124dd7ac3aba3d36460e314a535149a6b2ba6ab2d3594535d545139baba315ddced8375cddd5d18b926294a6a2934d6574d565bf6e7cccae5fabbfea3f1e48f55fa77a11ff7180c0c5294d45269acae9aacb7fea3f1e48f55fa77a11ff7edcf9995cbf577fdc79aa06294a6a2934d6574d565bfe713370f7fdf6f8f8fcfafe3e3f1f77c7c7e3eec26c26f969fe411faf9bd2aa38de72afbf97f34c3b4be7dfebf8f3fa78fe36efed49be3a7c2cf8f8fc7dc8fd51cbfcfde78a4f6193d9432fd3f16ffdafbcd5d46fe7f3de5ffb5f79aba8dfcfe7bcbff6bef35751bf9fcf797fed7ff6bef35751bf9fcf797fed7de6aea37f3f9ef2f828687", 
       "header_table_size": 16384, 
       "headers": [
