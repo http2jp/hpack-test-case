@@ -2,6 +2,7 @@
   "context": "request", 
   "cases": [
     {
+      "seqno": 0,
       "header_table_size": 4096, 
       "wire": "82870387bd0ac35225ba7f873dbeef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a921717af88f9c4338e8be9439cb5251153581e79c745ffcf3d17d287396a4a22a6b03cf45f5795a5259d3fd07f5d5e569495ff168b164bf8f0e91675795a5251168acbd54ee9e8c0715a223f00874b58c14c54d67f87e422e950b5731f", 
       "headers": [
@@ -35,6 +36,7 @@
       ]
     }, 
     {
+      "seqno": 1,
       "header_table_size": 4096, 
       "wire": "46880c51cd496b08a4b786", 
       "headers": [
@@ -68,6 +70,7 @@
       ]
     }, 
     {
+      "seqno": 2,
       "header_table_size": 4096, 
       "wire": "0789db6d897a1586a44b748788", 
       "headers": [
@@ -101,6 +104,7 @@
       ]
     }, 
     {
+      "seqno": 3,
       "header_table_size": 4096, 
       "wire": "478f0569905e8561add0f45b72698992b1059a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f3d8fce3177b0036db625e8561a912dd03f2ba8ebdff0edfc7c3b6deba4d353bfb0c5eeebee2efaf876769cd4f775d33f64fd86df4767b387bad37f888a", 
       "headers": [
@@ -140,6 +144,7 @@
       ]
     }, 
     {
+      "seqno": 4,
       "header_table_size": 4096, 
       "wire": "4a9004a1398864b6de8582b4c8328132563f", 
       "headers": [
@@ -179,6 +184,7 @@
       ]
     }, 
     {
+      "seqno": 5,
       "header_table_size": 4096, 
       "wire": "048a81897e108a22a4912dd34b9c0786db6c09427310c96dbd0b0e3008a1993d1a4a624c49d262149c6104032a2f2a838586", 
       "headers": [
@@ -215,6 +221,7 @@
       ]
     }, 
     {
+      "seqno": 6,
       "header_table_size": 4096, 
       "wire": "4c960786db6c09427310c96dbd0b0e300cdba0ca62564e30", 
       "headers": [
@@ -251,6 +258,7 @@
       ]
     }, 
     {
+      "seqno": 7,
       "header_table_size": 4096, 
       "wire": "4c940786db6c09427310d602f0e300d65312624e4e30", 
       "headers": [
@@ -287,6 +295,7 @@
       ]
     }, 
     {
+      "seqno": 8,
       "header_table_size": 4096, 
       "wire": "4c8f0786db6c0ad32054a621485239997f8581", 
       "headers": [
@@ -323,6 +332,7 @@
       ]
     }, 
     {
+      "seqno": 9,
       "header_table_size": 4096, 
       "wire": "864c880c51cd496b08a4b78a83828485", 
       "headers": [
