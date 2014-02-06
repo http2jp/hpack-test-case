@@ -2,6 +2,7 @@
   "draft": 5,
   "cases": [
     {
+      "seqno": 0,
       "headers": [
         {
           ":scheme": "https"
@@ -29,6 +30,7 @@
       "wire": "8702881f3468e58912dd3f86853d87cdc84f2962308f240878787878787878310085f397315adb84d9af5e1f"
     },
     {
+      "seqno": 1,
       "headers": [
         {
           ":scheme": "https"
