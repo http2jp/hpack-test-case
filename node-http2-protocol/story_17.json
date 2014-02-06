@@ -2,6 +2,7 @@
   "context": "request",
   "cases": [
     {
+      "seqno": 0,
       "headers": [
         {
           ":method": "GET"
@@ -38,6 +39,7 @@
       "wire": "82870388f4466d6912d27177873dbeef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a921717af88f9c4338e8be9439cb5251153581e79c745ffcf3d17d287396a4a22a6b03cf45f5795a5259d3fd07f5d5e569495ff168b164bf8f0e91675795a5251168acbd54ee9e8c0715a223f00874b58c14c54d67f87e422e950b5731f2892ebb6aa7896c41abb114e73eebed9b742d2df"
     },
     {
+      "seqno": 1,
       "headers": [
         {
           ":method": "GET"
@@ -74,6 +76,7 @@
       "wire": "088bdb6d89e88cdad225a4e2ef89"
     },
     {
+      "seqno": 2,
       "headers": [
         {
           ":method": "GET"
@@ -110,6 +113,7 @@
       "wire": "0187e44f45699138bb099705688c860116b820e38256f030256f94c7314f4113087f088e88f9c4130874ff41fd75795a521b3f0190ce3177b0036db627a2336b4896938b8385868a8c"
     },
     {
+      "seqno": 3,
       "headers": [
         {
           ":method": "GET"
@@ -146,6 +150,7 @@
       "wire": "038f05688c860116b820e05b726932563f039a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f8485"
     },
     {
+      "seqno": 4,
       "headers": [
         {
           ":method": "GET"
@@ -182,6 +187,7 @@
       "wire": "02aa05688c86017b5bca116bc412dd346b020e14a90b0394c702d67b2e2d017a18c178573f9d73dc6271765f83"
     },
     {
+      "seqno": 5,
       "headers": [
         {
           ":method": "GET"
@@ -221,6 +227,7 @@
       "wire": "078df4e28f3493d119b5a44b49c5df028206ab04032a2f2a8c84858a"
     },
     {
+      "seqno": 6,
       "headers": [
         {
           ":method": "GET"
@@ -257,6 +264,7 @@
       "wire": "8a029e05688c8601b0a2398bc32160bd0b08bd0c8390f1646e80256dd708132563868283848d"
     },
     {
+      "seqno": 7,
       "headers": [
         {
           ":method": "GET"
@@ -293,6 +301,7 @@
       "wire": "019c05688c8601b0a2398bc32160bd0b08bd0c8390f1646e80435613256382"
     },
     {
+      "seqno": 8,
       "headers": [
         {
           ":method": "GET"
@@ -329,6 +338,7 @@
       "wire": "01aa05688c86017b5bca116bc412dd346b020e14a90b0394c702d67b2e2d017a18c178573f9d73dc7271765f82"
     },
     {
+      "seqno": 9,
       "headers": [
         {
           ":method": "GET"
@@ -368,3 +378,4 @@
   "draft": 5,
   "description": "Encoded by node-http2-protocol. Encoder wrapper script: https://gist.github.com/molnarg/8375095"
 }
+
