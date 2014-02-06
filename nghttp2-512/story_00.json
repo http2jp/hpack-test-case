@@ -1,6 +1,7 @@
 {
   "cases": [
     {
+      "seqno": 0,
       "headers": [
         {
           ":method": "GET"
@@ -19,6 +20,7 @@
       "wire": "82870388f4466d6912d2717787"
     }, 
     {
+      "seqno": 1,
       "headers": [
         {
           ":method": "GET"
@@ -37,6 +39,7 @@
       "wire": "028bdb6d89e88cdad225a4e2ef83"
     }, 
     {
+      "seqno": 2,
       "headers": [
         {
           ":method": "GET"

@@ -1,6 +1,7 @@
 {
   "cases": [
     {
+      "seqno": 0,
       "headers": [
         {
           ":method": "GET"
@@ -34,6 +35,7 @@
       "wire": "8287038782988225ba112c873dbeef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a921717af88f9c4338e8be9439cb5251153581e79c745ffcf3d17d287396a4a22a6b03cf45f5795a5259d3fd07f5d5e569495ff168b164bf8f0e91675795a5251168acbd54ee9e8c0715a223f00874b58c14c54d67f87e422e950b5731f"
     }, 
     {
+      "seqno": 1,
       "headers": [
         {
           ":method": "GET"
@@ -67,6 +69,7 @@
       "wire": "898d088adb6d890531044b7422598b3f02beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a92171aaf88f9c4338e8be9439cb5251153581e79c745ffcf3d17d287396a4a22a6b03cf45f5795a5259d3fd07f5d5e569495ff178b164bf8f0e91675795a5251168acbd54ee9e8c0715a223f00874b58c14c54d67f87e422e950b5731f"
     }, 
     {
+      "seqno": 2,
       "headers": [
         {
           ":method": "GET"
@@ -103,6 +106,7 @@
       "wire": "898d088b60ed02414c4112dd08967f4b960e300aea0394c7314f381ca639abec6b31f16b89c61f3f01beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a921719032a2f2a88883a90ce3177b0036db62414c4112dd089607f"
     }, 
     {
+      "seqno": 3,
       "headers": [
         {
           ":method": "GET"
@@ -139,6 +143,7 @@
       "wire": "048e53224c1cd6ac90531044b742259f4c8f05396d6f2d5c0a72dade5ab88ecddf188b164bf8f0e91675795a52518888178acbd54ee9e8c0715a223f888800874b58c14c54d67f87e422e950b5731f"
     }, 
     {
+      "seqno": 4,
       "headers": [
         {
           ":method": "GET"
@@ -175,6 +180,7 @@
       "wire": "898e068954c4829885699112cf4da00e6ac05a07298e0631660fc555968fa9a9abb7c4e531cc62cc731aba262717653f03beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a92171a9a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f88883a90ce3177b0036db62414c4112dd089607f"
     }, 
     {
+      "seqno": 5,
       "headers": [
         {
           ":method": "GET"
@@ -211,6 +217,7 @@
       "wire": "4c9e0cdba081ca63818c5387e292ce6facc5edf1394c7318a731ce69e9271765188b164bf8f0e91675795a52518787178acbd54ee9e8c0715a223f878700874b58c14c54d67f87e422e950b5731f"
     }, 
     {
+      "seqno": 6,
       "headers": [
         {
           ":method": "GET"
@@ -247,6 +254,7 @@
       "wire": "898d088954c4829885699112cf4c960cdba086029681ca5b00b34c505b726dd9b741264ac73f02beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a92171a9a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f88883a90ce3177b0036db62414c4112dd089607f"
     }, 
     {
+      "seqno": 7,
       "headers": [
         {
           ":method": "GET"
@@ -283,6 +291,7 @@
       "wire": "0489c0c482988225ba112c4c960867982c539a1807298e629a98298805b726989c5d978787188b164bf8f0e91675795a52518787168acbd54ee9e8c0715a223f00874b58c14c54d67f87e422e950b5731f"
     }, 
     {
+      "seqno": 8,
       "headers": [
         {
           ":method": "GET"
@@ -319,6 +328,7 @@
       "wire": "898d0689514905310ad322259f4d9f0cdba081ca63818c5983f15d141beb317b7c4e531cc62cc5a66aa69c9c5d973f03beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a92171a9a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f88883a90ce3177b0036db62414c4112dd089607f"
     }, 
     {
+      "seqno": 9,
       "headers": [
         {
           ":method": "GET"
