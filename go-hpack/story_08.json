@@ -1,5 +1,5 @@
 {
-  "draft": 5,
+  "draft": 6,
   "context": "request",
   "description": "https://github.com/jxck/hpack implemeted in Golang. Encoded using String Literal with Huffman, no Header/Static Table, and always start with emptied Reference Set. by Jxck.",
   "cases": [
