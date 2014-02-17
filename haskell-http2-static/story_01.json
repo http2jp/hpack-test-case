@@ -1,0 +1,60 @@
+{
+    "context": "request",
+    "cases": [
+        {
+            "headers": [
+                {
+                    ":scheme": "https"
+                },
+                {
+                    ":authority": "example.com"
+                },
+                {
+                    ":path": "/"
+                },
+                {
+                    ":method": "GET"
+                },
+                {
+                    "user-agent": "hpack-test"
+                },
+                {
+                    "cookie": "xxxxxxx1"
+                },
+                {
+                    "x-hello": "world"
+                }
+            ],
+            "wire": "8047056874747073410b6578616d706c652e636f6d44012f4203474554790a687061636b2d746573745f0878787878787878314007782d68656c6c6f05776f726c64",
+            "seqno": 0,
+            "header_table_size": 4096
+        },
+        {
+            "headers": [
+                {
+                    ":scheme": "https"
+                },
+                {
+                    ":authority": "example.com"
+                },
+                {
+                    ":path": "/"
+                },
+                {
+                    ":method": "GET"
+                },
+                {
+                    "user-agent": "hpack-test"
+                },
+                {
+                    "cookie": "xxxxxxx2"
+                }
+            ],
+            "wire": "8047056874747073410b6578616d706c652e636f6d44012f4203474554790a687061636b2d746573745f087878787878787832",
+            "seqno": 1,
+            "header_table_size": 4096
+        }
+    ],
+    "description": "http2 in Haskell: Static - index=yes, reference set=no, huffman=no",
+    "draft": 5
+}

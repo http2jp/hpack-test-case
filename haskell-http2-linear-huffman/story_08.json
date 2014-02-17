@@ -390,6 +390,6 @@
             "header_table_size": 4096
         }
     ],
-    "description": "http2 in Haskell: LinearH - index=yes, reference set=no, huffman=yes",
+    "description": "http2 in Haskell: LinearH - index=no, reference set=no, huffman=yes",
     "draft": 5
 }
