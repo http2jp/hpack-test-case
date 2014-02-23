@@ -25,7 +25,7 @@
                     "x-hello": "world"
                 }
             ],
-            "wire": "804784ce31743f41881f3468e58912dd3f44810f4284f77778ff7987cdc84f2962308f5f88f3f3f3f3f3f3f3374085f397315adb84d9af5e1f",
+            "wire": "80804784ce31743f41881f3468e58912dd3f44810f4284f77778ff7987cdc84f2962308f5f88f3f3f3f3f3f3f3374085f397315adb84d9af5e1f",
             "seqno": 0,
             "header_table_size": 4096
         },
@@ -50,7 +50,7 @@
                     "cookie": "xxxxxxx2"
                 }
             ],
-            "wire": "804784ce31743f41881f3468e58912dd3f44810f4284f77778ff7987cdc84f2962308f5f88f3f3f3f3f3f3f33f",
+            "wire": "80804784ce31743f41881f3468e58912dd3f44810f4284f77778ff7987cdc84f2962308f5f88f3f3f3f3f3f3f33f",
             "seqno": 1,
             "header_table_size": 4096
         }

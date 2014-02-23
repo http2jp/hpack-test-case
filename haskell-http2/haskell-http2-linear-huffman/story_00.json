@@ -16,7 +16,7 @@
                     ":path": "/"
                 }
             ],
-            "wire": "8082870388f4466d6912d2717787",
+            "wire": "808082870388f4466d6912d2717787",
             "seqno": 0,
             "header_table_size": 4096
         },
@@ -35,7 +35,7 @@
                     ":path": "/"
                 }
             ],
-            "wire": "808483028bdb6d89e88cdad225a4e2ef82",
+            "wire": "80808483028bdb6d89e88cdad225a4e2ef82",
             "seqno": 1,
             "header_table_size": 4096
         },
@@ -54,7 +54,7 @@
                     ":path": "/images/top/sp2/cmn/logo-ns-130528.png"
                 }
             ],
-            "wire": "8085840187e44f45699138bb439905688c860116b820e38274602db9365642534c5a0f591cccbf",
+            "wire": "808085840187e44f45699138bb439905688c860116b820e38274602db9365642534c5a0f591cccbf",
             "seqno": 2,
             "header_table_size": 4096
         }
