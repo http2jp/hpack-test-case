@@ -1,0 +1,23 @@
+language: node_js
+node_js:
+  - "0.10"
+env:
+  global:
+    - GIT_COMMITTER_NAME=summerwind
+    - GIT_COMMITTER_EMAIL=summerwind.jp@gmail.com
+    - GIT_AUTHOR_NAME=summerwind
+    - GIT_AUTHOR_EMAIL=summerwind.jp@gmail.com
+    - secure: "fs9zXrWTbdB/6YLWCcDPBrDyrdj7uygojTIPOYuCXr5HoPL3bRKTnNrAVBN9wVRm9qfOqFDPgRfYNj9HSU9jqX5xS/t/3hS73jfLHtY1Lz7/5zGqjUZor6J2QRkCOAnAnOrNnLCY+eDPp6hSDzWusynJUhEU4P28ryFBakp5iU8="
+before_script:
+    - git clone --quiet https://github.com/http2jp/hpack-test-case test
+    - git clone --quiet https://github.com/http2jp/hpack-test-case.wiki.git wiki
+script:
+    - pushd test
+    - node util/gen_ratio.js > "../wiki/Compression Ratio.md"
+    - popd
+after_success:
+    - cd wiki
+    - git add -A
+    - git commit -m 'Auto generated compression ratio'
+    - '[ $GH_TOKEN ] && git push --quiet https://$GH_TOKEN@github.com/http2jp/hpack-test-case.wiki.git'
+
