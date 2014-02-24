@@ -19,5 +19,5 @@ after_success:
     - cd wiki
     - git add -A
     - git commit -m 'Auto generated compression ratio'
-    - '[ $GH_TOKEN ] && git push https://$GH_TOKEN@github.com/http2jp/hpack-test-case.wiki.git'
+    - '[ $GH_TOKEN ] && git push --quiet https://$GH_TOKEN@github.com/http2jp/hpack-test-case.wiki.git master'
 
