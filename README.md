@@ -26,7 +26,6 @@ context. Each story is either series of requests or responses.
 Each json has:
 
 - draft:   HPACK draft version number of implementation.
-- context: "request" or "response".
 - description: general description of encoding strategy or implementation.
 - cases:   test cases.
   - seqno: a sequence number. 0 origin.
@@ -51,7 +50,6 @@ somewhere either encoder or decoder, or both.
 ```js
 {
   "draft": 5,
-  "context": "request",
   "description": "Encoded request headers with Literal without index only.",
   "cases": [
     {
