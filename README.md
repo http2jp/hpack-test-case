@@ -30,7 +30,7 @@ Each json has:
 - description: general description of encoding strategy or implementation.
 - cases:   test cases.
   - seqno: a sequence number. 0 origin.
-  - header_table_size : header table size adjusted before encoding/decoding the header set.
+   - header_table_size : the header table size sent in SETTINGS_HEADER_TABLE_SIZE and ACKed just before this case. The first case should contain this field. If omitted, the default value, 4,096, is used.
   - wire:    encoded wire data in hex string.
   - headers:  decoded http header in hash.
 
