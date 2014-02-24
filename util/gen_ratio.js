@@ -96,3 +96,4 @@ story_names.forEach(function(story){
 
   console.log('|' + line.join('|') + '|');
 });
+
