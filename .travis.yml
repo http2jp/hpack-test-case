@@ -7,7 +7,7 @@ env:
     - GIT_COMMITTER_EMAIL=summerwind.jp@gmail.com
     - GIT_AUTHOR_NAME=summerwind
     - GIT_AUTHOR_EMAIL=summerwind.jp@gmail.com
-    - secure: "fs9zXrWTbdB/6YLWCcDPBrDyrdj7uygojTIPOYuCXr5HoPL3bRKTnNrAVBN9wVRm9qfOqFDPgRfYNj9HSU9jqX5xS/t/3hS73jfLHtY1Lz7/5zGqjUZor6J2QRkCOAnAnOrNnLCY+eDPp6hSDzWusynJUhEU4P28ryFBakp5iU8="
+    - secure: "NeSUtkrTDU542sI+csGovvV9wYLepVepBk0Kt2QTWZRxTxho/Undtb4oQIIH6MbgOi0iBzxuOypt3yCH5BTnM/Xmy3B4ikK387XOlYijy28xj5mMbK7Jf9bZaVVEwD9RIa1IjEnrY7shz3HYHi0NLeHt0mt86ag0QPO0x2KB4xo="
 before_script:
     - git clone --quiet https://github.com/http2jp/hpack-test-case test
     - git clone --quiet https://github.com/http2jp/hpack-test-case.wiki.git wiki
