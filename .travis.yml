@@ -1,6 +1,6 @@
-language: node_js
-node_js:
-  - "0.10"
+language: python
+python:
+  - "2.7"
 env:
   global:
     - GIT_COMMITTER_NAME=summerwind
@@ -13,11 +13,10 @@ before_script:
     - git clone --quiet https://github.com/http2jp/hpack-test-case.wiki.git wiki
 script:
     - pushd test
-    - node util/gen_ratio.js > "../wiki/Compression Ratio.md"
+    - python util/gen_ratio.py > "../wiki/Compression Ratio.md"
     - popd
 after_success:
     - cd wiki
     - git add -A
     - git commit -m 'Auto generated compression ratio'
     - '[ $GH_TOKEN ] && git push --quiet https://$GH_TOKEN@github.com/http2jp/hpack-test-case.wiki.git master'
-
