@@ -72,15 +72,13 @@ if __name__ == '__main__':
 
     storynameformat = '|{{:{}}} |'.format(maxstorynamelen)
     nameformat = '{{:{}}} |'.format(maxnamelen)
-    print storynameformat
-
 
     sys.stdout.write('''\
-The each cell has X (Y/Z) format:
+The each cell has X (Y/Z) format:  
 
-**X**: Y / Z
-**Y**: Number of bytes after compression
-**Z**: Number of bytes before compression
+**X**: Y / Z  
+**Y**: Number of bytes after compression  
+**Z**: Number of bytes before compression  
 
 ''')
 
