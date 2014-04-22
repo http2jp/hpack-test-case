@@ -2,6 +2,8 @@
   "cases": [
     {
       "header_table_size": 16384, 
+      "seqno": 0, 
+      "wire": "2ff11f8742885f44db7d8b7d4db786857e88aef4abdb33978bbf6587e9d3a74e9d3a0f4086e99ab5d9637f84e6dc2ca7", 
       "headers": [
         {
           ":scheme": "https"
@@ -24,10 +26,11 @@
         {
           "x-hello": "world"
         }
-      ], 
-      "wire": "2ff11f8742885f44db7d8b7d4db786857e88aef4abdb33978bbf6587e9d3a74e9d3a0f4086e99ab5d9637f84e6dc2ca7"
+      ]
     }, 
     {
+      "seqno": 1, 
+      "wire": "4287e9d3a74e9d3a178283", 
       "headers": [
         {
           ":scheme": "https"
@@ -47,8 +50,7 @@
         {
           "cookie": "xxxxxxx2"
         }
-      ], 
-      "wire": "4287e9d3a74e9d3a178283"
+      ]
     }
   ], 
   "draft": 7, 

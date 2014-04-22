@@ -2,6 +2,8 @@
   "cases": [
     {
       "header_table_size": 4096, 
+      "seqno": 0, 
+      "wire": "82874387de9653c5f536df877eb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f058b072fa38f5badb32a6fbec6292e636e3f4add6d9fe74b6cca9befb18a4b98db8fd2db3b3f9383f2e5fecffdf67f2707e4f578c5dd9bcf6e55ddd9fc9c1f87f578aabdd97e5352be1625cbf4087536eb96a731b7788f65aefcc9b19c97f", 
       "headers": [
         {
           ":method": "GET"
@@ -30,10 +32,11 @@
         {
           "connection": "keep-alive"
         }
-      ], 
-      "wire": "82874387de9653c5f536df877eb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f058b072fa38f5badb32a6fbec6292e636e3f4add6d9fe74b6cca9befb18a4b98db8fd2db3b3f9383f2e5fecffdf67f2707e4f578c5dd9bcf6e55ddd9fc9c1f87f578aabdd97e5352be1625cbf4087536eb96a731b7788f65aefcc9b19c97f"
+      ]
     }, 
     {
+      "seqno": 1, 
+      "wire": "06893f04f2629b73ec537f86", 
       "headers": [
         {
           ":method": "GET"
@@ -62,10 +65,11 @@
         {
           "connection": "keep-alive"
         }
-      ], 
-      "wire": "06893f04f2629b73ec537f86"
+      ]
     }, 
     {
+      "seqno": 2, 
+      "wire": "478ae7cf9bfbd2ca78bea6db8788", 
       "headers": [
         {
           ":method": "GET"
@@ -94,10 +98,11 @@
         {
           "connection": "keep-alive"
         }
-      ], 
-      "wire": "478ae7cf9bfbd2ca78bea6db8788"
+      ]
     }, 
     {
+      "seqno": 3, 
+      "wire": "07903b2da8fbd2ca78eec7ad8da9a2fd4ce1459b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff7e90adcebe639f9f3e6fef4b29e2fa9b69ff6ca5edcfe1a3cfc344fdb10a22cfdc21dfdbde19e4d3dda0862efed8a0ee83b873c3dd369d538f888a", 
       "headers": [
         {
           ":method": "GET"
@@ -132,10 +137,11 @@
         {
           "cookie": "BAIDUID=B6136AC10EBE0A8FCD216EB64C4C1A5C:FG=1"
         }
-      ], 
-      "wire": "07903b2da8fbd2ca78eec7ad8da9a2fd4ce1459b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff7e90adcebe639f9f3e6fef4b29e2fa9b69ff6ca5edcfe1a3cfc344fdb10a22cfdc21dfdbde19e4d3dda0862efed8a0ee83b873c3dd369d538f888a"
+      ]
     }, 
     {
+      "seqno": 4, 
+      "wire": "0a913a92aad67aac6ef4d8765b51eac5fa99c3", 
       "headers": [
         {
           ":method": "GET"
@@ -170,10 +176,11 @@
         {
           "cookie": "BAIDUID=B6136AC10EBE0A8FCD216EB64C4C1A5C:FG=1"
         }
-      ], 
-      "wire": "0a913a92aad67aac6ef4d8765b51eac5fa99c3"
+      ]
     }, 
     {
+      "seqno": 5, 
+      "wire": "448bc45fdf4e2e4b98a7d4db7f0b9f3e07e7cf99d49556b3d56377a6c3fae27726eab04db985f43f0285f07fd71f44032a2f2a838586", 
       "headers": [
         {
           ":method": "GET"
@@ -205,10 +212,11 @@
         {
           "referer": "http://www.baidu.com/"
         }
-      ], 
-      "wire": "448bc45fdf4e2e4b98a7d4db7f0b9f3e07e7cf99d49556b3d56377a6c3fae27726eab04db985f43f0285f07fd71f44032a2f2a838586"
+      ]
     }, 
     {
+      "seqno": 6, 
+      "wire": "0c993e07e7cf99d49556b3d56377a6c3fae27adb6af30bf23feb8f", 
       "headers": [
         {
           ":method": "GET"
@@ -240,10 +248,11 @@
         {
           "referer": "http://www.baidu.com/"
         }
-      ], 
-      "wire": "0c993e07e7cf99d49556b3d56377a6c3fae27adb6af30bf23feb8f"
+      ]
     }, 
     {
+      "seqno": 7, 
+      "wire": "0c973e07e7cf99d49556b3f1c5781fd713f1cc2fa1f81ff5c7", 
       "headers": [
         {
           ":method": "GET"
@@ -275,10 +284,11 @@
         {
           "referer": "http://www.baidu.com/"
         }
-      ], 
-      "wire": "0c973e07e7cf99d49556b3f1c5781fd713f1cc2fa1f81ff5c7"
+      ]
     }, 
     {
+      "seqno": 8, 
+      "wire": "0c903e07e7cf99d96d4766617c1f07efbaaf8581", 
       "headers": [
         {
           ":method": "GET"
@@ -310,10 +320,11 @@
         {
           "referer": "http://www.baidu.com/"
         }
-      ], 
-      "wire": "0c903e07e7cf99d96d4766617c1f07efbaaf8581"
+      ]
     }, 
     {
+      "seqno": 9, 
+      "wire": "860c893f04f2629b73ec537f8a83828485", 
       "headers": [
         {
           ":method": "GET"
@@ -345,8 +356,7 @@
         {
           "cookie": "BAIDUID=B6136AC10EBE0A8FCD216EB64C4C1A5C:FG=1"
         }
-      ], 
-      "wire": "860c893f04f2629b73ec537f8a83828485"
+      ]
     }
   ], 
   "draft": 7, 

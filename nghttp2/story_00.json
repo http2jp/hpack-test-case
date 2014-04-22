@@ -2,6 +2,8 @@
   "cases": [
     {
       "header_table_size": 4096, 
+      "seqno": 0, 
+      "wire": "82874388ea9adad7d4d7fd6f87", 
       "headers": [
         {
           ":method": "GET"
@@ -15,10 +17,11 @@
         {
           ":path": "/"
         }
-      ], 
-      "wire": "82874388ea9adad7d4d7fd6f87"
+      ]
     }, 
     {
+      "seqno": 1, 
+      "wire": "428ce7cf9bfd535b5afa9affadff83", 
       "headers": [
         {
           ":method": "GET"
@@ -32,10 +35,11 @@
         {
           ":path": "/"
         }
-      ], 
-      "wire": "428ce7cf9bfd535b5afa9affadff83"
+      ]
     }, 
     {
+      "seqno": 2, 
+      "wire": "4188f67fab2da9ff5bff039a3b2d4d4bc4ee6de7c6f23aadb8f636a6e6bb1cc28084a47efbaa8283", 
       "headers": [
         {
           ":method": "GET"
@@ -49,8 +53,7 @@
         {
           ":path": "/images/top/sp2/cmn/logo-ns-130528.png"
         }
-      ], 
-      "wire": "4188f67fab2da9ff5bff039a3b2d4d4bc4ee6de7c6f23aadb8f636a6e6bb1cc28084a47efbaa8283"
+      ]
     }
   ], 
   "draft": 7, 

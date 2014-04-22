@@ -2,6 +2,8 @@
   "cases": [
     {
       "header_table_size": 4096, 
+      "seqno": 0, 
+      "wire": "82874385fe7f1f536d877eb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f058b072fa38f5badb32a6fbec6292e636e3f4add6d9fe74b6cca9befb18a4b98db8fd2db3b3f9383f2e5fecffdf67f2707e4f578c5dd9bcf6e55ddd9fc9c1f87f578aabdd97e5352be1625cbf4087536eb96a731b7788f65aefcc9b19c97f", 
       "headers": [
         {
           ":method": "GET"
@@ -30,10 +32,11 @@
         {
           "connection": "keep-alive"
         }
-      ], 
-      "wire": "82874385fe7f1f536d877eb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f058b072fa38f5badb32a6fbec6292e636e3f4add6d9fe74b6cca9befb18a4b98db8fd2db3b3f9383f2e5fecffdf67f2707e4f578c5dd9bcf6e55ddd9fc9c1f87f578aabdd97e5352be1625cbf4087536eb96a731b7788f65aefcc9b19c97f"
+      ]
     }, 
     {
+      "seqno": 1, 
+      "wire": "478ab52e17ea732da9f536df07973f3e7ccecb5352f13ff3f840247e0db2c6f3b56fdf755f459b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff7e8eadcebe639f9f3e6fff3f8fa9b69f87898a", 
       "headers": [
         {
           ":method": "GET"
@@ -65,10 +68,11 @@
         {
           "referer": "http://www.qq.com/"
         }
-      ], 
-      "wire": "478ab52e17ea732da9f536df07973f3e7ccecb5352f13ff3f840247e0db2c6f3b56fdf755f459b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff7e8eadcebe639f9f3e6fff3f8fa9b69f87898a"
+      ]
     }, 
     {
+      "seqno": 2, 
+      "wire": "09963f3e7ccecb5352f13ff3f840247c5b8b6c6d4d7efbaa", 
       "headers": [
         {
           ":method": "GET"
@@ -100,10 +104,11 @@
         {
           "referer": "http://www.qq.com/"
         }
-      ], 
-      "wire": "09963f3e7ccecb5352f13ff3f840247c5b8b6c6d4d7efbaa"
+      ]
     }, 
     {
+      "seqno": 3, 
+      "wire": "099e3f3e7ccecb5352f13ff3f840247e0bc5cce49b0f4a464c569c155bf7dd57", 
       "headers": [
         {
           ":method": "GET"
@@ -135,10 +140,11 @@
         {
           "referer": "http://www.qq.com/"
         }
-      ], 
-      "wire": "099e3f3e7ccecb5352f13ff3f840247e0bc5cce49b0f4a464c569c155bf7dd57"
+      ]
     }, 
     {
+      "seqno": 4, 
+      "wire": "09a03f3e7ccecb5352f13ff3f840247e0bc5cce49b0f4a464deda7aefa8217efbaaf", 
       "headers": [
         {
           ":method": "GET"
@@ -170,10 +176,11 @@
         {
           "referer": "http://www.qq.com/"
         }
-      ], 
-      "wire": "09a03f3e7ccecb5352f13ff3f840247e0bc5cce49b0f4a464deda7aefa8217efbaaf"
+      ]
     }, 
     {
+      "seqno": 5, 
+      "wire": "09993f3e7ccecb5352f13ff3f840247b1b532e4d966e17c9fbeeab", 
       "headers": [
         {
           ":method": "GET"
@@ -205,10 +212,11 @@
         {
           "referer": "http://www.qq.com/"
         }
-      ], 
-      "wire": "09993f3e7ccecb5352f13ff3f840247b1b532e4d966e17c9fbeeab"
+      ]
     }, 
     {
+      "seqno": 6, 
+      "wire": "099c3f3e7ccecb5352f13ff3f8402474b3d9377d5a9a597542f8bf53387f", 
       "headers": [
         {
           ":method": "GET"
@@ -240,10 +248,11 @@
         {
           "referer": "http://www.qq.com/"
         }
-      ], 
-      "wire": "099c3f3e7ccecb5352f13ff3f8402474b3d9377d5a9a597542f8bf53387f"
+      ]
     }, 
     {
+      "seqno": 7, 
+      "wire": "09933fab7d967fa353624ff6e09c5c2f83e2ffae3f42032a2f2a83", 
       "headers": [
         {
           ":method": "GET"
@@ -275,10 +284,11 @@
         {
           "referer": "http://www.qq.com/"
         }
-      ], 
-      "wire": "09933fab7d967fa353624ff6e09c5c2f83e2ffae3f42032a2f2a83"
+      ]
     }, 
     {
+      "seqno": 8, 
+      "wire": "0a983f3e7ccecb5352f13ff3f840247b5bbd962f62f9e2fdf7558381", 
       "headers": [
         {
           ":method": "GET"
@@ -310,10 +320,11 @@
         {
           "referer": "http://www.qq.com/"
         }
-      ], 
-      "wire": "0a983f3e7ccecb5352f13ff3f840247b5bbd962f62f9e2fdf7558381"
+      ]
     }, 
     {
+      "seqno": 9, 
+      "wire": "448a65b50bf53996d4fa9b6f0b993f23dec5627af909ca01388c67119223c718c12c6513feb7d585", 
       "headers": [
         {
           ":method": "GET"
@@ -345,8 +356,7 @@
         {
           "referer": "http://www.qq.com/"
         }
-      ], 
-      "wire": "448a65b50bf53996d4fa9b6f0b993f23dec5627af909ca01388c67119223c718c12c6513feb7d585"
+      ]
     }
   ], 
   "draft": 7, 
