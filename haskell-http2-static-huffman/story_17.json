@@ -1,7 +1,9 @@
 {
-    "context": "request",
     "cases": [
         {
+            "header_table_size": 4096,
+            "seqno": 0,
+            "wire": "300283d5df470683adcebf0188ea9adad7d4d7fd6f04813f0f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f04b072fa38f5badb32a6fbec6292e636e3f4add6d9fe74b6cca9befb18a4b98db8fd2db3b3f9383f2e5fecffdf67f2707e4f0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f1192ed9e38bd42548c92a62ae0c9be7464c670df",
             "headers": [
                 {
                     ":method": "GET"
@@ -33,12 +35,11 @@
                 {
                     "cookie": "B=76j09a189a6h4&b=3&s=0b"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce31774188f4466d6912d2717744810f79beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a921752af88f9c4338e8be9439cb5251153581e79c745ffcf3d17d287396a4a22a6b03cf45f5795a5259d3fd07f5d5e569495ff508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f5f92ebb6aa7896c41abb114e73eebed9b742d2df",
-            "seqno": 0,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 1,
+            "wire": "300283d5df470683adcebf018ce7cf9bfd535b5afa9affadff04813f0f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f04b072fa38f5badb32a6fbec6292e636e3f4add6d9fe74b6cca9befb18a4b98db8fd2db3b3f9383f2e5fecffdf67f2707e4f0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f1192ed9e38bd42548c92a62ae0c9be7464c670df",
             "headers": [
                 {
                     ":method": "GET"
@@ -70,12 +71,11 @@
                 {
                     "cookie": "B=76j09a189a6h4&b=3&s=0b"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce3177418bdb6d89e88cdad225a4e2ef44810f79beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a921752af88f9c4338e8be9439cb5251153581e79c745ffcf3d17d287396a4a22a6b03cf45f5795a5259d3fd07f5d5e569495ff508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f5f92ebb6aa7896c41abb114e73eebed9b742d2df",
-            "seqno": 1,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 2,
+            "wire": "300283d5df470683adcebf0188f67fab2da9ff5bff04983b2d4d4bc4ee6de7c6f23aacc0e275598661210285f5638f0f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f048f72fa38eac71cbfd9ffbecfe4e0f8ff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f2491adcebe639f9f3e6ff54d6d6bea6bfeb79f",
             "headers": [
                 {
                     ":method": "GET"
@@ -107,12 +107,11 @@
                 {
                     "referer": "http://www.yahoo.co.jp/"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce31774187e44f45699138bb449705688c860116b820e38256f030256f94c7314f4113087f79beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a9217528e88f9c4130874ff41fd75795a521b508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f7290ce3177b0036db627a2336b4896938b83",
-            "seqno": 2,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 3,
+            "wire": "300283d5df470683adcebf0188f67fab2da9ff5bff04903b2d4d4bc4ee6de7c6f3d8da9afd4ce10f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f049b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f2491adcebe639f9f3e6ff54d6d6bea6bfeb79f",
             "headers": [
                 {
                     ":method": "GET"
@@ -144,12 +143,11 @@
                 {
                     "referer": "http://www.yahoo.co.jp/"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce31774187e44f45699138bb448f05688c860116b820e05b726932563f79beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a9217529a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f7290ce3177b0036db627a2336b4896938b83",
-            "seqno": 3,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 4,
+            "wire": "300283d5df470683adcebf0188f67fab2da9ff5bff04ac3b2d4d4bc4fbdadf6c5cdc167536db5b71f1bd6a626c390091c2429770427de9bae5e07920e9241b85ff5bea0f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f049b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f2491adcebe639f9f3e6ff54d6d6bea6bfeb79f",
             "headers": [
                 {
                     ":method": "GET"
@@ -181,12 +179,11 @@
                 {
                     "referer": "http://www.yahoo.co.jp/"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce31774187e44f45699138bb44aa05688c86017b5bca116bc412dd346b020e14a90b0394c702d67b2e2d017a18c178573f9d73dc6271765f79beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a9217529a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f7290ce3177b0036db627a2336b4896938b83",
-            "seqno": 4,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 5,
+            "wire": "300283d5df470683adcebf018debea9e8a7faa6b6b5f535ff5bf04823b590f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f0484fecffdff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f2491adcebe639f9f3e6ff54d6d6bea6bfeb79f0f1192ed9e38bd42548c92a62ae0c9be7464c670df",
             "headers": [
                 {
                     ":method": "GET"
@@ -221,12 +218,11 @@
                 {
                     "cookie": "B=76j09a189a6h4&b=3&s=0b"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce3177418df4e28f3493d119b5a44b49c5df448206ab79beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a92175283fe83fa508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f7290ce3177b0036db627a2336b4896938b835f92ebb6aa7896c41abb114e73eebed9b742d2df",
-            "seqno": 5,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 6,
+            "wire": "300283d5df470683adcebf0188f67fab2da9ff5bff04a23b2d4d4bc4fcd69756bc0f52ee5e09b0eec137637a705dcedd89d56378d38bf533870f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f049b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f2491adcebe639f9f3e6ff54d6d6bea6bfeb79f",
             "headers": [
                 {
                     ":method": "GET"
@@ -258,12 +254,11 @@
                 {
                     "referer": "http://www.yahoo.co.jp/"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce31774187e44f45699138bb449e05688c8601b0a2398bc32160bd0b08bd0c8390f1646e80256dd70813256379beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a9217529a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f7290ce3177b0036db627a2336b4896938b83",
-            "seqno": 6,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 7,
+            "wire": "300283d5df470683adcebf0188f67fab2da9ff5bff04a03b2d4d4bc4fcd69756bc0f52ee5e09b0eec137637a705dcedd89f1e373f533870f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f049b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f2491adcebe639f9f3e6ff54d6d6bea6bfeb79f",
             "headers": [
                 {
                     ":method": "GET"
@@ -295,12 +290,11 @@
                 {
                     "referer": "http://www.yahoo.co.jp/"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce31774187e44f45699138bb449c05688c8601b0a2398bc32160bd0b08bd0c8390f1646e80435613256379beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a9217529a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f7290ce3177b0036db627a2336b4896938b83",
-            "seqno": 7,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 8,
+            "wire": "300283d5df470683adcebf0188f67fab2da9ff5bff04ac3b2d4d4bc4fbdadf6c5cdc167536db5b71f1bd6a626c390091c2429770427de9bae5e07920e9241b89ff5bea0f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f049b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f2491adcebe639f9f3e6ff54d6d6bea6bfeb79f",
             "headers": [
                 {
                     ":method": "GET"
@@ -332,12 +326,11 @@
                 {
                     "referer": "http://www.yahoo.co.jp/"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce31774187e44f45699138bb44aa05688c86017b5bca116bc412dd346b020e14a90b0394c702d67b2e2d017a18c178573f9d73dc7271765f79beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a9217529a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f7290ce3177b0036db627a2336b4896938b83",
-            "seqno": 8,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 9,
+            "wire": "300283d5df470683adcebf0188f67fab2da9ff5bff04af3b2d4d4bc4f7e0bb59c6d3a9b739773b13efbb0390091e10e9081c25293762e6e0bdd8f1bd785c9771c1363feb7d5f0f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f049b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f2491adcebe639f9f3e6ff54d6d6bea6bfeb79f",
             "headers": [
                 {
                     ":method": "GET"
@@ -369,12 +362,9 @@
                 {
                     "referer": "http://www.yahoo.co.jp/"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce31774187e44f45699138bb44ab05688c8600e78e8ad7404b5911646017b1e07298e1417ce82816c3d77422d78dd0d5c2f6223abd0b27176579beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a9217529a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f7290ce3177b0036db627a2336b4896938b83",
-            "seqno": 9,
-            "header_table_size": 4096
+            ]
         }
     ],
-    "description": "http2 in Haskell: StaticH - index=yes, reference set=no, huffman=yes",
-    "draft": 5
+    "draft": 7,
+    "description": "http2 in Haskell: StaticH - index=yes, reference set=no, huffman=yes"
 }

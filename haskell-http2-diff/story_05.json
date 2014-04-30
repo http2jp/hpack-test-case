@@ -1,7 +1,9 @@
 {
-    "context": "request",
     "cases": [
         {
+            "header_table_size": 4096,
+            "seqno": 0,
+            "wire": "8287431267656f2e6372616967736c6973742e6f7267877e514d6f7a696c6c612f352e3020284d6163696e746f73683b20496e74656c204d6163204f5320582031302e383b2072763a31362e3029204765636b6f2f32303130303130312046697265666f782f31362e30583f746578742f68746d6c2c6170706c69636174696f6e2f7868746d6c2b786d6c2c6170706c69636174696f6e2f786d6c3b713d302e392c2a2f2a3b713d302e38570e656e2d55532c656e3b713d302e35570d677a69702c206465666c617465400a636f6e6e656374696f6e0a6b6565702d616c6976656920636c5f623d414232424b62736c3468474d374d346e48355059576768544d3541",
             "headers": [
                 {
                     ":method": "GET"
@@ -33,12 +35,11 @@
                 {
                     "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A"
                 }
-            ],
-            "wire": "8287031267656f2e6372616967736c6973742e6f7267873d514d6f7a696c6c612f352e3020284d6163696e746f73683b20496e74656c204d6163204f5320582031302e383b2072763a31362e3029204765636b6f2f32303130303130312046697265666f782f31362e30173f746578742f68746d6c2c6170706c69636174696f6e2f7868746d6c2b786d6c2c6170706c69636174696f6e2f786d6c3b713d302e392c2a2f2a3b713d302e38160e656e2d55532c656e3b713d302e35160d677a69702c206465666c617465000a636f6e6e656374696f6e0a6b6565702d616c6976652820636c5f623d414232424b62736c3468474d374d346e48355059576768544d3541",
-            "seqno": 0,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 1,
+            "wire": "48127777772e6372616967736c6973742e6f7267080d2f61626f75742f73697465732f8889",
             "headers": [
                 {
                     ":method": "GET"
@@ -70,12 +71,11 @@
                 {
                     "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A"
                 }
-            ],
-            "wire": "08127777772e6372616967736c6973742e6f7267480d2f61626f75742f73697465732f8889",
-            "seqno": 1,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 2,
+            "wire": "08152f7374796c65732f636f756e74726965732e6373734612746578742f6373732c2a2f2a3b713d302e317f0026687474703a2f2f7777772e6372616967736c6973742e6f72672f61626f75742f73697465732f88",
             "headers": [
                 {
                     ":method": "GET"
@@ -110,12 +110,11 @@
                 {
                     "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A"
                 }
-            ],
-            "wire": "48152f7374796c65732f636f756e74726965732e6373730612746578742f6373732c2a2f2a3b713d302e313e26687474703a2f2f7777772e6372616967736c6973742e6f72672f61626f75742f73697465732f88",
-            "seqno": 2,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 3,
+            "wire": "0a0e2f6a732f666f726d6174732e6a7342032a2f2a83",
             "headers": [
                 {
                     ":method": "GET"
@@ -150,12 +149,11 @@
                 {
                     "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A"
                 }
-            ],
-            "wire": "4a0e2f6a732f666f726d6174732e6a7302032a2f2a83",
-            "seqno": 3,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 4,
+            "wire": "0b132f6a732f6a71756572792d312e342e322e6a73",
             "headers": [
                 {
                     ":method": "GET"
@@ -190,12 +188,11 @@
                 {
                     "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A"
                 }
-            ],
-            "wire": "4b132f6a732f6a71756572792d312e342e322e6a73",
-            "seqno": 4,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 5,
+            "wire": "0b0c2f66617669636f6e2e69636f4121696d6167652f706e672c696d6167652f2a3b713d302e382c2a2f2a3b713d302e358283",
             "headers": [
                 {
                     ":method": "GET"
@@ -227,12 +224,11 @@
                 {
                     "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A"
                 }
-            ],
-            "wire": "4b0c2f66617669636f6e2e69636f0121696d6167652f706e672c696d6167652f2a3b713d302e382c2a2f2a3b713d302e358283",
-            "seqno": 5,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 6,
+            "wire": "451573686f616c732e6372616967736c6973742e6f72678d8b848286",
             "headers": [
                 {
                     ":method": "GET"
@@ -267,12 +263,11 @@
                 {
                     "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A"
                 }
-            ],
-            "wire": "051573686f616c732e6372616967736c6973742e6f72678d8b848286",
-            "seqno": 6,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 7,
+            "wire": "860d162f7374796c65732f6372616967736c6973742e63737385441d687474703a2f2f73686f616c732e6372616967736c6973742e6f72672f4842636c5f623d414232424b62736c3468474d374d346e48355059576768544d35413b20636c5f6465665f6c616e673d656e3b20636c5f6465665f68703d73686f616c738386898d8f",
             "headers": [
                 {
                     ":method": "GET"
@@ -307,12 +302,11 @@
                 {
                     "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A; cl_def_lang=en; cl_def_hp=shoals"
                 }
-            ],
-            "wire": "864d162f7374796c65732f6372616967736c6973742e63737385041d687474703a2f2f73686f616c732e6372616967736c6973742e6f72672f0842636c5f623d414232424b62736c3468474d374d346e48355059576768544d35413b20636c5f6465665f6c616e673d656e3b20636c5f6465665f68703d73686f616c738386898d8f",
-            "seqno": 7,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 8,
+            "wire": "0f000e2f6a732f666f726d6174732e6a738587",
             "headers": [
                 {
                     ":method": "GET"
@@ -347,12 +341,11 @@
                 {
                     "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A; cl_def_lang=en; cl_def_hp=shoals"
                 }
-            ],
-            "wire": "4f0e2f6a732f666f726d6174732e6a738587",
-            "seqno": 8,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 9,
+            "wire": "0f000f2f6a732f686f6d65706167652e6a73",
             "headers": [
                 {
                     ":method": "GET"
@@ -387,12 +380,9 @@
                 {
                     "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A; cl_def_lang=en; cl_def_hp=shoals"
                 }
-            ],
-            "wire": "4f0f2f6a732f686f6d65706167652e6a73",
-            "seqno": 9,
-            "header_table_size": 4096
+            ]
         }
     ],
-    "description": "http2 in Haskell: Diff - index=yes, reference set=yes, huffman=no",
-    "draft": 5
+    "draft": 7,
+    "description": "http2 in Haskell: Diff - index=yes, reference set=yes, huffman=no"
 }

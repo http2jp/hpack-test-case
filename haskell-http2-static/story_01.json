@@ -1,7 +1,9 @@
 {
-    "context": "request",
     "cases": [
         {
+            "header_table_size": 4096,
+            "seqno": 0,
+            "wire": "3007056874747073010b6578616d706c652e636f6d04012f02034745540f2b0a687061636b2d746573740f110878787878787878310007782d68656c6c6f05776f726c64",
             "headers": [
                 {
                     ":scheme": "https"
@@ -24,12 +26,11 @@
                 {
                     "x-hello": "world"
                 }
-            ],
-            "wire": "808047056874747073410b6578616d706c652e636f6d44012f4203474554790a687061636b2d746573745f0878787878787878314007782d68656c6c6f05776f726c64",
-            "seqno": 0,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 1,
+            "wire": "3007056874747073010b6578616d706c652e636f6d04012f02034745540f2b0a687061636b2d746573740f11087878787878787832",
             "headers": [
                 {
                     ":scheme": "https"
@@ -49,12 +50,9 @@
                 {
                     "cookie": "xxxxxxx2"
                 }
-            ],
-            "wire": "808047056874747073410b6578616d706c652e636f6d44012f4203474554790a687061636b2d746573745f087878787878787832",
-            "seqno": 1,
-            "header_table_size": 4096
+            ]
         }
     ],
-    "description": "http2 in Haskell: Static - index=yes, reference set=no, huffman=no",
-    "draft": 5
+    "draft": 7,
+    "description": "http2 in Haskell: Static - index=yes, reference set=no, huffman=no"
 }

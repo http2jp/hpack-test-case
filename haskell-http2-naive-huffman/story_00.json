@@ -1,7 +1,9 @@
 {
-    "context": "request",
     "cases": [
         {
+            "header_table_size": 4096,
+            "seqno": 0,
+            "wire": "3000859ad5bab6d383d5df4700859b1556bb5783adcebf0088993c5d5b7063baff88ea9adad7d4d7fd6f00849af4babf813f",
             "headers": [
                 {
                     ":method": "GET"
@@ -15,12 +17,11 @@
                 {
                     ":path": "/"
                 }
-            ],
-            "wire": "80804086f66831cdb87f84f77778ff4085f641398e8383ce31774088f62358e6d7aa3e9f88f4466d6912d271774084f63911cf810f",
-            "seqno": 0,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 1,
+            "wire": "3000859ad5bab6d383d5df4700859b1556bb5783adcebf0088993c5d5b7063baff8ce7cf9bfd535b5afa9affadff00849af4babf813f",
             "headers": [
                 {
                     ":method": "GET"
@@ -34,12 +35,11 @@
                 {
                     ":path": "/"
                 }
-            ],
-            "wire": "80804086f66831cdb87f84f77778ff4085f641398e8383ce31774088f62358e6d7aa3e9f8bdb6d89e88cdad225a4e2ef4084f63911cf810f",
-            "seqno": 1,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 2,
+            "wire": "3000859ad5bab6d383d5df4700859b1556bb5783adcebf0088993c5d5b7063baff88f67fab2da9ff5bff00849af4babf9a3b2d4d4bc4ee6de7c6f23aadb8f636a6e6bb1cc28084a47efbaa",
             "headers": [
                 {
                     ":method": "GET"
@@ -53,12 +53,9 @@
                 {
                     ":path": "/images/top/sp2/cmn/logo-ns-130528.png"
                 }
-            ],
-            "wire": "80804086f66831cdb87f84f77778ff4085f641398e8383ce31774088f62358e6d7aa3e9f87e44f45699138bb4084f63911cf9905688c860116b820e38274602db9365642534c5a0f591cccbf",
-            "seqno": 2,
-            "header_table_size": 4096
+            ]
         }
     ],
-    "description": "http2 in Haskell: NaiveH - index=no, reference set=no, huffman=yes",
-    "draft": 5
+    "draft": 7,
+    "description": "http2 in Haskell: NaiveH - index=no, reference set=no, huffman=yes"
 }

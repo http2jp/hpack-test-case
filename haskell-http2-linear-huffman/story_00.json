@@ -1,7 +1,9 @@
 {
-    "context": "request",
     "cases": [
         {
+            "header_table_size": 4096,
+            "seqno": 0,
+            "wire": "3082874388ea9adad7d4d7fd6f87",
             "headers": [
                 {
                     ":method": "GET"
@@ -15,12 +17,11 @@
                 {
                     ":path": "/"
                 }
-            ],
-            "wire": "808082870388f4466d6912d2717787",
-            "seqno": 0,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 1,
+            "wire": "308483428ce7cf9bfd535b5afa9affadff82",
             "headers": [
                 {
                     ":method": "GET"
@@ -34,12 +35,11 @@
                 {
                     ":path": "/"
                 }
-            ],
-            "wire": "80808483028bdb6d89e88cdad225a4e2ef82",
-            "seqno": 1,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 2,
+            "wire": "3085844188f67fab2da9ff5bff039a3b2d4d4bc4ee6de7c6f23aadb8f636a6e6bb1cc28084a47efbaa",
             "headers": [
                 {
                     ":method": "GET"
@@ -53,12 +53,9 @@
                 {
                     ":path": "/images/top/sp2/cmn/logo-ns-130528.png"
                 }
-            ],
-            "wire": "808085840187e44f45699138bb439905688c860116b820e38274602db9365642534c5a0f591cccbf",
-            "seqno": 2,
-            "header_table_size": 4096
+            ]
         }
     ],
-    "description": "http2 in Haskell: LinearH - index=no, reference set=no, huffman=yes",
-    "draft": 5
+    "draft": 7,
+    "description": "http2 in Haskell: LinearH - index=no, reference set=no, huffman=yes"
 }

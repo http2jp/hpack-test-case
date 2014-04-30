@@ -1,7 +1,9 @@
 {
-    "context": "request",
     "cases": [
         {
+            "header_table_size": 4096,
+            "seqno": 0,
+            "wire": "300283d5df470683adcebf0185fe7f1f536d04813f0f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f04b072fa38f5badb32a6fbec6292e636e3f4add6d9fe74b6cca9befb18a4b98db8fd2db3b3f9383f2e5fecffdf67f2707e4f0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f",
             "headers": [
                 {
                     ":method": "GET"
@@ -30,12 +32,11 @@
                 {
                     "connection": "keep-alive"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce31774185f2f2225ba744810f79beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a921752af88f9c4338e8be9439cb5251153581e79c745ffcf3d17d287396a4a22a6b03cf45f5795a5259d3fd07f5d5e569495ff508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f",
-            "seqno": 0,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 1,
+            "wire": "300283d5df470683adcebf018ab52e17ea732da9f536df04973f3e7ccecb5352f13ff3f840247e0db2c6f3b56fdf755f0f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f049b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f248eadcebe639f9f3e6fff3f8fa9b69f",
             "headers": [
                 {
                     ":method": "GET"
@@ -67,12 +68,11 @@
                 {
                     "referer": "http://www.qq.com/"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce3177418ad11131328ab4c8896e9f44950db6d815a23218079791ca63862d5adbb68247332f79beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a9217529a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f728dce3177b0036db627979112dd03",
-            "seqno": 1,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 2,
+            "wire": "300283d5df470683adcebf018ab52e17ea732da9f536df04963f3e7ccecb5352f13ff3f840247c5b8b6c6d4d7efbaa0f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f049b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f248eadcebe639f9f3e6fff3f8fa9b69f",
             "headers": [
                 {
                     ":method": "GET"
@@ -104,12 +104,11 @@
                 {
                     "referer": "http://www.qq.com/"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce3177418ad11131328ab4c8896e9f44950db6d815a23218079791ca63841b06adb9348e665f79beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a9217529a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f728dce3177b0036db627979112dd03",
-            "seqno": 2,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 3,
+            "wire": "300283d5df470683adcebf018ab52e17ea732da9f536df049e3f3e7ccecb5352f13ff3f840247e0bc5cce49b0f4a464c569c155bf7dd570f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f049b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f248eadcebe639f9f3e6fff3f8fa9b69f",
             "headers": [
                 {
                     ":method": "GET"
@@ -141,12 +140,11 @@
                 {
                     "referer": "http://www.qq.com/"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce3177418ad11131328ab4c8896e9f449c0db6d815a23218079791ca63862308ab9a161820d5c050f4e647332f79beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a9217529a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f728dce3177b0036db627979112dd03",
-            "seqno": 3,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 4,
+            "wire": "300283d5df470683adcebf018ab52e17ea732da9f536df04a03f3e7ccecb5352f13ff3f840247e0bc5cce49b0f4a464deda7aefa8217efbaaf0f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f049b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f248eadcebe639f9f3e6fff3f8fa9b69f",
             "headers": [
                 {
                     ":method": "GET"
@@ -178,12 +176,11 @@
                 {
                     "referer": "http://www.qq.com/"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce3177418ad11131328ab4c8896e9f449e0db6d815a23218079791ca63862308ab9a161820d5dedc3d2fc8b411cccb79beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a9217529a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f728dce3177b0036db627979112dd03",
-            "seqno": 4,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 5,
+            "wire": "300283d5df470683adcebf018ab52e17ea732da9f536df04993f3e7ccecb5352f13ff3f840247b1b532e4d966e17c9fbeeab0f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f049b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f248eadcebe639f9f3e6fff3f8fa9b69f",
             "headers": [
                 {
                     ":method": "GET"
@@ -215,12 +212,11 @@
                 {
                     "referer": "http://www.qq.com/"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce3177418ad11131328ab4c8896e9f44970db6d815a23218079791ca6382db929885aee310e4733279beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a9217529a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f728dce3177b0036db627979112dd03",
-            "seqno": 5,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 6,
+            "wire": "300283d5df470683adcebf018ab52e17ea732da9f536df049c3f3e7ccecb5352f13ff3f8402474b3d9377d5a9a597542f8bf53387f0f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f049b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f248eadcebe639f9f3e6fff3f8fa9b69f",
             "headers": [
                 {
                     ":method": "GET"
@@ -252,12 +248,11 @@
                 {
                     "referer": "http://www.qq.com/"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce3177418ad11131328ab4c8896e9f449a0db6d815a23218079791ca638215c90cf9351829991886264ac779beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a9217529a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f728dce3177b0036db627979112dd03",
-            "seqno": 6,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 7,
+            "wire": "300283d5df470683adcebf018ab52e17ea732da9f536df04933fab7d967fa353624ff6e09c5c2f83e2ffae3f0f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f0484fecffdff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f248eadcebe639f9f3e6fff3f8fa9b69f",
             "headers": [
                 {
                     ":method": "GET"
@@ -289,12 +284,11 @@
                 {
                     "referer": "http://www.qq.com/"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce3177418ad11131328ab4c8896e9f44920e2de421fdb50b407db1442262148627187f79beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a92175283fe83fa508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f728dce3177b0036db627979112dd03",
-            "seqno": 7,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 8,
+            "wire": "300283d5df470683adcebf018ab52e17ea732da9f536df04983f3e7ccecb5352f13ff3f840247b5bbd962f62f9e2fdf7550f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f049b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f248eadcebe639f9f3e6fff3f8fa9b69f",
             "headers": [
                 {
                     ":method": "GET"
@@ -326,12 +320,11 @@
                 {
                     "referer": "http://www.qq.com/"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce3177418ad11131328ab4c8896e9f44970db6d815a23218079791ca63868dbd4b1f98ed0239997f79beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a9217529a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f728dce3177b0036db627979112dd03",
-            "seqno": 8,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 9,
+            "wire": "300283d5df470683adcebf018a65b50bf53996d4fa9b6f04993f23dec5627af909ca01388c67119223c718c12c6513feb7d50f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f049b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f248eadcebe639f9f3e6fff3f8fa9b69f",
             "headers": [
                 {
                     ":method": "GET"
@@ -363,12 +356,9 @@
                 {
                     "referer": "http://www.qq.com/"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce3177418a56991899455a6444b74f44990e60e526019f3301e73018d5018d5d2155469eca8f4938bb2f79beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a9217529a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f728dce3177b0036db627979112dd03",
-            "seqno": 9,
-            "header_table_size": 4096
+            ]
         }
     ],
-    "description": "http2 in Haskell: StaticH - index=yes, reference set=no, huffman=yes",
-    "draft": 5
+    "draft": 7,
+    "description": "http2 in Haskell: StaticH - index=yes, reference set=no, huffman=yes"
 }

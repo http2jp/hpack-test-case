@@ -1,7 +1,9 @@
 {
-    "context": "request",
     "cases": [
         {
+            "header_table_size": 4096,
+            "seqno": 0,
+            "wire": "300283d5df470683adcebf018da96d7d58259563633173edc2af04813f0f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f04b072fa38f5badb32a6fbec6292e636e3f4add6d9fe74b6cca9befb18a4b98db8fd2db3b3f9383f2e5fecffdf67f2707e4f0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f119b559bb7cf9fb4bb7e9bf1b20af56b8f5c177ca1f2fd7e6aae8d70e7",
             "headers": [
                 {
                     ":method": "GET"
@@ -33,12 +35,11 @@
                 {
                     "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce3177418cc85a44bd0aca0b542246bf2f44810f79beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a921752af88f9c4338e8be9439cb5251153581e79c745ffcf3d17d287396a4a22a6b03cf45f5795a5259d3fd07f5d5e569495ff508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f5f9c4aeebeddfd67ebfeef82e7cfdddf577cecf7d1f5fe7eb2cfc7be8dff",
-            "seqno": 0,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 1,
+            "wire": "300283d5df470683adcebf018ee7cf9beac12cab1b198b9f6e157f04893a77b78b8f8b1cbc4f0f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f04b072fa38f5badb32a6fbec6292e636e3f4add6d9fe74b6cca9befb18a4b98db8fd2db3b3f9383f2e5fecffdf67f2707e4f0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f119b559bb7cf9fb4bb7e9bf1b20af56b8f5c177ca1f2fd7e6aae8d70e7",
             "headers": [
                 {
                     ":method": "GET"
@@ -70,12 +71,11 @@
                 {
                     "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce3177418cdb6d8897a159416a8448d7e54488045edd621054460179beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a921752af88f9c4338e8be9439cb5251153581e79c745ffcf3d17d287396a4a22a6b03cf45f5795a5259d3fd07f5d5e569495ff508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f5f9c4aeebeddfd67ebfeef82e7cfdddf577cecf7d1f5fe7eb2cfc7be8dff",
-            "seqno": 1,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 2,
+            "wire": "300283d5df470683adcebf018ee7cf9beac12cab1b198b9f6e157f048f3e2eeb62f13a9bc6e760c5e2fab1c70f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f048f72fa38eac71cbfd9ffbecfe4e0f8ff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f249badcebe639f9f3e6fab04b2ac6c662e7db85474ef6f171f1639789f0f119b559bb7cf9fb4bb7e9bf1b20af56b8f5c177ca1f2fd7e6aae8d70e7",
             "headers": [
                 {
                     ":method": "GET"
@@ -110,12 +110,11 @@
                 {
                     "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce3177418cdb6d8897a159416a8448d7e5448e0847d163004b75645ea18113087f79beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a9217528e88f9c4130874ff41fd75795a521b508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f7299ce3177b0036db6225e856505aa11235f9022f6eb1082a2300f5f9c4aeebeddfd67ebfeef82e7cfdddf577cecf7d1f5fe7eb2cfc7be8dff",
-            "seqno": 2,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 3,
+            "wire": "300283d5df470683adcebf018ee7cf9beac12cab1b198b9f6e157f048b3fae27e0dc2d4bb17fd71f0f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f0484fecffdff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f249badcebe639f9f3e6fab04b2ac6c662e7db85474ef6f171f1639789f0f119b559bb7cf9fb4bb7e9bf1b20af56b8f5c177ca1f2fd7e6aae8d70e7",
             "headers": [
                 {
                     ":method": "GET"
@@ -150,12 +149,11 @@
                 {
                     "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce3177418cdb6d8897a159416a8448d7e5448a0e300c5afd1118138c3f79beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a92175283fe83fa508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f7299ce3177b0036db6225e856505aa11235f9022f6eb1082a2300f5f9c4aeebeddfd67ebfeef82e7cfdddf577cecf7d1f5fe7eb2cfc7be8dff",
-            "seqno": 3,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 4,
+            "wire": "300283d5df470683adcebf018ee7cf9beac12cab1b198b9f6e157f048f3fae27f5fe715e1d730bf03e4ffae30f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f0484fecffdff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f249badcebe639f9f3e6fab04b2ac6c662e7db85474ef6f171f1639789f0f119b559bb7cf9fb4bb7e9bf1b20af56b8f5c177ca1f2fd7e6aae8d70e7",
             "headers": [
                 {
                     ":method": "GET"
@@ -190,12 +188,11 @@
                 {
                     "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce3177418cdb6d8897a159416a8448d7e5448e0e300e3e5a8bfd25312721c9c61f79beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a92175283fe83fa508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f7299ce3177b0036db6225e856505aa11235f9022f6eb1082a2300f5f9c4aeebeddfd67ebfeef82e7cfdddf577cecf7d1f5fe7eb2cfc7be8dff",
-            "seqno": 4,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 5,
+            "wire": "300283d5df470683adcebf018ee7cf9beac12cab1b198b9f6e157f04893f04f2629b73ec537f0f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f049b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f119b559bb7cf9fb4bb7e9bf1b20af56b8f5c177ca1f2fd7e6aae8d70e7",
             "headers": [
                 {
                     ":method": "GET"
@@ -227,12 +224,11 @@
                 {
                     "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce3177418cdb6d8897a159416a8448d7e544880c51cd496b08a4b779beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a9217529a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f5f9c4aeebeddfd67ebfeef82e7cfdddf577cecf7d1f5fe7eb2cfc7be8dff",
-            "seqno": 5,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 6,
+            "wire": "300283d5df470683adcebf018fc6b6a6cc5f56096558d8cc5cfb70ab04813f0f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f04b072fa38f5badb32a6fbec6292e636e3f4add6d9fe74b6cca9befb18a4b98db8fd2db3b3f9383f2e5fecffdf67f2707e4f0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f249badcebe639f9f3e6fab04b2ac6c662e7db85474ef6f171f1639789f0f119b559bb7cf9fb4bb7e9bf1b20af56b8f5c177ca1f2fd7e6aae8d70e7",
             "headers": [
                 {
                     ":method": "GET"
@@ -267,12 +263,11 @@
                 {
                     "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce3177418e866d42e044bd0aca0b542246bf2f44810f79beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a921752af88f9c4338e8be9439cb5251153581e79c745ffcf3d17d287396a4a22a6b03cf45f5795a5259d3fd07f5d5e569495ff508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f7299ce3177b0036db6225e856505aa11235f9022f6eb1082a2300f5f9c4aeebeddfd67ebfeef82e7cfdddf577cecf7d1f5fe7eb2cfc7be8dff",
-            "seqno": 6,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 7,
+            "wire": "300283d5df470683adcebf018ee7cf9beac12cab1b198b9f6e157f04903e2eeb62f13ab04b2ac6c662e7d58e3f0f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f048f72fa38eac71cbfd9ffbecfe4e0f8ff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f2495adcebe639f1ada9b317d58259563633173edc2a3ff0f11b5559bb7cf9fb4bb7e9bf1b20af56b8f5c177ca1f2fd7e6aae8d70e7ec32acdd4af86eb137553aeeec32acdd4af86eaef9f1ada9b31f",
             "headers": [
                 {
                     ":method": "GET"
@@ -307,12 +302,11 @@
                 {
                     "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A; cl_def_lang=en; cl_def_hp=shoals"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce3177418cdb6d8897a159416a8448d7e5448e0847d163004bd0aca0b542244c2179beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a9217528e88f9c4130874ff41fd75795a521b508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f7293ce3177b00219b50b8112f42b282d50891afc835fb44aeebeddfd67ebfeef82e7cfdddf577cecf7d1f5fe7eb2cfc7be8dfd5d095dd80e372d0ccad16757425776038dd9bad866d42e1f",
-            "seqno": 7,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 8,
+            "wire": "300283d5df470683adcebf018ee7cf9beac12cab1b198b9f6e157f048b3fae27e0dc2d4bb17fd71f0f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f0484fecffdff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f2495adcebe639f1ada9b317d58259563633173edc2a3ff0f11b5559bb7cf9fb4bb7e9bf1b20af56b8f5c177ca1f2fd7e6aae8d70e7ec32acdd4af86eb137553aeeec32acdd4af86eaef9f1ada9b31f",
             "headers": [
                 {
                     ":method": "GET"
@@ -347,12 +341,11 @@
                 {
                     "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A; cl_def_lang=en; cl_def_hp=shoals"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce3177418cdb6d8897a159416a8448d7e5448a0e300c5afd1118138c3f79beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a92175283fe83fa508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f7293ce3177b00219b50b8112f42b282d50891afc835fb44aeebeddfd67ebfeef82e7cfdddf577cecf7d1f5fe7eb2cfc7be8dfd5d095dd80e372d0ccad16757425776038dd9bad866d42e1f",
-            "seqno": 8,
-            "header_table_size": 4096
+            ]
         },
         {
+            "seqno": 9,
+            "wire": "300283d5df470683adcebf018ee7cf9beac12cab1b198b9f6e157f048b3fae27adb6aef4d4b7fd710f2bb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f00f0484fecffdff0f028c5dd9bcf6e55ddd9fc9c1f87f0f018aabdd97e5352be1625cbf0087536eb96a731b7788f65aefcc9b19c97f0f2495adcebe639f1ada9b317d58259563633173edc2a3ff0f11b5559bb7cf9fb4bb7e9bf1b20af56b8f5c177ca1f2fd7e6aae8d70e7ec32acdd4af86eb137553aeeec32acdd4af86eaef9f1ada9b31f",
             "headers": [
                 {
                     ":method": "GET"
@@ -387,12 +380,9 @@
                 {
                     "cookie": "cl_b=AB2BKbsl4hGM7M4nH5PYWghTM5A; cl_def_lang=en; cl_def_hp=shoals"
                 }
-            ],
-            "wire": "80804284f77778ff4683ce3177418cdb6d8897a159416a8448d7e5448a0e300cdba0b9190938c379beef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a92175283fe83fa508b164bf8f0e91675795a52514f8acbd54ee9e8c0715a223f40874b58c14c54d67f87e422e950b5731f7293ce3177b00219b50b8112f42b282d50891afc835fb44aeebeddfd67ebfeef82e7cfdddf577cecf7d1f5fe7eb2cfc7be8dfd5d095dd80e372d0ccad16757425776038dd9bad866d42e1f",
-            "seqno": 9,
-            "header_table_size": 4096
+            ]
         }
     ],
-    "description": "http2 in Haskell: StaticH - index=yes, reference set=no, huffman=yes",
-    "draft": 5
+    "draft": 7,
+    "description": "http2 in Haskell: StaticH - index=yes, reference set=no, huffman=yes"
 }
