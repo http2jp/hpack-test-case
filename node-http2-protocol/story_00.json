@@ -18,7 +18,7 @@
         }
       ],
       "header_table_size": 4096,
-      "wire": "82870388f4466d6912d2717787"
+      "wire": "82874388ea9adad7d4d7fd6f87"
     },
     {
       "seqno": 1,
@@ -37,7 +37,7 @@
         }
       ],
       "header_table_size": 4096,
-      "wire": "028bdb6d89e88cdad225a4e2ef83"
+      "wire": "428ce7cf9bfd535b5afa9affadff83"
     },
     {
       "seqno": 2,
@@ -56,7 +56,7 @@
         }
       ],
       "header_table_size": 4096,
-      "wire": "0187e44f45699138bb039905688c860116b820e38274602db9365642534c5a0f591cccbf8384"
+      "wire": "4188f67fab2da9ff5bff439a3b2d4d4bc4ee6de7c6f23aadb8f636a6e6bb1cc28084a47efbaa8384"
     }
   ],
   "draft": 5,

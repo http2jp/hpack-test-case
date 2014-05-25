@@ -27,7 +27,7 @@
         }
       ],
       "header_table_size": 4096,
-      "wire": "8702881f3468e58912dd3f86853d87cdc84f2962308f240878787878787878310085f397315adb84d9af5e1f"
+      "wire": "8742885f44db7d8b7d4db786857e88aef4abdb33978bbf1f1687e9d3a74e9d3a0f4086e99ab5d9637f84e6dc2ca7"
     },
     {
       "seqno": 1,
@@ -52,7 +52,7 @@
         }
       ],
       "header_table_size": 4096,
-      "wire": "020878787878787878328283"
+      "wire": "1f1787e9d3a74e9d3a1781"
     }
   ],
   "draft": 5,
