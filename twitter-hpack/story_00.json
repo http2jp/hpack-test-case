@@ -1,8 +1,7 @@
 {
-  "draft": 5,
+  "draft": 7,
   "cases": [
     {
-      "seqno": 0,
       "headers": [
         {
           ":method": "GET"
@@ -17,11 +16,9 @@
           ":path": "/"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "82870388f4466d6912d2717787"
+      "wire": "82874388ea9adad7d4d7fd6f87"
     },
     {
-      "seqno": 1,
       "headers": [
         {
           ":method": "GET"
@@ -36,11 +33,9 @@
           ":path": "/"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "028bdb6d89e88cdad225a4e2ef83"
+      "wire": "428ce7cf9bfd535b5afa9affadff83"
     },
     {
-      "seqno": 2,
       "headers": [
         {
           ":method": "GET"
@@ -55,10 +50,9 @@
           ":path": "/images/top/sp2/cmn/logo-ns-130528.png"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0187e44f45699138bb039905688c860116b820e38274602db9365642534c5a0f591cccbf8384"
+      "wire": "4188f67fab2da9ff5bff439a3b2d4d4bc4ee6de7c6f23aadb8f636a6e6bb1cc28084a47efbaa8384"
     }
   ],
-  "description": "twitter/hpack 117e759",
+  "description": "twitter/hpack",
   "context": "request"
 }

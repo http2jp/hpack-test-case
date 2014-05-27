@@ -1,8 +1,7 @@
 {
-  "draft": 5,
+  "draft": 7,
   "cases": [
     {
-      "seqno": 0,
       "headers": [
         {
           ":method": "GET"
@@ -32,11 +31,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "82870387f443301f323f5f873dbeef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a921717af88f9c4338e8be9439cb5251153581e79c745ffcf3d17d287396a4a22a6b03cf45f5795a5259d3fd07f5d5e569495ff168b164bf8f0e91675795a5251168acbd54ee9e8c0715a223f00874b58c14c54d67f87e422e950b5731f"
+      "wire": "82874387ea9ba95f47f0e3877eb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f058b072fa38f5badb32a6fbec6292e636e3f4add6d9fe74b6cca9befb18a4b98db8fd2db3b3f9383f2e5fecffdf67f2707e4f578c5dd9bcf6e55ddd9fc9c1f87f578aabdd97e5352be1625cbf4087536eb96a731b7788f65aefcc9b19c97f"
     },
     {
-      "seqno": 1,
       "headers": [
         {
           ":method": "GET"
@@ -66,11 +63,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "078adb6d89e886603e647ebf88"
+      "wire": "478be7cf9bfd53752be8fe1c7f88"
     },
     {
-      "seqno": 2,
       "headers": [
         {
           ":method": "GET"
@@ -106,11 +101,9 @@
           "cookie": "t=p; yandexuid=6410453771351949451"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "018bf445f027a21980f991faff08d704b756443f2cdae9bd781f0e5f49ca529ffccd75ff7ee451fdfd7fb3a74fae3de3fc77d0febee2f3de3f4d778e3fe7c37e4dde7fef789f1fafd3e9f5b29f4f29ef41b1edfefddf6ec366bedfc8fdbe75fbb1fcf69aa1ab079a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f3f008fce3177b0036db627a21980f991fa872d998daeeae8f443301f3d5585b4ce62cf44d55469a83593d93d06868a8c"
+      "wire": "418bea9df8bfd53752be8fe1c748d53a9bc6e71ff1773dc8f7d254fb78c00005fbaec93e9a930fd3cbe84ab7cb86b5feaff12f7d41cb3afc78e75f0fdf867a9b9cbe99d65c3cbc7c7ca58baff20de91e1a3e9abeddc35d9a3f0bfb6c93570fc6818d71ff479b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff7f0190adcebe639f9f3e6ff54dd4afa3f8713f6e9874f7f61baa6ea57d38b299e2804208511c62884658258211868a8c"
     },
     {
-      "seqno": 3,
       "headers": [
         {
           ":method": "GET"
@@ -146,11 +139,9 @@
           "cookie": "t=p; yandexuid=6410453771351949451"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "04d404b756443f2cdae9b4c635ede5394a52ff99aebfefdc8a3fbfad3e9e53de8363dbfde6bedfc8fdbe75fbb1fcf69aa44d6f927e8c9ecfece9d3eb8f7a6ffb232fdff9facbf9bf26ef3ff7bfbfbe9a7e09edabf53785"
+      "wire": "44d23a9bc6e71ff1773dc8b783a4e7fc800003f75d927d35261fa7945d7f906f48f0d1f4aecd1f85fdb649ab87e340c6944ffc578dd04bf4255be5c35ab7fd9357a7eff357eb3d4dce5f4cfaf5c51782b447f94785"
     },
     {
-      "seqno": 4,
       "headers": [
         {
           ":method": "GET"
@@ -180,11 +171,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0687f443301f32423f029e058e4d0b81ddbad9f4fd6ffb7f7d6581fe367c1bc7fb72bc2eeecda4525b8d8384858688"
+      "wire": "4687ea9ba95f47f177429f3d8ba9a7dc7bf47197c7f39fedf4ed0c4be72f837d7e97b36eeefadafb14df8d8384858688"
     },
     {
-      "seqno": 5,
       "headers": [
         {
           ":method": "GET"
@@ -217,11 +206,9 @@
           "referer": "http://www.yandex.ru/"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "01930db6d80c49a8b036db60507a21980f9cc473328786828e"
+      "wire": "41953f3e7cce2fa2194fcf9f33b0fd53752be887efbaaf8786828e"
     },
     {
-      "seqno": 6,
       "headers": [
         {
           ":method": "GET"
@@ -254,11 +241,9 @@
           "referer": "http://www.yandex.ru/"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "018f0d1afc112adb934140b6e4d239997f82"
+      "wire": "41903dadc294e6b1b534ec3d8da9afdf755f82"
     },
     {
-      "seqno": 7,
       "headers": [
         {
           ":method": "GET"
@@ -294,11 +279,9 @@
           "cookie": "t=p; yandexuid=6410453771351949451"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0489d124f443301f323f5f02890d9114e6151cf44f47888386"
+      "wire": "4489b54ff54dd4afa3f87142893f34b9559e32286087888386"
     },
     {
-      "seqno": 8,
       "headers": [
         {
           ":method": "GET"
@@ -331,11 +314,9 @@
           "referer": "http://www.yandex.ru/"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "8601a10db6d80c49a8b036db607232184b80c3945ae0db6da54c20176db6d2a61022610f0b8e88f9c4130874ff41fd75795a521b83848a8c"
+      "wire": "8641a53f3e7cce2fa2194fcf9f33de9a978e6a578fb39b79f9f3e79958e27ddcf9f3ccac717d58e34b8f72fa38eac71cbfd9ffbecfe4e0f8ff83848a8c"
     },
     {
-      "seqno": 9,
       "headers": [
         {
           ":method": "GET"
@@ -368,10 +349,9 @@
           "referer": "http://www.yandex.ru/"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "029e0db6d82e0b9f539d2df2e7fdb7b6fcbd3ddfcf42fc3ae6d97c98d239997f8d8283"
+      "wire": "429f3f3e7ccfb8fbb08efbf36fcd5fd1ba37d5d757eba87876a39d9ed735fbeeab8d8283"
     }
   ],
-  "description": "twitter/hpack 117e759",
+  "description": "twitter/hpack",
   "context": "request"
 }

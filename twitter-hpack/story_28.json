@@ -1,8 +1,7 @@
 {
-  "draft": 5,
+  "draft": 7,
   "cases": [
     {
-      "seqno": 0,
       "headers": [
         {
           ":status": "301"
@@ -20,11 +19,9 @@
           "server": "lighttpd"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "088240972e94e39e78375ebf4f4f49395977e615d974955f6ebf1d01302392a5f9c40280f1bf9818918121a486a1813d0e3987e5670e39e7857f"
+      "wire": "4882400f6f92adcebe639f9f3e6fd8cbbd974b2e7d4db4ff5e01306494da97653020db1bc8c40246144c2899129b56ba3f7a86b19556e75f4f"
     },
     {
-      "seqno": 1,
       "headers": [
         {
           ":status": "200"
@@ -78,11 +75,9 @@
           "content-encoding": "gzip"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "8d028ddb83eae308faeff5bf386b290b3d0b582d4c492d4944433d43310003703370faebf96cd5d7b7c83b29f9075f97cc3afe9f30dbd94581d9dbf5b01db7bec0f953b6c0f953d96077fd76d81dff5ecb03afcbc6c0f2fa7cc3b3b7e36053b68b03e9e3f3b03e5f4eab03c9df3b03bfc7b03e5f0fb07978fc43e9e3de1f2fa7cc3bbbfc43afca80f1dbf50eff1707676d01d7e2e0f9797c43e5f3edd50087e91f2b23d34b2b96ed3fdf3b7e76fe38fdbb7bbc30e934f0f94f8f0d9b3f008ce91efc5f6c23bf0cecbeecbf0a53414d454f524947494e3f068cdb5550c338fb6eaafaecbb870085c317f0b5ff86baf8ea7d5c613092771d220120f07dc04c984045a22d1109e8772586baf8f2cefc612d93ce1d33d7c73b797beae2fc72867b3e8eee8d7f2a8485d1fd292501303f0b86ab8e977e615f0088aafbae8559d97ddf88fcc21846fe5673872d04677a697091939495"
+      "wire": "8d428ccf7a555af37737ab5cb38be37e8af4cdf5f0cde1a3ba7ee14003703370faeef29fe1dd9fc4da36f91bbbc7ee6eef3fb9b3e8d6c368effc30d467f061bcb6e761bcb6e861bc3f19d86f0fc6861bbbc7630de3e7f7368effab0db73eb61bcf67dd86f2f3ed61bc68fbb0de1b341bcbe5fa378ecfa9bcf6781bcbcfee6d3e1b0ddde3acdb33fe0de1b28368efd66eed941bcbc7ea6f2fbf7fc34088e99ac666e3c594ff95ef2f7e56fdedf5aff5dfa7e77f48f52fcb56154f3f408be99b8609b5799b7b98dbb10a53414d454f524947494e7f078bcea52ef766efb94da597554085bf04d56a7f86b9b9949556bf7194a2be394c026f9a6e30cb1818026009800dab5d1f6686b9b9b173705f6e9172fa38f5badb3b155a70c56e9fce8d39a46b05656e2d55536601307f0c86557c6ef65d3f4087536eb96a731b7788f65aefcc9b19c97f6e04677a697091939495"
     },
     {
-      "seqno": 2,
       "headers": [
         {
           ":status": "200"
@@ -124,11 +119,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "2893e39e78375ebf4f4f49395977e615d974955f6f3f02927690881021e556606246066d4a1a8209e877088cce1d33d7f87f37e55636619f1683499a7f0084e91d55dd04414b414d0c8bb5fd237f086c4119a5667f0e93f3857102043caacc0c490066d4ccd3404f43bf1992a5f9c40280f1bf9818918121a486a4827a1d8b8c8d8e8f9091939495969a"
+      "wire": "6991adcebe639f9f3e6fd8cbbd974b2e7d4db77f0394a38af299006f1538c40246229a044c8136ad747f488b72fa38fea9e49c55832f775683808a0f4084e99954dd04414b414d4c8bb53d3326a5ce812282422f4e94fcae9ca6401bc54e3100a0c453411cc4836ad7475994da97653020db1bc8c40246144c289a0136ad747f8b8c8d8e8f9091939495969a"
     },
     {
-      "seqno": 3,
       "headers": [
         {
           ":status": "200"
@@ -167,11 +160,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0687ce1d33d756597f0683299537058cb5fd237f086c34326396647f0592771d2201586dd38018920045a4b692427a1d8687898a8b"
+      "wire": "468672fa38eac71f468318e18f458cb53d3326a5ce4896328a347f4594a2be394c121b3f1a8c40283004c324c301b56ba38687898a8b"
     },
     {
-      "seqno": 4,
       "headers": [
         {
           ":status": "200"
@@ -213,11 +204,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0b93a2fba203607955981891814cd299a8484f43bf8b04832214ff048bb5fd237f086c411130662f04927690880d81e5566062480299a696a8c27a1d85868788"
+      "wire": "4b94d6dbb298a5378a9c6201230c730c7322036ad7478b448311083f448bb53d3326a5ce811194231f4494a38af298a5378a9c62014186398a09a1236ad74785868788"
     },
     {
-      "seqno": 5,
       "headers": [
         {
           ":status": "200"
@@ -259,11 +248,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "04927690881021e556606246066d4a1a8109e8778904834cc6af048bb5fd237f086c4119a8583f0492f3857102043caacc0c490066d51354413d0e8586878892"
+      "wire": "4494a38af299006f1538c40246229a044c8036ad747f894483823287448bb53d3326a5ce812284250f4494fcae9ca6401bc54e3100a0c45342334226d5ae8f8586878892"
     },
     {
-      "seqno": 6,
       "headers": [
         {
           ":status": "200"
@@ -305,11 +292,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "04927690881021e556606246066d4a1a6c09e877048325a905048bb5fd237f086c4119a8d6bf0493f3857102043caacc0c490066d529a2c09e877f85868788"
+      "wire": "4494a38af299006f1538c40246229a044c529b56ba3f4484192140ff448bb53d3326a5ce812284a4934494fcae9ca6401bc54e3100a0c453430cc129b56ba385868788"
     },
     {
-      "seqno": 7,
       "headers": [
         {
           ":status": "200"
@@ -354,11 +339,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "88962497fb7cbfd33c99fb97d3e7dfe9bd55ff5f1ebcb6eddbb3670484592654ff048bb5fd237f086c4119a5625f0493f3857102043caacc0c490066d4ccd1309e877f8586878894"
+      "wire": "88966496fd797f92f8cbef173fbf873e10d3f6faf7639f3e79e7448490608a0f448bb53d3326a5ce812282401f4494fcae9ca6401bc54e3100a0c453411cc046d5ae8f8586878894"
     },
     {
-      "seqno": 8,
       "headers": [
         {
           ":status": "200"
@@ -415,11 +398,9 @@
           "cache-control": "no-cache"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "2a8ff89436258a86e7b26f7860fcf8ecd7aa0596e1f1ceaf4f21fafa74f0fe91db97ebe1eb96ddbb766ca9a7030130a61787b2d7f086be166fa51992a5f9c40280f1bf9818918121a486a5013d0e250131a50886baf8ea7d5c6188898a8b939c9fa1a3"
+      "wire": "6a8ffa8ae7825857bd32c7d86bd2eae73faa4595abeae573f10fc73e9f3fb23bf1fe7cbae39f3e79e7a9a7430130a6578765a9a967a99c3fa55994da97653020db1bc8c40246144c289a041b56ba3f650131a54886b9b9949556bf88898a8b939c9fa1a3"
     },
     {
-      "seqno": 9,
       "headers": [
         {
           ":status": "200"
@@ -464,11 +445,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "a30f92771d22035079559818918131a2b68a827a1d058ab2d7f086be91d955f77f8d0c8244a5a2048bb5fd237f086c4112d6292f0993f3857102043caacc0c490046d425a6909e877f8687898a8b8cabadafb1b3b5"
+      "wire": "a34f94a2be394c509bc54e3100918659824982136ad747458965a9a967e9998a6ddf8d4c824443a2448bb53d3326a5ce81192408074994fcae9ca6401bc54e3100a0c25322098a036ad7478687898a8b8cabadafb1b3b5"
     },
     {
-      "seqno": 10,
       "headers": [
         {
           ":status": "200"
@@ -510,11 +489,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0592f3857102083caacc0c48c098d22692427a1d0587b2d7f086bc2ee10d96ebebaeebb7f63bd38f87a72f1ebfab2cbf6eddbb367f058bb5fd237f086c41265425290592a5f9c40261e37f303124014cd14b4d613d0e0d92a5f9c40280f1bf9818918121a486a5213d0e09834256cf88898a8b8c8f97ab"
+      "wire": "4594fcae9ca6409bc54e31009186598466180dab5d1f458765a9a967beeabf4d95eeeea6ebb868a39d7f3e766ceefc4ac6e7cf9e79ff458cb53d3326a5ce81822441041f4594da97653011b6379188050618e60826290dab5d1f4d94da97653020db1bc8c40246144c289a080dab5d1f498344124b88898a8b8c8f97ab"
     },
     {
-      "seqno": 11,
       "headers": [
         {
           ":status": "200"
@@ -553,11 +530,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0792a2fba202406dd38018918131a286a1613d0e02832194ff068bb5fd237f086c34a66341a306927690880901b74e0062480263454d4cc13d0e858788898b"
+      "wire": "4794d6dbb298506cfc6a3100918659811322436ad74742831088bf468bb53d3326a5ce50411920914694a38af298506cfc6a3100a0c32cc10cd0466d5ae8858788898b"
     },
     {
-      "seqno": 12,
       "headers": [
         {
           ":status": "200"
@@ -593,11 +568,9 @@
           "p3p": "policyref=\"http://www.imrworldwide.com/w3c/p3p.xml\", CP=\"NOI DSP COR NID PSA ADM OUR IND UNI NAV COM\""
         }
       ],
-      "header_table_size": 4096,
-      "wire": "c3c33f0384bb85977495b70088fcc21846fe56738787cecb617e99ec310392771d220120ec85404c6240a5688b44427a1dbf940003703370d5c2fe5655eb8c37ecd5c73cf06ebd7e9e9e92596e3e97e3cabf4b2b84955f6ebf4455af0461274b796a883afe5b3578f97787653f20ebf2f9878f7f607ca9da1b7b280f2fa7cc3bfc7b03e9e3de1e3b7ea1d7e546af858687888eb7b8c1"
+      "wire": "c3c37f0384baa65dd395b74088f65aefcc9b19c97f87732d5b78ba720f4394a2be394c026d0b5186596030c53004c006d5ae8fbf944003703370d2bdb6315d705f09fe15b9d7cc73f3e7cdf65b8736e1653cd94adf536d3f3428f7a2f7fa5b67c329bbbca7f86cf1f0368dbe46eef1fb9b678683796dce6cfa359bc7cfee6f0d9a0de7b3c0db33fe0ddde3afe1858687888eb7b8c1"
     },
     {
-      "seqno": 13,
       "headers": [
         {
           ":status": "200"
@@ -636,11 +609,9 @@
           "server": "GFE/2.0"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "cb088324ad6bba0a92a2fba20330f2ab3031230253544d2604f43b0091e91d57dd9c2ece3cfd708477e19d97dd9786bafcaeb37eff0e92a5f9c40280f1bf98189180cad2434d813d0e0792a5f9c40280f1bf981891812da4869b027a1dbb3f3e8cdb5550c338fb6eaafaecbb871d8335192b0e8fb5fd237f086c4a0c4620c34ddcacab0d869fbbb759c83f8b8c8d8e949fa2c3"
+      "wire": "cb48841824924fba4a94d6dbb29888de2a7188048c30cd08cc329b56ba3f4090e9994db9cbb9d99dd6f5e66dee636ec786b9b8dcce1c3f4e94da97653020db1bc8c4024608a6144c529b56ba3f4794da97653020db1bc8c402461926144c529b56ba3fbb7f3f8bcea52ef766efb94da597555d832848614e8fb53d3326a5cf02080329afe3bec62b4d86d5a7bce4f87f8b8c8d8e949fa2c3"
     },
     {
-      "seqno": 14,
       "headers": [
         {
           ":status": "200"
@@ -682,11 +653,9 @@
           "pragma": "no-cache"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "09023335c3c30992f385710190783ee031148131aa26a0427a1d0892771d220120f1bf9818918125a8168b027a1d0892f38571013036e1881888811352868884f43ba607842956652f07aac31b39bf3844175f1d4fab8c220baf8ea7d5c61b298671f5df7fe6c84418637f4f58f18737f2b2b7e70f0085c317f0b5ff86baf8ea7d5c61898a8c8d8f90"
+      "wire": "49023335c3c34994fcae9ca62137cd3718802030cb34233200dab5d14894a2be394c026d8de46201230c132026094dab5d1f4894fcae9ca6194d9efc0c40006119a044c006d5ae8fa6478418a4218b47a9bf06724b9794d7373292aad794d7373292aad73ed5bb37735becc5e535f837a75cd82f926c652972ff4085bf04d56a7f86b9b9949556bf898a8c8d8f90"
     },
     {
-      "seqno": 15,
       "headers": [
         {
           ":status": "200"
@@ -722,11 +691,9 @@
           "server": "GFE/2.0"
         }
       ],
-      "header_table_size": 4096,
       "wire": "8b"
     },
     {
-      "seqno": 16,
       "headers": [
         {
           ":status": "200"
@@ -765,11 +732,9 @@
           "server": "QS"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0088aafbae8559d97ddf84ab95f9438c3f1d04677a69700893a5f9c40288fc6fe7198918121a486a5413d0ef3f2588a063186e995bce5f23937e1872b2a7e765f76be91fe1fcdf9558d9867f07a7c31b39bf3844175f1e78beecb7df8db105ba659c78c39bf9595bf384416bfa46fe10d928a5623f0a92a5f9c40421e37f3031230243490d4a827a1d0e833362ff0d92a5f9c40280f1bf9818918121a486a5413d0e110251538b8c8d8e8f90919298b3"
+      "wire": "4087536eb96a731b7784558dc57f8c7f1e04677a69704894da9765302336c6f2cc40246144c289a084dab5d17f2688d619817be387814563914df7d8c525cc6dc7e99bd53c938ab065ee47a7bf06724b9794d73733b04dd8f06e16e535bc71766c17c9363294b9794d6a7a664d4b9e2082400f4a94da97653081b6379188048c28985134109b56ba3f4e8322964f4d94da97653020db1bc8c40246144c289a084dab5d1f510251538b8c8d8e8f90919298b3"
     },
     {
-      "seqno": 17,
       "headers": [
         {
           ":status": "200"
@@ -805,11 +770,9 @@
           "server": "QS"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "b336c6b6ad8a162896b64684a2b7c652ef9a11be0c51fbc21d30b31865b28bee880551d0ff58cc4920486921a9504f43bde183f3e3b35fbc2bbed7d976c93f5a3eecf2863ce12557db1db9ebf96cd5e3e5de1d94fc83afcbe61e3dfd81d7f4f9bc36f650f0ecedfabc3e54edbc3e54f65e1e5f4f9853b687877f8f6075f9501e3b7ebabf07a1c31b39bf3844175f1d4fab8c220baf8f2cefc6110618dfd3d63c61cdfcacadf9c38e0793eec6c880521b74e004c996046d1168884f43bf958788898a8b8c8d99"
+      "wire": "b376c8b553c212c232492e64408a539862e11af32572c25d865f4bd982f19f5b6eca608736b4f5cc4030185130a2682136ad74761af4bab9cfd86a5b6a5974efff38a6e762bc392df536df5db9eef29fe1b3c7c0da36f91bbbc7ee6d9e1a0ddde7f749b3e8d69368effc24de5b73b4de5b7434de3e7f736dcfad26f0d9a0ddde3acdb33fe3e147a1bf06724b9794d7373292aad794d737362e6e0bca6bf06f4eb9b05f24d8ca52e5ff8e4794d383329820367e3518658e43094c013001b56ba3958788898a8b8c8d99"
     },
     {
-      "seqno": 18,
       "headers": [
         {
           ":status": "200"
@@ -839,11 +802,9 @@
           "cache-control": "private, no-transform, max-age=1209600"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "8a998d0193a5f9c4053078dfcc0c48c090d24352a09e877f08832248ff1088fcc21846fe567387059bc31b39bf3844175f1e78beecb7df8db105afe91bf8436118b2511f8586878889929399bb"
+      "wire": "8a998d4194da976530c66d8de46201230a26144d0426d5ae8f488311803f5088f65aefcc9b19c97f459bbf06724b9794d73733b04dd8f06e16e535a9e999352e712096200f8586878889929399bb"
     },
     {
-      "seqno": 19,
       "headers": [
         {
           ":status": "204"
@@ -876,11 +837,9 @@
           "pragma": "no-cache"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "2382314f0592a2fba20120f07dc04c60808b445a2213d0ef05013004b1c31b39bf3844175f1d4fab8c220baf8ea7d5c61b298671f5df7fe6c844175f1e59df8c220c31bfa7ac78c39bf9595bf38797858788a7"
+      "wire": "c94594d6dbb29804df34dc6196503004c013001b56ba3f45013044b0bf06724b9794d7373292aad794d7373292aad73ed5bb37735becc5e535cdcd8b9b82f29afc1bd3ae6c17c9363294b97f97858788a7"
     },
     {
-      "seqno": 20,
       "headers": [
         {
           ":status": "200"
@@ -940,11 +899,9 @@
           "x-fs-uuid": "8e0b81c43c423fc037b2dad153acf44b"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "a70d8ddb83eae308faeff5bf386b290b0db1e4fbb86cd5cf61ff1c9f770d90ba3d32d5ef0fac31cacbeed85ef0ecbed7d976ce565df985765d2557dbef0f93f3e3b35f0dfaebf96cd5d7b7c83b29f9075f97cc3afe9f30dbd94581d9dbf5b01db7bec0f953b6c0f953d96077fd76d81dff5ecb03afcbc6c0f2fa7cc3b3b7e36053b68b03e9e3f3b03e5f4eab03c9df3b03bfc7b03e5f0fb07978fc43e9e3de1f2fa7cc3bbbfc43afca80f1dbf50eff1707676d01d7e2e0f9797c43e5f3edd53796fc70d3aba7674ebf92f6a32cf1f9fd25fd8d3e9b367f008ce91efc5f6c23bf0cecbeecbf0a53414d454f524947494e0801300786baf8f2cefc611993ce1d33d7c73b797beae2fc72867b3e8eee8d7f3f188485d1fd291792a5f9c40280f1bf9818918121a486a5813d0e2301303f3686ab8e977e615f0686baf8ea7d5c610087e91efca3d34b2b965c0772caa4a2a49a37d4289b71d6fac9487d5bd29ddf8f9091929ca0"
+      "wire": "a74d8ccf7a555af37737ab5cb38be34daeb137553fc394e592c4dd54ebbb371c7e1d86fc2f0c58dba71ec3686da965d3d8cbbd974b2e7d4db7b0de4975739f4dfaeef29fe1dd9fc4da36f91bbbc7ee6eef3fb9b3e8d6c368effc30d467f061bcb6e761bcb6e861bc3f19d86f0fc6861bbbc7630de3e7f7368effab0db73eb61bcf67dd86f2f3ed61bc68fbb0de1b341bcbe5fa378ecfa9bcf6781bcbcfee6d3e1b0ddde3acdb33fe0de1b28368efd66eed941bcbc7ea6f2fbf7fc37795f5ab8f6f4d1d3bbca4ce8c5d87dfce2f70dbce79ff408be99b8609b5799b7b98dbb10a53414d454f524947494e4801304786b9b9b173705f599172fa38f5badb3b155a70c56e9fce8d39a47f1905656e2d55535794da97653020db1bc8c40246144c289a094dab5d1f6301307f3786557c6ef65d3f4686b9b9949556bf4088e99b8639b8f1653f969161be41540854048e0a0447bca94d230a12ae1041bf8f9091929ca0"
     },
     {
-      "seqno": 21,
       "headers": [
         {
           ":status": "200"
@@ -1016,11 +973,9 @@
           "content-length": "1150"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0e87e5670e39e7857f088ab2d7f086be91d955f77f3f1084ddeb9c322488d452cc66a59cd36a2692f3857101987869701891018b4d6d1109e87715832250ff8d94"
+      "wire": "4e86b19556e75f4f488965a9a967e9998a6ddf7f1184dfd5cbc76489f80c51914321471fc36694fcae9ca62237cf8dc620113104c524c006d5ae8f558311843f8d94"
     },
     {
-      "seqno": 22,
       "headers": [
         {
           ":status": "200"
@@ -1059,11 +1014,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "943f1293e39e78375ebf4f4f49395977e615d974955f6f0392771d22029436e9c00c48c049a696a4c27a1d0787b2d7f086bc2ee10483214a7fbfbf0c8bb5fd237f086c34cc6464cf1493eec6c880a50dba7003124014ad24b45813d0ef1192a5f9c40280f1bf9818918121a486a8427a1d88898a8b8c8d8e8f9091929395969798999ab2"
+      "wire": "947f1391adcebe639f9f3e6fd8cbbd974b2e7d4db74394a2be394c311b3f1a8c402460198a09a0236ad747478765a9a967beeabf448310820fbfbf4c8bb53d3326a5ce504642432f5494d383329862367e35188050618a61826094dab5d15194da97653020db1bc8c40246144c289a1036ad747f88898a8b8c8d8e8f9091929395969798999ab2"
     },
     {
-      "seqno": 23,
       "headers": [
         {
           ":status": "200"
@@ -1102,11 +1055,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "c60793f38571014c1e55660624606868b1aa309e877f0787ce1d33d756597fbfbf0783614abf078bb5fd237f086c4094ab42150793eec6c880961e5566062480299a4c69a827a1df88898a8b8c"
+      "wire": "c64794fcae9ca618cde2a7188048c4898259a1236ad747478672fa38eac71fbfbf4783946293478bb53d3326a5ce8018a442214794d383329864378a9c620141863986598a136ad74788898a8b8c"
     },
     {
-      "seqno": 24,
       "headers": [
         {
           ":status": "200"
@@ -1142,11 +1093,9 @@
           "p3p": "policyref=\"http://www.imrworldwide.com/w3c/p3p.xml\", CP=\"NOI DSP COR NID PSA ADM OUR IND UNI NAV COM\""
         }
       ],
-      "header_table_size": 4096,
-      "wire": "1384bb8597740892a5f9c40280f1bf9818918121a486a8827a1d0687b2d7f086be166f990088fcc21846fe56738787cecb617e99ec310592771d220120ec85404c6240a5688b44427a1dbd9a24d5c2fe5655eb8c37ecd5c73cf06ebd7e9e9e92596e3e97e3cabf4b2b84955f6ebf4455af0461274b796a883afe5b3578f97787653f20ebf2f9878f7f607ca9da1b7b280f2fa7cc3bfc7b03e9e3de1e3b7ea1d7e546af8788898a8b8d93a7bc"
+      "wire": "5384baa65dd34894da97653020db1bc8c40246144c289a1136ad747f468765a9a967a99c3f994088f65aefcc9b19c97f87732d5b78ba720f4594a2be394c026d0b5186596030c53004c006d5ae8fbd9a64d2bdb6315d705f09fe15b9d7cc73f3e7cdf65b8736e1653cd94adf536d3f3428f7a2f7fa5b67c329bbbca7f86cf1f0368dbe46eef1fb9b678683796dce6cfa359bc7cfee6f0d9a0de7b3c0db33fe0ddde3afe18788898a8b8d93a7bc"
     },
     {
-      "seqno": 25,
       "headers": [
         {
           ":status": "200"
@@ -1176,11 +1125,9 @@
           "server": "QS"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "bdb1b0bebe09023335b5828384879c9dae"
+      "wire": "bdb1b0bebe49023335b5828384879c9dae"
     },
     {
-      "seqno": 26,
       "headers": [
         {
           ":status": "200"
@@ -1222,11 +1169,9 @@
           "pragma": "no-cache"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "bd0c92f385710190783ee031148131aa26a0427a1d0091e91d57dd9c2ece3cfd708477e19d97dd9786bafcaeb37eff0892771d220120f1bf9818918125a8168b027a1d0692f38571013036e1881888811352868884f43b3f388cdb5550c338fb6eaafaecbb8723842956667f0faac31b39bf3844175f1d4fab8c220baf8ea7d5c61b298671f5df7fe6c84418637f4f58f18737f2b2b7e70f0e869fbbb759c83f0085c317f0b5ff86baf8ea7d5c618fbabbbe"
+      "wire": "bd4c94fcae9ca62137cd3718802030cb34233200dab5d14090e9994db9cbb9d99dd6f5e66dee636ec786b9b8dcce1c3f4894a2be394c026d8de46201230c132026094dab5d1f4694fcae9ca6194d9efc0c40006119a044c006d5ae8f7f398bcea52ef766efb94da59755638418a4222f4fa9bf06724b9794d7373292aad794d7373292aad73ed5bb37735becc5e535f837a75cd82f926c652972ff4e86d5a7bce4f87f4085bf04d56a7f86b9b9949556bf8fbabbbe"
     },
     {
-      "seqno": 27,
       "headers": [
         {
           ":status": "204"
@@ -1259,11 +1204,9 @@
           "pragma": "no-cache"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "b50e937e1872b2a7e765f76be91fe1fcdf9558d9867f3f1804677a6970b691b5b9b484858688898a8b8c9098"
+      "wire": "b54e914df7d8c525cc6dc7e99bd53c938ab065ee7f1904677a6970b691b5b9b484858688898a8b8c9098"
     },
     {
-      "seqno": 28,
       "headers": [
         {
           ":status": "200"
@@ -1305,11 +1248,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "98b39f0b93eec6c8804c3c6fe60624604b690b51284f43bf9e319686dfdd1d3c7e947a74f0f49f3f5fab2cbf6eddbb367f078bb5fd237f086c4128d4c6230b93a74ba2014078dfcc0c490042d399a2909e877f108233478788b9babbbc"
+      "wire": "98b39f4b94d383329808db1bc8c4024619261099111b56ba3f9e71955e7f7d7d3679ebe7d3e7cf53bafe256373e7cf3cff478cb53d3326a5ce8184a196547f4b94dbc6eca6041b637918805061098a3982036ad747508222478788b9babbbc"
     },
     {
-      "seqno": 29,
       "headers": [
         {
           ":status": "200"
@@ -1351,11 +1292,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0592a5f9c402414c30031230116a96d1604f43bf0596ebebaeebb7f63bd38f87a72f1ebfab2cbf6eddbb367f058bb5fd237f086c39452b5cc70592a74ba20120a618018920049a24d4a027a1df05832229470088aafbae8559d97ddf88fcc21846fe5673878788898a8b"
+      "wire": "4594da97653009b6aef3100918026864982536ad747f4595eeeea6ebb868a39d7f3e766ceefc4ac6e7cf9e79ff458cb53d3326a5ce51041249197f4594dbc6eca60136d5de6201418066019a041b56ba3f45831118834087536eb96a731b7788f65aefcc9b19c97f8788898a8b"
     },
     {
-      "seqno": 30,
       "headers": [
         {
           ":status": "200"
@@ -1427,11 +1366,9 @@
           "content-length": "4714"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "bdbc0597dbfe7cf777fcd9f5957bfabfae5f6ff3f7fd5f497a6cd9bb8fbab9b8b71592a5f9c40280f1bf9818918121a486a9213d0eb6b5b4c0c03395126255b8c8b7a950dd54d5124d52932aac5e475cdfb1b0af05834cc49f868788898aa0acae"
+      "wire": "bdbc4596cffbfbeff0fbcbf88a4e1dbf6b3f5fbf7fb3768f39e7bb8fbab9b8b75594da97653020db1bc8c40246144c289a180dab5d1fb6b5b4c0c0739501960877908f08615ef546a180a188655520912a63b1b0af4583823183868788898aa0acae"
     },
     {
-      "seqno": 31,
       "headers": [
         {
           ":status": "200"
@@ -1461,11 +1398,9 @@
           "server": "QS"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0584ab95f943a009a1c31b39bf3844175f1d4fab8c220baf8f2cefc6110618dfd3d63c61cdfcacadf9c30993eec6c880521b74e004c996046d1168884f43bf9e1602515385868889949ab4b5b6babbbcbebfc0c1c2"
+      "wire": "4584558dc57fa049a1bf06724b9794d7373292aad794d737362e6e0bca6bf06f4eb9b05f24d8ca52e5ff4994d383329820367e3518658e43094c013001b56ba39e5602515385868889949ab4b5b6babbbcbebfc0c1c2"
     },
     {
-      "seqno": 32,
       "headers": [
         {
           ":status": "200"
@@ -1501,11 +1436,9 @@
           "p3p": "policyref=\"http://www.imrworldwide.com/w3c/p3p.xml\", CP=\"NOI DSP COR NID PSA ADM OUR IND UNI NAV COM\""
         }
       ],
-      "header_table_size": 4096,
       "wire": "a5bb89a2a1baa0818283849f"
     },
     {
-      "seqno": 33,
       "headers": [
         {
           ":status": "200"
@@ -1547,11 +1480,9 @@
           "pragma": "no-cache"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "9f949e9d9c9b9a19842956672f9998888aa1a2a3a6bbbc"
+      "wire": "9f949e9d9c9b9a598418a4228b9998888aa1a2a3a6bbbc"
     },
     {
-      "seqno": 34,
       "headers": [
         {
           ":status": "204"
@@ -1584,11 +1515,9 @@
           "pragma": "no-cache"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "2c82314f970492a2fba20120f07dc04c60808b445a2213d0ef8a0801308d07b1c31b39bf3844175f1d4fab8c220baf8ea7d5c61b298671f5df7fe6c844175f1e59df8c220c31bfa7ac78c39bf9595bf387859c9da0a1a2a3a4a8b0"
+      "wire": "cc974494d6dbb29804df34dc6196503004c013001b56ba3f8a4801308d47b0bf06724b9794d7373292aad794d7373292aad73ed5bb37735becc5e535cdcd8b9b82f29afc1bd3ae6c17c9363294b97f859c9da0a1a2a3a4a8b0"
     },
     {
-      "seqno": 35,
       "headers": [
         {
           ":status": "200"
@@ -1660,11 +1589,9 @@
           "content-length": "4714"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "b0068ddb83eae308faeff5bf386b290b3f3ab1e4fbb86cd5cf61ff1c9f770d90ba3d32d5ef0fac31cacbeed85ef0ecbed7d976ce565df985765d2557dbef0f93f3e3b35f27faebf96cd5d7b7c83b29f9075f97cc3afe9f30dbd94581d9dbf5b01db7bec0f953b6c0f953d96077fd76d81dff5ecb03afcbc6c0f2fa7cc3b3b7e36053b68b03e9e3f3b03e5f4eab03c9df3b03bfc7b03e5f0fb07978fc43e9e3de1f2fa7cc3bbbfc43afca80f1dbf50eff1707676d01d7e2e0f9797c43e5f3edd51097f4f897cbbf3c3e14d5f1eaf9f21f97d7f367c7e3fd6cd9008ce91efc5f6c23bf0cecbeecbf0a53414d454f524947494e0801300786baf8f2cefc612193ce1d33d7c73b797beae2fc72867b3e8eee8d7f3f1a8485d1fd291592a5f9c40280f1bf9818918121a486a9813d0e0f01303f3986ab8e977e615f0686baf8ea7d5c611896a877569de675bd3325951d44995558ef54a95af71d7f3f1284ddeb9c323f2288d452cc66a59cd36a2392f3857101987869701891018b4d6d1109e8779b929394959dab"
+      "wire": "b0468ccf7a555af37737ab5cb38be37f3baeb137553fc394e592c4dd54ebbb371c7e1d86fc2f0c58dba71ec3686da965d3d8cbbd974b2e7d4db7b0de4975739f67faeef29fe1dd9fc4da36f91bbbc7ee6eef3fb9b3e8d6c368effc30d467f061bcb6e761bcb6e861bc3f19d86f0fc6861bbbc7630de3e7f7368effab0db73eb61bcf67dd86f2f3ed61bc68fbb0de1b341bcbe5fa378ecfa9bcf6781bcbcfee6d3e1b0ddde3acdb33fe0de1b28368efd66eed941bcbc7ea6f2fbf7fc35096e7f51f2f075ff2daafaf6fdec0f2fc7b33ebf5fb4f3f408be99b8609b5799b7b98dbb10a53414d454f524947494e4801304786b9b9b173705f619172fa38f5badb3b155a70c56e9fce8d39a47f1b05656e2d55535594da97653020db1bc8c40246144c289a194dab5d1f4f01307f3a86557c6ef65d3f4686b9b9949556bf5897506fa60e0454a608e09544a18228690e10c504926f2a7f7f1384dfd5cbc77f2389f80c51914321471fc36394fcae9ca62237cf8dc620113104c524c006d5ae8f9b929394959dab"
     },
     {
-      "seqno": 36,
       "headers": [
         {
           ":status": "200"
@@ -1700,11 +1627,9 @@
           "p3p": "policyref=\"http://www.imrworldwide.com/w3c/p3p.xml\", CP=\"NOI DSP COR NID PSA ADM OUR IND UNI NAV COM\""
         }
       ],
-      "header_table_size": 4096,
       "wire": "c8bcbab9b8b782838485888a8b8c8d8e8f9091929cabb1"
     },
     {
-      "seqno": 37,
       "headers": [
         {
           ":status": "200"
@@ -1734,11 +1659,9 @@
           "server": "QS"
         }
       ],
-      "header_table_size": 4096,
       "wire": "9b9a99b6988687a0b7b8b9bc"
     },
     {
-      "seqno": 38,
       "headers": [
         {
           ":status": "200"
@@ -1780,11 +1703,9 @@
           "pragma": "no-cache"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "abb5b4b3b2b108842956681fb0af8a999a9b9c"
+      "wire": "abb5b4b3b2b1488418a42407b0af8a999a9b9c"
     },
     {
-      "seqno": 39,
       "headers": [
         {
           ":status": "200"
@@ -1817,11 +1738,9 @@
           "pragma": "no-cache"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "968a15023433a29582b0b1b4b5b6b7b8"
+      "wire": "968a55023433a29582b0b1b4b5b6b7b8"
     },
     {
-      "seqno": 40,
       "headers": [
         {
           ":status": "200"
@@ -1893,11 +1812,9 @@
           "content-length": "6176"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "9413bdcb96cd55c39433805b0d5ef0fac31cacbeed85ef0a1fd23dbc21b07de1dbd30b31865b1dc748804a3f07dd193261011688b48427a1def0f93f3e3b35ff931218765a484479526a756951436b685a427a7978477172673d3d9291908f8e0d92a5f9c40280f1bf9818918121a4968904f43b0501338d8c0b95dd5b0aa454c25c20b608bd2b53066455b889ef7c3f8b8a0993eec6c880e60f1bf98188b006569ccd3209e877078394a69788929c9e"
+      "wire": "9453bdc6c9fe14aec5b966b57f0ec37e17862c6dd38f61b5a7a66cf52e70ec377f4bd982f19e8af8e5300e6f9a6ecc32c60600980261036ad74761bc92eae73f935297e5fbf968ebf7f5e2cfb777b57fbedf7ebd357f30aa79ff9291908f8e4d93da97653020db1bc8c40246144c304c026d5ae84501338d8c4b95df4ca2a42a51916b925004c12432846856f114a52b8b8a4994d3833298a336c6f231004a608a628e62136ad747478388638b88929c9e"
     },
     {
-      "seqno": 41,
       "headers": [
         {
           ":status": "200"
@@ -1939,11 +1856,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "3f1493e39e78375ebf4f4f49395977e615d974955f6f039276908804c3caacc0c48c0666a90d3404f43b168cce1d33d7f87f37e55636619f04834891ff0084e91d55dd04414b414d148bb5fd237f086c35cca325b31c93f385710098795598189200666aa669104f43bfc1c10c92a5f9c40280f1bf9818918121a4968984f43b898a8b8c8d8e8f949597989b9c9d9e9fa1be"
+      "wire": "7f1591adcebe639f9f3e6fd8cbbd974b2e7d4db74394a38af29808de2a7188048c11cd0a26241b56ba3f568b72fa38fea9e49c55832f7744838004bf4084e99954dd04414b414d548cb53d3326a5ce5247090c92ff5c94fcae9ca602378a9c6201418239a18e61136ad747c1c14c93da97653020db1bc8c40246144c304c046d5ae8898a8b8c8d8e8f949597989b9c9d9e9fa1be"
     },
     {
-      "seqno": 42,
       "headers": [
         {
           ":status": "200"
@@ -1985,11 +1900,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0793a2fba203607955981891814cd299a8484f43bf0787b2d7f086bc2ee13f3c8cdb5550c338fb6eaafaecbb87088294d7078bb5fd237f086c42164c19bfc1c10792f3857101187642a031230295a86345813d0e88898b8c8d"
+      "wire": "4794d6dbb298a5378a9c6201230c730c7322036ad747478765a9a967beeabf7f3d8bcea52ef766efb94da59755488288a4478bb53d3326a5ce844832847fc1c14794fcae9ca6123685a8c4024618a644b304a6d5ae8f88898b8c8d"
     },
     {
-      "seqno": 43,
       "headers": [
         {
           ":status": "200"
@@ -2034,11 +1947,9 @@
           "x-li-uuid": "KMg5e7HswhIQwgDTIysAAA=="
         }
       ],
-      "header_table_size": 4096,
-      "wire": "3f1b04677a69700483214a7f048bb5fd237f086c4125832a4f0493a74ba2014078dfcc0c490022d42da2909e877f0a93eec6c8804c3c6fe60624604b6a256a0c27a1df1996fe68e0a84df0cbd38f7ff5e9c3b1ddfeb96ddbb766cf8788898c"
+      "wire": "7f1c04677a6970448310820f448bb53d3326a5ce8182508a024494dbc6eca6041b637918805060099124c101b56ba34a94d383329808db1bc8c4024619264453208dab5d1f5995fa6baa15c7f2c79d7e1f6e7568a3c3ae39f3e79e7f8788898c"
     },
     {
-      "seqno": 44,
       "headers": [
         {
           ":status": "200"
@@ -2080,11 +1991,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0292f3857102083caacc0c48c045a62d1584f43b0c87ce1d33d756597f078329986b078bb5fd237f086c411a0665270793771d22041079559818920045a72b51284f43bf3d88fcc21846fe5673878788898a8b91"
+      "wire": "4294fcae9ca6409bc54e310091802620982436ad747f4c8672fa38eac71f478418e5293f478bb53d3326a5ce81240470c14794a2be394c81378a9c620141802628a64446d5ae8f7d88f65aefcc9b19c97f8788898a8b91"
     },
     {
-      "seqno": 45,
       "headers": [
         {
           ":status": "200"
@@ -2129,11 +2038,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "06927690880d01e556606246042d216a4427a1df0897fb7cbfd33c99fb97d3e7dfe9bd55ff5f1ebcb6eddbb3670683225ca8068cb5fd237f086c40aa64b132ff0693f3857101a03caacc0c490042d295a6b09e877f8788898b"
+      "wire": "4693a38af298906f1538c402461098426800dab5d14896fd797f92f8cbef173fbf873e10d3f6faf7639f3e79e746841192247f468cb53d3326a5ce80863825822f4694fcae9ca6241bc54e3100a0c2130c531486d5ae8f8788898b"
     },
     {
-      "seqno": 46,
       "headers": [
         {
           ":status": "200"
@@ -2175,11 +2082,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0592a2fba20330f2ab3031230299a42d4984f43b9e04839a6122048bb5fd237f086c40a8912ad904927690880cc3caacc0c4900533494d4104f43b85868788898e"
+      "wire": "4593d6dbb29888de2a7188048c31cc2134046d5ae89e44838e3011448cb53d3326a5ce8084511492ff4494a38af29888de2a7188050618e61866409b56ba3f85868788898e"
     },
     {
-      "seqno": 47,
       "headers": [
         {
           ":status": "200"
@@ -2200,11 +2105,9 @@
           "date": "Sat, 03 Nov 2012 13:14:05 GMT"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "3e0a44434c4b2d41645376720f937e1872b2a7e765f76be91fe1fcdf9558d9867f0582428f1f92a5f9c40280f1bf9818918121a4968a827a1d858687888e9da0a3a5a7"
+      "wire": "7e0a44434c4b2d41645376724f914df7d8c525cc6dc7e99bd53c938ab065ee458244255f94da97653020db1bc8c40246144c304c109b56ba3f858687888e9da0a3a5a7"
     },
     {
-      "seqno": 48,
       "headers": [
         {
           ":status": "200"
@@ -2276,11 +2179,9 @@
           "content-length": "6176"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "048ddb83eae308faeff5bf386b290bafc1aebf9e0085c317f0b5ff86baf8ea7d5c61bfbe0587b2d7f086be166fbd0492a5f9c40280f1bf9818918121a4968a427a1d2f0131bc93bbafb9b8aead86878889"
+      "wire": "448ccf7a555af37737ab5cb38be3afc1aebf9e4085bf04d56a7f86b9b9949556bfbfbe458765a9a967a99c3fbd4494da97653020db1bc8c40246144c304c101b56ba3f6f0131bc93bbafb9b8aead86878889"
     },
     {
-      "seqno": 49,
       "headers": [
         {
           ":status": "200"
@@ -2313,11 +2214,9 @@
           "connection": "Keep-Alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0d93eec6c8804c3c6fe60624602c689b51304f43bf0b93eec6c880581e37f303123016344da89827a1df05937e1872b2a7e765f76bbeacb08f186585f7650f0093aafbb385d9c79e2fbb2df0c6385d55f5d9770f85dd65cfc7d70b83225cbf10a6b5fd237f086c50a10471061a6ee5655105d7c79e2fbb2df7e36c416e99671e30e6fe5656fce18c0088baeaaf8559d97ddf84ab95f9431a88fe610c23dbcace70898a8b8c8d9ba6aab5b6b7babbc0c1c3"
+      "wire": "4d94d383329808db1bc8c4024609660299119b56ba3f4b94d38332982536c6f2310091825980a64466d5ae8f45924df7d8c525cc6dc76ab1bf360bc6f6dd8aff4092536e72ee7667609bb1e0bc332ee536965d5785decb93875f4b8311922f50a6b53d3326a5cf082102594d7f1df631594d73733b04dd8f06e16e535bc71766c17c9363294b978c4087bae5356a731b7784558dc57f5a88fa2d77e6cf63392f898a8b8c8d9ba6aab5b6b7babbc0c1c3"
     },
     {
-      "seqno": 50,
       "headers": [
         {
           ":status": "200"
@@ -2353,11 +2252,9 @@
           "p3p": "policyref=\"http://www.imrworldwide.com/w3c/p3p.xml\", CP=\"NOI DSP COR NID PSA ADM OUR IND UNI NAV COM\""
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0d84bb8597740b92a5f9c40280f1bf9818918121a4968ca13d0e8d3f3c86ab8e977e615f9e0088fcc21846fe56738787cecb617e99ec310b92771d220120ec85404c6240a5688b44427a1d91c3c30886baf8ea7d5c610003703370d5c2fe5655eb8c37ecd5c73cf06ebd7e9e9e92596e3e97e3cabf4b2b84955f6ebf4455af0461274b796a883afe5b3578f97787653f20ebf2f9878f7f607ca9da1b7b280f2fa7cc3bfc7b03e9e3de1e3b7ea1d7e546af88898a8b8c8d8e8f95"
+      "wire": "4d84baa65dd34b94da97653020db1bc8c40246144c304c111b56ba3f8d7f3d86557c6ef65d3f9e4088f65aefcc9b19c97f87732d5b78ba720f4b94a2be394c026d0b5186596030c53004c006d5ae8f91c3c34886b9b9949556bf4003703370d2bdb6315d705f09fe15b9d7cc73f3e7cdf65b8736e1653cd94adf536d3f3428f7a2f7fa5b67c329bbbca7f86cf1f0368dbe46eef1fb9b678683796dce6cfa359bc7cfee6f0d9a0de7b3c0db33fe0ddde3afe188898a8b8c8d8e8f95"
     },
     {
-      "seqno": 51,
       "headers": [
         {
           ":status": "200"
@@ -2387,11 +2284,9 @@
           "server": "QS"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "c90984ab95f94304a1c31b39bf3844175f1d4fab8c220baf8f2cefc6110618dfd3d63c61cdfcacadf9c30693eec6c880521b74e004c996046d1168884f43bf0f0233350c0251538788898a8b8da8"
+      "wire": "c94984558dc57f44a1bf06724b9794d7373292aad794d737362e6e0bca6bf06f4eb9b05f24d8ca52e5ff4694d383329820367e3518658e43094c013001b56ba34f0233354c0251538788898a8b8da8"
     },
     {
-      "seqno": 52,
       "headers": [
         {
           ":status": "200"
@@ -2433,11 +2328,9 @@
           "pragma": "no-cache"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "b31592f385710190783ee031148131aa26a0427a1d0091e91d57dd9c2ece3cfd708477e19d97dd9786bafcaeb37eff0e92771d220120f1bf9818918125a8168b027a1d0692f38571013036e1881888811352868884f43bbb1a842956689b09aac31b39bf3844175f1d4fab8c220baf8ea7d5c61b298671f5df7fe6c84418637f4f58f18737f2b2b7e70f07869fbbb759c83f888a8b8c93"
+      "wire": "b35594fcae9ca62137cd3718802030cb34233200dab5d14090e9994db9cbb9d99dd6f5e66dee636ec786b9b8dcce1c3f4e94a2be394c026d8de46201230c132026094dab5d1f4694fcae9ca6194d9efc0c40006119a044c006d5ae8fbb5a8418a4244749a9bf06724b9794d7373292aad794d7373292aad73ed5bb37735becc5e535f837a75cd82f926c652972ff4786d5a7bce4f87f888a8b8c93"
     },
     {
-      "seqno": 53,
       "headers": [
         {
           ":status": "200"
@@ -2473,11 +2366,9 @@
           "server": "GFE/2.0"
         }
       ],
-      "header_table_size": 4096,
       "wire": "babe"
     },
     {
-      "seqno": 54,
       "headers": [
         {
           ":status": "204"
@@ -2510,11 +2401,9 @@
           "pragma": "no-cache"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0d82314fbfbb0592a2fba20120f07dc04c60808b445a2213d0ef950b0130b205b1c31b39bf3844175f1d4fab8c220baf8ea7d5c61b298671f5df7fe6c844175f1e59df8c220c31bfa7ac78c39bf9595bf38785868788898a8b8d91"
+      "wire": "cbbfbb4594d6dbb29804df34dc6196503004c013001b56ba3f954b0130b245b0bf06724b9794d7373292aad794d7373292aad73ed5bb37735becc5e535cdcd8b9b82f29afc1bd3ae6c17c9363294b97f85868788898a8b8d91"
     },
     {
-      "seqno": 55,
       "headers": [
         {
           ":status": "200"
@@ -2565,11 +2454,9 @@
           "content-encoding": "gzip"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "91a53f390b582d4c492d4944433d433113faebf96cd5d7b7c83b29f9075f97cc3afe9f30dbd94581d9dbf5b01db7bec0f953b6c0f953d96077fd76d81dff5ecb03afcbc6c0f2fa7cc3b3b7e36053b68b03e9e3f3b03e5f4eab03c9df3b03bfc7b03e5f0fb07978fc43e9e3de1f2fa7cc3bbbfc43afca80f1dbf50eff1707676d01d7e2e0f9797c43e5f3edd5008ce91efc5f6c23bf0cecbeecbf0a53414d454f524947494e3f3b8cdb5550c338fb6eaafaecbb870f92f3857101986dd380189180b1aa5352613d0e2393ce1d33d7c73b797beae2fc72867b3e8eee8d7f3f1b8485d1fd291092a5f9c40280f1bf9818918121a4968ac27a1d0087e91efca3d34b2b9548ca7beb4efa96cdd2a132c207ba526285ec5a45ea3a95fea7f8b1cbb377d87769fc9cff5ebc38edc3fad9b3aba03f1a04677a69708c8d8e8fa2aeaf"
+      "wire": "91a57f3a8af4cdf5f0cde1a3ba7ee153faeef29fe1dd9fc4da36f91bbbc7ee6eef3fb9b3e8d6c368effc30d467f061bcb6e761bcb6e861bc3f19d86f0fc6861bbbc7630de3e7f7368effab0db73eb61bcf67dd86f2f3ed61bc68fbb0de1b341bcbe5fa378ecfa9bcf6781bcbcfee6d3e1b0ddde3acdb33fe0de1b28368efd66eed941bcbc7ea6f2fbf7fc3408be99b8609b5799b7b98dbb10a53414d454f524947494e7f3c8bcea52ef766efb94da597554f94fcae9ca622367e35188048c12cd0c334046d5ae8639172fa38f5badb3b155a70c56e9fce8d39a47f1c05656e2d55535094da97653020db1bc8c40246144c304c121b56ba3f4088e99b8639b8f1653f9780222e14c1c1524bbe244112d65be2196104cb2400987f7a95fb6afacb448cdffa0dfc7e85abf1dd7d79effb4f3faba07f1b04677a69708c8d8e8fa2aeaf"
     },
     {
-      "seqno": 56,
       "headers": [
         {
           ":status": "200"
@@ -2641,11 +2528,9 @@
           "content-length": "0"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0bbdcb96cd55c39433805b0d5ef0fac31cacbeed85ef0a1fd23dbc21b07de1dbd30b31865b1dc748804a3f07dd193261011688b48427a1def0f93f3e3b35ff0396c7b3975cf478fe30c71cbe3f4f2a30f871f0eff4d9b3b11092771d220120f07dc04c984045a22d1109e8770f86baf8f2cefc610892a5f9c40280f1bf9818918121a4968b027a1d1701302188fcc21846fe567387a50a95dd5b0aa454c25c20b608bd2b53066455b889ef7c3f3f1184ddeb9c323f2288d452cc66a59cd36a1193eec6c880e60f1bf98188b006569ccd3209e877988d8e8f9296b7"
+      "wire": "4bbdc6c9fe14aec5b966b57f0ec37e17862c6dd38f61b5a7a66cf52e70ec377f4bd982f19e8af8e5300e6f9a6ecc32c60600980261036ad74761bc92eae73f4396c3459ddab5ecf5bf0c31faf9f8ebbfe55fcfc39cf3ffb15094a2be394c026f9a6e30cb1818026009800dab5d1f4f86b9b9b173705f4894da97653020db1bc8c40246144c304c129b56ba3f5701306188f65aefcc9b19c97fa54a95df4ca2a42a51916b925004c12432846856f114a52b7f1284dfd5cbc77f2389f80c51914321471fc35194d3833298a336c6f231004a608a628e62136ad747988d8e8f9296b7"
     },
     {
-      "seqno": 57,
       "headers": [
         {
           ":status": "200"
@@ -2666,11 +2551,9 @@
           "date": "Sat, 03 Nov 2012 13:14:09 GMT"
         }
       ],
-      "header_table_size": 4096,
       "wire": "bfbebd81828384858688898a8b909193949598a9acbabb"
     },
     {
-      "seqno": 58,
       "headers": [
         {
           ":status": "200"
@@ -2730,11 +2613,9 @@
           "pragma": "no-cache"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "bb9695949392b9908e0a97ebecf93bd75d1f5f4e9fcff5ddfce8cb7d72dbb76ecd9f87ad86aa0a0130bcbfc0"
+      "wire": "bb9695949392b9908e4a96eed1e54753ebfc73e9f4fb69fa7196deb8e7cf9e79ff87ad86aa4a0130bcbfc0"
     },
     {
-      "seqno": 59,
       "headers": [
         {
           ":status": "200"
@@ -2779,11 +2660,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "3f1493e39e78375ebf4f4f49395977e615d974955f6f049276908804c3caacc0c48c0a668b1a9484f43bbfbf0497fb7cbfd33c99fb97d3e7dfe9bd55ff5f1ebcb6eddbb3671d023634bfbf0084e91d55dd04414b414d0f8bb5fd237f086c35ac90b4cd0793771d22014079559818920049a296aa509e877f88898f97999b9d9e9fb2b5"
+      "wire": "7f1591adcebe639f9f3e6fd8cbbd974b2e7d4db74494a38af29808de2a7188048c31cc12cd0406d5ae8fbfbf4496fd797f92f8cbef173fbf873e10d3f6faf7639f3e79e75d023634bfbf4084e99954dd04414b414d4f8cb53d3326a5ce5248289208ff4794a2be394c08378a9c6201418066082686236ad74788898f97999b9d9e9fb2b5"
     },
     {
-      "seqno": 60,
       "headers": [
         {
           ":status": "200"
@@ -2825,11 +2704,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "248ddb83eae308faeff5bf386b290b0792f3857102083caacc0c48c098d22692427a1d1c87b2d7f086bc2ee10895b36cd956cb9de9c7bffa86fcb5fc7af2dbb76ecd9f068bb5fd237f086c41265420990692a5f9c40261e37f303124014cd136a5613d0e0a82945188898a8b8c8d"
+      "wire": "648ccf7a555af37737ab5cb38be34794fcae9ca6409bc54e31009186598466180dab5d1f5c8765a9a967beeabf48946678f1a65ba8e75f87d97c313fd7bb1cf9f3cf3f468bb53d3326a5ce81822420654694da97653011b6379188050618e6029a090dab5d1f4a82881188898a8b8c8d"
     },
     {
-      "seqno": 61,
       "headers": [
         {
           ":status": "200"
@@ -2865,11 +2742,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "01832254bf0793eec6c880961b70c40c45604b68a1aa484f43bf14882315a924b424447f0a8bf08679fafb6590a4397ddf8e078bb5fd237f086c513254cd370793f385710098783ee03124014ad49b46609e877f1d92a5f9c40280f1bf9818918121a4969084f43b88898a8b8d8e959ea3aa"
+      "wire": "418311862f4794d383329864367bf031004861926044d0c06d5ae8548812092180644400014a8bf9adceebfd44f8be517c7f8e478bb53d3326a5cf08cb1411c74794fcae9ca60237cd37188050618a680a608cdab5d15d93da97653020db1bc8c40246144c304c206d5ae888898a8b8d8e959ea3aa"
     },
     {
-      "seqno": 62,
       "headers": [
         {
           ":status": "200"
@@ -2905,11 +2780,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "07834266970792771d220120a618018910121a995a2b09e877c0c00788241256b4cd2ac447068bb5fd237f086c361a512cab06927690880561e55660624801169ada8584f43b87888a8b8c"
+      "wire": "47834411c54794a2be394c026dabbcc40226144d04530486d5ae8fc0c04789140c1249047148001f468cb53d3326a5ce5294088a293f4694a38af29824378a9c620141802629264486d5ae8f87888a8b8c"
     },
     {
-      "seqno": 63,
       "headers": [
         {
           ":status": "200"
@@ -2945,11 +2818,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "c8068324caaf0693f3857101283b215018908131aa95a2c09e877f06882361a526c958223f068bb5fd237f086c54c68134ff06927690880561e0fb80c49004b6aa66a9213d0e8788898a8b"
+      "wire": "c846831822874694fcae9ca6184da16a3100818659a18a6094dab5d146881294a080a58a5000468bb53d3326a5cf0c6480283f4695a38af2982437cd37188050619268639a180dab5d1f8788898a8b"
     },
     {
-      "seqno": 64,
       "headers": [
         {
           ":status": "200"
@@ -2985,11 +2856,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "058329855f0593f385710120287fa8188b00656a6668ca13d0ef0588234993263394447f058cb5fd237f086c35cc534c737f05927690880483caacc0c490066d336aa609e877868788898a"
+      "wire": "458318c21f4595fcae9ca6141b5a7a98802530453411cc111b56ba3f458812808658c8a2000f458cb53d3326a5ce524631c651ff4594a38af29804de2a7188050622988a686336ad747f868788898a"
     },
     {
-      "seqno": 65,
       "headers": [
         {
           ":status": "200"
@@ -3025,11 +2894,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "05832992bf0593a2fba20240774370189180a5a52b54909e877f0588241b08659492223f058bb5fd237f086c364a48141f0592a5f9c40461e5566062480199a296a4c27a1d868788898a"
+      "wire": "458318e0934594d6dbb298506d2bde62012304130c534301b56ba345881414a21144300007458bb53d3326a5ce52c42804174594da97653091bc54e3100a0c11cc104d011b56ba3f868788898a"
     },
     {
-      "seqno": 66,
       "headers": [
         {
           ":status": "200"
@@ -3065,11 +2932,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "058332257f0592a2fba201943c34b80c488089a6b69ac27a1d0588240cc8532615888f058bb5fd237f086c361a94295f05927690880561e556606248014350b692c27a1d868788898a"
+      "wire": "458321187f4594d6dbb2982237cf8dc62011308cc524c521b56ba345881404688658c24000458cb53d3326a5ce52943084127f4594a38af29824378a9c6201418113224986436ad747868788898a"
     },
     {
-      "seqno": 67,
       "headers": [
         {
           ":status": "200"
@@ -3105,11 +2970,9 @@
           "x-cdn": "AKAM"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "058331955f0593eec6c880941b74e00622b0195a85350909e87705882325ccb32424447f058bb5fd237f086c34316c4cc90593771d2201586dd38018920052d52da9484f43bf868788898a"
+      "wire": "4583208a1f4595d383329861367e351880243045322199101b56ba3f45881219239085100007458cb53d3326a5ce489649608e0f4595a2be394c121b3f1a8c4028304134324d0406d5ae8f868788898a"
     },
     {
-      "seqno": 68,
       "headers": [
         {
           ":status": "200"
@@ -3145,11 +3008,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "058329a69b0593a74ba2019436e188188ac0a56a52d4884f43bf0587231994226b1111058bb5fd237f086c3489292a5f0592771d2201586dd3801892008da44d4ac27a1d868788898a"
+      "wire": "458318e38f4595dbc6eca6088d9efc0c401218629a0826800dab5d1f45881208e1002900003f458cb53d3326a5ce5000c304327f4594a2be394c121b3f1a8c40283094c2334121b56ba3868788898a"
     },
     {
-      "seqno": 69,
       "headers": [
         {
           ":status": "200"
@@ -3185,11 +3046,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "058335225f0592a74ba2029836e188189101134e568884f43b0588240a050c54a2223f058bb5fd237f086c40b192aa610593a2fba203587955981892006669a1a9109e877f0088aafbae8559d97ddf88fcc21846fe5673878788898a8b"
+      "wire": "45832851174594dbc6eca618cd9efc0c402261198a29800dab5d1f458814020112c3100007458cb53d3326a5ce809658a18c3f4594d6dbb298a4378a9c620141823989134006d5ae8f4087536eb96a731b7788f65aefcc9b19c97f8788898a8b"
     },
     {
-      "seqno": 70,
       "headers": [
         {
           ":status": "200"
@@ -3225,11 +3084,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "068324a55f0693a74ba202487642a031158131a999a6b09e877f068823361ad2295888ff068bb5fd237f086c4109a1672f0693a2fba2035879559818920092d54cd54a13d0ef8788898a8b"
+      "wire": "46831820874695dbc6eca6180da16a3100486196682398a436ad747f468812294a4802090003468bb53d3326a5ce81024485174695d6dbb298a4378a9c6201418609a18e686236ad747f8788898a8b"
     },
     {
-      "seqno": 71,
       "headers": [
         {
           ":status": "200"
@@ -3265,11 +3122,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "058322996a05927690880c83ba1b80c48c052d4a5a7304f43b0588241b2663132cc223058cb5fd237f086c361cb326657fc4c405927690880561e5566062480199a2a69a827a1d868788898a"
+      "wire": "4584118e487f4594a38af29884da57bcc40246082682098a336ad74745891414b1cb2c1146001f458cb53d3326a5ce529451c11c3fc4c44594a38af29824378a9c620141823982198a136ad747868788898a"
     },
     {
-      "seqno": 72,
       "headers": [
         {
           ":status": "200"
@@ -3305,11 +3160,9 @@
           "p3p": "policyref=\"http://www.imrworldwide.com/w3c/p3p.xml\", CP=\"NOI DSP COR NID PSA ADM OUR IND UNI NAV COM\""
         }
       ],
-      "header_table_size": 4096,
-      "wire": "3884bb8597743692a5f9c40280f1bf9818918121a4969104f43b3f0387b2d7f086be166f3f3d86ab8e977e615f0088fcc21846fe56738787cecb617e99ec310692771d220120ec85404c6240a5688b44427a1d0085c317f0b5ff86baf8ea7d5c610986baf8ea7d5c610003703370d5c2fe5655eb8c37ecd5c73cf06ebd7e9e9e92596e3e97e3cabf4b2b84955f6ebf4455af0461274b796a883afe5b3578f97787653f20ebf2f9878f7f607ca9da1b7b280f2fa7cc3bfc7b03e9e3de1e3b7ea1d7e546af8a8b8c8d8ebec1"
+      "wire": "7884baa65dd37693da97653020db1bc8c40246144c304c226d5ae87f038765a9a967a99c3f7f3e86557c6ef65d3f4088f65aefcc9b19c97f87732d5b78ba720f4694a2be394c026d0b5186596030c53004c006d5ae8f4085bf04d56a7f86b9b9949556bf4986b9b9949556bf4003703370d2bdb6315d705f09fe15b9d7cc73f3e7cdf65b8736e1653cd94adf536d3f3428f7a2f7fa5b67c329bbbca7f86cf1f0368dbe46eef1fb9b678683796dce6cfa359bc7cfee6f0d9a0de7b3c0db33fe0ddde3afe18a8b8c8d8ebec1"
     },
     {
-      "seqno": 73,
       "headers": [
         {
           ":status": "200"
@@ -3339,11 +3192,9 @@
           "server": "QS"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "1484ab95f94303a1c31b39bf3844175f1d4fab8c220baf8f2cefc6110618dfd3d63c61cdfcacadf9c30693eec6c880521b74e004c996046d1168884f43bf110233350d0251538687898a8b8e99"
+      "wire": "5484558dc57f43a1bf06724b9794d7373292aad794d737362e6e0bca6bf06f4eb9b05f24d8ca52e5ff4694d383329820367e3518658e43094c013001b56ba3510233354d0251538687898a8b8e99"
     },
     {
-      "seqno": 74,
       "headers": [
         {
           ":status": "200"
@@ -3385,11 +3236,9 @@
           "pragma": "no-cache"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "3f1d04677a69701392f385710190783ee031148131aa26a0427a1d0091e91d57dd9c2ece3cfd708477e19d97dd9786bafcaeb37eff1092771d220120f1bf9818918125a8168b027a1d0792f38571013036e1881888811352868884f43b3f3e8cdb5550c338fb6eaafaecbb873f18842956693fc4c40baac31b39bf3844175f1d4fab8c220baf8ea7d5c61b298671f5df7fe6c84418637f4f58f18737f2b2b7e70f09869fbbb759c83f8a8c8d8e96"
+      "wire": "7f1e04677a69705394fcae9ca62137cd3718802030cb34233200dab5d14090e9994db9cbb9d99dd6f5e66dee636ec786b9b8dcce1c3f5094a2be394c026d8de46201230c132026094dab5d1f4794fcae9ca6194d9efc0c40006119a044c006d5ae8f7f3f8bcea52ef766efb94da597557f198418a4280bc4c44ba9bf06724b9794d7373292aad794d7373292aad73ed5bb37735becc5e535f837a75cd82f926c652972ff4986d5a7bce4f87f8a8c8d8e96"
     },
     {
-      "seqno": 75,
       "headers": [
         {
           ":status": "200"
@@ -3425,11 +3274,9 @@
           "server": "GFE/2.0"
         }
       ],
-      "header_table_size": 4096,
       "wire": "cb858a"
     },
     {
-      "seqno": 76,
       "headers": [
         {
           ":status": "204"
@@ -3462,11 +3309,9 @@
           "pragma": "no-cache"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0182314f868b0792a2fba20120f07dc04c60808b445a2213d0ef990e0130a606b1c31b39bf3844175f1d4fab8c220baf8ea7d5c61b298671f5df7fe6c844175f1e59df8c220c31bfa7ac78c39bf9595bf387858687888a8b8c8d90"
+      "wire": "cc868b4794d6dbb29804df34dc6196503004c013001b56ba3f994e0130a646b0bf06724b9794d7373292aad794d7373292aad73ed5bb37735becc5e535cdcd8b9b82f29afc1bd3ae6c17c9363294b97f858687888a8b8c8d90"
     },
     {
-      "seqno": 77,
       "headers": [
         {
           ":status": "200"
@@ -3511,11 +3356,9 @@
           "vary": "Accept-Encoding"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "851a88b2d7f086bfc610e1038321247f0f93a5f9c40280f1bf98189180a9a94b51284f43bf22882428986499a54ad50a8ddb83eae308faeff5bf386b290b0084e91d55dd04414b414d078bb5fd237f086c412856c42b0a93a74ba2014078dfcc0c49002a6a50d19427a1df0087e91f2b23d34b2b96d3ab87c2cb79b3d38f7fa5fa7cb4fe7d72dbb76ecd9f8a8b8c8d9fa3"
+      "wire": "855a8865a9a967f5bd757f438310147f4f94da97653020db1bc8c40246086682099111b56ba3628914423290c11c50490f4a8ccf7a555af37737ab5cb38be34084e99954dd04414b414d478cb53d3326a5ce8184249510ff4a94dbc6eca6041b63791880506086681130446d5ae84088e99ac666e3c594ff95e3db57c996f2979d7e1cdbc7cb8fd3ae39f3e79e7f8a8b8c8d9fa3"
     },
     {
-      "seqno": 78,
       "headers": [
         {
           ":status": "200"
@@ -3578,11 +3421,9 @@
           "content-length": "6507"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "3f3a0b582d4c492d4944433d43311efaebf96cd5d7b7c83b29f9075f97cc3afe9f30dbd94581d9dbf5b01db7bec0f953b6c0f953d96077fd76d81dff5ecb03afcbc6c0f2fa7cc3b3b7e36053b68b03e9e3f3b03e5f4eab03c9df3b03bfc7b03e5f0fb07978fc43e9e3de1f2fa7cc3bbbfc43afca80f1dbf50eff1707676d01d7e2e0f9797c43e5f3edd5008ce91efc5f6c23bf0cecbeecbf0a53414d454f524947494e0a92771d2201606dd3801891809b522d3584f43b0d93ce1d33d7c73b797beae2fc72867b3e8eee8d7f3f1c8485d1fd291a92a5f9c40280f1bf9818918121a4969184f43b0087e91efca3d34b2b96dd322b65756fde9a975a44659932ae1be55b202a7b110994cff675fef5bbbcb6f55df3be63b21d4ffcfa6cd91a0131aca80c0130aa13839543378d8e8f9092939495b0"
+      "wire": "7f3b8af4cdf5f0cde1a3ba7ee15efaeef29fe1dd9fc4da36f91bbbc7ee6eef3fb9b3e8d6c368effc30d467f061bcb6e761bcb6e861bc3f19d86f0fc6861bbbc7630de3e7f7368effab0db73eb61bcf67dd86f2f3ed61bc68fbb0de1b341bcbe5fa378ecfa9bcf6781bcbcfee6d3e1b0ddde3acdb33fe0de1b28368efd66eed941bcbc7ea6f2fbf7fc3408be99b8609b5799b7b98dbb10a53414d454f524947494e4a94a2be394c129b3f1a8c40246029a0098a436ad7474d9172fa38f5badb3b155a70c56e9fce8d39a47f1d05656e2d55535a93da97653020db1bc8c40246144c304c246d5ae84088e99b8639b8f1653f97df1a29969570e102a4a60008a3822917c2292558429951499377b953ee7a3c073f6ddf76c64c5f6a7db9cf3f5a0131aca84c0130aa53838a108f8d8e8f9092939495b0"
     },
     {
-      "seqno": 79,
       "headers": [
         {
           ":status": "200"
@@ -3654,11 +3495,9 @@
           "content-length": "0"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0cbdcb96cd55c39433805b0d5ef0fac31cacbeed85ef0a1fd23dbc21b07de1dbd30b31865b1dc748804a3f07dd193261011688b48427a1def0f93f3e3b35ff0594ff4bf2f5c116155ca5c0d28f3faa3e344bc366cf0492771d220120f07dc04c984045a22d1109e8771286baf8f2cefc610a92a5f9c40280f1bf9818918121a49692027a1d0801302e88fcc21846fe5673870c95dd5b0aa454c25c20b608bd2b53066455b889ef7c3f3f1384ddeb9c321b88d452cc66a59cd36a1393eec6c880e60f1bf98188b006569ccd3209e877a28c8d8e8f90919497"
+      "wire": "4cbdc6c9fe14aec5b966b57f0ec37e17862c6dd38f61b5a7a66cf52e70ec377f4bd982f19e8af8e5300e6f9a6ecc32c60600980261036ad74761bc92eae73f4593ff24f1eb7a182ab22bca047e7f08faeb8aa9e74494a2be394c026f9a6e30cb1818026009800dab5d1f5286b9b9b173705f4a94da97653020db1bc8c40246144c304c2836ad747f4801306e88f65aefcc9b19c97f4c95df4ca2a42a51916b925004c12432846856f114a52b7f1484dfd5cbc75b89f80c51914321471fc35394d3833298a336c6f231004a608a628e62136ad747a28c8d8e8f90919497"
     },
     {
-      "seqno": 80,
       "headers": [
         {
           ":status": "200"
@@ -3679,11 +3518,9 @@
           "date": "Sat, 03 Nov 2012 13:14:13 GMT"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "1c0a44434c4b2d416453767214937e1872b2a7e765f76be91fe1fcdf9558d9867f0e8252268485868788898b8c8d8e959698999fa5acb8b9bc"
+      "wire": "5c0a44434c4b2d416453767254914df7d8c525cc6dc7e99bd53c938ab065ee4e033533378485868788898b8c8d8e959698999fa5acb8b9bc"
     },
     {
-      "seqno": 81,
       "headers": [
         {
           ":status": "200"
@@ -3704,11 +3541,9 @@
           "date": "Sat, 03 Nov 2012 13:14:13 GMT"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0288ce1d33d7c73b797f028334cacf8384"
+      "wire": "428772fa38f5badb3f42832822978384"
     },
     {
-      "seqno": 82,
       "headers": [
         {
           ":status": "200"
@@ -3750,11 +3585,9 @@
           "cache-control": "public, max-age=86400"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "ae028cce1d33d7f87f37e55636619f0792769088056143fd40c48c0c5a2c68cc13d0ef0e93eec6c8804c3c6fe6062460496a05a2c09e877f1192a5f9c40280f1bf9818918125a8168b027a1db509047366666506824197008de91f4cb28f0c6fce156765f77f8b2f785b7d70d9bb95f57e7f1283592d2a158fc34ddcacaa20b5fd237f086c5ca9118a8b8e95"
+      "wire": "ae428b72fa38fea9e49c55832f774794a38af2982436b4f53100918826096608cdab5d1f4e94d383329808db1bc8c402461826404c129b56ba3f5194da97653020db1bc8c402461826404c129b56ba3fb54904736666654682410f408ce99ba638e6bf06b96a731b778a1ec35ada573efb1aaf6f52849064821f5590bf8efb18aca6b53d3326a5cf2450007f8a8b8e95"
     },
     {
-      "seqno": 83,
       "headers": [
         {
           ":status": "200"
@@ -3796,11 +3629,9 @@
           "cache-control": "public, max-age=86400"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "ae08927690880c83ba1b80c48c049a286a5813d0ef0892eec6c8804c3c6fe606246062d1434d813d0e0892a5f9c40280f1bf981891818b450d3604f43b07833492a506849496957f87898b8c8d8e"
+      "wire": "ae4894a38af29884da57bcc4024601981134129b56ba3f4893d383329808db1bc8c40246209811314a6d5ae84893da97653020db1bc8c40246209811314a6d5ae84784280618bf46848864821f87898b8c8d8e"
     },
     {
-      "seqno": 84,
       "headers": [
         {
           ":status": "200"
@@ -3839,11 +3670,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "af3f1793e39e78375ebf4f4f49395977e615d974955f6f0693eec6c8804c3c6fe60624604b690b50a09e877f1087b2d7f086bc2ee13f1c04677a69700a8bb5fd237f086c4128d532cb0893a74ba2014078dfcc0c490042d34354909e877fa0c2c2080239349f88898a8b8c8d8f91ba"
+      "wire": "af7f1891adcebe639f9f3e6fd8cbbd974b2e7d4db74694d383329808db1bc8c4024619261099109b56ba3f508765a9a967beeabf7f1d04677a69704a8bb53d3326a5ce8184a18e414894dbc6eca6041b6379188050610989134301b56ba3a0c2c2480239349f88898a8b8c8d8f91ba"
     },
     {
-      "seqno": 85,
       "headers": [
         {
           ":status": "200"
@@ -3882,11 +3711,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "1185db83eae30f1d9ed4adf35553056353eb13421094a912cd5be12a54996b692144232a65975708927690880d01e55660624604a6a12d39427a1da09cc2c23f3d8cdb5550c338fb6eaafaecbb870789b5fd237f086c44a23f1092a5f9c40280f1bf9818918121a49692427a1d07832135ff88898a8c8d8ea8bd"
+      "wire": "5185cf7a555aff5da0f843c2352a5090149a4090844104288a3a52b8a08608a9985108804504517c3f4894a38af298906f1538c40246186644131446d5ae8fa09cc2c27f3e8bcea52ef766efb94da597554789b53d3326a5ce88803f5094da97653020db1bc8c40246144c304c301b56ba3f478310293f88898a8c8d8ea8bd"
     },
     {
-      "seqno": 86,
       "headers": [
         {
           ":status": "200"
@@ -3925,11 +3752,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "ca0692a2fba2025878697018918121a46d54c13d0e088dd50dd2a2a24a929aeaac9a3abf0a8ea2cab1bf2bf7e71f7f7d3ae6907f008ae91e17fa4318571eef5f074153502e4e4554068336295f87898b8c8d"
+      "wire": "ca4694d6dbb2986437cf8dc6201230a26129a18cdab5d1488ef82f7c4850c10c1052aa4660f87f4a8dd6c560dc5bc1d9bc3c369e37c3408ae99af6f35e0ba736febf074153502e4e4554468329618787898b8c8d"
     },
     {
-      "seqno": 87,
       "headers": [
         {
           ":status": "200"
@@ -3965,11 +3790,9 @@
           "content-type": "application/ocsp-response"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "8d0593a5f9c40280f1bf981891814ad35352c09e877f1093f3857100cc1e37f3031230295a6a6a5813d0ef069d4cac9a648a7b853322564bd5d5d9d6a25f512d2aeb947b562cda834b3f0ca5b5fd237f086c42a54b13161a6ee565515d7c79e2fbb2df7e36c56e99671e30e6fe5656fce1008ee91df5658478c30beeae18c7657f88cd70aea7df56584b06824cc53284ab95f94319937e1872b2a7e765f76bbeacb08f186585f7650f898a8b8c8d9299aeb2b4"
+      "wire": "8d4594da97653020db1bc8c4024618a6286682536ad7475095fcae9ca608cdb1bc8c4024618a6286682536ad747f469e8229638e008348411a22962ededd1dd08c9da32410f7441df204b9d0504b4ca5b53d3326a5ce8862825832dfc77d8c565b9b99d826ec78370b72dbc71766c17c9363294b97408ee999aac6fcd82ef6dd4af0ccca7f88748ba5496ab1be2f468282317284558dc57f59924df7d8c525cc6dc76ab1bf360bc6f6dd8aff898a8b8c8d9299aeb2b4"
     },
     {
-      "seqno": 88,
       "headers": [
         {
           ":status": "200"
@@ -4008,11 +3831,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "069cd52aa65cb51b09e99450f7a8942f25ad2951ad0bada473121446a4ea0992771d2202506dc31031210299a3334d813d0eb40387b2d7f086be166f959c088cb5fd237f086c324a5295888f07023433b9868788898a8b8c8d"
+      "wire": "469ff8450c7244a29453044084a6118412324904109488929984a31442250c1f0f4994a2be394c309b3df8188040c31cc11cc529b56ba3b4438765a9a967a99c3f959c488db53d3326a5ce4304104120007f47023433b9868788898a8b8c8d"
     },
     {
-      "seqno": 89,
       "headers": [
         {
           ":status": "200"
@@ -4051,11 +3872,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "059ed49aabad336e9b7564adf329685a50ade46333ea24925a485108cac6235705927690880d01e55660624604a6a50d2404f43bb5048cb5fd237f086c4129128888ff048323341f8586878889"
+      "wire": "45a0f840aa69823df1efa461e11c322248110f01208d2a1806098510880452ca8f874594a38af298906f1538c40246186681130a0dab5d1fb5448cb53d3326a5ce81851100007f44831224178586878889"
     },
     {
-      "seqno": 90,
       "headers": [
         {
           ":status": "302"
@@ -4088,11 +3907,9 @@
           "connection": "close"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "1782409f158ddb83eae308faeff5bf386b290b0003703370a0ebf96cd5d7e54078edfa877f8b82976d0f1efec0f2fa7cc3bfc7b03c7cbbf57f0085c317f0b5ff86baf8ea7d5c610686baf8ea7d5c613f3bbfaaafcfef615b57a7aa31f78765f6becbb65b0aec7cb5c386308652557dbef0ede98598c32d8ee3a440271d0ff58cc4900486925a4a09e877bc3e4fcf8ecd7f3f31c9e39e78375eb7d59d97dd25b0aec7cb5c386308652557dbaefc77650c79ebbb2fc65ff9755cf6211fc5d96c3633f8c2ae7b10cfe2eab617f1859d3bebd84815cbfc5557e7f7b33c748708013093898a8b8c9fa3a6aabf"
+      "wire": "57824017558ccf7a555af37737ab5cb38be34003703370a0eef29fe1dde3acdb33fe0de1b2836da339b67868378f9fdcde1b341b678f87c34085bf04d56a7f86b9b9949556bf4686b9b9949556bf7f3cbe52bdbde71b55cfaa30ec3686da965d3daba5898a95d582d78bea6dbd86efe97b305e33d15f1ca602cdad3d73100a0c289860986136ad74761bc92eae73ff7f32c3adcebe639d2a731b73f6ae96262a57560b5e2fa9b69db86fc578723dd8fae3fedcae53a1192ec672965c97ab94e89725ca9c725ece9e14ce280922c8a57b7bceec38af48013093898a8b8c9fa3a6aabf"
     },
     {
-      "seqno": 91,
       "headers": [
         {
           ":status": "200"
@@ -4131,11 +3948,9 @@
           "content-encoding": "gzip"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "9f18013090a42292a5f9c40280f1bf9818918121a49692827a1d3001303f3b86ab8e977e615f1788fcc21846fe567387af8687888b8d98a6"
+      "wire": "9f58013090a46294da97653020db1bc8c40246144c304c309b56ba3f7001307f3c86557c6ef65d3f5788f65aefcc9b19c97faf8687888b8d98a6"
     },
     {
-      "seqno": 92,
       "headers": [
         {
           ":status": "200"
@@ -4198,11 +4013,9 @@
           "content-length": "6507"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "080b582d4c492d4944433d43310cfaebf96cd5d7b7c83b29f9075f97cc3afe9f30dbd94581d9dbf5b01db7bec0f953b6c0f953d96077fd76d81dff5ecb03afcbc6c0f2fa7cc3b3b7e36053b68b03e9e3f3b03e5f4eab03c9df3b03bfc7b03e5f0fb07978fc43e9e3de1f2fa7cc3bbbfc43afca80f1dbf50eff1707676d01d7e2e0f9797c43e5f3edd5008ce91efc5f6c23bf0cecbeecbf0a53414d454f524947494e13927690880a60f0d390189181a1a42d4a827a1d1893ce1d33d7c73b797beae2fc72867b3e8eee8d7f3f1b8485d1fd290087e91efca3d34b2b952142770ee96a9a6acb7b0964c79d6c364d2a7729670087e91f2b23d34b2b93edeca7d33cab67c153f55b61d3c8e92e1c366c0e839543379d"
+      "wire": "488af4cdf5f0cde1a3ba7ee14cfaeef29fe1dd9fc4da36f91bbbc7ee6eef3fb9b3e8d6c368effc30d467f061bcb6e761bcb6e861bc3f19d86f0fc6861bbbc7630de3e7f7368effab0db73eb61bcf67dd86f2f3ed61bc68fbb0de1b341bcbe5fa378ecfa9bcf6781bcbcfee6d3e1b0ddde3acdb33fe0de1b28368efd66eed941bcbc7ea6f2fbf7fc3408be99b8609b5799b7b98dbb10a53414d454f524947494e5394a38af2986337cf8d86201231226109a084dab5d1589172fa38f5badb3b155a70c56e9fce8d39a47f1c05656e2d55534088e99b8639b8f1653f9610441bc37c4a8e3a4784a320ca92a6529638a0df0c854088e99ac666e3c594ff93efd1b79bb1a65f943abb6d616db0b68d554f3f4e838a108f9d"
     },
     {
-      "seqno": 93,
       "headers": [
         {
           ":status": "200"
@@ -4274,11 +4087,9 @@
           "content-length": "0"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "09bdcb96cd55c39433805b0d5ef0fac31cacbeed85ef0a1fd23dbc21b07de1dbd30b31865b1dc748804a3f07dd193261011688b48427a1def0f93f3e3b35ff0394b3e54f57afd9df53494c6ea3bb6d5f2aa9e1b3671092771d220120f07dc04c984045a22d1109e8771586baf8f2cefc610795dd5b0aa454c25c20b608bd2b53066455b889ef7c3f3f1084ddeb9c322088d452cc66a59cd36abfbf0d93eec6c880e60f1bf98188b006569ccd3209e87797898a8b8e9196"
+      "wire": "49bdc6c9fe14aec5b966b57f0ec37e17862c6dd38f61b5a7a66cf52e70ec377f4bd982f19e8af8e5300e6f9a6ecc32c60600980261036ad74761bc92eae73f43946796dedebfaa3f0500c6546bd39d5e4adb54f3ff5094a2be394c026f9a6e30cb1818026009800dab5d1f5586b9b9b173705f4795df4ca2a42a51916b925004c12432846856f114a52b7f1184dfd5cbc76089f80c51914321471fc3bfbf4d94d3833298a336c6f231004a608a628e62136ad74797898a8b8e9196"
     },
     {
-      "seqno": 94,
       "headers": [
         {
           ":status": "200"
@@ -4299,11 +4110,9 @@
           "date": "Sat, 03 Nov 2012 13:14:16 GMT"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "1d0a44434c4b2d41645376720e937e1872b2a7e765f76be91fe1fcdf9558d9867f0b8252193f1904677a69701992a5f9c40280f1bf9818918121a49694a13d0e868788898a8b8c8d919294959798999a9c9fa0a2be"
+      "wire": "5d0a44434c4b2d41645376724e914df7d8c525cc6dc7e99bd53c938ab065ee4b033533397f1a04677a69705994da97653020db1bc8c40246144c304c311b56ba3f868788898a8b8c8d919294959798999a9c9fa0a2be"
     },
     {
-      "seqno": 95,
       "headers": [
         {
           ":status": "302"
@@ -4336,11 +4145,9 @@
           "connection": "close"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "a3a2a1a09f0dbfaaafcfef615b57a7aa32f78765f6becbb65b0aec7cb5c386308652557dbef0ede98598c32d8ee3a440271d0ff58cc4900486925a5284f43bde1f27e7c766bf9e9daf83848586bb"
+      "wire": "a3a2a1a09f4dbe52bdbde71b55cfaa31ec3686da965d3daba5898a95d582d78bea6dbd86efe97b305e33d15f1ca602cdad3d73100a0c289860986236ad74761bc92eae73ff9e9daf83848586bb"
     },
     {
-      "seqno": 96,
       "headers": [
         {
           ":status": "200"
@@ -4376,11 +4183,9 @@
           "connection": "close"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "bb01b8f0a7b69a7bfcbc7bfb3675f6a11d9dddb37631334cceb24750a7ad3d8cea4a3b269987ef0f93f3e3b35df8eeca18f3f787c33cf0f2bb97af0696ce1d33d7c73b797beae2fc72867b3be9f28d6b53232f940601359e8485a0a1a7"
+      "wire": "bb41b7f9edefdbb7c3c7678689fbbbd08d1a7be3d12c11c72f70a3b420ee8344bdb0234471ca5d86f24bab9cedc37e2bc39761be4e75fe3759d7469572fa38f5badb3b155a70c56e9fc36f8e6924865cc3944601359e8485a0a1a7"
     },
     {
-      "seqno": 97,
       "headers": [
         {
           ":status": "200"
@@ -4401,11 +4206,9 @@
           "date": "Sat, 03 Nov 2012 13:14:16 GMT"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "c58a0388ce1d33d7c73b797f03825a4b898884858698a1a6a7a8a9b5"
+      "wire": "c58a438772fa38f5badb3f43829201898884858698a1a6a7a8a9b5"
     },
     {
-      "seqno": 98,
       "headers": [
         {
           ":status": "200"
@@ -4444,11 +4247,9 @@
           "connection": "close"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "a906ff16d362fffd1eadbc3ede0cfa5f3f5effaff3b76eddbb76eddbfd76eddbfd77f1adfe9b76fcf8337fcea46ddbb76eddae67cb9f0dbb76eddbb7467f9bf86ddbb76edf2fbfd73fa75f551d5b76e9d5f1feb6fbc3eb0c72b2fbb617bc3b2fb5f65db247f0fcdd2557dbef0a1fd23dbc21b2540cc6223ef0ede98598c32d945f7440288fc6fe7198924090d24b4a509e877bc3e4fcf8ecd71db7ebf96cd5e3e5de1d94fc83afcbe61d7f4f9bc36f650f0ecedfabc1db7bde1e5f4f98757d290eff1ec0fa78f7875f9501e3b7ea1dfe2ed51492a5f9c40241e0fb80c444045a22d1109e877faa1493baf8ea7d5c61105ba659c78c39bf9595bf387f0696b2d7f086be166ff7d5c5f8e50cf677d3e51ad6a6465f9db4a6ba86878d8e91"
+      "wire": "a946ff14e33c9ff81db9eafd7ce5f36eaeee1f8fa67cf9f3e7cf9f3fdbbf3e7fb78574a79e7cff7aa5e1f75233e7cf9f3e7a25f2e5567cf9f3e7cfc65fdf0ab3e7cf9f3f8eefc3bcfbbb75f6e7cfc7b7ebf6cfd86fc2f0c58dba71ec3686da965d3be9abdae7d4db7b0dad3d3367a973c4808c8003b0ddfd2f660bc67d6dbb298119b63796620180c289860986236ad74761bc92eae73f5db8eef29fe1b3c7c0da36f91bbbc7ee6eef3fba4d9f46b49b477fe126a33f824de3e7f7376f9ed3786cd06f3d9e06eef1d66d99ff06f0d947c35493da97653009be69b8c4000600980260036ad747aa5492b9b9949556bca6b78e2ecd82f926c652972f469565a9a967a99c3b155a70c56e9fc36f8e6924865cc39db4a6ba86878d8e91"
     },
     {
-      "seqno": 99,
       "headers": [
         {
           ":status": "200"
@@ -4511,11 +4312,9 @@
           "content-length": "6507"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "a2a1a03f358cdb5550c338fb6eaafaecbb87a0b78e9d9ca6a5a48faca89b8283848586a7b5"
+      "wire": "a2a1a07f368bcea52ef766efb94da59755a0b78e9d9ca6a5a48faca89b8283848586a7b5"
     },
     {
-      "seqno": 100,
       "headers": [
         {
           ":status": "200"
@@ -4560,11 +4359,9 @@
           "vary": "Accept-Encoding"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0287b2d7f086bc2ee108833144bf1593771d22036078dfcc0c4660263458d2109e877f17882264a8950850888f168bf08679fafb6590a4397ddf0084e91d55dd04414b414d098bb5fd237f086c4108aa664d0b93a2fba2035879559818920058d54cd42027a1df2196d3ab87c2cb79b3d38f7fa5fa7cb4fe7d72dbb76ecd9fa4a5a6a7a9aaabacaeafb1b5b6b8"
+      "wire": "428765a9a967beeabf488320445f5594a2be394c529b637918802330cb304b3081b56ba357881196244484420001568bf9adceebfd44f8be517c7f4084e99954dd04414b414d498bb53d3326a5ce81008639634b94d6dbb298a4378a9c6201418259a18e6420dab5d16195e3db57c996f2979d7e1cdbc7cb8fd3ae39f3e79e7fa4a5a6a7a9aaabacaeafb1b5b6b8"
     },
     {
-      "seqno": 101,
       "headers": [
         {
           ":status": "200"
@@ -4603,11 +4400,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "b83f0f93e39e78375ebf4f4f49395977e615d974955f6f0892a5f9c404a0a6180189180cad336a1413d0ef058cb5fd237f086c3990954c85ff0592a2fba202942986006248012694ad42427a1d0c8224cb868788898a8b8c8d"
+      "wire": "b87f1091adcebe639f9f3e6fd8cbbd974b2e7d4db74894da976530c26dabbcc4024608a62299109b56ba3f458cb53d3326a5ce51a20863449f4594d6dbb2986236d5de620141806618a64406d5ae8f4c821822868788898a8b8c8d"
     },
     {
-      "seqno": 102,
       "headers": [
         {
           ":status": "200"
@@ -4649,11 +4444,9 @@
           "cache-control": "public, max-age=86400"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0e88b2d7f086bfc610e105927690880501e1a72031230326929a8209e8771e92a5f9c40280f1bf98189180a1a8168cc13d0e0593a74ba2014878dfcc0c48c050d40b46609e877f0091e91d57dd9c2ece3cfd708477e19d97dd9786bafcaeb37eff0f04736666650784264cb9bf008de91f4cb28f0c6fce156765f77f8b2f785b7d70d9bb95f57e7f3c8342852c0c8fc34ddcacaa20b5fd237f086c5ca9118b8c8d8e8f98a6bc"
+      "wire": "4e8865a9a967f5bd757f4594a38af298106f9f1b0c4024621986199026d5ae8f5e94da97653020db1bc8c40246044c80982336ad747f4594dbc6eca6080db1bc8c40246044c80982336ad7474090e9994db9cbb9d99dd6f5e66dee636ec786b9b8dcce1c3f4f047366666547841963923f408ce99ba638e6bf06b96a731b778a1ec35ada573efb1aaf6f7c84442104bf4c90bf8efb18aca6b53d3326a5cf2450007f8b8c8d8e8f98a6bc"
     },
     {
-      "seqno": 103,
       "headers": [
         {
           ":status": "304"
@@ -4692,11 +4485,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "218240a7aa0a92a2fba2025878697018918121a46d54c13d0eaf178dd50dd2a2a24a929aeaac9a3abf088ea2cab1bf2bf7e71f7f7d3ae6907f008ae91e17fa4318571eef5f074153502e4e4554098336295fac0088aafbae8559d97ddf88fcc21846fe56738788898a8b8c8d8e8f9091a8"
+      "wire": "c7aa4a94d6dbb2986437cf8dc6201230a26129a18cdab5d1af578ef82f7c4850c10c1052aa4660f87f488dd6c560dc5bc1d9bc3c369e37c3408ae99af6f35e0ba736febf074153502e4e45544983296187ac4087536eb96a731b7788f65aefcc9b19c97f88898a8b8c8d8e8f9091a8"
     },
     {
-      "seqno": 104,
       "headers": [
         {
           ":status": "200"
@@ -4735,11 +4526,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "a80485db83eae30f069fd4b4a1070994a9654cca4a2b56f5cd2a66de899eb7cb5b49099457332597570893a2fba2039836e9c00c48c0a66931a7284f43bf0b88b5fd237f086c9447068299258788898a8b8c"
+      "wire": "a84485cf7a555aff46a1f84902104b8e18628a08e18114c3c248e2823e088d32262a66144110491cb145f04894d6dbb298a3367e35188048c31cc32cc511b56ba34b88b53d3326a5cf100746828e018788898a8b8c"
     },
     {
-      "seqno": 105,
       "headers": [
         {
           ":status": "200"
@@ -4775,11 +4564,9 @@
           "p3p": "policyref=\"http://www.imrworldwide.com/w3c/p3p.xml\", CP=\"NOI DSP COR NID PSA ADM OUR IND UNI NAV COM\""
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0584bb8597741787b2d7f086be166f3f3886ab8e977e615f0088fcc21846fe56738787cecb617e99ec311792771d220120ec85404c6240a5688b44427a1d0085c317f0b5ff86baf8ea7d5c610886baf8ea7d5c6130d5c2fe5655eb8c37ecd5c73cf06ebd7e9e9e92596e3e97e3cabf4b2b84955f6ebf4455af0461274b796a883afe5b3578f97787653f20ebf2f9878f7f607ca9da1b7b280f2fa7cc3bfc7b03e9e3de1e3b7ea1d7e546af898a8b8c8dadbbbd"
+      "wire": "4584baa65dd3578765a9a967a99c3f7f3986557c6ef65d3f4088f65aefcc9b19c97f87732d5b78ba720f5794a2be394c026d0b5186596030c53004c006d5ae8f4085bf04d56a7f86b9b9949556bf4886b9b9949556bf70d2bdb6315d705f09fe15b9d7cc73f3e7cdf65b8736e1653cd94adf536d3f3428f7a2f7fa5b67c329bbbca7f86cf1f0368dbe46eef1fb9b678683796dce6cfa359bc7cfee6f0d9a0de7b3c0db33fe0ddde3afe1898a8b8c8dadbbbd"
     },
     {
-      "seqno": 106,
       "headers": [
         {
           ":status": "200"
@@ -4809,11 +4596,9 @@
           "server": "QS"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0e84ab95f94303a1c31b39bf3844175f1d4fab8c220baf8f2cefc6110618dfd3d63c61cdfcacadf9c30693eec6c880521b74e004c996046d1168884f43bf0c0233350c0251538687898a8b8d93"
+      "wire": "4e84558dc57f43a1bf06724b9794d7373292aad794d737362e6e0bca6bf06f4eb9b05f24d8ca52e5ff4694d383329820367e3518658e43094c013001b56ba34c0233354c0251538687898a8b8d93"
     },
     {
-      "seqno": 107,
       "headers": [
         {
           ":status": "200"
@@ -4855,11 +4640,9 @@
           "pragma": "no-cache"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "3f1904677a69701192f385710190783ee031148131aa26a0427a1da12392771d220120f1bf9818918125a8168b027a1d0692f38571013036e1881888811352868884f43bb61f842956699b09aac31b39bf3844175f1d4fab8c220baf8ea7d5c61b298671f5df7fe6c84418637f4f58f18737f2b2b7e70f07869fbbb759c83f888a8b8c"
+      "wire": "7f1a04677a69705194fcae9ca62137cd3718802030cb34233200dab5d1a16394a2be394c026d8de46201230c132026094dab5d1f4694fcae9ca6194d9efc0c40006119a044c006d5ae8fb65f8418a4282349a9bf06724b9794d7373292aad794d7373292aad73ed5bb37735becc5e535f837a75cd82f926c652972ff4786d5a7bce4f87f888a8b8c"
     },
     {
-      "seqno": 108,
       "headers": [
         {
           ":status": "200"
@@ -4895,11 +4678,9 @@
           "server": "GFE/2.0"
         }
       ],
-      "header_table_size": 4096,
       "wire": "87b9"
     },
     {
-      "seqno": 109,
       "headers": [
         {
           ":status": "200"
@@ -4938,11 +4719,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "99c1c1189fd5bc91326544c9def2516e34bf756bddbd8c7a192ae65b490998d894251abf0792a2fba20210a61801891814ad35352809e8773f1284ddeb9c32bbbc8a058cb5fd237f086c324a5295888f0992a5f9c40280f1bf9818918121a49694a13d0e0e832135ffa08788898a8b8c8f9599ac"
+      "wire": "99c1c158a1f870144704488e0e09184779409df4c9bf84b2a512c524724c2882329604408f874794d6dbb29840db577988048c314c50cd020dab5d1f7f1384dfd5cbc7bbbc8a458db53d3326a5ce4304104120007f4994da97653020db1bc8c40246144c304c311b56ba3f4e8310293fa08788898a8b8c8f9599ac"
     },
     {
-      "seqno": 110,
       "headers": [
         {
           ":status": "200"
@@ -4975,11 +4754,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "ca079ed49ad507d68ab7bde5beb64a72a099314c3554f856333490998d8942cf570792a2fba20210a61801891814ad395a6613d0ef0483250cdf85898a91c3"
+      "wire": "ca479ff8414c2b4d285704a478532c45120658c6305292ba423985104652c0890be14793d6dbb29840db577988048c314c514c446d5ae8448318423f85898a91c3"
     },
     {
-      "seqno": 111,
       "headers": [
         {
           ":status": "204"
@@ -4988,11 +4765,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0482314f82838485878889a4c3"
+      "wire": "cc82838485878889a4c3"
     },
     {
-      "seqno": 112,
       "headers": [
         {
           ":status": "204"
@@ -5025,11 +4800,9 @@
           "pragma": "no-cache"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "9ec4920f92a2fba20120f07dc04c60808b445a2213d0ef880301300ab1c31b39bf3844175f1d4fab8c220baf8ea7d5c61b298671f5df7fe6c844175f1e59df8c220c31bfa7ac78c39bf9595bf3879d"
+      "wire": "9ec4924f94d6dbb29804df34dc6196503004c013001b56ba3f884301304ab0bf06724b9794d7373292aad794d7373292aad73ed5bb37735becc5e535cdcd8b9b82f29afc1bd3ae6c17c9363294b97f9d"
     },
     {
-      "seqno": 113,
       "headers": [
         {
           ":status": "200"
@@ -5092,11 +4865,9 @@
           "content-length": "6507"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "880f8ddb83eae308faeff5bf386b290b3f3a0b582d4c492d4944433d43311dfaebf96cd5d7b7c83b29f9075f97cc3afe9f30dbd94581d9dbf5b01db7bec0f953b6c0f953d96077fd76d81dff5ecb03afcbc6c0f2fa7cc3b3b7e36053b68b03e9e3f3b03e5f4eab03c9df3b03bfc7b03e5f0fb07978fc43e9e3de1f2fa7cc3bbbfc43afca80f1dbf50eff1707676d01d7e2e0f9797c43e5f3edd5008ce91efc5f6c23bf0cecbeecbf0a53414d454f524947494e3f3c8cdb5550c338fb6eaafaecbb870b93a74ba201506dd38018918129a85352809e877f2793ce1d33d7c73b797beae2fc72867b3e8eee8d7f3f1c8485d1fd291292a5f9c40280f1bf9818918121a49692c27a1d0087e91efca3d34b2b96826bab73ebdfbd33292295a9f0ddb9558ccc7cb29a8f0087e91f2b23d34b2b96578faca8d7f32febb78be59bfbfea0fff2cfa70d9b3f1c0130aca80f01300f839543378f90919298af"
+      "wire": "884f8ccf7a555af37737ab5cb38be37f3b8af4cdf5f0cde1a3ba7ee15dfaeef29fe1dd9fc4da36f91bbbc7ee6eef3fb9b3e8d6c368effc30d467f061bcb6e761bcb6e861bc3f19d86f0fc6861bbbc7630de3e7f7368effab0db73eb61bcf67dd86f2f3ed61bc68fbb0de1b341bcbe5fa378ecfa9bcf6781bcbcfee6d3e1b0ddde3acdb33fe0de1b28368efd66eed941bcbc7ea6f2fbf7fc3408be99b8609b5799b7b98dbb10a53414d454f524947494e7f3d8bcea52ef766efb94da597554b95dbc6eca6084d9f8d46201230c332219a041b56ba3f679172fa38f5badb3b155a70c56e9fce8d39a47f1d05656e2d55535294da97653020db1bc8c40246144c304c321b56ba3f4088e99b8639b8f1653f975c14ab7a69e1c208e180209214af7ef86908e54c5114254088e99ac666e3c594ff94876758907fb8fdbbeb4c51fa7d969fdb3cea9e7f5c0130aca84f01304f838a108f8f90919298af"
     },
     {
-      "seqno": 114,
       "headers": [
         {
           ":status": "200"
@@ -5168,11 +4939,9 @@
           "content-length": "0"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0dbdcb96cd55c39433805b0d5ef0fac31cacbeed85ef0a1fd23dbc21b07de1dbd30b31865b1dc748804a3f07dd193261011688b48427a1def0f93f3e3b35ff0597fd7a59feb8cb2fa75fdbcff74f8d5fcc3a7d53ebe9b3670492771d220120f07dc04c984045a22d1109e8771286baf8f2cefc610701310a95dd5b0aa454c25c20b608bd2b53066455b889ef7c3fa01b88d452cc66a59cd36a1093eec6c880e60f1bf98188b006569ccd3209e87798898a8b8c8d9195"
+      "wire": "4dbdc6c9fe14aec5b966b57f0ec37e17862c6dd38f61b5a7a66cf52e70ec377f4bd982f19e8af8e5300e6f9a6ecc32c60600980261036ad74761bc92eae73f4596fe7367f95c5173eefd7e7df6ec57d17d3f1075e73cff4494a2be394c026f9a6e30cb1818026009800dab5d1f5286b9b9b173705f4701314a95df4ca2a42a51916b925004c12432846856f114a52ba05b89f80c51914321471fc35094d3833298a336c6f231004a608a628e62136ad74798898a8b8c8d9195"
     },
     {
-      "seqno": 115,
       "headers": [
         {
           ":status": "200"
@@ -5193,11 +4962,9 @@
           "date": "Sat, 03 Nov 2012 13:14:19 GMT"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "160a44434c4b2d416453767211937e1872b2a7e765f76be91fe1fcdf9558d9867f0b8252171192a5f9c40280f1bf9818918121a49693027a1d85868788898a8b8c9293949697989a9ca6b6b7ba"
+      "wire": "560a44434c4b2d416453767251914df7d8c525cc6dc7e99bd53c938ab065ee4b033533385194da97653020db1bc8c40246144c304c329b56ba3f85868788898a8b8c9293949697989a9ca6b6b7ba"
     },
     {
-      "seqno": 116,
       "headers": [
         {
           ":status": "200"
@@ -5233,11 +5000,9 @@
           "connection": "close"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "9a18a0ebf96cd5d7e54078edfa877f8b82976d0f1efec0f2fa7cc3bfc7b03c7cbbf57fb8b70db8f0a7b69a7bfcbc7bfb366ddb2b3b3b96b42fa9089512f52e5ee46dec530a6ec35f6767bc3e4fcf8ecd77e3bb2863cfde1f0cf3c3caee5ebf0596ce1d33d7c73b797beae2fc72867b3be9f28d6b53232f96050135b8868788b3"
+      "wire": "9a58a0eef29fe1dde3acdb33fe0de1b2836da339b67868378f9fdcde1b341b678f87c3b8b74db7f9edefdbb7c3c7678689f3e78a5d1a64911276a111222ed922d28cfa219463d05268d1d86f24bab9cedc37e2bc39761be4e75fe3759d7f459572fa38f5badb3b155a70c56e9fc36f8e6924865cc396450135b8868788b3"
     },
     {
-      "seqno": 117,
       "headers": [
         {
           ":status": "200"
@@ -5258,11 +5023,9 @@
           "date": "Sat, 03 Nov 2012 13:14:19 GMT"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "880288ce1d33d7c73b797f02825a99b58384858699a0babcbd"
+      "wire": "88428772fa38f5badb3f4203383539b58384858699a0babcbd"
     },
     {
-      "seqno": 118,
       "headers": [
         {
           ":status": "200"
@@ -5325,11 +5088,9 @@
           "content-length": "6507"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "a09f9e9d9c9b0287b2d7f086be166f9a9812977cfcfb75f3fa7d7d3a7f3e9472eff9f875e5b76edd9b3f973f3886ab8e977e615f3d88fcc21846fe5673871386baf8ea7d5c61990085c317f0b5ff86baf8ea7d5c6199878890"
+      "wire": "a09f9e9d9c9b428765a9a967a99c3f9a9852964eae5de7e5e7f8e7d3e9cf5d9e1f7f9f7639f3e79e7f977f3986557c6ef65d3f7d88f65aefcc9b19c97f5386b9b9949556bf994085bf04d56a7f86b9b9949556bf99878890"
     },
     {
-      "seqno": 119,
       "headers": [
         {
           ":status": "200"
@@ -5368,11 +5129,9 @@
           "connection": "close"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0bff16d362fffd1eadbc3ede0cfa5f3f5effaff3e9b76eddbb7ab6ff5dbb76ff5fd71adfe9b76fcf8337fcea46ddbb76eddae67cb9f0dbb76eddbb74579e9b76eddbb76f97dfeb9fd3afaa8eadbb74eaf8ff5b7de1f58639597ddb0bde1d97dafb2ed923f87e6e92abedf7850fe91ede10d92a0663111f7876f4c2cc6196ca2fba201447e37f38cc4920486925a4c09e877bc3e4fcf8ecd70db7ebf96cd5e3e5de1d94fc83afcbe61d7f4f9bc36f650f0ecedfabc1db7bde1e5f4f98757d290eff1ec0fa78f7875f9501e3b7ea1dfe2ed51892a5f9c40241e0fb80c444045a22d1109e877f0593baf8ea7d5c61105ba659c78c39bf9595bf387f0a96b2d7f086be166ff7d5c5f8e50cf677d3e51ad6a6465f0c023433a40984ab95f943898a8b8c8d94a0a1a2a4a8a9aaabac"
+      "wire": "4bff14e33c9ff81db9eafd7ce5f36eaeee1f8fa73cf9f3e7cfdb9feddf9f3fdbed5d29e79f3fdea9787dd48cf9f3e7cf9e897cb9559f3e7cf9f3f187f3c73e7cf9f3e7f1ddf8779f776ebedcf9f8f6fd7ed9fb0df85e18b1b74e3d86d0db52cba77d357b5cfa9b6f61b5a7a66cf52e7890119000761bbfa5ecc178cfadb765302336c6f2cc4030185130c130ca6d5ae8ec37925d5ce74db8eef29fe1b3c7c0da36f91bbbc7ee6eef3fba4d9f46b49b477fe126a33f824de3e7f7376f9ed3786cd06f3d9e06eef1d66d99ff06f0d947c35893da97653009be69b8c4000600980260036ad7474592b9b9949556bca6b78e2ecd82f926c652972f4a9565a9a967a99c3b155a70c56e9fc36f8e6924865cc34c023433a44984558dc57f898a8b8c8d94a0a1a2a4a8a9aaabac"
     },
     {
-      "seqno": 120,
       "headers": [
         {
           ":status": "200"
@@ -5417,11 +5176,9 @@
           "vary": "Accept-Encoding"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0387b2d7f086bc2ee10383412d1f1a92769088052143f103115814ad521a5304f43b1c882314ca962993088f1b8bf08679fafb6590a4397ddf0084e91d55dd04414b414d0a8bb5fd237f086c41131884cd0c93f3857102043caacc0c49004a6a50d39427a1df9c921496d3ab87c2cb79b3d38f7fa5fa7cb4fe7d72dbb76ecd9fbebe3f1804677a6970b38b8c8d8e8f909192afb0b7"
+      "wire": "438765a9a967beeabf438340c88f5a94a38af2982036b4e0620090c314d0a2618cdab5d15c891208228258658c003f5b8bf9adceebfd44f8be517c7f4084e99954dd04414b414d4a8cb53d3326a5ce8119654411ff4c94fcae9ca6401bc54e3100a0c30cd0226288dab5d19c925495e3db57c996f2979d7e1cdbc7cb8fd3ae39f3e79e7fbebe7f1904677a6970b38b8c8d8e8f909192afb0b7"
     },
     {
-      "seqno": 121,
       "headers": [
         {
           ":status": "304"
@@ -5460,11 +5217,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "3b8240a7a10992a2fba2025878697018918121a46d54c13d0e3f1084ddeb9c320a8dd50dd2a2a24a929aeaac9a3abf0a8ea2cab1bf2bf7e71f7f7d3ae6907f008ae91e17fa4318571eef5f074153502e4e45540f8336295f898a8b8c8d8e8f9091"
+      "wire": "c9a14994d6dbb2986437cf8dc6201230a26129a18cdab5d17f1184dfd5cbc74a8ef82f7c4850c10c1052aa4660f87f4a8dd6c560dc5bc1d9bc3c369e37c3408ae99af6f35e0ba736febf074153502e4e45544f83296187898a8b8c8d8e8f9091"
     },
     {
-      "seqno": 122,
       "headers": [
         {
           ":status": "204"
@@ -5473,11 +5228,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0782314f8283848586878889a6a8bb"
+      "wire": "c88283848586878889a6a8bb"
     },
     {
-      "seqno": 123,
       "headers": [
         {
           ":status": "200"
@@ -5513,11 +5266,9 @@
           "p3p": "policyref=\"http://www.imrworldwide.com/w3c/p3p.xml\", CP=\"NOI DSP COR NID PSA ADM OUR IND UNI NAV COM\""
         }
       ],
-      "header_table_size": 4096,
-      "wire": "c70584bb859774a8a19f0088fcc21846fe56738787cecb617e99ec310e92771d220120ec85404c6240a5688b44427a1d9e9f1cd5c2fe5655eb8c37ecd5c73cf06ebd7e9e9e92596e3e97e3cabf4b2b84955f6ebf4455af0461274b796a883afe5b3578f97787653f20ebf2f9878f7f607ca9da1b7b280f2fa7cc3bfc7b03e9e3de1e3b7ea1d7e546af86"
+      "wire": "c74584baa65dd3a8a19f4088f65aefcc9b19c97f87732d5b78ba720f4e94a2be394c026d0b5186596030c53004c006d5ae8f9e9f5cd2bdb6315d705f09fe15b9d7cc73f3e7cdf65b8736e1653cd94adf536d3f3428f7a2f7fa5b67c329bbbca7f86cf1f0368dbe46eef1fb9b678683796dce6cfa359bc7cfee6f0d9a0de7b3c0db33fe0ddde3afe186"
     },
     {
-      "seqno": 124,
       "headers": [
         {
           ":status": "200"
@@ -5547,11 +5298,9 @@
           "server": "QS"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "9811a1c31b39bf3844175f1d4fab8c220baf8f2cefc6110618dfd3d63c61cdfcacadf9c30393eec6c880521b74e004c996046d1168884f43bf090233350702515385868788a4a5a6"
+      "wire": "9851a1bf06724b9794d7373292aad794d737362e6e0bca6bf06f4eb9b05f24d8ca52e5ff4394d383329820367e3518658e43094c013001b56ba3490233354702515385868788a4a5a6"
     },
     {
-      "seqno": 125,
       "headers": [
         {
           ":status": "200"
@@ -5593,11 +5342,9 @@
           "pragma": "no-cache"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "921092f385710190783ee031148131aa26a0427a1d0091e91d57dd9c2ece3cfd708477e19d97dd9786bafcaeb37eff3192771d220120f1bf9818918125a8168b027a1d0692f38571013036e1881888811352868884f43b3f3c8cdb5550c338fb6eaafaecbb873b8429566a1f0aaac31b39bf3844175f1d4fab8c220baf8ea7d5c61b298671f5df7fe6c84418637f4f58f18737f2b2b7e70f08869fbbb759c83f898b8ca4b7"
+      "wire": "925094fcae9ca62137cd3718802030cb34233200dab5d14090e9994db9cbb9d99dd6f5e66dee636ec786b9b8dcce1c3f7194a2be394c026d8de46201230c132026094dab5d1f4694fcae9ca6194d9efc0c40006119a044c006d5ae8f7f3d8bcea52ef766efb94da597557b8418a428434aa9bf06724b9794d7373292aad794d7373292aad73ed5bb37735becc5e535f837a75cd82f926c652972ff4886d5a7bce4f87f898b8ca4b7"
     },
     {
-      "seqno": 126,
       "headers": [
         {
           ":status": "200"
@@ -5633,11 +5380,9 @@
           "server": "GFE/2.0"
         }
       ],
-      "header_table_size": 4096,
       "wire": "849a"
     },
     {
-      "seqno": 127,
       "headers": [
         {
           ":status": "204"
@@ -5670,10 +5415,9 @@
           "pragma": "no-cache"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "92849a0592a2fba20120f07dc04c60808b445a2213d0efb80b0130af04b1c31b39bf3844175f1d4fab8c220baf8ea7d5c61b298671f5df7fe6c844175f1e59df8c220c31bfa7ac78c39bf9595bf38784858688898a8b8d94"
+      "wire": "92849a4594d6dbb29804df34dc6196503004c013001b56ba3fb84b0130af44b0bf06724b9794d7373292aad794d7373292aad73ed5bb37735becc5e535cdcd8b9b82f29afc1bd3ae6c17c9363294b97f84858688898a8b8d94"
     }
   ],
-  "description": "twitter/hpack 117e759",
+  "description": "twitter/hpack",
   "context": "response"
 }

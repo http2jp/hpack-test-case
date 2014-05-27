@@ -1,8 +1,7 @@
 {
-  "draft": 5,
+  "draft": 7,
   "cases": [
     {
-      "seqno": 0,
       "headers": [
         {
           ":method": "GET"
@@ -32,11 +31,9 @@
           "connection": "keep-alive"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "82870385f2f2225ba7873dbeef6faa96b405042f47faef4254c8b619f5747c19115f477a13d1f4f0e8fdf418a4afaba1fcfd86a485ff7d1ee14f2681ca6294c53747053c716f981a921717af88f9c4338e8be9439cb5251153581e79c745ffcf3d17d287396a4a22a6b03cf45f5795a5259d3fd07f5d5e569495ff168b164bf8f0e91675795a5251168acbd54ee9e8c0715a223f00874b58c14c54d67f87e422e950b5731f"
+      "wire": "82874385fe7f1f536d877eb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f058b072fa38f5badb32a6fbec6292e636e3f4add6d9fe74b6cca9befb18a4b98db8fd2db3b3f9383f2e5fecffdf67f2707e4f578c5dd9bcf6e55ddd9fc9c1f87f578aabdd97e5352be1625cbf4087536eb96a731b7788f65aefcc9b19c97f"
     },
     {
-      "seqno": 1,
       "headers": [
         {
           ":method": "GET"
@@ -69,11 +66,9 @@
           "referer": "http://www.qq.com/"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "078ad11131328ab4c8896e9f07950db6d815a23218079791ca63862d5adbb68247332f069a5688c841cccba55a23210febabcad292be9fe83faeaf2b4a4a3f3e8dce3177b0036db627979112dd03888a8b"
+      "wire": "478ab52e17ea732da9f536df47973f3e7ccecb5352f13ff3f840247e0db2c6f3b56fdf755f469b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff7f008eadcebe639f9f3e6fff3f8fa9b69f888a8b"
     },
     {
-      "seqno": 2,
       "headers": [
         {
           ":method": "GET"
@@ -106,11 +101,9 @@
           "referer": "http://www.qq.com/"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "03950db6d815a23218079791ca63841b06adb9348e665f84"
+      "wire": "43963f3e7ccecb5352f13ff3f840247c5b8b6c6d4d7efbaa84"
     },
     {
-      "seqno": 3,
       "headers": [
         {
           ":method": "GET"
@@ -143,11 +136,9 @@
           "referer": "http://www.qq.com/"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "019c0db6d815a23218079791ca63862308ab9a161820d5c050f4e647332f82"
+      "wire": "419e3f3e7ccecb5352f13ff3f840247e0bc5cce49b0f4a464c569c155bf7dd5782"
     },
     {
-      "seqno": 4,
       "headers": [
         {
           ":method": "GET"
@@ -180,11 +171,9 @@
           "referer": "http://www.qq.com/"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "019e0db6d815a23218079791ca63862308ab9a161820d5dedc3d2fc8b411cccb82"
+      "wire": "41a03f3e7ccecb5352f13ff3f840247e0bc5cce49b0f4a464deda7aefa8217efbaaf82"
     },
     {
-      "seqno": 5,
       "headers": [
         {
           ":method": "GET"
@@ -217,11 +206,9 @@
           "referer": "http://www.qq.com/"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "01970db6d815a23218079791ca6382db929885aee310e4733282"
+      "wire": "41993f3e7ccecb5352f13ff3f840247b1b532e4d966e17c9fbeeab82"
     },
     {
-      "seqno": 6,
       "headers": [
         {
           ":method": "GET"
@@ -254,11 +241,9 @@
           "referer": "http://www.qq.com/"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "019a0db6d815a23218079791ca638215c90cf9351829991886264ac782"
+      "wire": "419c3f3e7ccecb5352f13ff3f8402474b3d9377d5a9a597542f8bf53387f82"
     },
     {
-      "seqno": 7,
       "headers": [
         {
           ":method": "GET"
@@ -291,11 +276,9 @@
           "referer": "http://www.qq.com/"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "01920e2de421fdb50b407db1442262148627187f08032a2f2a8389"
+      "wire": "41933fab7d967fa353624ff6e09c5c2f83e2ffae3f48032a2f2a8389"
     },
     {
-      "seqno": 8,
       "headers": [
         {
           ":method": "GET"
@@ -328,11 +311,9 @@
           "referer": "http://www.qq.com/"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "02970db6d815a23218079791ca63868dbd4b1f98ed0239997f8a8283"
+      "wire": "42983f3e7ccecb5352f13ff3f840247b5bbd962f62f9e2fdf7558a8283"
     },
     {
-      "seqno": 9,
       "headers": [
         {
           ":method": "GET"
@@ -365,10 +346,9 @@
           "referer": "http://www.qq.com/"
         }
       ],
-      "header_table_size": 4096,
-      "wire": "0c8a56991899455a6444b74f02990e60e526019f3301e73018d5018d5d2155469eca8f4938bb2f838e"
+      "wire": "4c8a65b50bf53996d4fa9b6f42993f23dec5627af909ca01388c67119223c718c12c6513feb7d5838e"
     }
   ],
-  "description": "twitter/hpack 117e759",
+  "description": "twitter/hpack",
   "context": "request"
 }
