@@ -1,0 +1,60 @@
+{
+  "cases": [
+    {
+      "header_table_size": 4096,
+      "headers": [
+        {
+          ":method": "GET"
+        },
+        {
+          ":scheme": "http"
+        },
+        {
+          ":authority": "yahoo.co.jp"
+        },
+        {
+          ":path": "/"
+        }
+      ],
+      "wire": "82870388ea9adad7d4d7fd6f86"
+    },
+    {
+      "header_table_size": 4096,
+      "headers": [
+        {
+          ":method": "GET"
+        },
+        {
+          ":scheme": "http"
+        },
+        {
+          ":authority": "www.yahoo.co.jp"
+        },
+        {
+          ":path": "/"
+        }
+      ],
+      "wire": "048ce7cf9bfd535b5afa9affadff"
+    },
+    {
+      "header_table_size": 4096,
+      "headers": [
+        {
+          ":method": "GET"
+        },
+        {
+          ":scheme": "http"
+        },
+        {
+          ":authority": "k.yimg.jp"
+        },
+        {
+          ":path": "/images/top/sp2/cmn/logo-ns-130528.png"
+        }
+      ],
+      "wire": "0488f67fab2da9ff5bff019a3b2d4d4bc4ee6de7c6f23aadb8f636a6e6bb1cc28084a47efbaa81"
+    }
+  ],
+  "description": "Encoded by hyper. See github.com/Lukasa/hyper for more information.",
+  "draft": 7
+}
