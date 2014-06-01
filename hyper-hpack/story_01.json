@@ -1,0 +1,57 @@
+{
+  "cases": [
+    {
+      "header_table_size": 4096,
+      "headers": [
+        {
+          ":scheme": "https"
+        },
+        {
+          ":authority": "example.com"
+        },
+        {
+          ":path": "/"
+        },
+        {
+          ":method": "GET"
+        },
+        {
+          "user-agent": "hpack-test"
+        },
+        {
+          "cookie": "xxxxxxx1"
+        },
+        {
+          "x-hello": "world"
+        }
+      ],
+      "wire": "8702885f44db7d8b7d4db785840f2e88aef4abdb33978bbf0f1487e9d3a74e9d3a0f4086e99ab5d9637f84e6dc2ca7"
+    },
+    {
+      "header_table_size": 4096,
+      "headers": [
+        {
+          ":scheme": "https"
+        },
+        {
+          ":authority": "example.com"
+        },
+        {
+          ":path": "/"
+        },
+        {
+          ":method": "GET"
+        },
+        {
+          "user-agent": "hpack-test"
+        },
+        {
+          "cookie": "xxxxxxx2"
+        }
+      ],
+      "wire": "05885f44db7d8b7d4db70f2f88aef4abdb33978bbf0f1587e9d3a74e9d3a1781"
+    }
+  ],
+  "description": "Encoded by hyper. See github.com/Lukasa/hyper for more information.",
+  "draft": 7
+}
