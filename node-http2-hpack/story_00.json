@@ -41,7 +41,7 @@
     },
     {
       "seqno": 2,
-      "wire": "4088993c5d5b7063baff88f67fab2da9ff5bff439a3b2d4d4bc4ee6de7c6f23aadb8f636a6e6bb1cc28084a47efbaa8384",
+      "wire": "4188f67fab2da9ff5bff039a3b2d4d4bc4ee6de7c6f23aadb8f636a6e6bb1cc28084a47efbaa8283",
       "headers": [
         {
           ":method": "GET"
