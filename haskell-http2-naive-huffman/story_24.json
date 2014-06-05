@@ -1,7 +1,6 @@
 {
     "cases": [
         {
-            "header_table_size": 4096,
             "seqno": 0,
             "wire": "3000859b1725dc718240170089536e72ee766775bd7f9572fa38f5badb3b0caad3862b74ecc5b9a49219730f0087536eb96a731b7784558dc57f0086b1aa4b98dbbf9badcebe639f9f3e6fab04b2ac6c662e7db85474ef6f171f1639789f008d7609bb1e0bc332ee536965d57f86557c6ef65d3f0083a52e5f94da97653020db1bc8c40246144c8826188dab5d1f0085c578725e1f85cf7a555aff",
             "headers": [
