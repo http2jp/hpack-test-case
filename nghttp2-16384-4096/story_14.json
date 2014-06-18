@@ -3,7 +3,7 @@
     {
       "header_table_size": 16384, 
       "seqno": 0, 
-      "wire": "2ff11f82874388c59725f536d7d577877eb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f058b072fa38f5badb32a6fbec6292e636e3f4add6d9fe74b6cca9befb18a4b98db8fd2db3b3f9383f2e5fecffdf67f2707e4f578c5dd9bcf6e55ddd9fc9c1f87f578aabdd97e5352be1625cbf4087536eb96a731b7788f65aefcc9b19c97f", 
+      "wire": "2ff11f8287438841aa1ae43d2b92af877ebcd07f66a281b0dae053fad0321aa49d13fda992a49685340c8a6adca7e28102ef7da9677b8171707f6a62293a9d810020004015309ac2ca7f2c05c5c158b0497ca589d34d1f43aeba0c41a4c7a98f33a69a3fdf9a68fa1d75d0620d263d4c79a68fbed00177febe58f9fbed00177b578b2d4b70ddf45abefb4005db97408721eaa8a4498f5788ea52d6b0e83772ff", 
       "headers": [
         {
           ":method": "GET"
@@ -36,7 +36,7 @@
     }, 
     {
       "seqno": 1, 
-      "wire": "478be7cf9bf8b2e4bea6dafaae88", 
+      "wire": "478bf1e3c2e835435c87a5725588", 
       "headers": [
         {
           ":method": "GET"
@@ -69,7 +69,7 @@
     }, 
     {
       "seqno": 2, 
-      "wire": "418cb97cf17f165c97d4db5f55df08963fae27923390090814072012193b9b770a1b7bfeb8ff46032a2f2a7f0091adcebe639f9f3e6fe2cb92fa9b6beab8ff84888a", 
+      "wire": "418ca8be10ba0d50d721e95c957f089763a21879d604008820134c0801105ebc7aa5de7ad7e88f46032a2f2a7f00919d29aee30c78f1e1741aa1ae43d2b92a6384888a", 
       "headers": [
         {
           ":method": "GET"
@@ -105,7 +105,7 @@
     }, 
     {
       "seqno": 3, 
-      "wire": "438f65ce7e9bdadb1fc59725f536d7d5770b913b2fb1adf6e379d97d8d6fb71bdfbebbff84", 
+      "wire": "438f35495e4ace7a1741aa1ae43d2b92af0b9060d5d073f5b6b60d5d073f5b6b5eb9eb84", 
       "headers": [
         {
           ":method": "GET"
@@ -141,7 +141,7 @@
     }, 
     {
       "seqno": 4, 
-      "wire": "4189621fc5972596d4faae0c9e3f2652b69c8048e22083f9c72043e43147a2820121104108c90a1ff5beaf449b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff8385", 
+      "wire": "4189332ba0d50cd4ccb92a0ca163b9a429d8100226021032c7075e037ac2e3b7f788011042064410bcdb2bf4ae6f449a352398ac5754df46a473158f9fbed00177bebe58f9fbed00176f8385", 
       "headers": [
         {
           ":method": "GET"
@@ -177,7 +177,7 @@
     }, 
     {
       "seqno": 5, 
-      "wire": "0d9c3d6db5672012388811fce20807c901a282012110212218227fd6fabf", 
+      "wire": "0d9f6273d256040089808402638380683ad905fde200441080411082d38bf4ae6f", 
       "headers": [
         {
           ":method": "GET"
@@ -213,7 +213,7 @@
     }, 
     {
       "seqno": 6, 
-      "wire": "0d973d6db567a56a69c80253821007b1b537756db56fd4ce1f", 
+      "wire": "0d986273d25624290ec08007d8032c818a0f31e29cf495798d2f", 
       "headers": [
         {
           ":method": "GET"
@@ -249,7 +249,7 @@
     }, 
     {
       "seqno": 7, 
-      "wire": "428aa45fc59725f536d7d5770e973e35d67b16aad371c80484062c59724f636a68bfeb7d5f83", 
+      "wire": "428a902ba0d50d721e95c9570e986113cec50524e3a98100220802e20d50d8a0f31c2bf4ae6f83", 
       "headers": [
         {
           ":method": "GET"
@@ -285,7 +285,7 @@
     }, 
     {
       "seqno": 8, 
-      "wire": "4189603f8b2e4b2da9f55d0f009d3d6db5672012388820fe724308f92034504024220808911a207fd6fabf82", 
+      "wire": "4189301741aa19a99972550f00a06273d25604008980840cb1c1e6db0eb6417f7880110420640e32eb2d2fd2b9bf82", 
       "headers": [
         {
           ":method": "GET"
@@ -321,7 +321,7 @@
     }, 
     {
       "seqno": 9, 
-      "wire": "418960bf8b2e4b2da9f55d0f019c3d6db5672012388809fce28a093c901a282012110118060413feb7d582", 
+      "wire": "4189305741aa19a99972550f019f6273d25604008980840163838e34f6b6417f7880110420085a0b4c897e95cd82", 
       "headers": [
         {
           ":method": "GET"
@@ -356,6 +356,6 @@
       ]
     }
   ], 
-  "draft": 7, 
+  "draft": 8, 
   "description": "Encoded by nghttp2. The basic encoding strategy is described in http://lists.w3.org/Archives/Public/ietf-http-wg/2013JulSep/1135.html We use huffman encoding only if it produces strictly shorter byte string than original. We make some headers not indexing at all, but this does not always result in less bits on the wire."
 }

@@ -3,7 +3,7 @@
     {
       "header_table_size": 16384, 
       "seqno": 0, 
-      "wire": "2ff11f82874388ea9adad7d4d7fd6f877eb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f058b072fa38f5badb32a6fbec6292e636e3f4add6d9fe74b6cca9befb18a4b98db8fd2db3b3f9383f2e5fecffdf67f2707e4f578c5dd9bcf6e55ddd9fc9c1f87f578aabdd97e5352be1625cbf4087536eb96a731b7788f65aefcc9b19c97f6992ed9e38bd42548c92a62ae0c9be7464c670df", 
+      "wire": "2ff11f82874388f439ce75c875fa57877ebcd07f66a281b0dae053fad0321aa49d13fda992a49685340c8a6adca7e28102ef7da9677b8171707f6a62293a9d810020004015309ac2ca7f2c05c5c158b0497ca589d34d1f43aeba0c41a4c7a98f33a69a3fdf9a68fa1d75d0620d263d4c79a68fbed00177febe58f9fbed00177b578b2d4b70ddf45abefb4005db97408721eaa8a4498f5788ea52d6b0e83772ff6992bb03ae7403e30bcf8dc9daf88e067e110023", 
       "headers": [
         {
           ":method": "GET"
@@ -39,7 +39,7 @@
     }, 
     {
       "seqno": 1, 
-      "wire": "488ce7cf9bfd535b5afa9affadff89", 
+      "wire": "488cf1e3c2fe8739ceb90ebf4aff89", 
       "headers": [
         {
           ":method": "GET"
@@ -75,7 +75,7 @@
     }, 
     {
       "seqno": 2, 
-      "wire": "4188f67fab2da9ff5bff09983b2d4d4bc4ee6de7c6f23aacc0e275598661210285f5638f478f72fa38eac71cbfd9ffbecfe4e0f8ff7f0191adcebe639f9f3e6ff54d6d6bea6bfeb79f8485898b", 
+      "wire": "4187eabfa35332fd2b099960d48e62a1849eb61158982516301609458b0441009b5c8847478e497ca582211f5f2c7cfdf6800b877f01929d29aee30c78f1e17f439ce75c875fa56c7f8485898b", 
       "headers": [
         {
           ":method": "GET"
@@ -111,7 +111,7 @@
     }, 
     {
       "seqno": 3, 
-      "wire": "0b903b2d4d4bc4ee6de7c6f3d8da9afd4ce1429b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff83", 
+      "wire": "0b9060d48e62a1849eb6115b141e63af31a5429a352398ac5754df46a473158f9fbed00177bebe58f9fbed00176f83", 
       "headers": [
         {
           ":method": "GET"
@@ -147,7 +147,7 @@
     }, 
     {
       "seqno": 4, 
-      "wire": "0cac3b2d4d4bc4fbdadf6c5cdc167536db5b71f1bd6a626c390091c2429770427de9bae5e07920e9241b85ff5bea", 
+      "wire": "0cad60d48e62a188ce7ea849ec2b043d349ea611594861d0c08011300784fc406d88c75545b1879af2f351057e95cd", 
       "headers": [
         {
           ":method": "GET"
@@ -183,7 +183,7 @@
     }, 
     {
       "seqno": 5, 
-      "wire": "448debea9e8a7faa6b6b5f535ff5bf0d823b5942032a2f2a888386", 
+      "wire": "448df5d07e48bfa1ce73ae43afd2bf0d8260e642032a2f2a888386", 
       "headers": [
         {
           ":method": "GET"
@@ -222,7 +222,7 @@
     }, 
     {
       "seqno": 6, 
-      "wire": "860ea23b2d4d4bc4fcd69756bc0f52ee5e09b0eec137637a705dcedd89d56378d38bf5338783818288", 
+      "wire": "860ea260d48e62a18f051a672d8c4c5a8b60e861360ea4563b0b52624304a0f6c885e634bf83818288", 
       "headers": [
         {
           ":method": "GET"
@@ -258,7 +258,7 @@
     }, 
     {
       "seqno": 7, 
-      "wire": "0ea03b2d4d4bc4fcd69756bc0f52ee5e09b0eec137637a705dcedd89f1e373f53387", 
+      "wire": "0ea060d48e62a18f051a672d8c4c5a8b60e861360ea4563b0b52624308b6a5e634bf", 
       "headers": [
         {
           ":method": "GET"
@@ -294,7 +294,7 @@
     }, 
     {
       "seqno": 8, 
-      "wire": "0eac3b2d4d4bc4fbdadf6c5cdc167536db5b71f1bd6a626c390091c2429770427de9bae5e07920e9241b89ff5bea", 
+      "wire": "0ead60d48e62a188ce7ea849ec2b043d349ea611594861d0c08011300784fc406d88c75545b1879af2f351097e95cd", 
       "headers": [
         {
           ":method": "GET"
@@ -330,7 +330,7 @@
     }, 
     {
       "seqno": 9, 
-      "wire": "0eaf3b2d4d4bc4f7e0bb59c6d3a9b739773b13efbb0390091e10e9081c25293762e6e0bdd8f1bd785c9771c1363feb7d5f", 
+      "wire": "0eaf60d48e62a18aec2d26b696087a925a928623aac604008986c1e5b03007c4f44849ec2c48b6b2d950d36d83a17e95cd", 
       "headers": [
         {
           ":method": "GET"
@@ -365,6 +365,6 @@
       ]
     }
   ], 
-  "draft": 7, 
+  "draft": 8, 
   "description": "Encoded by nghttp2. The basic encoding strategy is described in http://lists.w3.org/Archives/Public/ietf-http-wg/2013JulSep/1135.html We use huffman encoding only if it produces strictly shorter byte string than original. We make some headers not indexing at all, but this does not always result in less bits on the wire."
 }
