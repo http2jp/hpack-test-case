@@ -25,7 +25,7 @@
           "x-hello": "world"
         }
       ],
-      "wire": "8702885f44db7d8b7d4db785840f2e88aef4abdb33978bbf0f1487e9d3a74e9d3a0f4086e99ab5d9637f84e6dc2ca7"
+      "wire": "8702882f91d35d055c87a785840f2e879eb193aac92a130f1487f3e7cf9f3e7c874086f2b4e5a283ff84f07b2893"
     },
     {
       "header_table_size": 4096,
@@ -49,9 +49,9 @@
           "cookie": "xxxxxxx2"
         }
       ],
-      "wire": "05885f44db7d8b7d4db70f2f88aef4abdb33978bbf0f1587e9d3a74e9d3a1781"
+      "wire": "05882f91d35d055c87a70f2f879eb193aac92a130f1587f3e7cf9f3e7c8b81"
     }
   ],
   "description": "Encoded by hyper. See github.com/Lukasa/hyper for more information.",
-  "draft": 7
+  "draft": 8
 }

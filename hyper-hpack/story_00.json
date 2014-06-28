@@ -16,7 +16,7 @@
           ":path": "/"
         }
       ],
-      "wire": "82870388ea9adad7d4d7fd6f86"
+      "wire": "82870388f439ce75c875fa5786"
     },
     {
       "header_table_size": 4096,
@@ -34,7 +34,7 @@
           ":path": "/"
         }
       ],
-      "wire": "048ce7cf9bfd535b5afa9affadff"
+      "wire": "048cf1e3c2fe8739ceb90ebf4aff"
     },
     {
       "header_table_size": 4096,
@@ -52,9 +52,9 @@
           ":path": "/images/top/sp2/cmn/logo-ns-130528.png"
         }
       ],
-      "wire": "0488f67fab2da9ff5bff019a3b2d4d4bc4ee6de7c6f23aadb8f636a6e6bb1cc28084a47efbaa81"
+      "wire": "0487eabfa35332fd2b019b60d48e62a1849eb611589825353141e63ad52160b206c4f2f5d53781"
     }
   ],
   "description": "Encoded by hyper. See github.com/Lukasa/hyper for more information.",
-  "draft": 7
+  "draft": 8
 }
