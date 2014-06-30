@@ -2,7 +2,7 @@
     "cases": [
         {
             "seqno": 0,
-            "wire": "300784adcebf1f01885f44db7d8b7d4db704813f0283d5df470f2b88aef4abdb33978bbf0f1187e9d3a74e9d3a0f0086e99ab5d9637f84e6dc2ca7",
+            "wire": "3007849d29ad1f01882f91d35d055c87a70481630283c5837f0f2b879eb193aac92a130f1187f3e7cf9f3e7c870086f2b4e5a283ff84f07b2893",
             "headers": [
                 {
                     ":scheme": "https"
@@ -29,7 +29,7 @@
         },
         {
             "seqno": 1,
-            "wire": "300784adcebf1f01885f44db7d8b7d4db704813f0283d5df470f2b88aef4abdb33978bbf0f1187e9d3a74e9d3a17",
+            "wire": "3007849d29ad1f01882f91d35d055c87a70481630283c5837f0f2b879eb193aac92a130f1187f3e7cf9f3e7c8b",
             "headers": [
                 {
                     ":scheme": "https"
@@ -52,6 +52,6 @@
             ]
         }
     ],
-    "draft": 7,
+    "draft": 8,
     "description": "http2 in Haskell: StaticH - index=yes, reference set=no, huffman=yes"
 }

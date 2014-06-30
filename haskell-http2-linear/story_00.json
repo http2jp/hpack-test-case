@@ -55,6 +55,6 @@
             ]
         }
     ],
-    "draft": 7,
+    "draft": 8,
     "description": "http2 in Haskell: Linear - index=no, reference set=no, huffman=no"
 }

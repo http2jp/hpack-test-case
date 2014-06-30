@@ -2,7 +2,7 @@
     "cases": [
         {
             "seqno": 0,
-            "wire": "8742885f44db7d8b7d4db786857e88aef4abdb33978bbf6587e9d3a74e9d3a0f4086e99ab5d9637f84e6dc2ca7",
+            "wire": "8742882f91d35d055c87a786857e879eb193aac92a136587f3e7cf9f3e7c874086f2b4e5a283ff84f07b2893",
             "headers": [
                 {
                     ":scheme": "https"
@@ -29,7 +29,7 @@
         },
         {
             "seqno": 1,
-            "wire": "4287e9d3a74e9d3a178283",
+            "wire": "4287f3e7cf9f3e7c8b8283",
             "headers": [
                 {
                     ":scheme": "https"
@@ -52,6 +52,6 @@
             ]
         }
     ],
-    "draft": 7,
+    "draft": 8,
     "description": "http2 in Haskell: DiffH - index=yes, reference set=yes, huffman=yes"
 }

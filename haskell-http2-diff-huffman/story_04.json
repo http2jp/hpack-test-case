@@ -2,7 +2,7 @@
     "cases": [
         {
             "seqno": 0,
-            "wire": "82874387de9653c5f536df877eb9d6df7659624f0be06feb5a54cb9cdc6bec3785ce5d86d6951bc769bd0c20fc9d86c394c313e1f136a5abd9a720100101369660be0de87189f058b072fa38f5badb32a6fbec6292e636e3f4add6d9fe74b6cca9befb18a4b98db8fd2db3b3f9383f2e5fecffdf67f2707e4f578c5dd9bcf6e55ddd9fc9c1f87f578aabdd97e5352be1625cbf4087536eb96a731b7788f65aefcc9b19c97f",
+            "wire": "828743878c6692d5c87a7f877ebcd07f66a281b0dae053fad0321aa49d13fda992a49685340c8a6adca7e28102ef7da9677b8171707f6a62293a9d810020004015309ac2ca7f2c05c5c158b0497ca589d34d1f43aeba0c41a4c7a98f33a69a3fdf9a68fa1d75d0620d263d4c79a68fbed00177febe58f9fbed00177b578b2d4b70ddf45abefb4005db97408721eaa8a4498f5788ea52d6b0e83772ff",
             "headers": [
                 {
                     ":method": "GET"
@@ -35,7 +35,7 @@
         },
         {
             "seqno": 1,
-            "wire": "06893f04f2629b73ec537f86",
+            "wire": "06896251f7310f52e621ff86",
             "headers": [
                 {
                     ":method": "GET"
@@ -68,7 +68,7 @@
         },
         {
             "seqno": 2,
-            "wire": "478ae7cf9bfbd2ca78bea6db8788",
+            "wire": "478af1e3c2f18cd25ab90f4f8788",
             "headers": [
                 {
                     ":method": "GET"
@@ -101,7 +101,7 @@
         },
         {
             "seqno": 3,
-            "wire": "07903b2da8fbd2ca78eec7ad8da9a2fd4ce1459b65a9a967beeab2b2d4d4b3ff7d9fc9c1f932ff67fefb3f9383f0ff7e90adcebe639f9f3e6fef4b29e2fa9b69ff6ca5edcfe1a3cfc344fdb10a22cfdc21dfdbde19e4d3dda0862efed8a0ee83b873c3dd369d538f888a",
+            "wire": "079060d4ccc4633496c48f541e6385798d2f459a352398ac5754df46a473158f9fbed00177bebe58f9fbed00176f7e909d29aee30c78f1e178c6692d5c87a58f6ca4bb0e4bfc325f82eb8165c86f04182ee0042f61bd7c417305d71abcd5e0c2ddeb9871401f888a",
             "headers": [
                 {
                     ":method": "GET"
@@ -140,7 +140,7 @@
         },
         {
             "seqno": 4,
-            "wire": "0a913a92aad67aac6ef4d8765b51eac5fa99c3",
+            "wire": "0a91608324e5626a0f18e860d4ccc4c85e634b",
             "headers": [
                 {
                     ":method": "GET"
@@ -179,7 +179,7 @@
         },
         {
             "seqno": 5,
-            "wire": "448bc45fdf4e2e4b98a7d4db7f0b9f3e07e7cf99d49556b3d56377a6c3fae27726eab04db985f43f0285f07fd71f4484fecffdff838586",
+            "wire": "448a40578e442469311721e90b9f62c63c78f0c10649cac4d41e31d0c7443091d53583a560aecaed102b817e884483f963e7838586",
             "headers": [
                 {
                     ":method": "GET"
@@ -215,7 +215,7 @@
         },
         {
             "seqno": 6,
-            "wire": "0c993e07e7cf99d49556b3d56377a6c3fae27adb6af30bf23feb8f",
+            "wire": "0c9962c63c78f0c10649cac4d41e31d0c7443139e92ac15de5fa23",
             "headers": [
                 {
                     ":method": "GET"
@@ -251,7 +251,7 @@
         },
         {
             "seqno": 7,
-            "wire": "0c973e07e7cf99d49556b3f1c5781fd713f1cc2fa1f81ff5c7",
+            "wire": "0c9762c63c78f0c10649cac5a82d8c744316ac15d95da5fa23",
             "headers": [
                 {
                     ":method": "GET"
@@ -287,7 +287,7 @@
         },
         {
             "seqno": 8,
-            "wire": "0c903e07e7cf99d96d4766617c1f07efbaaf8581",
+            "wire": "0c9162c63c78f0c1a999832c15c0b817aea9bf8581",
             "headers": [
                 {
                     ":method": "GET"
@@ -323,7 +323,7 @@
         },
         {
             "seqno": 9,
-            "wire": "860c893f04f2629b73ec537f8a83828485",
+            "wire": "860c896251f7310f52e621ff8a83828485",
             "headers": [
                 {
                     ":method": "GET"
@@ -358,6 +358,6 @@
             ]
         }
     ],
-    "draft": 7,
+    "draft": 8,
     "description": "http2 in Haskell: DiffH - index=yes, reference set=yes, huffman=yes"
 }
