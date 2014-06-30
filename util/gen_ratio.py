@@ -61,13 +61,13 @@ if __name__ == '__main__':
     stories = list(stories)
     stories.sort()
 
-    overall = []
+    overall = {}
     for name in res:
         r = Stat(0, 0)
         for _, stat in res[name].items():
             r.srclen += stat.srclen
             r.complen += stat.complen
-        overall.append(r)
+        overall[name] = r
         maxnamelen = max(maxnamelen, len(format_result(r)))
 
     storynameformat = '|{{:{}}} |'.format(maxstorynamelen)
@@ -114,7 +114,7 @@ The each cell has X (Y/Z) format:
         sys.stdout.write('\n')
 
     sys.stdout.write(storynameformat.format('Overall'))
-    for r in overall:
-        sys.stdout.write(nameformat.format(format_result(r)))
+    for name in names:
+        sys.stdout.write(nameformat.format(format_result(overall[name])))
     sys.stdout.write('\n')
 
