@@ -90,4 +90,3 @@ https://github.com/http2jp/hpack-test-case/wiki/Compression-Ratio
 ## License
 
 The MIT License (MIT)
-Copyright (c) 2013, 2014 Jxck
