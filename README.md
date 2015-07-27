@@ -3,7 +3,7 @@
 ## Spec
 
 HPACK: Header Compression for HTTP/2
-http://tools.ietf.org/html/rfc7541
+https://tools.ietf.org/html/rfc7541
 
 
 ## Directory
