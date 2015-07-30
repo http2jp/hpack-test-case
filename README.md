@@ -1,8 +1,9 @@
 # hpack-test-case
 
-## Draft
+## Spec
 
-http://tools.ietf.org/html/draft-ietf-httpbis-header-compression
+HPACK: Header Compression for HTTP/2
+https://tools.ietf.org/html/rfc7541
 
 
 ## Directory
@@ -25,13 +26,12 @@ context. Each story is either series of requests or responses.
 
 Each json has:
 
-- draft:   HPACK draft version number of implementation.
 - description: general description of encoding strategy or implementation.
-- cases:   test cases.
+- cases: array of test cases.
   - seqno: a sequence number. 0 origin.
-   - header_table_size : the header table size sent in SETTINGS_HEADER_TABLE_SIZE and ACKed just before this case. The first case should contain this field. If omitted, the default value, 4,096, is used.
-  - wire:    encoded wire data in hex string.
-  - headers:  decoded http header in hash.
+  - header_table_size: the header table size sent in SETTINGS_HEADER_TABLE_SIZE and ACKed just before this case. The first case should contain this field. If omitted, the default value, 4,096, is used.
+  - wire: encoded wire data in hex string.
+  - headers: decoded http header in hash.
 
 To test the decoder implementation, for each story file, for each case
 in ```cases``` in the order they appear, decode compressed header
@@ -49,7 +49,6 @@ somewhere either encoder or decoder, or both.
 
 ```js
 {
-  "draft": 7,
   "description": "Encoded request headers with Literal without index only.",
   "cases": [
     {

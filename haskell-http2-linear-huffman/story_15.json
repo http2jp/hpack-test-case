@@ -352,6 +352,5 @@
             ]
         }
     ],
-    "draft": 9,
     "description": "http2 in Haskell: LinearH - static table=yes, header table=yes, huffman=yes"
 }
