@@ -2,7 +2,7 @@
   "context" : "request",
   "cases" : [
     {
-      "wire" : "82864188f439ce75c875fa5784",
+      "wire" : "8286410b7961686f6f2e636f2e6a7084",
       "seqno" : 0,
       "headers" : [
         {
@@ -21,7 +21,7 @@
       "header_table_size" : null
     },
     {
-      "wire" : "8286418cf1e3c2fe8739ceb90ebf4aff84",
+      "wire" : "8286410f7777772e7961686f6f2e636f2e6a7084",
       "seqno" : 1,
       "headers" : [
         {
@@ -40,7 +40,7 @@
       "header_table_size" : null
     },
     {
-      "wire" : "82864187eabfa35332fd2b449b60d48e62a1849eb611589825353141e63ad52160b206c4f2f5d537",
+      "wire" : "828641096b2e79696d672e6a7044262f696d616765732f746f702f7370322f636d6e2f6c6f676f2d6e732d3133303532382e706e67",
       "seqno" : 2,
       "headers" : [
         {
