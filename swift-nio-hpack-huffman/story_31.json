@@ -4785,5 +4785,6 @@
       ],
       "header_table_size" : null
     }
-  ]
+  ],
+  "description" : "Encoded using the HPACK implementation of swift-nio-http2, with static table, dynamic table, and huffman encoded strings: <https:\/\/github.com\/apple\/swift-nio-http2>"
 }
